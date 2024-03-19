@@ -19,7 +19,7 @@ IPv6 especially enables exit nodes to randomize outgoing IP addresses within the
 Flat list of IP addresses.
 
 ## markdown format
-...coming soon...
+Markdown version of same IP addresses list.
 
 ## json format
 This format has more details about ip addresses:

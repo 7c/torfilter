@@ -2,9 +2,9 @@
 # TORFilter
 Last seen within 744 hours
 
-Count : 14319
+Count : 14315
 
-Generated: 2024-03-19T12:07:48.114Z
+Generated: 2024-03-19T12:13:52.566Z
 
 Those IPs are not guaranteed to be tor nodes, but they were seen as tor nodes within the last 744 hours. Use at your own risk, This is NOT a abuse feed, This feed is made for sitemasters to detect traffic from tor nodes, this is the only purpose of this feed
 
@@ -14326,8 +14326,4 @@ Those IPs are not guaranteed to be tor nodes, but they were seen as tor nodes wi
 | 193.106.196.85 | 4 | 1700349834 | 1708174994 | TR | Bursa | 48678 |  |
 | 18.231.114.91 | 4 | 1707775402 | 1708174928 | BR | São Paulo | 16509 | ec2-18-231-114-91.sa-east-1.compute.amazonaws.com |
 | 109.250.107.58 | 4 | 1708167628 | 1708174828 | DE | Lübbecke | 8881 | i6DFA6B3A.versanet.de |
-| 98.128.205.61 | 4 | 1705370095 | 1708171936 | SE | Stockholm | 8473 | h-98-128-205-61.A980.priv.bahnhof.se |
-| 79.201.251.12 | 4 | 1708010200 | 1708171780 | DE | Buxtehude | 3320 |  |
-| 65.21.53.234 | 4 | 1698697700 | 1708171753 | FI | Helsinki | 24940 | relay.archworks.co |
-| 47.236.233.16 | 4 | 1703276236 | 1708171707 | SG |  | 45102 |  |
 

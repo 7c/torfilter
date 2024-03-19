@@ -2,9 +2,9 @@
 # TORFilter
 Last seen within 72 hours
 
-Count : 8803
+Count : 8798
 
-Generated: 2024-03-19T12:07:48.114Z
+Generated: 2024-03-19T12:13:52.566Z
 
 Those IPs are not guaranteed to be tor nodes, but they were seen as tor nodes within the last 72 hours. Use at your own risk, This is NOT a abuse feed, This feed is made for sitemasters to detect traffic from tor nodes, this is the only purpose of this feed
 
@@ -8809,9 +8809,4 @@ Those IPs are not guaranteed to be tor nodes, but they were seen as tor nodes wi
 | 173.66.77.49 | 4 | 1710061298 | 1710594095 | US | Falls Church | 701 | pool-173-66-77-49.washdc.fios.verizon.net |
 | 144.24.163.104 | 4 | 1698438525 | 1710594059 | DE | Frankfurt am Main | 31898 |  |
 | 109.250.171.52 | 4 | 1709866828 | 1710594028 | DE | Pforzheim | 8881 | i6DFAAB34.versanet.de |
-| 196.189.30.114 | 4 | 1699431849 | 1710591027 | ET | Addis Ababa | 24757 |  |
-| 77.48.28.204 | 4 | 1698437945 | 1710591026 | CZ | Cheb | 16019 | 204.28.48.77.finalhosting.cz |
-| 89.176.204.58 | 4 | 1710076115 | 1710590926 | CZ | Prague | 16019 | ip-89-176-204-58.bb.vodafone.cz |
-| 88.134.139.6 | 4 | 1704558532 | 1710590920 | DE | Hamburg | 3209 | ip58868b06.dynamic.kabel-deutschland.de |
-| 83.9.147.202 | 4 | 1710518912 | 1710590905 | PL | Warsaw | 5617 | accx202.neoplus.adsl.tpnet.pl |
 
