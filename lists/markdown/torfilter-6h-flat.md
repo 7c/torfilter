@@ -1,12 +1,12 @@
 
 # TORFilter
-Last seen within 12 hours
+Last seen within 6 hours
 
-Count : 1977
+Count : 1969
 
 Generated: 2024-03-20T13:02:20.732Z
 
-Those IPs are not guaranteed to be tor nodes, but they were seen as tor nodes within the last 12 hours. Use at your own risk, This is NOT a abuse feed, This feed is made for sitemasters to detect traffic from tor nodes, this is the only purpose of this feed
+Those IPs are not guaranteed to be tor nodes, but they were seen as tor nodes within the last 6 hours. Use at your own risk, This is NOT a abuse feed, This feed is made for sitemasters to detect traffic from tor nodes, this is the only purpose of this feed
 
 
 | ip | ipversion | firstseen | lastseen | continentcode | countrycode | city | ASN | rdns |
@@ -1980,12 +1980,4 @@ Those IPs are not guaranteed to be tor nodes, but they were seen as tor nodes wi
 | 193.169.245.44 | 4 | 1701181084 | 1710921724 | EU | NL | Dronten | 42159 | 193.169.245.44.deltahost-ptr |
 | 174.129.90.101 | 4 | 1710921697 | 1710921697 | NA | US | Ashburn | 14618 | ec2-174-129-90-101.compute-1.amazonaws.com |
 | 44.195.58.118 | 4 | 1710918180 | 1710918180 | NA | US | Ashburn | 14618 | ec2-44-195-58-118.compute-1.amazonaws.com |
-| 91.235.234.238 | 4 | 1710357176 | 1710914479 | EU | EE | Tallinn | 62005 | mta0.tcell-tj.com |
-| 141.98.168.146 | 4 | 1710339074 | 1710914478 | NA | US | Secaucus | 44477 | vm2202078.stark-industries.solutions |
-| 100.25.90.213 | 4 | 1710910878 | 1710910878 | NA | US | Ashburn | 14618 | ec2-100-25-90-213.compute-1.amazonaws.com |
-| 77.72.85.119 | 4 | 1710357169 | 1710910874 | EU | EE | Tallinn |  | mta0.gsp78.com |
-| 46.195.215.24 | 4 | 1710645165 | 1710907268 | EU | SE | Hyltebruk | 2119 | c-2ec3d718-74736162.cust.telenor.se |
-| 35.174.54.53 | 4 | 1710903790 | 1710903790 | NA | US | Ashburn | 14618 | ec2-35-174-54-53.compute-1.amazonaws.com |
-| 44.221.39.147 | 4 | 1710900187 | 1710900187 | NA | US | Ashburn | 14618 | ec2-44-221-39-147.compute-1.amazonaws.com |
-| 54.224.116.252 | 4 | 1710896596 | 1710896596 | NA | US | Ashburn | 14618 | ec2-54-224-116-252.compute-1.amazonaws.com |
 

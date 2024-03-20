@@ -16,10 +16,16 @@ IPv6 especially enables exit nodes to randomize outgoing IP addresses within the
 
 # Formats
 ## txt format
-Flat list of IP addresses.
+Flat list of IP addresses. For example:
+
+[torfilter-1h-flat](lists/txt/torfilter-1h-flat.txt)
 
 ## markdown format
-Markdown version of same IP addresses list.
+Markdown version of same IP addresses list. For example:
+
+[torfilter-1h-flat](lists/markdown/torfilter-1h-flat.md)
+
+
 
 ## json format
 This format has more details about ip addresses:
@@ -31,6 +37,7 @@ This format has more details about ip addresses:
       "firstseen": 1648437978,
       "lastseen": 1710594950,
       "countrycode": "..",
+      "continentcode": "SA",
       "city": "N....",
       "ASN": 2x0xx,
       "rdns": "tor-exit....."
