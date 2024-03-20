@@ -2,9 +2,9 @@
 # TORFilter
 Last seen within 168 hours
 
-Count : 9434
+Count : 9430
 
-Generated: 2024-03-20T12:04:41.066Z
+Generated: 2024-03-20T12:27:57.998Z
 
 Those IPs are not guaranteed to be tor nodes, but they were seen as tor nodes within the last 168 hours. Use at your own risk, This is NOT a abuse feed, This feed is made for sitemasters to detect traffic from tor nodes, this is the only purpose of this feed
 
@@ -858,12 +858,12 @@ Those IPs are not guaranteed to be tor nodes, but they were seen as tor nodes wi
 | 77.220.196.253 | 4 | 1698437974 | 1710936032 | BG | Pernik | 45007 |  |
 | 81.16.33.42 | 4 | 1698437974 | 1710936032 | AT |  | 13022 | www.tor-exitnode-read-this-html.epizy.com |
 | 89.185.85.140 | 4 | 1698437975 | 1710936032 | DE | Frankfurt am Main | 210644 | tor.node11.shadowbrokers.eu |
-| 51.195.91.124 | 4 | 1698437972 | 1710936031 | FR |  | 16276 | vps-6e347eaa.vps.ovh.net |
 | 87.118.122.30 | 4 | 1698437972 | 1710936031 | DE | Garching | 31103 | this-is-a-tor-exit-node---keywebtor2.artikel5ev.de |
 | 209.141.54.203 | 4 | 1698437973 | 1710936031 | US | Las Vegas | 53667 | apollo.pabu.co |
 | 23.184.48.128 | 4 | 1698437972 | 1710936031 | US | Liberty Lake | 210630 | tor.node4.shadowbrokers.eu |
 | 37.228.129.63 | 4 | 1698437973 | 1710936031 | FI |  | 200651 |  |
 | 5.196.95.34 | 4 | 1698437972 | 1710936031 | FR |  | 16276 | ns376762.ip-5-196-95.eu |
+| 51.195.91.124 | 4 | 1698437972 | 1710936031 | FR |  | 16276 | vps-6e347eaa.vps.ovh.net |
 | 93.95.228.205 | 4 | 1698437973 | 1710936031 | IS | Reykjavik | 44925 | tor-exit.readme.toroncampus.org |
 | 94.142.244.16 | 4 | 1698437973 | 1710936031 | NL | Amsterdam | 8283 | tor-exit.vrij-heid.nl |
 | 171.25.193.77 | 4 | 1698437969 | 1710936031 | SE |  | 198093 | tor-exit-read-me.dfri.se |
@@ -2370,7 +2370,6 @@ Those IPs are not guaranteed to be tor nodes, but they were seen as tor nodes wi
 | 92.192.160.49 | 4 | 1709723357 | 1710677329 | DE | Bergheim | 20676 | port-92-192-160-49.dynamic.as20676.net |
 | 92.204.40.241 | 4 | 1698439033 | 1710677329 | FR | Strasbourg | 8972 | kreta1093.startdedicated.com |
 | 92.205.129.7 | 4 | 1698439034 | 1710677329 | FR | Strasbourg | 21499 | 7.129.205.92.host.secureserver.net |
-| 92.104.160.187 | 4 | 1699799737 | 1710677328 | CH | Koblenz | 3303 | 187.160.104.92.dynamic.wline.res.cust.swisscom.ch |
 | 92.106.53.87 | 4 | 1708628939 | 1710677328 | CH | Solothurn | 3303 | 87.53.106.92.dynamic.wline.res.cust.swisscom.ch |
 | 92.116.143.203 | 4 | 1709622719 | 1710677328 | DE | Wiesbaden | 8881 | i5C748FCB.versanet.de |
 | 91.63.232.131 | 4 | 1702358262 | 1710677328 | DE | Olpe | 3320 | p5b3fe883.dip0.t-ipconnect.de |
@@ -2383,6 +2382,7 @@ Those IPs are not guaranteed to be tor nodes, but they were seen as tor nodes wi
 | 91.89.218.178 | 4 | 1698439032 | 1710677328 | DE | Freiburg im Breisgau | 3209 | ip-091-089-218-178.um28.pools.vodafone-ip.de |
 | 91.92.244.14 | 4 | 1708024679 | 1710677328 | BG |  | 34368 |  |
 | 91.92.246.139 | 4 | 1707002660 | 1710677328 | BG |  | 34368 |  |
+| 92.104.160.187 | 4 | 1699799737 | 1710677328 | CH | Koblenz | 3303 | 187.160.104.92.dynamic.wline.res.cust.swisscom.ch |
 | 91.229.132.69 | 4 | 1703456801 | 1710677327 | HK | Hong Kong | 61112 |  |
 | 91.231.182.136 | 4 | 1698439031 | 1710677327 | UA | Kyiv | 203394 | 82467.vps.hostiko.network |
 | 91.233.116.51 | 4 | 1698439031 | 1710677327 | KG | Bishkek | 51765 | server-91-233-116-51.creanova.org |
@@ -3557,7 +3557,6 @@ Those IPs are not guaranteed to be tor nodes, but they were seen as tor nodes wi
 | 51.68.155.201 | 4 | 1698438938 | 1710677243 | PL | Warsaw | 16276 | ns3129874.ip-51-68-155.eu |
 | 51.68.185.82 | 4 | 1698686840 | 1710677243 | DE |  | 16276 |  |
 | 51.68.197.220 | 4 | 1698438938 | 1710677243 | FR |  | 16276 | vps-3e661acc.vps.ovh.net |
-| 51.195.41.1 | 4 | 1702131246 | 1710677242 | FR |  | 16276 | tority.xonumi.com |
 | 51.210.103.252 | 4 | 1698438934 | 1710677242 | FR |  | 16276 | vps42.geekcorp.fr |
 | 51.210.148.166 | 4 | 1698438935 | 1710677242 | FR |  | 16276 | vps-c51e5b87.vps.ovh.net |
 | 51.210.181.252 | 4 | 1700669769 | 1710677242 | FR |  | 16276 | turn.yolovision-inc.com |
@@ -3571,6 +3570,7 @@ Those IPs are not guaranteed to be tor nodes, but they were seen as tor nodes wi
 | 51.178.82.201 | 4 | 1699554660 | 1710677242 | FR | Paris | 16276 | vps-1f2a1659.vps.ovh.net |
 | 51.195.121.102 | 4 | 1698438934 | 1710677242 | FR |  | 16276 | ip102.ip-51-195-121.eu |
 | 51.195.152.241 | 4 | 1698438934 | 1710677242 | FR |  | 16276 |  |
+| 51.195.41.1 | 4 | 1702131246 | 1710677242 | FR |  | 16276 | tority.xonumi.com |
 | 51.159.173.112 | 4 | 1705293814 | 1710677241 | FR | Paris | 12876 | 112-173-159-51.instances.scw.cloud |
 | 51.159.181.146 | 4 | 1698438932 | 1710677241 | FR | Paris | 12876 | c751df96-bf37-4917-9041-1f0ba079f2ae.pub.instances.scw.cloud |
 | 51.159.186.85 | 4 | 1698438932 | 1710677241 | FR | Paris | 12876 | eu.colincogle.name |
@@ -5120,8 +5120,6 @@ Those IPs are not guaranteed to be tor nodes, but they were seen as tor nodes wi
 | 2a01:4f8:211:cc::2 | 6 | 1698438796 | 1710677105 | DE |  | 24940 | eos-seed-de.privex.io |
 | 2a01:4f8:211:1c94::77 | 6 | 1699576034 | 1710677105 | DE |  | 24940 | proxy.sdinet.de |
 | 2a01:4f8:211:1d41::2 | 6 | 1698438796 | 1710677105 | DE |  | 24940 |  |
-| 2a01:4f8:200:82ca::2 | 6 | 1698438794 | 1710677104 | DE |  | 24940 |  |
-| 2a01:4f8:201:34d0::2 | 6 | 1698438795 | 1710677104 | DE |  | 24940 |  |
 | 2a01:4f8:190:7385::2 | 6 | 1698438794 | 1710677104 | DE | Tuttlingen | 24940 |  |
 | 2a01:4f8:190:73a4::2 | 6 | 1698438794 | 1710677104 | DE | Tuttlingen | 24940 |  |
 | 2a01:4f8:191:602a::2 | 6 | 1698438794 | 1710677104 | DE | Tuttlingen | 24940 |  |
@@ -5135,6 +5133,8 @@ Those IPs are not guaranteed to be tor nodes, but they were seen as tor nodes wi
 | 2a01:4f8:200:4423::2 | 6 | 1698438794 | 1710677104 | DE |  | 24940 |  |
 | 2a01:4f8:200:53cc::2 | 6 | 1698438794 | 1710677104 | DE |  | 24940 |  |
 | 2a01:4f8:200:80b6::2 | 6 | 1698438794 | 1710677104 | DE |  | 24940 |  |
+| 2a01:4f8:200:82ca::2 | 6 | 1698438794 | 1710677104 | DE |  | 24940 |  |
+| 2a01:4f8:201:34d0::2 | 6 | 1698438795 | 1710677104 | DE |  | 24940 |  |
 | 2a01:4f8:161:93f2::2 | 6 | 1703707982 | 1710677103 | DE |  | 24940 | mail.nmhost.link |
 | 2a01:4f8:162:72e9:aaaa:bbbb:4242:253 | 6 | 1698438793 | 1710677103 | DE |  | 24940 |  |
 | 2a01:4f8:171:501::2 | 6 | 1698438793 | 1710677103 | DE |  | 24940 |  |
@@ -9441,8 +9441,4 @@ Those IPs are not guaranteed to be tor nodes, but they were seen as tor nodes wi
 | 81.44.115.68 | 4 | 1710292593 | 1710335309 | ES | Madrid | 3352 | 68.red-81-44-115.dynamicip.rima-tde.net |
 | 52.201.35.174 | 4 | 1710331950 | 1710335270 | US | Ashburn | 14618 | ec2-52-201-35-174.compute-1.amazonaws.com |
 | 194.87.31.201 | 4 | 1705496892 | 1710334978 | NL | Amsterdam | 207713 |  |
-| 191.101.31.46 | 4 | 1709478838 | 1710331831 | FR | Paris | 174 |  |
-| 79.207.73.226 | 4 | 1710324480 | 1710331687 | DE | Bad Homburg | 3320 | p4fcf49e2.dip0.t-ipconnect.de |
-| 69.181.125.177 | 4 | 1708128453 | 1710331672 | US | San Jose | 7922 | c-69-181-125-177.hsd1.ca.comcast.net |
-| 54.166.151.130 | 4 | 1710328353 | 1710331655 | US |  | 14618 | ec2-54-166-151-130.compute-1.amazonaws.com |
 
