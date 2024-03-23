@@ -5,9 +5,20 @@ The TOR network's exit nodes are monitored and listed for abuse prevention reaso
 # Feed
 We source our data from `https://www.dan.me.uk/tornodes`, `https://check.torproject.org/torbulkexitlist` (a TOR project feed), and from other automated research projects.
 
+# Charts
+we generate different charts about available data in this repo. For example `counts-1h` shows the number of IPs updated in the last hour. This means if you took this list as base you can see how many IPs you would have inside. 
+
+![counts-1h](https://torfilter.com/img/chart-counts-1h.png)
+
+![counts-6h](https://torfilter.com/img/chart-counts-6h.png)
+
+![counts-1d](https://torfilter.com/img/chart-counts-1d.png)
+
+![counts-1w](https://torfilter.com/img/chart-counts-1w.png)
+
 # Types
 ## flat
-One IP (IPv4 or IPv6) per line.
+One IP (IPv4 or IPv6) per line. (current)
 
 ## cidr
 ...coming soon...
