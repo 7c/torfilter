@@ -1,8 +1,8 @@
 # TorFilter
 ## Last seen within 1 hours
 ## Count : 1903
-## Generated: 1725415206
-## Generated Unixtime: 2024-09-04T02:00:06.381Z
+## Generated: 1725418807
+## Generated Unixtime: 2024-09-04T03:00:06.820Z
 ## Those IPs are not guaranteed to be tor nodes, but they were seen as tor nodes within the last 1 hours
 ## Use at your own risk
 ## This is NOT a abuse feed, This feed is made for sitemasters to detect traffic from tor nodes, this is the only purpose of this feed
@@ -1901,15 +1901,15 @@
 144.172.118.55
 23.236.122.62
 77.48.28.204
-202.94.246.210
 121.78.28.175
+202.94.246.210
 51.178.45.216
 91.203.144.194
 185.141.147.129
-185.130.44.59
 107.189.8.16
 107.189.31.187
 107.189.3.148
+185.130.44.59
 107.189.3.94
 
 
