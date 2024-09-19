@@ -2,15 +2,20 @@
 # TORFilter
 Last seen within 72 hours
 
-Count : 2125
+Count : 2120
 
-Generated: 2024-09-19T19:00:08.072Z
+Generated: 2024-09-19T20:00:08.710Z
 
 Those IPs are not guaranteed to be tor nodes, but they were seen as tor nodes within the last 72 hours. Use at your own risk, This is NOT a abuse feed, This feed is made for sitemasters to detect traffic from tor nodes, this is the only purpose of this feed
 
 
 | ip | ipversion | firstseen | lastseen | continentcode | countrycode | city | ASN | rdns |
 |---|---|---|---|---|---|---|---|---|
+| 89.58.26.216 | 4 | 1698437927 | 1726776009 | EU | DE | Nuremberg | 197540 | NurembergTor78.quetzalcoatl-relays.org |
+| 80.67.167.81 | 4 | 1698437927 | 1726776009 | EU | FR | Paris | 2027 | nosoignons.cust.milkywan.net |
+| 198.98.51.189 | 4 | 1698437927 | 1726776009 | NA | US | Staten Island | 53667 | tor.teitel.net |
+| 192.42.116.187 | 4 | 1698437927 | 1726776009 | EU | NL |  | 1101 | 35.tor-exit.nothingtohide.nl |
+| 171.25.193.25 | 4 | 1698437927 | 1726776009 | EU | SE |  | 198093 | tor-exit-read-me.dfri.se |
 | 98.128.173.33 | 4 | 1712160208 | 1726769022 | EU | SE | Gothenburg | 8473 | h-98-128-173-33.A785.priv.bahnhof.se |
 | 96.66.15.152 | 4 | 1698437953 | 1726769022 | NA | US | Macomb | 7922 | 96-66-15-152-static.hfc.comcastbusiness.net |
 | 96.27.198.133 | 4 | 1698437977 | 1726769022 | NA | US | Sterling Heights | 12083 | d27-96-133-198.evv.wideopenwest.com |
@@ -78,7 +83,6 @@ Those IPs are not guaranteed to be tor nodes, but they were seen as tor nodes wi
 | 89.58.63.200 | 4 | 1707938694 | 1726769018 | EU | AT | Vienna | 197540 | 07.vie.exit.tor.loki.tel |
 | 89.58.41.251 | 4 | 1698437988 | 1726769018 | EU | DE | Nuremberg | 197540 | 03.nur.exit.tor.loki.tel |
 | 89.58.41.156 | 4 | 1698437929 | 1726769018 | EU | DE | Nuremberg | 197540 | NurembergTor79.quetzalcoatl-relays.org |
-| 89.58.26.216 | 4 | 1698437927 | 1726769018 | EU | DE | Nuremberg | 197540 | NurembergTor78.quetzalcoatl-relays.org |
 | 89.58.18.210 | 4 | 1700249624 | 1726769018 | EU | AT | Vienna | 197540 | 05.vie.exit.tor.loki.tel |
 | 89.37.95.34 | 4 | 1725195794 | 1726769018 | EU | ES | Madrid | 203020 |  |
 | 89.236.112.100 | 4 | 1698437935 | 1726769018 | EU | FI | Helsinki | 30798 | tor-jy.effi.org |
@@ -127,7 +131,6 @@ Those IPs are not guaranteed to be tor nodes, but they were seen as tor nodes wi
 | 80.78.26.122 | 4 | 1726239796 | 1726769015 | EU | SE |  | 39287 | 504e1a7a.host.njalla.net |
 | 80.78.25.97 | 4 | 1726239796 | 1726769015 | EU | SE |  | 39287 | 504e1961.host.njalla.net |
 | 80.67.172.162 | 4 | 1698437978 | 1726769015 | EU | FR |  | 20766 | algrothendieck.nos-oignons.net |
-| 80.67.167.81 | 4 | 1698437927 | 1726769015 | EU | FR | Paris | 2027 | nosoignons.cust.milkywan.net |
 | 80.241.60.207 | 4 | 1698437948 | 1726769015 | EU | DE | Berlin | 199118 | tor.mailbox.org |
 | 80.210.78.252 | 4 | 1698507203 | 1726769015 | EU | DK | Søborg | 203953 | x50d24efc.customers.hiper-net.dk |
 | 8.218.9.41 | 4 | 1725105801 | 1726769015 | AS | HK | Hong Kong | 45102 |  |
@@ -1382,7 +1385,6 @@ Those IPs are not guaranteed to be tor nodes, but they were seen as tor nodes wi
 | 198.98.52.24 | 4 | 1715014927 | 1726768935 | NA | US | Staten Island | 53667 | tor-exit-5 |
 | 198.98.51.52 | 4 | 1714946528 | 1726768934 | NA | US | Staten Island | 53667 | tor-exit-6 |
 | 198.98.51.249 | 4 | 1709270153 | 1726768934 | NA | US | Staten Island | 53667 | tor-exit-http-readme.hackb.2mpd.com |
-| 198.98.51.189 | 4 | 1698437927 | 1726768934 | NA | US | Staten Island | 53667 | tor.teitel.net |
 | 198.98.50.215 | 4 | 1714946528 | 1726768934 | NA | US | Staten Island | 53667 | tor-exit-7 |
 | 198.98.50.199 | 4 | 1698437949 | 1726768934 | NA | US | Staten Island | 53667 | tor-exit.cyberjake.xyz |
 | 198.98.48.35 | 4 | 1723114930 | 1726768934 | NA | US | Staten Island | 53667 | tor-exit-node.example.com |
@@ -1479,7 +1481,6 @@ Those IPs are not guaranteed to be tor nodes, but they were seen as tor nodes wi
 | 192.42.116.192 | 4 | 1698437937 | 1726768928 | EU | NL |  | 1101 | 2.tor-exit.nothingtohide.nl |
 | 192.42.116.191 | 4 | 1698437940 | 1726768928 | EU | NL |  | 1101 | 1.tor-exit.nothingtohide.nl |
 | 192.42.116.19 | 4 | 1698437957 | 1726768928 | EU | NL |  | 1101 | this-is-a-tor-exit-node-hviv119.hviv.nl |
-| 192.42.116.187 | 4 | 1698437927 | 1726768928 | EU | NL |  | 1101 | 35.tor-exit.nothingtohide.nl |
 | 192.42.116.186 | 4 | 1698437952 | 1726768928 | EU | NL |  | 1101 | 34.tor-exit.nothingtohide.nl |
 | 192.42.116.185 | 4 | 1698437968 | 1726768928 | EU | NL |  | 1101 | 33.tor-exit.nothingtohide.nl |
 | 192.42.116.184 | 4 | 1698437930 | 1726768928 | EU | NL |  | 1101 | 32.tor-exit.nothingtohide.nl |
@@ -1880,7 +1881,6 @@ Those IPs are not guaranteed to be tor nodes, but they were seen as tor nodes wi
 | 171.25.193.79 | 4 | 1698437940 | 1726768902 | EU | SE |  | 198093 | tor-exit-read-me.dfri.se |
 | 171.25.193.78 | 4 | 1698437964 | 1726768902 | EU | SE |  | 198093 | tor-exit-read-me.dfri.se |
 | 171.25.193.77 | 4 | 1698437969 | 1726768902 | EU | SE |  | 198093 | tor-exit-read-me.dfri.se |
-| 171.25.193.25 | 4 | 1698437927 | 1726768902 | EU | SE |  | 198093 | tor-exit-read-me.dfri.se |
 | 171.25.193.235 | 4 | 1698437959 | 1726768902 | EU | SE |  | 198093 | tor-exit-read-me.dfri.se |
 | 171.25.193.234 | 4 | 1698437953 | 1726768902 | EU | SE |  | 198093 | tor-exit-read-me.dfri.se |
 | 171.25.193.20 | 4 | 1698437965 | 1726768902 | EU | SE |  | 198093 | tor-exit-read-me.dfri.se |
@@ -2131,9 +2131,4 @@ Those IPs are not guaranteed to be tor nodes, but they were seen as tor nodes wi
 | 45.79.50.161 | 4 | 1698437977 | 1726542022 | NA | US | Richardson | 63949 | brutus.relaymagic.org |
 | 45.79.177.21 | 4 | 1698437992 | 1726538431 | NA | US | Cedar Knolls | 63949 | popeye.relaymagic.org |
 | 146.0.74.196 | 4 | 1726232493 | 1726534881 | EU | NL | Amsterdam | 57043 |  |
-| 2a06:1700:0:12::4 | 6 | 1698438308 | 1726513363 | EU | RO | Bucharest | 200651 | bucarest01.tor-exit.artikel10.org |
-| 2a06:1700:0:12::3 | 6 | 1698438308 | 1726513363 | EU | RO | Bucharest | 200651 | bucarest01.tor-exit.artikel10.org |
-| 2a06:1700:0:12::2 | 6 | 1698438308 | 1726513363 | EU | RO | Bucharest | 200651 | bucarest01.tor-exit.artikel10.org |
-| 2a06:1700:0:12::1 | 6 | 1698438308 | 1726513363 | EU | RO | Bucharest | 200651 | bucarest01.tor-exit.artikel10.org |
-| 95.164.5.105 | 4 | 1724090612 | 1726513271 | NA | US |  | 6461 | br.openkollective.org |
 
