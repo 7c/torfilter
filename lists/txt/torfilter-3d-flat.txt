@@ -1,8 +1,8 @@
 # TorFilter
 ## Last seen within 72 hours
 ## Count : 2155
-## Generated: 1728259209
-## Generated Unixtime: 2024-10-07T00:00:08.752Z
+## Generated: 1728262807
+## Generated Unixtime: 2024-10-07T01:00:07.197Z
 ## Those IPs are not guaranteed to be tor nodes, but they were seen as tor nodes within the last 72 hours
 ## Use at your own risk
 ## This is NOT a abuse feed, This feed is made for sitemasters to detect traffic from tor nodes, this is the only purpose of this feed
@@ -92,7 +92,6 @@
 87.118.110.27
 86.205.5.107
 85.93.218.204
-85.239.41.130
 85.17.9.83
 85.119.82.142
 84.252.121.147
@@ -212,6 +211,7 @@
 5.255.103.235
 5.255.102.43
 5.255.101.10
+5.255.100.26
 5.255.100.227
 5.255.100.224
 5.255.100.219
@@ -390,7 +390,6 @@
 2a0e:4005:1002:ffff:185:40:4:29
 2a0d:c2c0:1:4::2
 2a0c:e300::23
-2a0c:5cc0:1:1::293c:1518
 2a0c:2500:571:3b8:e28b:b891:d56b:963a
 2a0c:2500:571:3b8:1cb:287c:3f60:805d
 2a0b:f4c2:4::110
@@ -2115,14 +2114,15 @@
 49.51.172.44
 188.253.7.63
 84.211.225.54
+85.239.41.130
 178.218.144.96
 107.189.8.16
 107.189.31.187
 107.189.3.148
 185.130.44.59
 87.120.254.132
-5.255.100.26
 107.189.3.94
+2a0c:5cc0:1:1::293c:1518
 2600:3c0a::f03c:95ff:fe8d:6977
 2600:3c09::f03c:95ff:fe8b:210a
 146.70.198.38
