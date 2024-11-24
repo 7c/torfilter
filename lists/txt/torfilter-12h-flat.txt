@@ -1,8 +1,8 @@
 # TorFilter
 ## Last seen within 12 hours
 ## Count : 1916
-## Generated: 1732406414
-## Generated Unixtime: 2024-11-24T00:00:14.225Z
+## Generated: 1732410008
+## Generated Unixtime: 2024-11-24T01:00:07.643Z
 ## Those IPs are not guaranteed to be tor nodes, but they were seen as tor nodes within the last 12 hours
 ## Use at your own risk
 ## This is NOT a abuse feed, This feed is made for sitemasters to detect traffic from tor nodes, this is the only purpose of this feed
@@ -431,6 +431,7 @@
 2a0c:e300::23
 2a0c:b641:6f0:8a::2
 2a0c:5cc0:1:1::293c:1518
+2a0c:5700:3133:1705:be24:11ff:fe4e:df9e
 2a0c:5700:3133:650:b0ea:eeff:fedb:1f7b
 2a0c:2500:571:e95:6930:c716:eaf8:f394
 2a0b:f4c2:4::110
@@ -1187,6 +1188,7 @@
 198.251.84.163
 195.88.74.206
 195.80.151.242
+195.47.238.90
 195.47.238.88
 195.47.238.87
 195.47.238.86
@@ -1730,6 +1732,7 @@
 154.213.184.50
 154.213.184.5
 154.213.184.44
+154.213.184.42
 154.213.184.39
 154.213.184.35
 154.213.184.21
@@ -1894,7 +1897,6 @@
 195.47.238.93
 195.47.238.92
 195.47.238.91
-195.47.238.90
 195.47.238.89
 176.121.81.51
 62.182.83.179
@@ -1914,7 +1916,6 @@
 217.160.190.130
 2a0c:5700:3133:1705:be24:11ff:fe37:3cb
 2a0c:5700:3133:1705:be24:11ff:fe0f:9e53
-154.213.184.42
 179.55.88.178
 88.218.226.21
 2a0c:5700:3133:1705:be24:11ff:fead:5be0
@@ -1923,6 +1924,5 @@
 2a0c:5700:3133:1705:be24:11ff:fe87:1bec
 2a00:da00:f421:4600::1
 213.165.84.158
-188.68.52.247
 
 
