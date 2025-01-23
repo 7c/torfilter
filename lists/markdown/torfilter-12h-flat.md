@@ -4,13 +4,18 @@ Last seen within 12 hours
 
 Count : 1834
 
-Generated: 2025-01-23T14:00:08.133Z
+Generated: 2025-01-23T15:00:07.086Z
 
 Those IPs are not guaranteed to be tor nodes, but they were seen as tor nodes within the last 12 hours. Use at your own risk, This is NOT a abuse feed, This feed is made for sitemasters to detect traffic from tor nodes, this is the only purpose of this feed
 
 
 | ip | ipversion | firstseen | lastseen | continentcode | countrycode | city | ASN | rdns |
 |---|---|---|---|---|---|---|---|---|
+| 89.58.26.216 | 4 | 1698437927 | 1737644407 | EU | DE | Nuremberg | 197540 | NurembergTor78.quetzalcoatl-relays.org |
+| 80.67.167.81 | 4 | 1698437927 | 1737644407 | EU | FR | Paris | 2027 | nosoignons.cust.milkywan.net |
+| 198.98.51.189 | 4 | 1698437927 | 1737644407 | NA | US | Staten Island | 53667 | tor.teitel.net |
+| 192.42.116.187 | 4 | 1698437927 | 1737644407 | EU | NL |  | 1101 | 35.tor-exit.nothingtohide.nl |
+| 171.25.193.25 | 4 | 1698437927 | 1737644407 | EU | SE |  | 198093 | tor-exit-read-me.dfri.se |
 | 98.128.173.33 | 4 | 1712160208 | 1737637391 | EU | SE | Gothenburg | 8473 | h-98-128-173-33.A785.priv.bahnhof.se |
 | 96.66.15.152 | 4 | 1698437953 | 1737637391 | NA | US | Clinton Township | 7922 | 96-66-15-152-static.hfc.comcastbusiness.net |
 | 96.126.98.146 | 4 | 1715810607 | 1737637391 | NA | US | Fremont | 63949 | 96-126-98-146.ip.linodeusercontent.com |
@@ -68,7 +73,6 @@ Those IPs are not guaranteed to be tor nodes, but they were seen as tor nodes wi
 | 91.139.160.150 | 4 | 1710000775 | 1737637387 | EU | BG | Sofia | 43205 | 91-139-160-150.sf.ddns.bulsat.com |
 | 91.132.144.59 | 4 | 1698437951 | 1737637387 | EU | DE | Nuremberg | 197540 | NurembergTor49.quetzalcoatl-relays.org |
 | 89.58.41.156 | 4 | 1698437929 | 1737637387 | EU | DE | Nuremberg | 197540 | NurembergTor79.quetzalcoatl-relays.org |
-| 89.58.26.216 | 4 | 1698437927 | 1737637387 | EU | DE | Nuremberg | 197540 | NurembergTor78.quetzalcoatl-relays.org |
 | 89.37.95.34 | 4 | 1725195794 | 1737637387 | EU | ES | Madrid | 203020 |  |
 | 89.236.112.100 | 4 | 1698437935 | 1737637387 | EU | FI | Jyväskylä | 30798 | tor-jy.effi.org |
 | 89.234.157.254 | 4 | 1698437959 | 1737637387 | EU | FR | Cazères | 197422 | marylou.nos-oignons.net |
@@ -116,7 +120,6 @@ Those IPs are not guaranteed to be tor nodes, but they were seen as tor nodes wi
 | 80.82.78.14 | 4 | 1698437976 | 1737637384 | EU | NL | Amsterdam | 202425 |  |
 | 80.78.28.46 | 4 | 1737317019 | 1737637384 | EU | SE |  | 39287 | 504e1c2e.host.njalla.net |
 | 80.67.172.162 | 4 | 1698437978 | 1737637384 | EU | FR | Paris | 20766 | algrothendieck.nos-oignons.net |
-| 80.67.167.81 | 4 | 1698437927 | 1737637384 | EU | FR | Paris | 2027 | nosoignons.cust.milkywan.net |
 | 80.241.60.207 | 4 | 1698437948 | 1737637384 | EU | DE | Berlin | 199118 | tor.mailbox.org |
 | 8.218.9.41 | 4 | 1725105801 | 1737637384 | AS | HK | Hong Kong | 45102 |  |
 | 78.142.18.219 | 4 | 1698437937 | 1737637384 | EU | NL |  | 208046 | hostslick02-tor-exit.tuxli.org |
@@ -1116,7 +1119,6 @@ Those IPs are not guaranteed to be tor nodes, but they were seen as tor nodes wi
 | 198.98.54.49 | 4 | 1698437976 | 1737637320 | NA | US | Staten Island | 53667 | NewYorkNewTor10.Quetzalcoatl-relays.org |
 | 198.98.53.136 | 4 | 1703719852 | 1737637320 | NA | US | Staten Island | 53667 | tor-exit-node-4325235-n.supermegaultra.xyz |
 | 198.98.51.249 | 4 | 1709270153 | 1737637320 | NA | US | Staten Island | 53667 | tor-exit-http-readme.hackb.2mpd.com |
-| 198.98.51.189 | 4 | 1698437927 | 1737637320 | NA | US | Staten Island | 53667 | tor.teitel.net |
 | 198.98.50.199 | 4 | 1698437949 | 1737637320 | NA | US | Staten Island | 53667 | tor-exit.cyberjake.xyz |
 | 198.98.48.35 | 4 | 1723114930 | 1737637320 | NA | US | Staten Island | 53667 | tor-exit-node.example.com |
 | 198.98.48.33 | 4 | 1698437969 | 1737637320 | NA | US | Staten Island | 53667 | sortie-tor.a-n-o-n-y-m-e.net |
@@ -1228,7 +1230,6 @@ Those IPs are not guaranteed to be tor nodes, but they were seen as tor nodes wi
 | 192.42.116.192 | 4 | 1698437937 | 1737637313 | EU | NL |  | 1101 | 2.tor-exit.nothingtohide.nl |
 | 192.42.116.191 | 4 | 1698437940 | 1737637313 | EU | NL |  | 1101 | 1.tor-exit.nothingtohide.nl |
 | 192.42.116.19 | 4 | 1698437957 | 1737637313 | EU | NL |  | 1101 | this-is-a-tor-exit-node-hviv119.hviv.nl |
-| 192.42.116.187 | 4 | 1698437927 | 1737637313 | EU | NL |  | 1101 | 35.tor-exit.nothingtohide.nl |
 | 192.42.116.186 | 4 | 1698437952 | 1737637313 | EU | NL |  | 1101 | 34.tor-exit.nothingtohide.nl |
 | 192.42.116.185 | 4 | 1698437968 | 1737637313 | EU | NL |  | 1101 | 33.tor-exit.nothingtohide.nl |
 | 192.42.116.184 | 4 | 1698437930 | 1737637313 | EU | NL |  | 1101 | 32.tor-exit.nothingtohide.nl |
@@ -1619,7 +1620,6 @@ Those IPs are not guaranteed to be tor nodes, but they were seen as tor nodes wi
 | 171.25.193.79 | 4 | 1698437940 | 1737637288 | EU | SE |  | 198093 | tor-exit-read-me.dfri.se |
 | 171.25.193.78 | 4 | 1698437964 | 1737637288 | EU | SE |  | 198093 | tor-exit-read-me.dfri.se |
 | 171.25.193.77 | 4 | 1698437969 | 1737637288 | EU | SE |  | 198093 | tor-exit-read-me.dfri.se |
-| 171.25.193.25 | 4 | 1698437927 | 1737637288 | EU | SE |  | 198093 | tor-exit-read-me.dfri.se |
 | 171.25.193.235 | 4 | 1698437959 | 1737637288 | EU | SE |  | 198093 | tor-exit-read-me.dfri.se |
 | 171.25.193.234 | 4 | 1698437953 | 1737637288 | EU | SE |  | 198093 | tor-exit-read-me.dfri.se |
 | 171.25.193.20 | 4 | 1698437965 | 1737637288 | EU | SE |  | 198093 | tor-exit-read-me.dfri.se |
