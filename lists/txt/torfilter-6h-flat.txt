@@ -1,8 +1,8 @@
 # TorFilter
 ## Last seen within 6 hours
 ## Count : 2105
-## Generated: 1747062007
-## Generated Unixtime: 2025-05-12T15:00:06.956Z
+## Generated: 1747065608
+## Generated Unixtime: 2025-05-12T16:00:08.026Z
 ## Those IPs are not guaranteed to be tor nodes, but they were seen as tor nodes within the last 6 hours
 ## Use at your own risk
 ## This is NOT a abuse feed, This feed is made for sitemasters to detect traffic from tor nodes, this is the only purpose of this feed
@@ -447,6 +447,7 @@
 2a0f:85c1:356:424c::1
 2a0f:85c1:356:3238::1
 2a0f:7803:fac5:cd0::1
+2a0f:7803:fac2:ab6d::1
 2a0e:e701:1198::1
 2a0e:bfc7:0:4::6e7a
 2a0e:bfc7:0:3::2d83
@@ -1115,6 +1116,7 @@
 209.141.54.218
 209.141.54.203
 209.141.51.30
+209.141.51.180
 209.141.46.203
 209.141.45.81
 209.141.45.141
@@ -1925,6 +1927,7 @@
 157.245.206.140
 157.230.17.193
 156.146.62.157
+154.83.88.219
 154.41.95.2
 154.41.95.1
 154.16.116.61
@@ -2095,14 +2098,12 @@
 89.169.172.104
 109.228.160.190
 185.209.29.90
-154.83.88.219
 185.121.15.46
 104.248.172.8
 135.125.239.51
 179.35.0.48
 194.87.87.118
 31.220.75.237
-209.141.51.180
 172.81.131.110
 107.189.8.16
 107.189.31.187
@@ -2112,6 +2113,5 @@
 2a04:52c0:105:d7eb::1
 82.68.49.227
 2a02:8010:677e:f9d0:215:5dff:fe01:210c
-177.149.138.181
 
 
