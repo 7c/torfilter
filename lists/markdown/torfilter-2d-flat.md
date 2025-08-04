@@ -4,13 +4,42 @@ Last seen within 48 hours
 
 Count : 1921
 
-Generated: 2025-08-04T17:00:07.358Z
+Generated: 2025-08-04T18:00:07.895Z
 
 Those IPs are not guaranteed to be tor nodes, but they were seen as tor nodes within the last 48 hours. Use at your own risk, This is NOT a abuse feed, This feed is made for sitemasters to detect traffic from tor nodes, this is the only purpose of this feed
 
 
 | ip | ipversion | firstseen | lastseen | continentcode | countrycode | city | ASN | rdns |
 |---|---|---|---|---|---|---|---|---|
+| 89.58.41.156 | 4 | 1698437929 | 1754330408 | EU | DE | Nuremberg | 197540 | NurembergTor79.quetzalcoatl-relays.org |
+| 87.118.116.103 | 4 | 1698437929 | 1754330408 | EU | DE |  | 31103 | ns.tor-exit-4.artikel5ev.de |
+| 45.141.215.169 | 4 | 1698437932 | 1754330408 | EU | PL | Warsaw | 210558 |  |
+| 37.187.5.192 | 4 | 1698437932 | 1754330408 | EU | FR |  | 16276 | ns3126614.ip-37-187-5.eu |
+| 2.58.56.43 | 4 | 1698437930 | 1754330408 | EU | NL | Oude Meer | 210558 | 2.58.56.43.powered.by.rdp.sh |
+| 192.42.116.208 | 4 | 1698437929 | 1754330408 | EU | NL |  | 1101 | 11.tor-exit.nothingtohide.nl |
+| 192.42.116.201 | 4 | 1698437932 | 1754330408 | EU | NL |  | 1101 | 38.tor-exit.nothingtohide.nl |
+| 192.42.116.184 | 4 | 1698437930 | 1754330408 | EU | NL |  | 1101 | 32.tor-exit.nothingtohide.nl |
+| 185.244.192.175 | 4 | 1698437930 | 1754330408 | EU | DE | Nuremberg | 197540 | NurembergTor14.quetzalcoatl-relays.org |
+| 179.43.182.232 | 4 | 1698437931 | 1754330408 | EU | CH | Rümlang | 51852 | fastboy |
+| 179.43.159.199 | 4 | 1698437932 | 1754330408 | EU | CH | Rümlang | 51852 | hostedby.privatelayer.com |
+| 109.70.100.66 | 4 | 1698437932 | 1754330408 | EU | AT |  | 208323 | tor-exit-anonymizer.appliedprivacy.net |
+| 109.70.100.2 | 4 | 1698437931 | 1754330408 | EU | AT |  | 208323 | tor-exit-anonymizer.appliedprivacy.net |
+| 109.70.100.1 | 4 | 1698437930 | 1754330408 | EU | AT |  | 208323 | tor-exit-anonymizer.appliedprivacy.net |
+| 104.244.75.74 | 4 | 1698437932 | 1754330408 | EU | LU | Luxembourg | 53667 | this-is-a-tor-exit-node.h-o-s-t.name |
+| 94.102.51.15 | 4 | 1698437928 | 1754330407 | EU | NL | Amsterdam | 202425 | no-reverse-dns-configured.com |
+| 89.58.26.216 | 4 | 1698437927 | 1754330407 | EU | DE | Nuremberg | 197540 | NurembergTor78.quetzalcoatl-relays.org |
+| 80.67.167.81 | 4 | 1698437927 | 1754330407 | EU | FR | Paris | 2027 | nosoignons.cust.milkywan.net |
+| 5.45.102.93 | 4 | 1698437928 | 1754330407 | EU | DE | Nuremberg | 197540 | NurembergTor10.quetzalcoatl-relays.org |
+| 45.141.215.80 | 4 | 1698437928 | 1754330407 | EU | PL | Warsaw | 210558 |  |
+| 45.141.215.62 | 4 | 1698437928 | 1754330407 | EU | PL | Warsaw | 210558 |  |
+| 198.98.51.189 | 4 | 1698437927 | 1754330407 | NA | US | Staten Island | 53667 | tor.teitel.net |
+| 193.26.115.61 | 4 | 1698437929 | 1754330407 | NA | US | Miami | 23470 | 193.26.115.61.powered.by.rdp.sh |
+| 192.42.116.213 | 4 | 1698437928 | 1754330407 | EU | NL |  | 1101 | 16.tor-exit.nothingtohide.nl |
+| 192.42.116.196 | 4 | 1698437928 | 1754330407 | EU | NL |  | 1101 | 6.tor-exit.nothingtohide.nl |
+| 192.42.116.175 | 4 | 1698437929 | 1754330407 | EU | NL |  | 1101 | 23.tor-exit.nothingtohide.nl |
+| 171.25.193.25 | 4 | 1698437927 | 1754330407 | EU | SE |  | 198093 | tor-exit-read-me.dfri.se |
+| 149.56.44.47 | 4 | 1698437929 | 1754330407 | NA | CA | Montreal | 16276 | 47.ip-149-56-44.net |
+| 109.70.100.4 | 4 | 1698437928 | 1754330407 | EU | AT |  | 208323 | tor-exit-anonymizer.appliedprivacy.net |
 | 98.128.173.33 | 4 | 1712160208 | 1754323387 | EU | SE | Gothenburg | 8473 | h-98-128-173-33.A785.priv.bahnhof.se |
 | 96.126.98.146 | 4 | 1715810607 | 1754323387 | NA | US | Fremont | 63949 | 96-126-98-146.ip.linodeusercontent.com |
 | 95.211.244.28 | 4 | 1698437952 | 1754323387 | EU | NL |  | 60781 |  |
@@ -28,7 +57,6 @@ Those IPs are not guaranteed to be tor nodes, but they were seen as tor nodes wi
 | 94.142.244.16 | 4 | 1698437973 | 1754323386 | EU | NL | Amsterdam | 8283 | tor-exit.vrij-heid.nl |
 | 94.142.241.194 | 4 | 1698437944 | 1754323386 | EU | NL | Amsterdam | 8283 | tor-exit.vrij-heid.nl |
 | 94.131.2.131 | 4 | 1753801403 | 1754323386 | AS | KZ | Almaty | 44477 | vm4351376.example.com |
-| 94.102.51.15 | 4 | 1698437928 | 1754323386 | EU | NL | Amsterdam | 202425 | no-reverse-dns-configured.com |
 | 93.99.104.40 | 4 | 1725152598 | 1754323386 | EU | CZ | Ostrava | 16019 | 40.104.99.93.finalhosting.cz |
 | 93.99.104.194 | 4 | 1698437961 | 1754323386 | EU | CZ | Ostrava | 16019 | zarni.haribaned.com |
 | 93.99.104.18 | 4 | 1698437961 | 1754323385 | EU | CZ | Ostrava | 16019 | 18.104.99.93.finalhosting.cz |
@@ -62,8 +90,6 @@ Those IPs are not guaranteed to be tor nodes, but they were seen as tor nodes wi
 | 91.202.5.104 | 4 | 1715043796 | 1754323384 | EU | PL |  | 43641 | sortie-tor.a-n-o-n-y-m-e.net |
 | 91.149.243.111 | 4 | 1752908605 | 1754323384 | EU | ES | Madrid | 26383 |  |
 | 91.132.144.59 | 4 | 1698437951 | 1754323384 | EU | DE | Nuremberg | 197540 | NurembergTor49.quetzalcoatl-relays.org |
-| 89.58.41.156 | 4 | 1698437929 | 1754323384 | EU | DE | Nuremberg | 197540 | NurembergTor79.quetzalcoatl-relays.org |
-| 89.58.26.216 | 4 | 1698437927 | 1754323384 | EU | DE | Nuremberg | 197540 | NurembergTor78.quetzalcoatl-relays.org |
 | 89.32.41.150 | 4 | 1743869020 | 1754323383 | EU | RO |  | 48874 | torexit2.privacyjam.com |
 | 89.234.157.254 | 4 | 1698437959 | 1754323383 | EU | FR | Toulouse | 197422 | marylou.nos-oignons.net |
 | 89.147.111.87 | 4 | 1709867578 | 1754323383 | EU | IS | Reykjavik | 44925 | vps-89-147-111-87.1984.is |
@@ -102,7 +128,6 @@ Those IPs are not guaranteed to be tor nodes, but they were seen as tor nodes wi
 | 87.118.122.30 | 4 | 1698437972 | 1754323381 | EU | DE |  | 31103 | this-is-a-tor-exit-node---keywebtor2.artikel5ev.de |
 | 87.118.116.90 | 4 | 1698437971 | 1754323381 | EU | DE |  | 31103 | this-is-a-tor-exit-node---keywebtor1.artikel5ev.de |
 | 87.118.116.12 | 4 | 1728129833 | 1754323381 | EU | DE |  | 31103 | tormachine.keymachine.de |
-| 87.118.116.103 | 4 | 1698437929 | 1754323381 | EU | DE |  | 31103 | ns.tor-exit-4.artikel5ev.de |
 | 87.118.110.27 | 4 | 1698437977 | 1754323381 | EU | DE |  | 31103 | www.miner.dk |
 | 86.54.28.49 | 4 | 1737659139 | 1754323381 | NA | CA |  | 206509 | tor-exit.afflicted.sh |
 | 86.54.25.3 | 4 | 1751828615 | 1754323381 | EU | LV |  | 206509 |  |
@@ -137,7 +162,6 @@ Those IPs are not guaranteed to be tor nodes, but they were seen as tor nodes wi
 | 80.94.92.106 | 4 | 1716523392 | 1754323379 | EU | RO |  | 47890 |  |
 | 80.82.78.14 | 4 | 1698437976 | 1754323379 | EU | NL | Amsterdam | 202425 |  |
 | 80.67.172.162 | 4 | 1698437978 | 1754323379 | EU | FR |  | 20766 | algrothendieck.nos-oignons.net |
-| 80.67.167.81 | 4 | 1698437927 | 1754323379 | EU | FR | Paris | 2027 | nosoignons.cust.milkywan.net |
 | 80.253.251.56 | 4 | 1753156999 | 1754323379 | EU | DE | Frankfurt am Main | 60781 |  |
 | 80.241.60.207 | 4 | 1698437948 | 1754323379 | EU | DE | Berlin | 199118 | tor.mailbox.org |
 | 78.142.18.219 | 4 | 1698437937 | 1754323379 | EU | NL |  | 208046 | hostslick02-tor-exit.tuxli.org |
@@ -191,7 +215,6 @@ Those IPs are not guaranteed to be tor nodes, but they were seen as tor nodes wi
 | 5.79.66.19 | 4 | 1698437933 | 1754323376 | EU | NL |  | 60781 |  |
 | 5.45.98.162 | 4 | 1698437993 | 1754323376 | EU | DE | Nuremberg | 197540 | NurembergTor13.quetzalcoatl-relays.org |
 | 5.45.104.176 | 4 | 1698437968 | 1754323376 | EU | DE | Nuremberg | 197540 | NurembergTor54.quetzalcoatl-relays.org |
-| 5.45.102.93 | 4 | 1698437928 | 1754323376 | EU | DE | Nuremberg | 197540 | NurembergTor10.quetzalcoatl-relays.org |
 | 5.34.182.203 | 4 | 1714708885 | 1754323376 | EU | UA | Kyiv | 15626 | replacement.118668.server.net |
 | 5.255.99.5 | 4 | 1698437960 | 1754323375 | EU | NL | Dronten | 60404 |  |
 | 5.255.99.147 | 4 | 1698437997 | 1754323375 | EU | NL | Dronten | 60404 |  |
@@ -293,9 +316,7 @@ Those IPs are not guaranteed to be tor nodes, but they were seen as tor nodes wi
 | 45.141.215.95 | 4 | 1698437948 | 1754323370 | EU | PL | Warsaw | 210558 |  |
 | 45.141.215.90 | 4 | 1698437935 | 1754323369 | EU | PL | Warsaw | 210558 |  |
 | 45.141.215.88 | 4 | 1698437931 | 1754323369 | EU | PL | Warsaw | 210558 |  |
-| 45.141.215.80 | 4 | 1698437928 | 1754323369 | EU | PL | Warsaw | 210558 |  |
 | 45.141.215.63 | 4 | 1698437934 | 1754323369 | EU | PL | Warsaw | 210558 |  |
-| 45.141.215.62 | 4 | 1698437928 | 1754323369 | EU | PL | Warsaw | 210558 |  |
 | 45.141.215.61 | 4 | 1698437951 | 1754323369 | EU | PL | Warsaw | 210558 |  |
 | 45.141.215.56 | 4 | 1698437931 | 1754323369 | EU | PL | Warsaw | 210558 |  |
 | 45.141.215.40 | 4 | 1723262605 | 1754323369 | EU | PL | Warsaw | 210558 |  |
@@ -304,7 +325,6 @@ Those IPs are not guaranteed to be tor nodes, but they were seen as tor nodes wi
 | 45.141.215.200 | 4 | 1698437930 | 1754323369 | EU | PL | Warsaw | 210558 |  |
 | 45.141.215.19 | 4 | 1723255396 | 1754323369 | EU | PL | Warsaw | 210558 |  |
 | 45.141.215.17 | 4 | 1723237405 | 1754323369 | EU | PL | Warsaw | 210558 |  |
-| 45.141.215.169 | 4 | 1698437932 | 1754323369 | EU | PL | Warsaw | 210558 |  |
 | 45.141.215.167 | 4 | 1711515797 | 1754323369 | EU | PL | Warsaw | 210558 |  |
 | 45.141.215.114 | 4 | 1698437943 | 1754323369 | EU | PL | Warsaw | 210558 |  |
 | 45.141.215.111 | 4 | 1698437937 | 1754323368 | EU | PL | Warsaw | 210558 |  |
@@ -361,7 +381,6 @@ Those IPs are not guaranteed to be tor nodes, but they were seen as tor nodes wi
 | 37.228.129.153 | 4 | 1754222578 | 1754323365 | EU | FI |  | 200651 |  |
 | 37.228.129.128 | 4 | 1698437990 | 1754323365 | EU | FI |  | 200651 |  |
 | 37.221.208.71 | 4 | 1740207794 | 1754323365 | EU | HU |  | 41075 | torexitspeakfreely.com |
-| 37.187.5.192 | 4 | 1698437932 | 1754323365 | EU | FR |  | 16276 | ns3126614.ip-37-187-5.eu |
 | 37.114.63.5 | 4 | 1746932600 | 1754323365 | EU | DE |  | 60461 | 5.63.114.37.in-addr.arpa |
 | 37.114.50.27 | 4 | 1747090892 | 1754323365 | EU | DE |  | 60461 | 27.50.114.37.in-addr.arpa |
 | 37.114.50.18 | 4 | 1747090892 | 1754323365 | EU | DE |  | 60461 | 18.50.114.37.in-addr.arpa |
@@ -1198,7 +1217,6 @@ Those IPs are not guaranteed to be tor nodes, but they were seen as tor nodes wi
 | 2001::d911:c0d9:1cd3:68d9:a41c:8d66 | 6 | 1753801326 | 1754323314 | EU | DE | Jena | 15725 |  |
 | 200.122.181.2 | 4 | 1698437975 | 1754323314 | NA | CR | Alajuela | 3790 |  |
 | 2.58.56.93 | 4 | 1744916676 | 1754323314 | EU | NL | Oude Meer | 210558 | 2.58.56.93.powered.by.rdp.sh |
-| 2.58.56.43 | 4 | 1698437930 | 1754323314 | EU | NL | Oude Meer | 210558 | 2.58.56.43.powered.by.rdp.sh |
 | 2.58.56.35 | 4 | 1718654539 | 1754323314 | EU | NL | Oude Meer | 210558 | Amsterdam5.quetzalcoatl-relays.org |
 | 2.58.56.220 | 4 | 1698437962 | 1754323314 | EU | NL | Oude Meer | 210558 | 2.58.56.220.powered.by.rdp.sh |
 | 2.56.10.36 | 4 | 1725174125 | 1754323314 | EU | NL |  | 213373 |  |
@@ -1213,7 +1231,6 @@ Those IPs are not guaranteed to be tor nodes, but they were seen as tor nodes wi
 | 198.98.57.218 | 4 | 1752584532 | 1754323313 | NA | US | Staten Island | 53667 | tor-exit-nyc.pufferfish.li |
 | 198.98.57.151 | 4 | 1733767335 | 1754323313 | NA | US | Staten Island | 53667 |  |
 | 198.98.51.249 | 4 | 1709270153 | 1754323313 | NA | US | Staten Island | 53667 | tor-exit-http-readme.hackb.2mpd.com |
-| 198.98.51.189 | 4 | 1698437927 | 1754323313 | NA | US | Staten Island | 53667 | tor.teitel.net |
 | 198.98.50.199 | 4 | 1698437949 | 1754323313 | NA | US | Staten Island | 53667 | tor-exit.cyberjake.xyz |
 | 198.98.48.35 | 4 | 1723114930 | 1754323313 | NA | US | Staten Island | 53667 | tor-exit-node.example.com |
 | 198.98.48.33 | 4 | 1698437969 | 1754323313 | NA | US | Staten Island | 53667 | sortie-tor.a-n-o-n-y-m-e.net |
@@ -1261,7 +1278,6 @@ Those IPs are not guaranteed to be tor nodes, but they were seen as tor nodes wi
 | 193.32.162.104 | 4 | 1747011865 | 1754323310 | EU | RO |  | 47890 |  |
 | 193.30.120.139 | 4 | 1698438246 | 1754323310 | EU | DE | Nuremberg | 197540 | isodiapher.relay.tor.rtc0.dev |
 | 193.26.115.82 | 4 | 1752516121 | 1754323310 | NA | US | Miami | 23470 | 193.26.115.82.powered.by.rdp.sh |
-| 193.26.115.61 | 4 | 1698437929 | 1754323310 | NA | US | Miami | 23470 | 193.26.115.61.powered.by.rdp.sh |
 | 193.26.115.43 | 4 | 1698437951 | 1754323310 | NA | US | Miami | 23470 | 193.26.115.43.powered.by.rdp.sh |
 | 193.26.115.212 | 4 | 1744657379 | 1754323310 | NA | US | Miami | 23470 | tor.obzgs5tbmn4q.org |
 | 193.26.115.140 | 4 | 1749222128 | 1754323310 | NA | US | Miami | 23470 | Miami3Tor.quetzalcoatl-relays.org |
@@ -1290,21 +1306,17 @@ Those IPs are not guaranteed to be tor nodes, but they were seen as tor nodes wi
 | 192.42.116.216 | 4 | 1698437954 | 1754323308 | EU | NL |  | 1101 | 19.tor-exit.nothingtohide.nl |
 | 192.42.116.215 | 4 | 1698437982 | 1754323308 | EU | NL |  | 1101 | 18.tor-exit.nothingtohide.nl |
 | 192.42.116.214 | 4 | 1698437958 | 1754323308 | EU | NL |  | 1101 | 17.tor-exit.nothingtohide.nl |
-| 192.42.116.213 | 4 | 1698437928 | 1754323308 | EU | NL |  | 1101 | 16.tor-exit.nothingtohide.nl |
 | 192.42.116.212 | 4 | 1698437937 | 1754323308 | EU | NL |  | 1101 | 15.tor-exit.nothingtohide.nl |
 | 192.42.116.211 | 4 | 1698437934 | 1754323308 | EU | NL |  | 1101 | 14.tor-exit.nothingtohide.nl |
 | 192.42.116.210 | 4 | 1698437944 | 1754323308 | EU | NL |  | 1101 | 13.tor-exit.nothingtohide.nl |
 | 192.42.116.209 | 4 | 1698437964 | 1754323308 | EU | NL |  | 1101 | 12.tor-exit.nothingtohide.nl |
-| 192.42.116.208 | 4 | 1698437929 | 1754323308 | EU | NL |  | 1101 | 11.tor-exit.nothingtohide.nl |
 | 192.42.116.203 | 4 | 1698437951 | 1754323308 | EU | NL |  | 1101 | 40.tor-exit.nothingtohide.nl |
 | 192.42.116.202 | 4 | 1698437937 | 1754323308 | EU | NL |  | 1101 | 39.tor-exit.nothingtohide.nl |
-| 192.42.116.201 | 4 | 1698437932 | 1754323308 | EU | NL |  | 1101 | 38.tor-exit.nothingtohide.nl |
 | 192.42.116.200 | 4 | 1698437934 | 1754323307 | EU | NL |  | 1101 | 10.tor-exit.nothingtohide.nl |
 | 192.42.116.20 | 4 | 1698437957 | 1754323307 | EU | NL |  | 1101 | this-is-a-tor-exit-node-hviv120.hviv.nl |
 | 192.42.116.199 | 4 | 1698437943 | 1754323307 | EU | NL |  | 1101 | 9.tor-exit.nothingtohide.nl |
 | 192.42.116.198 | 4 | 1698437954 | 1754323307 | EU | NL |  | 1101 | 8.tor-exit.nothingtohide.nl |
 | 192.42.116.197 | 4 | 1698437952 | 1754323307 | EU | NL |  | 1101 | 7.tor-exit.nothingtohide.nl |
-| 192.42.116.196 | 4 | 1698437928 | 1754323307 | EU | NL |  | 1101 | 6.tor-exit.nothingtohide.nl |
 | 192.42.116.195 | 4 | 1698437950 | 1754323307 | EU | NL |  | 1101 | 5.tor-exit.nothingtohide.nl |
 | 192.42.116.194 | 4 | 1698437948 | 1754323307 | EU | NL |  | 1101 | 4.tor-exit.nothingtohide.nl |
 | 192.42.116.193 | 4 | 1698437968 | 1754323307 | EU | NL |  | 1101 | 3.tor-exit.nothingtohide.nl |
@@ -1313,7 +1325,6 @@ Those IPs are not guaranteed to be tor nodes, but they were seen as tor nodes wi
 | 192.42.116.19 | 4 | 1698437957 | 1754323307 | EU | NL |  | 1101 | this-is-a-tor-exit-node-hviv119.hviv.nl |
 | 192.42.116.186 | 4 | 1698437952 | 1754323307 | EU | NL |  | 1101 | 34.tor-exit.nothingtohide.nl |
 | 192.42.116.185 | 4 | 1698437968 | 1754323307 | EU | NL |  | 1101 | 33.tor-exit.nothingtohide.nl |
-| 192.42.116.184 | 4 | 1698437930 | 1754323307 | EU | NL |  | 1101 | 32.tor-exit.nothingtohide.nl |
 | 192.42.116.183 | 4 | 1698437958 | 1754323307 | EU | NL |  | 1101 | 31.tor-exit.nothingtohide.nl |
 | 192.42.116.182 | 4 | 1698437941 | 1754323307 | EU | NL |  | 1101 | 30.tor-exit.nothingtohide.nl |
 | 192.42.116.181 | 4 | 1698437935 | 1754323306 | EU | NL |  | 1101 | 29.tor-exit.nothingtohide.nl |
@@ -1323,7 +1334,6 @@ Those IPs are not guaranteed to be tor nodes, but they were seen as tor nodes wi
 | 192.42.116.178 | 4 | 1698437944 | 1754323306 | EU | NL |  | 1101 | 26.tor-exit.nothingtohide.nl |
 | 192.42.116.177 | 4 | 1698437937 | 1754323306 | EU | NL |  | 1101 | 25.tor-exit.nothingtohide.nl |
 | 192.42.116.176 | 4 | 1698437946 | 1754323306 | EU | NL |  | 1101 | 24.tor-exit.nothingtohide.nl |
-| 192.42.116.175 | 4 | 1698437929 | 1754323306 | EU | NL |  | 1101 | 23.tor-exit.nothingtohide.nl |
 | 192.42.116.174 | 4 | 1698437936 | 1754323306 | EU | NL |  | 1101 | 22.tor-exit.nothingtohide.nl |
 | 192.42.116.173 | 4 | 1698437933 | 1754323306 | EU | NL |  | 1101 | 21.tor-exit.nothingtohide.nl |
 | 192.42.116.17 | 4 | 1698437996 | 1754323306 | EU | NL |  | 1101 | this-is-a-tor-exit-node-hviv117.hviv.nl |
@@ -1380,7 +1390,6 @@ Those IPs are not guaranteed to be tor nodes, but they were seen as tor nodes wi
 | 185.246.188.115 | 4 | 1750129322 | 1754323303 | EU | NL |  | 200651 |  |
 | 185.246.128.161 | 4 | 1698437975 | 1754323303 | EU | SE | Stockholm | 42237 |  |
 | 185.244.192.184 | 4 | 1698437961 | 1754323303 | EU | DE | Nuremberg | 197540 | NurembergTor55.quetzalcoatl-relays.org |
-| 185.244.192.175 | 4 | 1698437930 | 1754323303 | EU | DE | Nuremberg | 197540 | NurembergTor14.quetzalcoatl-relays.org |
 | 185.241.208.92 | 4 | 1734361319 | 1754323302 | EU | PL | Warsaw | 210558 |  |
 | 185.241.208.82 | 4 | 1751036515 | 1754323302 | EU | PL | Warsaw | 210558 | SQUY |
 | 185.241.208.81 | 4 | 1719248509 | 1754323302 | EU | PL | Warsaw | 210558 | tor-exit-readme-5.maxzrbn.it |
@@ -1572,11 +1581,9 @@ Those IPs are not guaranteed to be tor nodes, but they were seen as tor nodes wi
 | 185.10.16.41 | 4 | 1698492107 | 1754323291 | EU | FR | Paris | 35661 | tor-exit.readme.adkaser.net |
 | 180.150.226.99 | 4 | 1698437935 | 1754323291 | AS | KR |  | 45382 |  |
 | 179.43.182.58 | 4 | 1698437960 | 1754323291 | EU | CH | Rümlang | 51852 | burgerfarm |
-| 179.43.182.232 | 4 | 1698437931 | 1754323291 | EU | CH | Rümlang | 51852 | fastboy |
 | 179.43.159.78 | 4 | 1705031645 | 1754323291 | EU | CH | Rümlang | 51852 | hostedby.privatelayer.com |
 | 179.43.159.201 | 4 | 1698437961 | 1754323291 | EU | CH | Rümlang | 51852 | hostedby.privatelayer.com |
 | 179.43.159.200 | 4 | 1698437949 | 1754323290 | EU | CH | Rümlang | 51852 | hostedby.privatelayer.com |
-| 179.43.159.199 | 4 | 1698437932 | 1754323290 | EU | CH | Rümlang | 51852 | hostedby.privatelayer.com |
 | 179.43.159.198 | 4 | 1698437989 | 1754323290 | EU | CH | Rümlang | 51852 | hostedby.privatelayer.com |
 | 179.43.159.197 | 4 | 1698437959 | 1754323290 | EU | CH | Rümlang | 51852 | hostedby.privatelayer.com |
 | 179.43.159.196 | 4 | 1698437963 | 1754323290 | EU | CH | Rümlang | 51852 | hostedby.privatelayer.com |
@@ -1644,7 +1651,6 @@ Those IPs are not guaranteed to be tor nodes, but they were seen as tor nodes wi
 | 171.25.193.37 | 4 | 1752537709 | 1754323286 | EU | SE |  | 198093 | mesh11.dfri.se |
 | 171.25.193.36 | 4 | 1752541464 | 1754323286 | EU | SE |  | 198093 | mesh10.dfri.se |
 | 171.25.193.35 | 4 | 1752541464 | 1754323286 | EU | SE |  | 198093 | mesh10.dfri.se |
-| 171.25.193.25 | 4 | 1698437927 | 1754323286 | EU | SE |  | 198093 | tor-exit-read-me.dfri.se |
 | 171.25.193.235 | 4 | 1698437959 | 1754323286 | EU | SE |  | 198093 | tor-exit-read-me.dfri.se |
 | 171.25.193.234 | 4 | 1698437953 | 1754323286 | EU | SE |  | 198093 | tor-exit-read-me.dfri.se |
 | 171.25.193.20 | 4 | 1698437965 | 1754323286 | EU | SE |  | 198093 | tor-exit-read-me.dfri.se |
@@ -1692,7 +1698,6 @@ Those IPs are not guaranteed to be tor nodes, but they were seen as tor nodes wi
 | 152.53.133.14 | 4 | 1733065300 | 1754323283 | EU | DE | Nuremberg |  | netcup.spynode.cc |
 | 152.53.106.19 | 4 | 1751274094 | 1754323283 | EU | NL | Amsterdam |  | tor-exit-1.mywatchbegins.xyz |
 | 152.32.206.127 | 4 | 1743080499 | 1754323283 | NA | US | Reston | 135377 |  |
-| 149.56.44.47 | 4 | 1698437929 | 1754323283 | NA | CA | Montreal | 16276 | 47.ip-149-56-44.net |
 | 149.202.79.129 | 4 | 1698437957 | 1754323283 | EU | FR |  | 16276 | ns3016113.ip-149-202-79.eu |
 | 149.202.79.101 | 4 | 1698437962 | 1754323283 | EU | FR |  | 16276 | ns3016085.ip-149-202-79.eu |
 | 149.102.153.38 | 4 | 1747659705 | 1754323283 | EU | GB | Portsmouth | 51167 | UK1Tor.quetzalcoatl-relays.org |
@@ -1745,14 +1750,10 @@ Those IPs are not guaranteed to be tor nodes, but they were seen as tor nodes wi
 | 109.70.100.69 | 4 | 1698437934 | 1754323280 | EU | AT |  | 208323 | tor-exit-anonymizer.appliedprivacy.net |
 | 109.70.100.68 | 4 | 1698437962 | 1754323280 | EU | AT |  | 208323 | tor-exit-anonymizer.appliedprivacy.net |
 | 109.70.100.67 | 4 | 1698437936 | 1754323280 | EU | AT |  | 208323 | tor-exit-anonymizer.appliedprivacy.net |
-| 109.70.100.66 | 4 | 1698437932 | 1754323280 | EU | AT |  | 208323 | tor-exit-anonymizer.appliedprivacy.net |
 | 109.70.100.65 | 4 | 1698437935 | 1754323280 | EU | AT |  | 208323 | tor-exit-anonymizer.appliedprivacy.net |
 | 109.70.100.6 | 4 | 1698437933 | 1754323280 | EU | AT |  | 208323 | tor-exit-anonymizer.appliedprivacy.net |
 | 109.70.100.5 | 4 | 1698437945 | 1754323280 | EU | AT |  | 208323 | tor-exit-anonymizer.appliedprivacy.net |
-| 109.70.100.4 | 4 | 1698437928 | 1754323280 | EU | AT |  | 208323 | tor-exit-anonymizer.appliedprivacy.net |
 | 109.70.100.3 | 4 | 1698437949 | 1754323280 | EU | AT |  | 208323 | tor-exit-anonymizer.appliedprivacy.net |
-| 109.70.100.2 | 4 | 1698437931 | 1754323280 | EU | AT |  | 208323 | tor-exit-anonymizer.appliedprivacy.net |
-| 109.70.100.1 | 4 | 1698437930 | 1754323279 | EU | AT |  | 208323 | tor-exit-anonymizer.appliedprivacy.net |
 | 109.69.67.17 | 4 | 1698437997 | 1754323279 | EU | DE | Ritterhude | 49855 | tor.plutex.de |
 | 109.237.27.11 | 4 | 1753718493 | 1754323279 | EU | GB | London | 63949 | 109-237-27-11.ip.linodeusercontent.com |
 | 109.228.160.190 | 4 | 1741111295 | 1754323279 | EU | SE | Mölnlycke | 8473 | h-109-228-160-190.A444.priv.bahnhof.se |
@@ -1807,7 +1808,6 @@ Those IPs are not guaranteed to be tor nodes, but they were seen as tor nodes wi
 | 104.244.78.162 | 4 | 1698438006 | 1754323276 | EU | LU | Luxembourg | 53667 |  |
 | 104.244.77.208 | 4 | 1698437995 | 1754323276 | EU | LU | Luxembourg | 53667 | tor-exit-02.for-privacy.net |
 | 104.244.76.237 | 4 | 1738983684 | 1754323276 | EU | LU | Luxembourg | 53667 | tor-exit-node-3426345-4.supermegaultra.xyz |
-| 104.244.75.74 | 4 | 1698437932 | 1754323276 | EU | LU | Luxembourg | 53667 | this-is-a-tor-exit-node.h-o-s-t.name |
 | 104.244.75.140 | 4 | 1738983684 | 1754323276 | EU | LU | Luxembourg | 53667 | tor-exit-node-4672345-n.supermegaultra.xyz |
 | 104.244.74.97 | 4 | 1698437979 | 1754323276 | EU | LU | Luxembourg | 53667 | tor-exit.yomi.katawaredoki.net |
 | 104.244.73.43 | 4 | 1698437961 | 1754323276 | EU | LU | Roost | 53667 | tor-exit-01.for-privacy.net |
