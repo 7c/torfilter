@@ -2,444 +2,1279 @@
 # TORFilter
 Last seen within 6 hours
 
-Count : 2241
+Count : 2239
 
-Generated: 2026-02-18T14:00:07.512Z
+Generated: 2026-02-18T15:00:07.729Z
 
 Those IPs are not guaranteed to be tor nodes, but they were seen as tor nodes within the last 6 hours. Use at your own risk, This is NOT a abuse feed, This feed is made for sitemasters to detect traffic from tor nodes, this is the only purpose of this feed
 
 
 | ip | ipversion | firstseen | lastseen | continentcode | countrycode | city | ASN | rdns |
 |---|---|---|---|---|---|---|---|---|
-| 45.80.158.27 | 4 | 1698437933 | 1771423208 | EU | PL | Warsaw | 210558 |  |
-| 45.138.16.240 | 4 | 1698437933 | 1771423208 | EU | PL | Warsaw | 210558 |  |
-| 192.42.116.173 | 4 | 1698437933 | 1771423208 | EU | NL |  | 1101 | 21.tor-exit.nothingtohide.nl |
-| 185.165.169.239 | 4 | 1698437933 | 1771423208 | EU | RO | Bucharest | 200651 | hermes.modafinilsupply.org |
-| 109.70.100.6 | 4 | 1698437933 | 1771423208 | EU | AT |  | 208323 | tor-exit-anonymizer.appliedprivacy.net |
-| 89.58.41.156 | 4 | 1698437929 | 1771423207 | EU | DE | Nuremberg | 197540 | NurembergTor79.quetzalcoatl-relays.org |
-| 87.118.116.103 | 4 | 1698437929 | 1771423207 | EU | DE |  | 31103 | ns.tor-exit-4.artikel5ev.de |
-| 45.141.215.169 | 4 | 1698437932 | 1771423207 | EU | PL | Warsaw | 210558 |  |
-| 45.138.16.42 | 4 | 1698437933 | 1771423207 | EU | PL | Warsaw | 210558 | 45.138.16.42.powered.by.rdp.sh |
-| 37.187.5.192 | 4 | 1698437932 | 1771423207 | EU | FR |  | 16276 | ns3126614.ip-37-187-5.eu |
-| 2.58.56.43 | 4 | 1698437930 | 1771423207 | EU | NL | Lelystad | 210558 | 2.58.56.43.powered.by.rdp.sh |
-| 195.176.3.23 | 4 | 1698437933 | 1771423207 | EU | CH | Zurich | 559 | tor5e1.digitale-gesellschaft.ch |
-| 192.42.116.208 | 4 | 1698437929 | 1771423207 | EU | NL |  | 1101 | 11.tor-exit.nothingtohide.nl |
-| 192.42.116.201 | 4 | 1698437932 | 1771423207 | EU | NL |  | 1101 | 38.tor-exit.nothingtohide.nl |
-| 192.42.116.184 | 4 | 1698437930 | 1771423207 | EU | NL |  | 1101 | 32.tor-exit.nothingtohide.nl |
-| 179.43.182.232 | 4 | 1698437931 | 1771423207 | EU | CH | Rümlang | 51852 | fastboy |
-| 109.70.100.8 | 4 | 1698507087 | 1771423207 | EU | AT |  | 208323 | tor-exit-anonymizer.appliedprivacy.net |
-| 109.70.100.2 | 4 | 1698437931 | 1771423207 | EU | AT |  | 208323 | tor-exit-anonymizer.appliedprivacy.net |
-| 109.70.100.1 | 4 | 1698437930 | 1771423207 | EU | AT |  | 208323 | tor-exit-anonymizer.appliedprivacy.net |
-| 94.102.51.15 | 4 | 1698437928 | 1771423206 | EU | NL | Amsterdam | 202425 | no-reverse-dns-configured.com |
-| 89.58.26.216 | 4 | 1698437927 | 1771423206 | EU | DE | Nuremberg | 197540 | NurembergTor78.quetzalcoatl-relays.org |
-| 80.67.167.81 | 4 | 1698437927 | 1771423206 | EU | FR | Paris | 2027 | nosoignons.cust.milkywan.net |
-| 5.45.102.93 | 4 | 1698437928 | 1771423206 | EU | DE | Nuremberg | 197540 | NurembergTor10.quetzalcoatl-relays.org |
-| 198.98.51.189 | 4 | 1698437927 | 1771423206 | NA | US | Staten Island | 53667 | tor.teitel.net |
-| 192.42.116.213 | 4 | 1698437928 | 1771423206 | EU | NL |  | 1101 | 16.tor-exit.nothingtohide.nl |
-| 192.42.116.196 | 4 | 1698437928 | 1771423206 | EU | NL |  | 1101 | 6.tor-exit.nothingtohide.nl |
-| 192.42.116.175 | 4 | 1698437929 | 1771423206 | EU | NL |  | 1101 | 23.tor-exit.nothingtohide.nl |
-| 171.25.193.25 | 4 | 1698437927 | 1771423206 | EU | SE |  | 198093 | tor-exit-read-me.dfri.se |
-| 124.198.131.190 | 4 | 1767657731 | 1771423206 | NA | US | New York | 9889 |  |
-| 109.70.100.4 | 4 | 1698437928 | 1771423206 | EU | AT |  | 208323 | tor-exit-anonymizer.appliedprivacy.net |
-| 98.128.173.33 | 4 | 1712160208 | 1771419865 | EU | SE | Gothenburg | 8473 | h-98-128-173-33.A785.priv.bahnhof.se |
-| 97.90.239.170 | 4 | 1761123848 | 1771419865 | NA | US | Buffalo | 20115 | syn-097-090-239-170.res.spectrum.com |
+| 45.80.158.27 | 4 | 1698437933 | 1771426808 | EU | PL | Warsaw | 210558 |  |
+| 45.138.16.42 | 4 | 1698437933 | 1771426808 | EU | PL | Warsaw | 210558 | 45.138.16.42.powered.by.rdp.sh |
+| 45.138.16.240 | 4 | 1698437933 | 1771426808 | EU | PL | Warsaw | 210558 |  |
+| 192.42.116.200 | 4 | 1698437934 | 1771426808 | EU | NL |  | 1101 | 10.tor-exit.nothingtohide.nl |
+| 192.42.116.173 | 4 | 1698437933 | 1771426808 | EU | NL |  | 1101 | 21.tor-exit.nothingtohide.nl |
+| 185.165.169.239 | 4 | 1698437933 | 1771426808 | EU | RO | Bucharest | 200651 | hermes.modafinilsupply.org |
+| 109.70.100.6 | 4 | 1698437933 | 1771426808 | EU | AT |  | 208323 | tor-exit-anonymizer.appliedprivacy.net |
+| 89.58.41.156 | 4 | 1698437929 | 1771426807 | EU | DE | Nuremberg | 197540 | NurembergTor79.quetzalcoatl-relays.org |
+| 87.118.116.103 | 4 | 1698437929 | 1771426807 | EU | DE |  | 31103 | ns.tor-exit-4.artikel5ev.de |
+| 45.141.215.169 | 4 | 1698437932 | 1771426807 | EU | PL | Warsaw | 210558 |  |
+| 37.187.5.192 | 4 | 1698437932 | 1771426807 | EU | FR |  | 16276 | ns3126614.ip-37-187-5.eu |
+| 2.58.56.43 | 4 | 1698437930 | 1771426807 | EU | NL | Lelystad | 210558 | 2.58.56.43.powered.by.rdp.sh |
+| 195.176.3.23 | 4 | 1698437933 | 1771426807 | EU | CH | Zurich | 559 | tor5e1.digitale-gesellschaft.ch |
+| 192.42.116.208 | 4 | 1698437929 | 1771426807 | EU | NL |  | 1101 | 11.tor-exit.nothingtohide.nl |
+| 192.42.116.201 | 4 | 1698437932 | 1771426807 | EU | NL |  | 1101 | 38.tor-exit.nothingtohide.nl |
+| 192.42.116.184 | 4 | 1698437930 | 1771426807 | EU | NL |  | 1101 | 32.tor-exit.nothingtohide.nl |
+| 192.42.116.175 | 4 | 1698437929 | 1771426807 | EU | NL |  | 1101 | 23.tor-exit.nothingtohide.nl |
+| 179.43.182.232 | 4 | 1698437931 | 1771426807 | EU | CH | Rümlang | 51852 | fastboy |
+| 109.70.100.8 | 4 | 1698507087 | 1771426807 | EU | AT |  | 208323 | tor-exit-anonymizer.appliedprivacy.net |
+| 109.70.100.2 | 4 | 1698437931 | 1771426807 | EU | AT |  | 208323 | tor-exit-anonymizer.appliedprivacy.net |
+| 109.70.100.1 | 4 | 1698437930 | 1771426807 | EU | AT |  | 208323 | tor-exit-anonymizer.appliedprivacy.net |
+| 94.102.51.15 | 4 | 1698437928 | 1771426806 | EU | NL | Amsterdam | 202425 | no-reverse-dns-configured.com |
+| 89.58.26.216 | 4 | 1698437927 | 1771426806 | EU | DE | Nuremberg | 197540 | NurembergTor78.quetzalcoatl-relays.org |
+| 80.67.167.81 | 4 | 1698437927 | 1771426806 | EU | FR | Paris | 2027 | nosoignons.cust.milkywan.net |
+| 5.45.102.93 | 4 | 1698437928 | 1771426806 | EU | DE | Nuremberg | 197540 | NurembergTor10.quetzalcoatl-relays.org |
+| 198.98.51.189 | 4 | 1698437927 | 1771426806 | NA | US | Staten Island | 53667 | tor.teitel.net |
+| 192.42.116.213 | 4 | 1698437928 | 1771426806 | EU | NL |  | 1101 | 16.tor-exit.nothingtohide.nl |
+| 192.42.116.196 | 4 | 1698437928 | 1771426806 | EU | NL |  | 1101 | 6.tor-exit.nothingtohide.nl |
+| 171.25.193.25 | 4 | 1698437927 | 1771426806 | EU | SE |  | 198093 | tor-exit-read-me.dfri.se |
+| 124.198.131.190 | 4 | 1767657731 | 1771426806 | NA | US | New York | 9889 |  |
+| 109.70.100.4 | 4 | 1698437928 | 1771426806 | EU | AT |  | 208323 | tor-exit-anonymizer.appliedprivacy.net |
+| 93.113.25.160 | 4 | 1768871851 | 1771423294 | EU | RO | Orăştie | 9050 |  |
+| 89.169.13.202 | 4 | 1771412659 | 1771423294 | EU | RU |  | 31514 | hanujlbhuk.serv.host |
+| 45.8.93.239 | 4 | 1771333445 | 1771423294 | EU | SE | Stockholm | 207279 |  |
+| 172.105.110.178 | 4 | 1771398123 | 1771423294 | NA | CA | Toronto | 63949 | tor-exit.scarybeaver.hicsuntdracones.ca |
+| 144.31.77.174 | 4 | 1771351324 | 1771423294 | NA | US |  |  | vm735588.hosted-by.u1host.com |
+| 91.219.237.39 | 4 | 1715875399 | 1771423293 | EU | HU | Budapest | 56322 | 85976148-stellar.serverastra.com |
+| 89.125.255.12 | 4 | 1771182288 | 1771423293 | EU | NL | Amsterdam | 25441 | tor-exit.nl4.2cb.li |
+| 78.130.199.40 | 4 | 1768493290 | 1771423293 | EU | BG | Sofia | 9070 | clients-pools.pl.cooolbox.bg |
+| 45.9.148.50 | 4 | 1738263796 | 1771423293 | EU | NL | Amsterdam | 49447 | nl-tor.nicevps.net |
+| 43.157.157.73 | 4 | 1769573061 | 1771423293 | SA | BR | São Paulo | 132203 |  |
+| 37.235.49.90 | 4 | 1771153448 | 1771423293 | EU | IS | Hafnarfjordur | 50613 | 90.49.235.37.static.edisglobal.com |
+| 31.129.22.65 | 4 | 1706358453 | 1771423293 | EU | PT | Viana do Castelo | 207713 | sacco.osservatorionessuno.org |
+| 185.11.136.232 | 4 | 1714870901 | 1771423293 | EU | DE |  | 48823 | www.rubbeldiekatz.info |
+| 178.79.154.219 | 4 | 1706907777 | 1771423293 | EU | GB | London | 63949 | 178-79-154-219.ip.linodeusercontent.com |
+| 167.17.40.238 | 4 | 1771178523 | 1771423293 | EU | FI | Helsinki |  | tor-exit.fi.2cb.li |
+| 159.195.71.90 | 4 | 1771160522 | 1771423293 | EU | DE | Nuremberg |  | v2202512322449422885.ultrasrv.de |
+| 147.45.51.193 | 4 | 1766307717 | 1771423293 | EU | IT | Milan | 2895 | 115498.ip-ptr.tech |
+| 141.98.233.171 | 4 | 1771290480 | 1771423293 | EU | BE |  |  | 163572.ip-ptr.tech |
+| 109.122.196.109 | 4 | 1771257712 | 1771423293 | EU | DE | Frankfurt am Main | 48678 | instance261256.waicore.network |
+| 89.34.230.17 | 4 | 1771103080 | 1771423292 | EU | NL | Amsterdam | 39543 |  |
+| 82.221.139.190 | 4 | 1698438009 | 1771423292 | EU | IS |  | 50613 | tor-and-gnunet-readme.ageinghacker.net |
+| 80.71.228.8 | 4 | 1771063300 | 1771423292 | NA | US | Grand Rapids |  | tor.cozycritters.eu |
+| 57.131.30.92 | 4 | 1770952060 | 1771423292 | EU | IT |  |  | tor-exit.acenlabs.org |
+| 5.252.154.89 | 4 | 1770890669 | 1771423292 | NA | PA |  | 30860 |  |
+| 45.58.190.74 | 4 | 1755911157 | 1771423292 | NA | US |  | 46844 | vira10.granvillano.eu |
+| 37.77.56.238 | 4 | 1738303369 | 1771423292 | EU | EE | Tallinn | 210636 |  |
+| 37.228.129.189 | 4 | 1738962183 | 1771423292 | EU | FI |  | 200651 |  |
+| 23.137.253.125 | 4 | 1770865303 | 1771423292 | NA | US |  | 210630 | static.23-137-253-125.isp.st |
+| 185.246.191.53 | 4 | 1766016158 | 1771423292 | EU | IS |  |  |  |
+| 185.241.208.82 | 4 | 1751036515 | 1771423292 | EU | PL | Warsaw | 210558 | SQUY |
+| 178.162.175.5 | 4 | 1736063655 | 1771423292 | EU | NL |  | 60781 | hosted-by.leaseweb.com |
+| 176.125.240.208 | 4 | 1765983728 | 1771423292 | EU | RU |  | 48430 | 22cilan |
+| 107.189.5.249 | 4 | 1739149431 | 1771423292 | EU | LU | Luxembourg | 53667 | tor-exit.hackb4.2mpd.com |
+| 93.123.12.112 | 4 | 1698437987 | 1771423291 | EU | BG |  | 34224 |  |
+| 89.185.80.94 | 4 | 1770624285 | 1771423291 | NA | US | Phoenix | 207967 | 115498.ip-ptr.tech |
+| 80.66.72.160 | 4 | 1770624281 | 1771423291 | EU | DE | Frankfurt am Main | 210512 |  |
+| 45.94.31.228 | 4 | 1768575869 | 1771423291 | EU | NL | Lelystad | 211826 |  |
+| 38.135.24.176 | 4 | 1759946615 | 1771423291 | NA | US | Somers | 174 |  |
+| 195.47.238.91 | 4 | 1731124927 | 1771423291 | EU | SE |  | 30893 | tor-9.no-ack.net |
+| 195.47.238.83 | 4 | 1729346533 | 1771423291 | EU | SE |  | 30893 | tor-2.datanerd.se |
+| 194.53.137.42 | 4 | 1769130732 | 1771423291 | EU | ES | Madrid | 9009 |  |
+| 192.109.200.33 | 4 | 1770760956 | 1771423291 | EU | SE | Stockholm |  | bizarrecake.ptr.network |
+| 185.227.68.78 | 4 | 1698437932 | 1771423291 | EU | FI | Helsinki | 206804 |  |
+| 185.113.128.30 | 4 | 1698437990 | 1771423291 | EU | GB | London | 42831 | psiren-tor.gigatux.com |
+| 163.172.84.90 | 4 | 1770555732 | 1771423291 | EU | FR | Paris | 12876 | 163-172-84-90.tor-exit-node.cig.sh |
+| 139.59.189.51 | 4 | 1770746522 | 1771423291 | EU | GB | Slough | 14061 |  |
+| 130.193.15.79 | 4 | 1698507088 | 1771423291 | EU | CZ |  | 29134 | vps121143.cloud-anywhere.eu |
+| 94.75.225.81 | 4 | 1698438006 | 1771423290 | EU | NL |  | 60781 |  |
+| 94.249.175.34 | 4 | 1770411706 | 1771423290 | EU | NL | Amsterdam | 12586 | tor-exit-contact-saigyouji-at-cock-lu |
+| 92.119.164.208 | 4 | 1766592274 | 1771423290 | EU | DE |  | 3320 | lain.92.119.164.208.aluy.net |
+| 81.19.140.246 | 4 | 1765069597 | 1771423290 | NA | CA |  | 207713 | 115498.ip-ptr.tech |
+| 209.141.58.254 | 4 | 1738695753 | 1771423290 | NA | US | Las Vegas | 53667 | backup01.dnswp.com |
+| 209.141.40.68 | 4 | 1738695753 | 1771423290 | NA | US | Las Vegas | 53667 |  |
+| 209.141.34.15 | 4 | 1738695753 | 1771423290 | NA | US | Las Vegas | 53667 | valefor.vile.sx |
+| 205.185.121.177 | 4 | 1738695752 | 1771423290 | NA | US | Las Vegas | 53667 | tor-exit-3.0xem.ma |
+| 195.47.238.44 | 4 | 1745956960 | 1771423290 | EU | SE |  | 30893 | anonode.se-1.prod.encrypt.co.il |
+| 194.53.137.156 | 4 | 1740528139 | 1771423290 | EU | ES | Madrid | 9009 |  |
+| 185.132.53.150 | 4 | 1758492112 | 1771423290 | EU | DE |  |  | tor-01.sy.st |
+| 185.11.139.198 | 4 | 1715378577 | 1771423290 | EU | DE |  | 48823 | 185.11.136.232 |
+| 179.43.134.22 | 4 | 1770206503 | 1771423290 | EU | CH | Rümlang | 51852 | hostedby.privatelayer.com |
+| 149.202.79.101 | 4 | 1698437962 | 1771423290 | EU | FR |  | 16276 | ns3016085.ip-149-202-79.eu |
+| 94.156.152.8 | 4 | 1759658634 | 1771423289 | EU | BG |  | 8100 |  |
+| 87.118.110.27 | 4 | 1698437977 | 1771423289 | EU | DE |  | 31103 | www.miner.dk |
+| 81.17.24.237 | 4 | 1767679469 | 1771423289 | EU | CH | Zurich | 51852 | hostedby.privatelayer.com |
+| 67.219.109.141 | 4 | 1699403402 | 1771423289 | OC | AU | Melbourne | 20473 | tor-exit-au-42.project-privacy.com.au |
+| 5.34.182.203 | 4 | 1714708885 | 1771423289 | EU | UA | Kyiv | 15626 | replacement.118668.server.net |
+| 5.255.99.124 | 4 | 1698437979 | 1771423289 | EU | NL | Dronten | 60404 |  |
+| 5.255.101.10 | 4 | 1698437984 | 1771423289 | EU | NL | Dronten | 60404 | tor-exit-3.aa78i2efsewr0neeknk.xyz |
+| 203.202.232.160 | 4 | 1763521368 | 1771423289 | AS | TR | Istanbul | 18229 |  |
+| 178.170.114.117 | 4 | 1769738544 | 1771423289 | EU | FR |  | 21409 | tor-exit-node.frhb99701flex.ikexpress.com |
+| 176.65.148.133 | 4 | 1745654504 | 1771423289 | EU | NL | Eygelshoven |  |  |
+| 172.86.70.20 | 4 | 1769608936 | 1771423289 | EU | DE | Frankfurt am Main | 14956 | 20.70.86.172.static.cloudzy.com |
+| 172.232.219.78 | 4 | 1770109302 | 1771423289 | EU | IT | Milan | 63949 | 172-232-219-78.ip.linodeusercontent.com |
+| 152.53.170.213 | 4 | 1766437319 | 1771423289 | NA | US | Manassas |  | nobody.yourvserver.net |
+| 107.189.20.102 | 4 | 1769562270 | 1771423289 | EU | NL | Zaandam | 53667 | 102.20.189.107.static.cloudzy.com |
+| 51.15.59.15 | 4 | 1698437939 | 1771423288 | EU | NL | Haarlem | 12876 | 15-59-15-51.instances.scw.cloud |
+| 5.255.97.184 | 4 | 1769699076 | 1771423288 | EU | NL | Dronten | 60404 |  |
+| 5.255.117.152 | 4 | 1769695475 | 1771423288 | EU | NL | Dronten | 60404 |  |
+| 5.255.117.134 | 4 | 1769699076 | 1771423288 | EU | NL | Dronten | 60404 |  |
+| 5.255.115.48 | 4 | 1769695475 | 1771423288 | EU | NL | Dronten | 60404 |  |
+| 5.255.104.35 | 4 | 1769695474 | 1771423288 | EU | NL | Dronten | 60404 |  |
+| 216.239.90.19 | 4 | 1698437954 | 1771423288 | NA | CA |  | 10996 | tor-gateway.vif.com |
+| 212.95.50.223 | 4 | 1769698990 | 1771423288 | EU | DE |  | 28753 |  |
+| 185.132.53.58 | 4 | 1769695340 | 1771423288 | EU | DE |  |  | lain.185.132.53.58.aluy.net |
+| 185.132.53.47 | 4 | 1734058909 | 1771423288 | EU | DE |  |  |  |
+| 185.132.53.45 | 4 | 1769698941 | 1771423288 | EU | DE |  |  | lain.185.132.53.45.aluy.net |
+| 185.132.53.37 | 4 | 1769695340 | 1771423288 | EU | DE |  |  | lain.185.132.53.37.aluy.net |
+| 185.132.53.27 | 4 | 1769698941 | 1771423288 | EU | DE |  |  | lain.185.132.53.27.aluy.net |
+| 185.132.53.107 | 4 | 1759726910 | 1771423288 | EU | DE |  |  | lain.185.132.53.107.al.uy |
+| 95.135.208.24 | 4 | 1769652291 | 1771423287 | EU | NL | Amsterdam | 6849 | static.95.135.208.24.deluxhost.net |
+| 93.94.51.56 | 4 | 1769382297 | 1771423287 | EU | DE | Frankfurt am Main |  |  |
+| 92.118.112.83 | 4 | 1769587487 | 1771423287 | NA | US | Atlanta | 207713 | 115498.ip-ptr.tech |
+| 45.143.200.32 | 4 | 1752213800 | 1771423287 | EU | CH | Zurich | 212283 | 115498.ip-ptr.tech |
+| 43.159.138.176 | 4 | 1769576673 | 1771423287 | NA | US | Santa Clara | 132203 |  |
+| 43.157.71.110 | 4 | 1769573061 | 1771423287 | EU | DE | Frankfurt am Main | 132203 |  |
+| 38.135.25.136 | 4 | 1769414660 | 1771423287 | NA | US | Somers | 174 |  |
+| 38.135.24.120 | 4 | 1769411067 | 1771423287 | NA | US | Somers | 174 |  |
+| 185.208.159.170 | 4 | 1769396537 | 1771423287 | NA | US | Houston |  | privatealps.net |
+| 185.132.53.11 | 4 | 1769608943 | 1771423287 | EU | DE |  |  | lain.185.132.53.11.aluy.net |
+| 178.17.58.241 | 4 | 1769385735 | 1771423287 | EU | DE | Frankfurt am Main |  |  |
+| 158.94.211.63 | 4 | 1769673728 | 1771423287 | NA | US | New York | 786 | tor-exit.us.2cb.li |
+| 104.244.73.14 | 4 | 1768612693 | 1771423287 | EU | CH |  | 53667 | away.twr.mib.mybluehost.me |
+| 103.253.24.18 | 4 | 1698438000 | 1771423287 | AS | SG |  | 6939 |  |
+| 97.90.239.170 | 4 | 1761123848 | 1771423286 | NA | US | Buffalo | 20115 | syn-097-090-239-170.res.spectrum.com |
+| 80.253.251.75 | 4 | 1768982686 | 1771423286 | EU | DE | Frankfurt am Main | 60781 |  |
+| 64.188.93.178 | 4 | 1769303581 | 1771423286 | EU | FI | Helsinki | 46339 | vm719078.hosted-by.u1host.com |
+| 46.165.194.56 | 4 | 1768979081 | 1771423286 | EU | DE |  | 28753 |  |
+| 45.9.156.106 | 4 | 1768187058 | 1771423286 | EU | BG | Sofia | 206003 | bulgaria.bronk-ict.nl |
+| 45.138.16.125 | 4 | 1769357074 | 1771423286 | EU | PL | Warsaw | 210558 | tor-exit.pl.2cb.li |
+| 38.134.41.34 | 4 | 1769324666 | 1771423286 | NA | US | Houston | 174 | yamame-tor-exit.houraisan.net |
+| 37.187.74.97 | 4 | 1721599562 | 1771423286 | EU | FR |  | 16276 | ns3364969.ip-37-187-74.eu |
+| 31.133.0.235 | 4 | 1757365413 | 1771423286 | EU | PL |  | 51290 | tor.caspervk.net |
+| 193.46.217.136 | 4 | 1769256171 | 1771423286 | NA | US | Fremont |  |  |
+| 185.93.89.96 | 4 | 1769022286 | 1771423286 | AS | IR |  |  |  |
+| 161.129.68.162 | 4 | 1742824900 | 1771423286 | NA | US | Dallas | 8100 | vps3013924.trouble-free.net |
+| 144.31.253.90 | 4 | 1768834929 | 1771423286 | EU | NL | Amsterdam |  | vm704050.hosted-by.u1host.com |
+| 137.74.114.130 | 4 | 1769266931 | 1771423286 | EU | FR |  | 16276 | vps-82a30cbc.vps.ovh.net |
+| 94.249.175.18 | 4 | 1768863894 | 1771423285 | EU | NL | Amsterdam | 12586 | tor-exit.nl2.2cb.li |
+| 78.159.131.103 | 4 | 1757826226 | 1771423285 | EU | AL |  |  | 115498.ip-ptr.tech |
+| 45.95.169.119 | 4 | 1768716277 | 1771423285 | EU | HR | Sisak | 211619 | tor-exit-croatia.bronk-ict.nl |
+| 45.80.158.111 | 4 | 1766775877 | 1771423285 | EU | PL | Warsaw | 210558 | sortie-tor.a-n-o-n-y-m-e.net |
+| 205.185.113.112 | 4 | 1768849410 | 1771423285 | NA | US | Las Vegas | 53667 | exit0.privacyisaright.me |
+| 185.225.69.225 | 4 | 1760184125 | 1771423285 | EU | HU | Budapest | 30836 |  |
+| 185.225.69.222 | 4 | 1760184125 | 1771423285 | EU | HU | Budapest | 30836 |  |
+| 185.220.101.184 | 4 | 1698437970 | 1771423285 | EU | DE | Brandenburg | 60729 | tor-exit-184.relayon.org |
+| 185.220.101.177 | 4 | 1698507105 | 1771423285 | EU | DE | Brandenburg | 60729 | tor-exit-177.relayon.org |
+| 185.220.101.171 | 4 | 1698438596 | 1771423285 | EU | DE | Schönwalde | 60729 | tor-exit-171.relayon.org |
+| 185.220.101.159 | 4 | 1698438009 | 1771423285 | EU | DE | Brandenburg | 60729 | tor-exit-159.relayon.org |
+| 185.220.101.150 | 4 | 1698438011 | 1771423285 | EU | DE | Brandenburg | 60729 | tor-exit-150.relayon.org |
+| 185.220.101.134 | 4 | 1698438009 | 1771423285 | EU | DE | Brandenburg | 60729 | tor-exit-134.relayon.org |
+| 180.149.44.96 | 4 | 1768921340 | 1771423285 | AS | AZ | Baku | 202422 | petidix7863.example.com |
+| 131.72.79.38 | 4 | 1749034894 | 1771423285 | NA | TT | Princes Town | 264811 | 131-72-79-38.rev.airlinkdc.com |
+| 185.220.101.191 | 4 | 1698437990 | 1771423284 | EU | DE | Brandenburg | 60729 | tor-exit-191.relayon.org |
+| 185.220.101.190 | 4 | 1698438597 | 1771423284 | EU | DE | Brandenburg | 60729 | tor-exit-190.relayon.org |
+| 185.220.101.189 | 4 | 1698507106 | 1771423284 | EU | DE | Brandenburg | 60729 | tor-exit-189.relayon.org |
+| 185.220.101.180 | 4 | 1698438597 | 1771423284 | EU | DE | Brandenburg | 60729 | tor-exit-180.relayon.org |
+| 185.220.101.173 | 4 | 1698437990 | 1771423284 | EU | DE | Brandenburg | 60729 | tor-exit-173.relayon.org |
+| 185.220.101.168 | 4 | 1698507104 | 1771423284 | EU | DE | Brandenburg | 60729 | tor-exit-168.relayon.org |
+| 185.220.101.167 | 4 | 1698438596 | 1771423284 | EU | DE | Brandenburg | 60729 | tor-exit-167.relayon.org |
+| 185.220.101.163 | 4 | 1698438596 | 1771423284 | EU | DE | Brandenburg | 60729 | tor-exit-163.relayon.org |
+| 185.220.101.151 | 4 | 1698438010 | 1771423284 | EU | DE | Brandenburg | 60729 | tor-exit-151.relayon.org |
+| 185.220.101.149 | 4 | 1698438010 | 1771423284 | EU | DE | Brandenburg | 60729 | tor-exit-149.relayon.org |
+| 185.220.101.148 | 4 | 1698438010 | 1771423284 | EU | DE | Brandenburg | 60729 | tor-exit-148.relayon.org |
+| 185.220.101.146 | 4 | 1698438009 | 1771423284 | EU | DE | Brandenburg | 60729 | tor-exit-146.relayon.org |
+| 185.220.101.141 | 4 | 1698438009 | 1771423284 | EU | DE | Brandenburg | 60729 | tor-exit-141.relayon.org |
+| 185.220.101.128 | 4 | 1698438011 | 1771423284 | EU | DE | Brandenburg | 60729 | tor-exit-128.relayon.org |
+| 192.42.116.28 | 4 | 1698437961 | 1771423283 | EU | NL |  | 1101 | this-is-a-tor-exit-node-hviv128.hviv.nl |
+| 192.42.116.27 | 4 | 1698437998 | 1771423283 | EU | NL |  | 1101 | this-is-a-tor-exit-node-hviv127.hviv.nl |
+| 192.42.116.26 | 4 | 1698437993 | 1771423283 | EU | NL |  | 1101 | this-is-a-tor-exit-node-hviv126.hviv.nl |
+| 192.42.116.22 | 4 | 1698437996 | 1771423283 | EU | NL |  | 1101 | this-is-a-tor-exit-node-hviv122.hviv.nl |
+| 192.42.116.17 | 4 | 1698437996 | 1771423283 | EU | NL |  | 1101 | this-is-a-tor-exit-node-hviv117.hviv.nl |
+| 192.42.116.14 | 4 | 1698437977 | 1771423283 | EU | NL |  | 1101 | this-is-a-tor-exit-node-hviv114.hviv.nl |
+| 185.62.58.165 | 4 | 1767844957 | 1771423283 | EU | NL |  | 62370 | tor-exit-temp.bronk-ict.nl |
+| 185.220.101.181 | 4 | 1698437997 | 1771423283 | EU | DE | Brandenburg | 60729 | tor-exit-181.relayon.org |
+| 185.220.101.178 | 4 | 1698438597 | 1771423283 | EU | DE | Brandenburg | 60729 | tor-exit-178.relayon.org |
+| 185.220.101.161 | 4 | 1698437955 | 1771423283 | EU | DE | Brandenburg | 60729 | tor-exit-161.relayon.org |
+| 185.220.101.142 | 4 | 1698438594 | 1771423283 | EU | DE | Brandenburg | 60729 | tor-exit-142.relayon.org |
+| 185.132.53.121 | 4 | 1768575740 | 1771423283 | EU | DE |  |  | tor-exit.nl.2cb.li |
+| 172.105.179.100 | 4 | 1768633330 | 1771423283 | OC | AU | Sydney | 63949 | 172-105-179-100.ip.linodeusercontent.com |
+| 144.31.120.166 | 4 | 1768496604 | 1771423283 | EU | DE | Frankfurt am Main |  | exit.gaukova.ru |
+| 91.212.45.214 | 4 | 1768370703 | 1771423282 | EU | NL | Amsterdam |  | tor-exit-ams.bronk-ict.nl |
+| 45.137.99.182 | 4 | 1756073013 | 1771423282 | EU | RO | Orăştie | 209242 |  |
+| 44.30.4.69 | 4 | 1757412241 | 1771423282 | EU | PL | Ciechanów | 7377 | test.sq5wep.pl |
+| 23.129.64.138 | 4 | 1698437995 | 1771423282 | NA | US |  | 396507 |  |
+| 194.32.107.231 | 4 | 1768493081 | 1771423282 | EU | NO | Sandefjord | 56655 |  |
+| 185.220.101.97 | 4 | 1706118295 | 1771423282 | EU | DE | Brandenburg | 60729 | tor-exit-97.digitalcourage.de |
+| 185.220.101.110 | 4 | 1706118252 | 1771423282 | EU | DE | Brandenburg | 60729 | tor-exit-110.digitalcourage.de |
+| 185.220.101.108 | 4 | 1706118251 | 1771423282 | EU | DE | Brandenburg | 60729 | tor-exit-108.digitalcourage.de |
+| 185.220.101.105 | 4 | 1706118251 | 1771423282 | EU | DE | Brandenburg | 60729 | tor-exit-105.digitalcourage.de |
+| 185.220.101.104 | 4 | 1706118251 | 1771423282 | EU | DE | Brandenburg | 60729 | tor-exit-104.digitalcourage.de |
+| 185.220.101.103 | 4 | 1706118251 | 1771423282 | EU | DE | Brandenburg | 60729 | tor-exit-103.digitalcourage.de |
+| 185.220.101.101 | 4 | 1706118251 | 1771423282 | EU | DE | Brandenburg | 60729 | tor-exit-101.digitalcourage.de |
+| 185.220.101.100 | 4 | 1706118251 | 1771423282 | EU | DE | Brandenburg | 60729 | tor-exit-100.digitalcourage.de |
+| 167.86.67.104 | 4 | 1768374208 | 1771423282 | EU | DE | Nuremberg | 51167 | vmi3019662.contaboserver.net |
+| 52.149.123.145 | 4 | 1767967469 | 1771423281 | EU | NL | Amsterdam | 8075 |  |
+| 5.255.123.158 | 4 | 1721588653 | 1771423281 | EU | NL | Dronten | 60404 |  |
+| 23.137.251.75 | 4 | 1768150988 | 1771423281 | EU | BG | Sofia | 210630 | rdns.23-137-251-75.isp.st |
+| 185.220.101.99 | 4 | 1706118295 | 1771423281 | EU | DE | Brandenburg | 60729 | tor-exit-99.digitalcourage.de |
+| 185.220.101.98 | 4 | 1706118295 | 1771423281 | EU | DE | Brandenburg | 60729 | tor-exit-98.digitalcourage.de |
+| 185.220.101.96 | 4 | 1706118295 | 1771423281 | EU | DE | Brandenburg | 60729 | tor-exit-96.digitalcourage.de |
+| 185.220.101.109 | 4 | 1706118252 | 1771423281 | EU | DE | Brandenburg | 60729 | tor-exit-109.digitalcourage.de |
+| 185.220.101.107 | 4 | 1706118251 | 1771423281 | EU | DE | Brandenburg | 60729 | tor-exit-107.digitalcourage.de |
+| 185.220.101.106 | 4 | 1706118251 | 1771423281 | EU | DE | Brandenburg | 60729 | tor-exit-106.digitalcourage.de |
+| 185.220.101.102 | 4 | 1706118251 | 1771423281 | EU | DE | Brandenburg | 60729 | tor-exit-102.digitalcourage.de |
+| 178.17.170.23 | 4 | 1698437990 | 1771423281 | EU | MD | Chisinau | 43289 | 178-17-170-23.static.as43289.net |
+| 176.65.149.96 | 4 | 1744322508 | 1771423281 | EU | NL | Eygelshoven |  |  |
+| 176.65.148.3 | 4 | 1744322462 | 1771423281 | EU | NL | Eygelshoven |  |  |
+| 176.118.193.33 | 4 | 1698437991 | 1771423281 | EU | AT |  | 44486 |  |
+| 95.168.173.143 | 4 | 1698437972 | 1771423280 | EU | NL |  | 60781 |  |
+| 94.136.185.218 | 4 | 1767603880 | 1771423280 | AS | IN | Mumbai |  | vmi3004789.contaboserver.net |
+| 93.113.25.90 | 4 | 1767564270 | 1771423280 | EU | RO | Orăştie | 9050 |  |
+| 93.113.25.109 | 4 | 1767816333 | 1771423280 | EU | RO | Orăştie | 9050 | tor-exit.ro.2cb.li |
+| 92.119.165.108 | 4 | 1767899098 | 1771423280 | EU | DE |  | 3320 |  |
+| 54.36.108.162 | 4 | 1698437969 | 1771423280 | EU | FR |  | 16276 | ns3112521.ip-54-36-108.eu |
+| 51.15.15.81 | 4 | 1767902707 | 1771423280 | EU | NL | Haarlem | 12876 | 51-15-15-81.rev.poneytelecom.eu |
+| 5.255.119.76 | 4 | 1767873870 | 1771423280 | EU | NL | Dronten | 60404 |  |
+| 5.255.102.26 | 4 | 1767783870 | 1771423280 | EU | NL | Dronten | 60404 |  |
+| 46.38.236.103 | 4 | 1767744489 | 1771423280 | EU | DE | Nuremberg | 197540 | geistslowysrelay-tor-exit-node.net |
+| 23.137.253.113 | 4 | 1756537359 | 1771423280 | NA | US |  | 210630 | sn-tor-exit01.slugnet.org |
+| 195.160.220.104 | 4 | 1698438006 | 1771423280 | EU | NL | Haarlem |  | dedicated.sollutium.com |
+| 194.32.107.172 | 4 | 1767657771 | 1771423280 | EU | NO | Sandefjord | 56655 | static.194.32.107.172.terrahost.com |
+| 193.105.134.254 | 4 | 1767931362 | 1771423280 | EU | SE | Stockholm | 42237 |  |
+| 93.94.51.138 | 4 | 1767168281 | 1771423279 | EU | DE | Frankfurt am Main |  |  |
+| 74.50.118.26 | 4 | 1767517470 | 1771423279 | NA | US |  |  | mail.banzaitracker.com |
+| 66.78.40.91 | 4 | 1767377070 | 1771423279 | NA | US |  | 21769 | tor-exit-usa.bronk-ict.nl |
+| 64.190.76.14 | 4 | 1764443057 | 1771423279 | EU | IT |  | 11696 |  |
+| 45.95.233.104 | 4 | 1760836774 | 1771423279 | EU | FR |  | 207713 | 115498.ip-ptr.tech |
+| 38.135.25.140 | 4 | 1767211490 | 1771423279 | NA | US | Somers | 174 |  |
+| 216.9.225.157 | 4 | 1767182589 | 1771423279 | NA | US |  | 208287 | static-216-9-225-157.whitelabelservices.us |
+| 216.73.159.75 | 4 | 1698437933 | 1771423279 | SA | CL | Valdivia | 61138 |  |
+| 185.126.114.110 | 4 | 1755306264 | 1771423279 | EU | UA | Mykolayiv | 3236 |  |
+| 171.25.158.113 | 4 | 1767380669 | 1771423279 | EU | SE | Vaxjo | 35100 |  |
+| 107.189.27.145 | 4 | 1760663932 | 1771423279 | EU | NL | Zaandam | 53667 | 145.27.189.107.static.cloudzy.com |
+| 107.189.12.157 | 4 | 1764889305 | 1771423279 | EU | DE | Frankfurt am Main | 53667 | tor-exit.2cb.network |
+| 104.167.242.118 | 4 | 1706430090 | 1771423279 | NA | US |  | 398355 |  |
+| 104.167.242.117 | 4 | 1706430086 | 1771423279 | NA | US |  | 398355 |  |
+| 80.66.72.134 | 4 | 1766991869 | 1771423278 | EU | DE | Frankfurt am Main | 210512 |  |
+| 45.80.158.249 | 4 | 1766851453 | 1771423278 | EU | PL | Warsaw | 210558 |  |
+| 38.135.25.127 | 4 | 1766862259 | 1771423278 | NA | US | Somers | 174 |  |
+| 23.151.8.88 | 4 | 1767063697 | 1771423278 | NA | US |  | 11721 |  |
+| 23.134.90.61 | 4 | 1766908988 | 1771423278 | EU | CH | Zurich | 924 | 61-90-134-23.kc-mo.default.cloudie.us |
+| 23.134.90.60 | 4 | 1766908988 | 1771423278 | EU | CH | Zurich | 924 | 60-90-134-23.kc-mo.default.cloudie.us |
+| 195.47.238.50 | 4 | 1766206960 | 1771423278 | EU | SE |  | 30893 |  |
+| 185.62.56.249 | 4 | 1766858543 | 1771423278 | EU | NL |  | 62370 | development.bronk-ict.nl |
+| 185.243.218.233 | 4 | 1766865817 | 1771423278 | EU | NO | Sandefjord | 56655 |  |
+| 185.243.218.232 | 4 | 1766872948 | 1771423278 | EU | NO | Sandefjord | 56655 |  |
+| 185.243.218.231 | 4 | 1766944942 | 1771423278 | EU | NO | Sandefjord | 56655 |  |
+| 176.65.134.9 | 4 | 1768320092 | 1771423278 | EU | SI |  |  | 176.65.134.9 |
+| 176.121.81.51 | 4 | 1698437996 | 1771423278 | EU | PL | Wroclaw | 59444 | host-176-121-81-51.amsnet.pl |
+| 144.208.79.169 | 4 | 1752044497 | 1771423278 | NA | US |  | 54641 |  |
+| 74.208.192.81 | 4 | 1766448264 | 1771423277 | NA | US |  | 8560 | ip74-208-192-81.pbiaas.com |
+| 5.255.111.52 | 4 | 1766700264 | 1771423277 | EU | NL | Dronten | 60404 |  |
+| 5.2.79.179 | 4 | 1698437975 | 1771423277 | EU | NL |  | 60404 |  |
+| 45.94.31.68 | 4 | 1718215378 | 1771423277 | EU | NL | Lelystad | 211826 |  |
+| 45.9.168.106 | 4 | 1766603081 | 1771423277 | EU | HU | Nyíregyháza | 211619 | vps22160.maxko-hosting.net |
+| 45.80.158.165 | 4 | 1766790258 | 1771423277 | EU | PL | Warsaw | 210558 |  |
+| 45.141.215.227 | 4 | 1766772254 | 1771423277 | EU | PL | Warsaw | 210558 |  |
+| 23.134.88.61 | 4 | 1766916185 | 1771423277 | NA | US |  | 924 | 61-88-134-23.fmt-us.tor-exit.fevi.net |
+| 23.134.88.60 | 4 | 1766829778 | 1771423277 | NA | US |  | 924 | 60-88-134-23.fmt-us.tor-exit.fevi.net |
+| 198.98.61.60 | 4 | 1698437991 | 1771423277 | NA | US | Staten Island | 53667 |  |
+| 185.246.190.137 | 4 | 1766545350 | 1771423277 | EU | IS |  |  |  |
+| 185.246.190.136 | 4 | 1766545350 | 1771423277 | EU | IS |  |  |  |
+| 185.241.208.136 | 4 | 1766761349 | 1771423277 | EU | PL | Warsaw | 210558 | ns2.rdp.rs |
+| 180.150.226.99 | 4 | 1698437935 | 1771423277 | AS | KR |  | 45382 |  |
+| 95.211.244.28 | 4 | 1698437952 | 1771423276 | EU | NL |  | 60781 |  |
+| 95.143.193.125 | 4 | 1698437940 | 1771423276 | EU | SE |  | 49770 |  |
+| 89.99.115.4 | 4 | 1766099076 | 1771423276 | EU | NL | Amsterdam | 33915 | 89-99-115-4.cable.dynamic.v4.ziggo.nl |
+| 86.54.28.49 | 4 | 1737659139 | 1771423276 | EU | NL | Amsterdam | 206509 | tor-exit.afflicted.sh |
+| 78.153.140.44 | 4 | 1750071811 | 1771423276 | EU | GB | City of London | 49469 | teufel.dorfdsl.de |
+| 67.217.244.5 | 4 | 1756004630 | 1771423276 | NA | US |  |  | ip67-217-244-5.pbiaas.com |
+| 62.60.232.4 | 4 | 1766311464 | 1771423276 | AS | HK | Hong Kong | 142578 | 115498.ip-ptr.tech |
+| 51.38.225.46 | 4 | 1719500581 | 1771423276 | EU | FR |  | 16276 | vps-d19ace40.vps.ovh.net |
+| 5.79.66.19 | 4 | 1698437933 | 1771423276 | EU | NL |  | 60781 |  |
+| 213.95.149.22 | 4 | 1698437968 | 1771423276 | EU | DE | Nuremberg | 12337 | tor2.smurf.noris.de |
+| 194.32.107.87 | 4 | 1766203355 | 1771423276 | EU | NO | Sandefjord | 56655 | static.194.32.107.87.terrahost.com |
+| 194.32.107.163 | 4 | 1766203355 | 1771423276 | EU | NO | Sandefjord | 56655 |  |
+| 107.189.14.43 | 4 | 1698437978 | 1771423276 | EU | LU | Luxembourg | 53667 | tor-exit-node-46344-l.supermegaultra.xyz |
+| 103.28.52.93 | 4 | 1698438206 | 1771423276 | AS | ID |  | 136052 | ip93.52.28.103.in-addr.arpa.unknwn.cloudhost.asia |
+| 94.154.172.227 | 4 | 1765681482 | 1771423275 | EU | BG |  | 206003 | tor-exit.cembranutboys.de |
+| 84.212.130.191 | 4 | 1763550249 | 1771423275 | EU | NO | Oslo | 41164 | cm-84.212.130.191.get.no |
+| 45.138.16.118 | 4 | 1765861450 | 1771423275 | EU | PL | Warsaw | 210558 | coinbase.websupport.ltd |
+| 38.60.250.79 | 4 | 1756641812 | 1771423275 | EU | DE | Frankfurt am Main | 138915 |  |
+| 198.50.212.160 | 4 | 1746212586 | 1771423275 | NA | CA |  | 16276 | tor.ki5qhc.com |
+| 193.26.115.140 | 4 | 1749222128 | 1771423275 | NA | US | Miami | 23470 | Miami3Tor.quetzalcoatl-relays.org |
+| 185.241.208.234 | 4 | 1765854152 | 1771423275 | EU | PL | Warsaw | 210558 |  |
+| 176.65.149.105 | 4 | 1745571705 | 1771423275 | EU | NL | Eygelshoven |  |  |
+| 173.237.206.68 | 4 | 1698437948 | 1771423275 | NA | US |  | 26527 | host173-237-206-68.lightwavenetworks.com |
+| 158.174.210.97 | 4 | 1765814526 | 1771423275 | EU | SE | Örebro | 8473 | h-158-174-210-97.na.cust.bahnhof.se |
+| 149.56.44.47 | 4 | 1698437929 | 1771423275 | NA | CA | Montreal | 16276 | 47.ip-149-56-44.net |
+| 147.45.116.17 | 4 | 1765526522 | 1771423275 | SA | BR | São Paulo | 2895 | 115498.ip-ptr.tech |
+| 125.212.241.131 | 4 | 1698437991 | 1771423275 | AS | VN | Ho Chi Minh City | 38731 | server.teetalk.vn |
+| 103.91.65.44 | 4 | 1757332894 | 1771423275 | AS | MY | Cyberjaya | 55720 |  |
+| 81.19.141.199 | 4 | 1763366650 | 1771423274 | EU | DE | Frankfurt am Main | 207713 | 115498.ip-ptr.tech |
+| 80.78.18.86 | 4 | 1764950669 | 1771423274 | EU | SE |  | 39287 | tor-exit-relay.504e1256.host.njalla.net |
+| 206.206.192.178 | 4 | 1765321381 | 1771423274 | NA | US | Tempe | 2900 |  |
+| 193.228.128.170 | 4 | 1765526559 | 1771423274 | EU | RU |  | 207713 | 115498.ip-ptr.tech |
+| 185.220.101.6 | 4 | 1698437949 | 1771423274 | EU | DE | Brandenburg | 60729 | berlin01.tor-exit.artikel10.org |
+| 185.220.101.25 | 4 | 1698437942 | 1771423274 | EU | DE | Brandenburg | 60729 | berlin01.tor-exit.artikel10.org |
+| 185.220.101.20 | 4 | 1698437963 | 1771423274 | EU | DE | Brandenburg | 60729 | berlin01.tor-exit.artikel10.org |
+| 185.220.101.19 | 4 | 1698437946 | 1771423274 | EU | DE | Brandenburg | 60729 | berlin01.tor-exit.artikel10.org |
+| 185.220.101.16 | 4 | 1698437972 | 1771423274 | EU | DE | Brandenburg | 60729 | berlin01.tor-exit.artikel10.org |
+| 185.100.87.192 | 4 | 1698437949 | 1771423274 | EU | RO | Bucharest | 200651 | bucarest01.tor-exit.artikel10.org |
+| 172.234.92.148 | 4 | 1765317726 | 1771423274 | AS | JP | Osaka | 20940 | tor-exit.brokenbotnet.com |
+| 162.19.7.11 | 4 | 1753830101 | 1771423274 | EU | FR |  | 16276 | ip11.ip-162-19-7.eu |
+| 138.226.236.103 | 4 | 1762905715 | 1771423274 | EU | GB |  |  |  |
+| 128.31.0.13 | 4 | 1698437936 | 1771423274 | NA | US | Cambridge | 3 | tor-exit.csail.mit.edu |
+| 185.220.101.9 | 4 | 1698437988 | 1771423273 | EU | DE | Brandenburg | 60729 | berlin01.tor-exit.artikel10.org |
+| 185.220.101.8 | 4 | 1698437931 | 1771423273 | EU | DE | Brandenburg | 60729 | berlin01.tor-exit.artikel10.org |
+| 185.220.101.7 | 4 | 1698437963 | 1771423273 | EU | DE | Brandenburg | 60729 | berlin01.tor-exit.artikel10.org |
+| 185.220.101.3 | 4 | 1698437937 | 1771423273 | EU | DE | Brandenburg | 60729 | berlin01.tor-exit.artikel10.org |
+| 185.220.101.29 | 4 | 1698437960 | 1771423273 | EU | DE | Brandenburg | 60729 | berlin01.tor-exit.artikel10.org |
+| 185.220.101.28 | 4 | 1698437960 | 1771423273 | EU | DE | Brandenburg | 60729 | berlin01.tor-exit.artikel10.org |
+| 185.220.101.27 | 4 | 1698437931 | 1771423273 | EU | DE | Brandenburg | 60729 | berlin01.tor-exit.artikel10.org |
+| 185.220.101.24 | 4 | 1698437939 | 1771423273 | EU | DE | Brandenburg | 60729 | berlin01.tor-exit.artikel10.org |
+| 185.220.101.23 | 4 | 1698437940 | 1771423273 | EU | DE | Brandenburg | 60729 | berlin01.tor-exit.artikel10.org |
+| 185.220.101.15 | 4 | 1698437982 | 1771423273 | EU | DE | Brandenburg | 60729 | berlin01.tor-exit.artikel10.org |
+| 185.220.101.12 | 4 | 1698437931 | 1771423273 | EU | DE | Brandenburg | 60729 | berlin01.tor-exit.artikel10.org |
+| 185.220.101.10 | 4 | 1698437956 | 1771423273 | EU | DE | Brandenburg | 60729 | berlin01.tor-exit.artikel10.org |
+| 185.220.101.1 | 4 | 1698437936 | 1771423273 | EU | DE | Brandenburg | 60729 | berlin01.tor-exit.artikel10.org |
+| 185.220.101.0 | 4 | 1698437950 | 1771423273 | EU | DE | Brandenburg | 60729 | berlin01.tor-exit.artikel10.org |
+| 185.220.101.4 | 4 | 1698437928 | 1771423272 | EU | DE | Brandenburg | 60729 | berlin01.tor-exit.artikel10.org |
+| 185.220.101.31 | 4 | 1698437930 | 1771423272 | EU | DE | Brandenburg | 60729 | berlin01.tor-exit.artikel10.org |
+| 185.220.101.30 | 4 | 1698437955 | 1771423272 | EU | DE | Brandenburg | 60729 | berlin01.tor-exit.artikel10.org |
+| 185.220.101.26 | 4 | 1698437974 | 1771423272 | EU | DE | Brandenburg | 60729 | berlin01.tor-exit.artikel10.org |
+| 185.220.101.22 | 4 | 1698437963 | 1771423272 | EU | DE | Brandenburg | 60729 | berlin01.tor-exit.artikel10.org |
+| 185.220.101.21 | 4 | 1698437936 | 1771423272 | EU | DE | Brandenburg | 60729 | berlin01.tor-exit.artikel10.org |
+| 185.220.101.2 | 4 | 1698437955 | 1771423272 | EU | DE | Brandenburg | 60729 | berlin01.tor-exit.artikel10.org |
+| 185.220.101.18 | 4 | 1698437967 | 1771423272 | EU | DE | Brandenburg | 60729 | berlin01.tor-exit.artikel10.org |
+| 185.220.101.17 | 4 | 1698437951 | 1771423272 | EU | DE | Brandenburg | 60729 | berlin01.tor-exit.artikel10.org |
+| 185.220.101.14 | 4 | 1698437982 | 1771423272 | EU | DE | Brandenburg | 60729 | berlin01.tor-exit.artikel10.org |
+| 185.220.101.11 | 4 | 1698437959 | 1771423272 | EU | DE | Brandenburg | 60729 | berlin01.tor-exit.artikel10.org |
+| 185.100.87.250 | 4 | 1698437934 | 1771423272 | EU | RO | Bucharest | 200651 | bucarest01.tor-exit.artikel10.org |
+| 185.100.85.25 | 4 | 1698437942 | 1771423272 | EU | RO | Bucharest | 200651 | bucarest01.tor-exit.artikel10.org |
+| 185.100.85.24 | 4 | 1698437934 | 1771423272 | EU | RO | Bucharest | 200651 | bucarest01.tor-exit.artikel10.org |
+| 82.153.138.57 | 4 | 1762722235 | 1771423271 | EU | RO | Orăştie | 206509 | tor-exit.truck.obzgs5tbmn4q.org |
+| 82.153.138.184 | 4 | 1741201302 | 1771423271 | EU | RO | Orăştie | 206509 |  |
+| 64.190.76.13 | 4 | 1743959017 | 1771423271 | EU | IT |  | 11696 |  |
+| 64.190.76.11 | 4 | 1744455801 | 1771423271 | EU | IT |  | 11696 |  |
+| 51.158.151.177 | 4 | 1764630247 | 1771423271 | EU | NL | Haarlem | 12876 | 51-158-151-177.rev.poneytelecom.eu |
+| 45.80.158.143 | 4 | 1764641044 | 1771423271 | EU | PL | Warsaw | 210558 |  |
+| 45.80.158.142 | 4 | 1764605040 | 1771423271 | EU | PL | Warsaw | 210558 |  |
+| 45.141.215.16 | 4 | 1764619466 | 1771423271 | EU | PL | Warsaw | 210558 |  |
+| 45.137.201.100 | 4 | 1764741827 | 1771423271 | EU | IT | Milan | 39120 | lain.45.137.201.100.al.uy |
+| 23.137.255.85 | 4 | 1759403087 | 1771423271 | NA | US | Liberty Lake | 210630 |  |
+| 190.123.46.170 | 4 | 1760609037 | 1771423271 | NA | PA |  | 52284 |  |
+| 185.220.101.5 | 4 | 1698437931 | 1771423271 | EU | DE | Brandenburg | 60729 | berlin01.tor-exit.artikel10.org |
+| 185.220.101.13 | 4 | 1698437942 | 1771423271 | EU | DE | Brandenburg | 60729 | berlin01.tor-exit.artikel10.org |
+| 179.43.133.50 | 4 | 1761508943 | 1771423271 | EU | CH | Rümlang | 51852 | kisstracks.net |
+| 64.190.76.12 | 4 | 1744455801 | 1771423270 | EU | IT |  | 11696 |  |
+| 64.190.76.10 | 4 | 1744455801 | 1771423270 | EU | IT |  | 11696 |  |
+| 47.254.173.155 | 4 | 1764072243 | 1771423270 | EU | DE | Frankfurt am Main | 45102 |  |
+| 45.66.35.34 | 4 | 1726977802 | 1771423270 | EU | NL | Amsterdam | 47482 | jolix34.386bsd.net |
+| 45.66.35.33 | 4 | 1726967000 | 1771423270 | EU | NL | Amsterdam | 47482 | jolix33.386bsd.net |
+| 45.66.35.32 | 4 | 1726963422 | 1771423270 | EU | NL | Amsterdam | 47482 | jolix32.386bsd.net |
+| 45.66.35.31 | 4 | 1726963422 | 1771423270 | EU | NL | Amsterdam | 47482 | jolix31.386bsd.net |
+| 45.66.35.30 | 4 | 1764104642 | 1771423270 | EU | NL | Amsterdam | 47482 | ams10.torexit.nl |
+| 45.61.184.51 | 4 | 1762229214 | 1771423270 | NA | US | Miami | 53667 |  |
+| 45.143.200.3 | 4 | 1764061442 | 1771423270 | EU | CH | Zurich | 212283 | 115498.ip-ptr.tech |
+| 212.95.50.77 | 4 | 1698437978 | 1771423270 | EU | DE |  | 28753 | hosted-by.leaseweb.com |
+| 2.56.10.36 | 4 | 1725174125 | 1771423270 | EU | NL |  | 213373 |  |
+| 198.98.50.199 | 4 | 1698437949 | 1771423270 | NA | US | Staten Island | 53667 | tor-exit.cyberjake.xyz |
+| 185.39.207.83 | 4 | 1706313857 | 1771423270 | EU | GR |  | 207713 | vanzetti.osservatorionessuno.org |
+| 45.66.35.29 | 4 | 1763773596 | 1771423269 | EU | NL | Amsterdam | 47482 | ams09.torexit.nl |
+| 45.66.35.28 | 4 | 1763640232 | 1771423269 | EU | NL | Amsterdam | 47482 | ams08.torexit.nl |
+| 45.66.35.27 | 4 | 1763611450 | 1771423269 | EU | NL | Amsterdam | 47482 | ams07.torexit.nl |
+| 45.66.35.26 | 4 | 1763622235 | 1771423269 | EU | NL | Amsterdam | 47482 | ams06.torexit.nl |
+| 45.66.35.25 | 4 | 1763521442 | 1771423269 | EU | NL | Amsterdam | 47482 | ams05.torexit.nl |
+| 45.66.35.24 | 4 | 1763607847 | 1771423269 | EU | NL | Amsterdam | 47482 | ams04.torexit.nl |
+| 45.66.35.23 | 4 | 1763517842 | 1771423269 | EU | NL | Amsterdam | 47482 | ams03.torexit.nl |
+| 45.66.35.10 | 4 | 1698437992 | 1771423269 | EU | NL | Amsterdam | 47482 | torix.dizum.com |
+| 37.228.129.162 | 4 | 1753714986 | 1771423269 | EU | FI |  | 200651 |  |
+| 185.212.226.76 | 4 | 1763946265 | 1771423269 | EU | FR |  | 41652 |  |
+| 138.226.236.65 | 4 | 1762995857 | 1771423269 | EU | GB |  |  |  |
+| 109.228.160.190 | 4 | 1741111295 | 1771423269 | EU | SE | Mölnlycke | 8473 | h-109-228-160-190.A444.priv.bahnhof.se |
+| 107.189.30.49 | 4 | 1722636098 | 1771423269 | EU | LU |  | 53667 |  |
+| 107.189.1.175 | 4 | 1698438011 | 1771423269 | EU | LU | Luxembourg | 53667 | tor.likogan.dev |
+| 84.16.224.227 | 4 | 1700026403 | 1771423268 | EU | DE |  | 28753 |  |
+| 82.221.100.12 | 4 | 1763568250 | 1771423268 | EU | IS | Reykjavik | 50613 |  |
+| 82.197.182.161 | 4 | 1698437939 | 1771423268 | EU | CH |  | 13030 | 161-182-197-82.init7.net |
+| 46.165.243.36 | 4 | 1698437992 | 1771423268 | EU | DE |  | 28753 |  |
+| 45.141.215.156 | 4 | 1763078627 | 1771423268 | EU | PL | Warsaw | 210558 |  |
+| 37.228.129.241 | 4 | 1763381029 | 1771423268 | EU | FI |  | 200651 |  |
+| 23.129.64.224 | 4 | 1698437961 | 1771423268 | NA | US |  | 396507 |  |
+| 209.127.122.140 | 4 | 1763348561 | 1771423268 | NA | US | Buffalo | 55286 | null.hpwh.net |
+| 198.98.51.249 | 4 | 1709270153 | 1771423268 | NA | US | Staten Island | 53667 | tor-exit-http-readme.hackb.2mpd.com |
+| 192.159.99.38 | 4 | 1763168774 | 1771423268 | NA | US | New York | 14315 |  |
+| 185.247.224.89 | 4 | 1763017340 | 1771423268 | EU | RO | Bucharest | 200651 |  |
+| 185.246.190.83 | 4 | 1763380941 | 1771423268 | EU | IS |  |  |  |
+| 178.17.170.225 | 4 | 1763218922 | 1771423268 | EU | MD | Chisinau | 43289 | pen.werec0ming.tech |
+| 104.244.75.74 | 4 | 1698437932 | 1771423268 | EU | CH |  | 53667 | this-is-a-tor-exit-node.h-o-s-t.name |
+| 91.206.169.29 | 4 | 1762970647 | 1771423267 | EU | PL | Warsaw | 210558 |  |
+| 8.215.52.126 | 4 | 1762920241 | 1771423267 | AS | ID | Jakarta | 45102 |  |
+| 47.84.7.211 | 4 | 1763028240 | 1771423267 | AS | SG |  |  |  |
+| 45.138.16.69 | 4 | 1744459393 | 1771423267 | EU | PL | Warsaw | 210558 | 45.138.16.69.powered.by.rdp.sh |
+| 23.137.252.225 | 4 | 1762945371 | 1771423267 | EU | CH |  | 210630 | switzerland-eu.incogvpn.com |
+| 23.129.64.190 | 4 | 1755435738 | 1771423267 | NA | US |  | 396507 | emeraldonion.net |
+| 23.129.64.168 | 4 | 1755435737 | 1771423267 | NA | US |  | 396507 | emeraldonion.net |
+| 23.129.64.167 | 4 | 1755435737 | 1771423267 | NA | US |  | 396507 | emeraldonion.net |
+| 23.129.64.162 | 4 | 1752872542 | 1771423267 | NA | US |  | 396507 | emeraldonion.net |
+| 192.121.44.34 | 4 | 1763024547 | 1771423267 | EU | SE |  | 29518 | tor-relay04.playstar.se |
+| 192.121.44.33 | 4 | 1763024547 | 1771423267 | EU | SE |  | 29518 | tor-relay03.playstar.se |
+| 185.247.184.105 | 4 | 1701566363 | 1771423267 | EU | IT |  | 207713 | pingj.lsd.cat |
+| 130.193.10.21 | 4 | 1698438005 | 1771423267 | EU | CZ | Prague | 29134 | smtp.crimsonpond.com |
+| 23.129.64.192 | 4 | 1755435738 | 1771423266 | NA | US |  | 396507 | emeraldonion.net |
+| 23.129.64.191 | 4 | 1755435738 | 1771423266 | NA | US |  | 396507 | emeraldonion.net |
+| 23.129.64.187 | 4 | 1755435738 | 1771423266 | NA | US |  | 396507 | emeraldonion.net |
+| 23.129.64.186 | 4 | 1755435738 | 1771423266 | NA | US |  | 396507 | emeraldonion.net |
+| 23.129.64.182 | 4 | 1721984538 | 1771423266 | NA | US |  | 396507 |  |
+| 23.129.64.180 | 4 | 1721984537 | 1771423266 | NA | US |  | 396507 |  |
+| 23.129.64.179 | 4 | 1721984537 | 1771423266 | NA | US |  | 396507 |  |
+| 23.129.64.176 | 4 | 1721984537 | 1771423266 | NA | US |  | 396507 |  |
+| 23.129.64.175 | 4 | 1721984537 | 1771423266 | NA | US |  | 396507 |  |
+| 23.129.64.173 | 4 | 1721980937 | 1771423266 | NA | US |  | 396507 |  |
+| 23.129.64.171 | 4 | 1721980937 | 1771423266 | NA | US |  | 396507 |  |
+| 23.129.64.170 | 4 | 1755435737 | 1771423266 | NA | US |  | 396507 | emeraldonion.net |
+| 23.129.64.169 | 4 | 1755435737 | 1771423266 | NA | US |  | 396507 | emeraldonion.net |
+| 23.129.64.166 | 4 | 1755435737 | 1771423266 | NA | US |  | 396507 | emeraldonion.net |
+| 8.211.148.167 | 4 | 1762855441 | 1771423265 | AS | JP | Tokyo | 45102 |  |
+| 23.129.64.193 | 4 | 1755435738 | 1771423265 | NA | US |  | 396507 | emeraldonion.net |
+| 23.129.64.189 | 4 | 1755435738 | 1771423265 | NA | US |  | 396507 | emeraldonion.net |
+| 23.129.64.188 | 4 | 1755435738 | 1771423265 | NA | US |  | 396507 | emeraldonion.net |
+| 23.129.64.184 | 4 | 1721984538 | 1771423265 | NA | US |  | 396507 |  |
+| 23.129.64.183 | 4 | 1721984538 | 1771423265 | NA | US |  | 396507 |  |
+| 23.129.64.181 | 4 | 1721984538 | 1771423265 | NA | US |  | 396507 |  |
+| 23.129.64.178 | 4 | 1721984537 | 1771423265 | NA | US |  | 396507 |  |
+| 23.129.64.177 | 4 | 1721984537 | 1771423265 | NA | US |  | 396507 |  |
+| 23.129.64.174 | 4 | 1721980937 | 1771423265 | NA | US |  | 396507 |  |
+| 23.129.64.172 | 4 | 1721980937 | 1771423265 | NA | US |  | 396507 |  |
+| 23.129.64.165 | 4 | 1752872542 | 1771423265 | NA | US |  | 396507 | emeraldonion.net |
+| 23.129.64.164 | 4 | 1752872542 | 1771423265 | NA | US |  | 396507 | emeraldonion.net |
+| 23.129.64.163 | 4 | 1752872542 | 1771423265 | NA | US |  | 396507 | emeraldonion.net |
+| 47.254.153.161 | 4 | 1762610626 | 1771423264 | EU | DE | Frankfurt am Main | 45102 |  |
+| 47.254.15.174 | 4 | 1762679026 | 1771423264 | NA | US |  | 45102 |  |
+| 47.250.80.226 | 4 | 1762787028 | 1771423264 | AS | MY | Kuala Lumpur | 45102 |  |
+| 45.38.20.240 | 4 | 1762812227 | 1771423264 | NA | US |  | 18779 |  |
+| 45.15.140.245 | 4 | 1762391413 | 1771423264 | OC | NZ | Wellington | 35913 | s8175.local |
+| 23.155.8.104 | 4 | 1704593573 | 1771423264 | NA | US | Fremont |  | tor-exit.toor.sh |
+| 23.129.64.185 | 4 | 1755435738 | 1771423264 | NA | US |  | 396507 | emeraldonion.net |
+| 213.176.18.193 | 4 | 1762502563 | 1771423264 | EU | CH | Zurich | 142578 |  |
+| 194.32.107.14 | 4 | 1765382559 | 1771423264 | EU | NO | Sandefjord | 56655 | tor-exit-194.32.107.14.johand.dev |
+| 192.121.44.27 | 4 | 1698438625 | 1771423264 | EU | SE |  | 29518 | tor-relay02.playstar.se |
+| 192.121.44.26 | 4 | 1698438625 | 1771423264 | EU | SE |  | 29518 | tor-relay01.playstar.se |
+| 172.81.131.139 | 4 | 1698437956 | 1771423264 | NA | US | Chicago | 27176 | bhsfm.bond |
+| 124.198.131.133 | 4 | 1762610503 | 1771423264 | NA | US | New York | 9889 |  |
+| 104.219.236.100 | 4 | 1698437974 | 1771423264 | NA | US |  | 27176 | ip-104-219-236-100.host.datawagon.net |
+| 5.255.99.147 | 4 | 1698437997 | 1771423263 | EU | NL | Dronten | 60404 |  |
+| 38.135.25.97 | 4 | 1762056212 | 1771423263 | NA | US | Somers | 174 |  |
+| 23.191.200.2 | 4 | 1739581486 | 1771423263 | NA | US |  |  |  |
+| 192.159.99.162 | 4 | 1762030932 | 1771423263 | NA | US | New York | 14315 | 192.159.99.162.powered.by.rdp.sh |
+| 185.220.100.243 | 4 | 1698437979 | 1771423263 | EU | DE |  |  | tor-exit-16.zbau.f3netze.de |
+| 185.220.100.242 | 4 | 1698437948 | 1771423263 | EU | DE |  |  | tor-exit-15.zbau.f3netze.de |
+| 185.220.100.241 | 4 | 1698437971 | 1771423263 | EU | DE |  |  | tor-exit-14.zbau.f3netze.de |
+| 185.220.100.240 | 4 | 1698437939 | 1771423263 | EU | DE |  |  | tor-exit-13.zbau.f3netze.de |
+| 178.17.174.14 | 4 | 1698437928 | 1771423263 | EU | MD | Chisinau | 43289 |  |
+| 154.205.129.174 | 4 | 1756821704 | 1771423263 | EU | FR | Paris | 399674 |  |
+| 152.53.150.12 | 4 | 1762311714 | 1771423263 | EU | DE | Nuremberg |  | tor-exit.diyarciftci.xyz |
+| 141.98.11.62 | 4 | 1698437958 | 1771423263 | EU | LT | Vilnius | 209605 | srv-141-98-11-62.serveroffer.net |
+| 108.59.12.41 | 4 | 1758024103 | 1771423263 | NA | US |  | 30633 |  |
+| 104.244.76.237 | 4 | 1738983684 | 1771423263 | EU | CH |  | 53667 | tor-exit-node-3426345-4.supermegaultra.xyz |
+| 94.16.116.81 | 4 | 1698437931 | 1771423262 | EU | DE | Nuremberg | 197540 | tor-exit-0071.fourwinds.cc |
+| 85.208.139.110 | 4 | 1760836784 | 1771423262 | EU | DE | Frankfurt am Main | 46308 | 115498.ip-ptr.tech |
+| 23.137.255.45 | 4 | 1760115686 | 1771423262 | NA | US | Liberty Lake | 210630 |  |
+| 23.137.105.248 | 4 | 1760436160 | 1771423262 | NA | US | North Kansas City |  |  |
+| 194.26.192.22 | 4 | 1759622539 | 1771423262 | EU | NL | Lelystad | 210558 | 194.26.192.22.powered.by.rdp.sh |
+| 192.34.80.176 | 4 | 1760630639 | 1771423262 | NA | US | Boston | 33083 | minkus.tld |
+| 185.220.100.246 | 4 | 1698437941 | 1771423262 | EU | DE |  |  | tor-exit-7.zbau.f3netze.de |
+| 185.220.100.244 | 4 | 1698437929 | 1771423262 | EU | DE |  |  | tor-exit-5.zbau.f3netze.de |
+| 178.175.148.155 | 4 | 1760565795 | 1771423262 | EU | MD |  | 43289 |  |
+| 152.53.210.165 | 4 | 1756112508 | 1771423262 | EU | AT |  |  | us.okade.pro |
+| 124.198.131.191 | 4 | 1760210183 | 1771423262 | NA | US | New York | 9889 |  |
+| 107.189.30.69 | 4 | 1698437960 | 1771423262 | EU | LU |  | 53667 | torexit.107.189.30.69.com |
+| 104.244.75.140 | 4 | 1738983684 | 1771423262 | EU | CH |  | 53667 | tor-exit-node-4672345-n.supermegaultra.xyz |
+| 102.211.56.20 | 4 | 1760360490 | 1771423262 | AF | ZA | Johannesburg |  | vps19848.maxko-hosting.net |
+| 95.211.174.137 | 4 | 1734404603 | 1771423261 | EU | NL |  | 60781 |  |
+| 81.181.104.22 | 4 | 1740528222 | 1771423261 | EU | PL | Warsaw | 9009 |  |
+| 66.78.40.146 | 4 | 1752465674 | 1771423261 | NA | US |  | 21769 |  |
+| 5.196.95.34 | 4 | 1698437972 | 1771423261 | EU | FR |  | 16276 | ns376762.ip-5-196-95.eu |
+| 185.220.100.255 | 4 | 1698437936 | 1771423261 | EU | DE | Haßfurt |  | tor-exit-4.zbau.f3netze.de |
+| 185.220.100.254 | 4 | 1698437979 | 1771423261 | EU | DE |  |  | tor-exit-3.zbau.f3netze.de |
+| 185.220.100.253 | 4 | 1698437939 | 1771423261 | EU | DE |  |  | tor-exit-2.zbau.f3netze.de |
+| 185.220.100.252 | 4 | 1698437969 | 1771423261 | EU | DE |  |  | tor-exit-1.zbau.f3netze.de |
+| 185.220.100.251 | 4 | 1698437960 | 1771423261 | EU | DE |  |  | tor-exit-12.zbau.f3netze.de |
+| 185.220.100.250 | 4 | 1698437954 | 1771423261 | EU | DE |  |  | tor-exit-11.zbau.f3netze.de |
+| 185.220.100.249 | 4 | 1698437956 | 1771423261 | EU | DE |  |  | tor-exit-10.zbau.f3netze.de |
+| 185.220.100.248 | 4 | 1698437932 | 1771423261 | EU | DE |  |  | tor-exit-9.zbau.f3netze.de |
+| 185.220.100.247 | 4 | 1698437942 | 1771423261 | EU | DE |  |  | tor-exit-8.zbau.f3netze.de |
+| 185.220.100.245 | 4 | 1698437935 | 1771423261 | EU | DE |  |  | tor-exit-6.zbau.f3netze.de |
+| 94.16.115.121 | 4 | 1725235399 | 1771423260 | EU | DE | Nuremberg | 197540 | tor-exit.okade.pro |
+| 77.48.28.239 | 4 | 1698437943 | 1771423260 | EU | CZ | Brno | 16019 | www.tor-exitnode-read-this-html.epizy.com |
+| 64.190.113.106 | 4 | 1759485823 | 1771423260 | NA | US | Los Angeles | 399629 |  |
+| 62.133.60.208 | 4 | 1759374228 | 1771423260 | EU | DE | Frankfurt am Main | 48430 | 115498.ip-ptr.tech |
+| 45.9.156.192 | 4 | 1770411664 | 1771423260 | EU | BG | Sofia | 206003 | vps24200.maxko-hosting.net |
+| 45.141.215.28 | 4 | 1729739016 | 1771423260 | EU | PL | Warsaw | 210558 |  |
+| 37.228.129.128 | 4 | 1698437990 | 1771423260 | EU | FI |  | 200651 |  |
+| 193.239.232.235 | 4 | 1759165334 | 1771423260 | EU | SE |  | 41634 |  |
+| 190.211.254.185 | 4 | 1759186962 | 1771423260 | EU | GB | London | 51852 | hostedby.privatelayer.com |
+| 185.138.88.25 | 4 | 1759039312 | 1771423260 | EU | NL | Amsterdam | 42478 |  |
+| 185.129.62.64 | 4 | 1759510916 | 1771423260 | EU | DK |  | 57860 |  |
+| 185.112.144.11 | 4 | 1715626902 | 1771423260 | EU | IS |  | 44925 | tor-exit-readme-2.maxzrbn.it |
+| 124.198.131.114 | 4 | 1759190507 | 1771423260 | NA | US | New York | 9889 |  |
+| 102.130.127.117 | 4 | 1698437989 | 1771423260 | AF | ZA |  | 328364 |  |
+| 45.9.156.22 | 4 | 1758931427 | 1771423259 | EU | BG | Sofia | 206003 | vps19823.maxko-hosting.net |
+| 38.135.25.2 | 4 | 1749009789 | 1771423259 | NA | US | Somers | 174 |  |
+| 185.129.61.9 | 4 | 1698437960 | 1771423259 | EU | DK |  | 210731 | tor-project-exit9.dotsrc.org |
+| 185.129.61.8 | 4 | 1698437985 | 1771423259 | EU | DK |  | 210731 | tor-project-exit8.dotsrc.org |
+| 185.129.61.7 | 4 | 1698437993 | 1771423259 | EU | DK |  | 210731 | tor-project-exit7.dotsrc.org |
+| 185.129.61.6 | 4 | 1698437950 | 1771423259 | EU | DK |  | 210731 | tor-project-exit6.dotsrc.org |
+| 185.129.61.5 | 4 | 1698437978 | 1771423259 | EU | DK |  | 210731 | tor-project-exit5.dotsrc.org |
+| 185.129.61.4 | 4 | 1698437973 | 1771423259 | EU | DK |  | 210731 | tor-project-exit4.dotsrc.org |
+| 185.129.61.3 | 4 | 1698437960 | 1771423259 | EU | DK |  | 210731 | tor-project-exit3.dotsrc.org |
+| 185.129.61.2 | 4 | 1698437930 | 1771423259 | EU | DK |  | 210731 | tor-project-exit2.dotsrc.org |
+| 185.129.61.10 | 4 | 1698437978 | 1771423259 | EU | DK |  | 210731 | tor-project-exit10.dotsrc.org |
+| 185.129.61.1 | 4 | 1698437968 | 1771423259 | EU | DK |  | 210731 | tor-project-exit1.dotsrc.org |
+| 107.189.8.65 | 4 | 1698437932 | 1771423259 | EU | LU | Luxembourg | 53667 | lux2.tor-exit-node.net |
+| 104.244.74.51 | 4 | 1758826911 | 1771423259 | EU | CH |  | 53667 |  |
+| 64.190.76.4 | 4 | 1738170192 | 1771423258 | EU | IT |  | 11696 |  |
+| 64.190.76.3 | 4 | 1734703388 | 1771423258 | EU | IT |  | 11696 |  |
+| 64.190.76.2 | 4 | 1733778210 | 1771423258 | EU | IT |  | 11696 |  |
+| 23.129.64.99 | 4 | 1755471743 | 1771423258 | NA | US |  | 396507 | emeraldonion.net |
+| 217.182.75.199 | 4 | 1757192554 | 1771423258 | EU | PL | Warsaw | 16276 | tor-relay05.stareintodeathandbestill.com |
+| 194.26.192.46 | 4 | 1767841362 | 1771423258 | EU | NL | Lelystad | 210558 | mail.bigdick.one |
+| 194.163.157.49 | 4 | 1698437982 | 1771423258 | EU | FR | Lauterbourg | 51167 | vmi1306862.contaboserver.net |
+| 192.108.48.150 | 4 | 1700589866 | 1771423258 | EU | DE | Fulda | 680 | tor.rz.hs-fulda.de |
+| 190.120.229.2 | 4 | 1758258138 | 1771423258 | SA | PE | Santiago de Surco | 263812 | 2.ip-229-120-190.lim.pe.ipxon.net |
+| 185.236.20.142 | 4 | 1758157543 | 1771423258 | EU | NL | Amsterdam | 210512 |  |
+| 185.231.33.38 | 4 | 1757844129 | 1771423258 | AF | SC |  |  |  |
+| 172.104.243.155 | 4 | 1698437971 | 1771423258 | EU | DE | Frankfurt am Main | 63949 | 172-104-243-155.ip.linodeusercontent.com |
+| 124.198.132.52 | 4 | 1749499309 | 1771423258 | NA | US | New York | 9889 |  |
+| 107.189.31.52 | 4 | 1757880129 | 1771423258 | EU | LU | Luxembourg | 53667 |  |
+| 93.99.104.128 | 4 | 1698437971 | 1771423257 | EU | CZ | Opava | 16019 | 128.104.99.93.finalhosting.cz |
+| 5.255.123.164 | 4 | 1708489096 | 1771423257 | EU | NL | Dronten | 60404 |  |
+| 5.255.115.58 | 4 | 1698437993 | 1771423257 | EU | NL | Dronten | 60404 |  |
+| 45.61.188.15 | 4 | 1698437934 | 1771423257 | NA | US | Miami | 53667 |  |
+| 23.191.200.8 | 4 | 1742277757 | 1771423257 | NA | US |  |  |  |
+| 23.191.200.19 | 4 | 1742544153 | 1771423257 | NA | US |  |  |  |
+| 23.191.200.16 | 4 | 1742288553 | 1771423257 | NA | US |  |  |  |
+| 23.191.200.15 | 4 | 1742281354 | 1771423257 | NA | US |  |  |  |
+| 185.177.238.26 | 4 | 1756713713 | 1771423257 | EU | AL |  | 207713 | 115498.ip-ptr.tech |
+| 178.17.58.159 | 4 | 1756775052 | 1771423257 | EU | DE | Frankfurt am Main |  |  |
+| 171.25.193.82 | 4 | 1756771308 | 1771423257 | EU | SE |  | 198093 | tor-exit-read-me.dfri.se |
+| 171.25.193.81 | 4 | 1756771308 | 1771423257 | EU | SE |  | 198093 | tor-exit-read-me.dfri.se |
+| 171.25.193.132 | 4 | 1756843338 | 1771423257 | EU | SE |  | 198093 | tor-exit-read-me.dfri.se |
+| 124.198.131.29 | 4 | 1756832499 | 1771423257 | NA | US | New York | 9889 |  |
+| 23.191.200.9 | 4 | 1742281354 | 1771423256 | NA | US |  |  |  |
+| 23.191.200.26 | 4 | 1742637751 | 1771423256 | NA | US |  |  |  |
+| 23.191.200.25 | 4 | 1742634157 | 1771423256 | NA | US |  |  |  |
+| 23.191.200.24 | 4 | 1742634157 | 1771423256 | NA | US |  |  |  |
+| 23.191.200.23 | 4 | 1742547760 | 1771423256 | NA | US |  |  |  |
+| 23.191.200.22 | 4 | 1742547760 | 1771423256 | NA | US |  |  |  |
+| 23.191.200.21 | 4 | 1742547760 | 1771423256 | NA | US |  |  |  |
+| 23.191.200.20 | 4 | 1742544154 | 1771423256 | NA | US |  |  |  |
+| 23.191.200.18 | 4 | 1742547760 | 1771423256 | NA | US |  |  |  |
+| 23.191.200.14 | 4 | 1742281354 | 1771423256 | NA | US |  |  |  |
+| 23.191.200.13 | 4 | 1742281354 | 1771423256 | NA | US |  |  |  |
+| 23.191.200.12 | 4 | 1742281354 | 1771423256 | NA | US |  |  |  |
+| 23.191.200.11 | 4 | 1742277757 | 1771423256 | NA | US |  |  |  |
+| 23.191.200.10 | 4 | 1742277756 | 1771423256 | NA | US |  |  |  |
+| 82.221.131.71 | 4 | 1698437971 | 1771423255 | EU | IS |  | 50613 |  |
+| 5.255.127.222 | 4 | 1698437989 | 1771423255 | EU | NL | Dronten | 60404 |  |
+| 45.80.158.93 | 4 | 1756321442 | 1771423255 | EU | PL | Warsaw | 210558 | insanityserver.org |
+| 45.80.158.75 | 4 | 1756393422 | 1771423255 | EU | PL | Warsaw | 210558 |  |
+| 45.141.215.238 | 4 | 1756310621 | 1771423255 | EU | PL | Warsaw | 210558 |  |
+| 37.228.129.168 | 4 | 1756267413 | 1771423255 | EU | FI |  | 200651 |  |
+| 23.191.200.7 | 4 | 1742266967 | 1771423255 | NA | US |  |  |  |
+| 23.191.200.27 | 4 | 1742637751 | 1771423255 | NA | US |  |  |  |
+| 23.191.200.17 | 4 | 1742284954 | 1771423255 | NA | US |  |  |  |
+| 194.26.192.177 | 4 | 1756663338 | 1771423255 | EU | NL | Lelystad | 210558 | 194.26.192.177.powered.by.rdp.sh |
+| 193.26.115.123 | 4 | 1756620138 | 1771423255 | NA | US | Miami | 23470 | 193.26.115.123.powered.by.rdp.sh |
+| 185.181.61.201 | 4 | 1765296139 | 1771423255 | EU | NO | Sandefjord | 56655 | tor-exit.runebyte.net |
+| 185.156.72.7 | 4 | 1756429448 | 1771423255 | EU | FR | Paris | 61432 |  |
+| 93.94.51.243 | 4 | 1755839231 | 1771423254 | EU | DE | Frankfurt am Main |  |  |
+| 84.238.156.136 | 4 | 1764533094 | 1771423254 | EU | BG | Sofia | 8866 | 84-238-156-136.ip.btc-net.bg |
+| 23.191.200.6 | 4 | 1739592141 | 1771423254 | NA | US |  |  |  |
+| 23.191.200.5 | 4 | 1739592141 | 1771423254 | NA | US |  |  |  |
+| 23.191.200.4 | 4 | 1739592141 | 1771423254 | NA | US |  |  |  |
+| 23.191.200.31 | 4 | 1742637752 | 1771423254 | NA | US |  |  |  |
+| 23.191.200.30 | 4 | 1742637752 | 1771423254 | NA | US |  |  |  |
+| 23.191.200.3 | 4 | 1739592141 | 1771423254 | NA | US |  |  |  |
+| 23.191.200.29 | 4 | 1742637751 | 1771423254 | NA | US |  |  |  |
+| 23.191.200.28 | 4 | 1742637751 | 1771423254 | NA | US |  |  |  |
+| 23.129.64.220 | 4 | 1698437989 | 1771423254 | NA | US |  | 396507 |  |
+| 23.129.64.210 | 4 | 1698437990 | 1771423254 | NA | US |  | 396507 |  |
+| 23.129.64.208 | 4 | 1755514949 | 1771423254 | NA | US |  | 396507 | emeraldonion.net |
+| 23.129.64.205 | 4 | 1755514948 | 1771423254 | NA | US |  | 396507 | emeraldonion.net |
+| 23.129.64.197 | 4 | 1755514948 | 1771423254 | NA | US |  | 396507 | emeraldonion.net |
+| 23.129.64.223 | 4 | 1698437980 | 1771423253 | NA | US |  | 396507 |  |
+| 23.129.64.221 | 4 | 1698437994 | 1771423253 | NA | US |  | 396507 |  |
+| 23.129.64.215 | 4 | 1698437986 | 1771423253 | NA | US |  | 396507 |  |
+| 23.129.64.213 | 4 | 1698437933 | 1771423253 | NA | US |  | 396507 |  |
+| 23.129.64.211 | 4 | 1698437989 | 1771423253 | NA | US |  | 396507 |  |
+| 23.129.64.207 | 4 | 1755511339 | 1771423253 | NA | US |  | 396507 | emeraldonion.net |
+| 23.129.64.204 | 4 | 1755511339 | 1771423253 | NA | US |  | 396507 | emeraldonion.net |
+| 23.129.64.203 | 4 | 1755511339 | 1771423253 | NA | US |  | 396507 | emeraldonion.net |
+| 23.129.64.202 | 4 | 1755511339 | 1771423253 | NA | US |  | 396507 | emeraldonion.net |
+| 23.129.64.200 | 4 | 1755511339 | 1771423253 | NA | US |  | 396507 | emeraldonion.net |
+| 23.129.64.199 | 4 | 1755514948 | 1771423253 | NA | US |  | 396507 | emeraldonion.net |
+| 23.129.64.196 | 4 | 1755514948 | 1771423253 | NA | US |  | 396507 | emeraldonion.net |
+| 23.129.64.195 | 4 | 1755511339 | 1771423253 | NA | US |  | 396507 | emeraldonion.net |
+| 23.129.64.194 | 4 | 1755511339 | 1771423253 | NA | US |  | 396507 | emeraldonion.net |
+| 23.129.64.225 | 4 | 1698437931 | 1771423252 | NA | US |  | 396507 |  |
+| 23.129.64.222 | 4 | 1698437998 | 1771423252 | NA | US |  | 396507 |  |
+| 23.129.64.219 | 4 | 1698437994 | 1771423252 | NA | US |  | 396507 |  |
+| 23.129.64.218 | 4 | 1698437979 | 1771423252 | NA | US |  | 396507 |  |
+| 23.129.64.217 | 4 | 1698437968 | 1771423252 | NA | US |  | 396507 |  |
+| 23.129.64.216 | 4 | 1698437994 | 1771423252 | NA | US |  | 396507 |  |
+| 23.129.64.214 | 4 | 1698437978 | 1771423252 | NA | US |  | 396507 |  |
+| 23.129.64.212 | 4 | 1698437996 | 1771423252 | NA | US |  | 396507 |  |
+| 23.129.64.209 | 4 | 1755511339 | 1771423252 | NA | US |  | 396507 | emeraldonion.net |
+| 23.129.64.206 | 4 | 1755511339 | 1771423252 | NA | US |  | 396507 | emeraldonion.net |
+| 23.129.64.201 | 4 | 1755511339 | 1771423252 | NA | US |  | 396507 | emeraldonion.net |
+| 23.129.64.198 | 4 | 1755511339 | 1771423252 | NA | US |  | 396507 | emeraldonion.net |
+| 199.195.253.156 | 4 | 1698437933 | 1771423252 | NA | US | Staten Island | 53667 | aramis-tor73 |
+| 94.16.121.91 | 4 | 1698437942 | 1771423251 | EU | DE | Nuremberg | 197540 | this-is-a-tor-node---9.artikel5ev.de |
+| 45.61.185.172 | 4 | 1698437941 | 1771423251 | NA | US | Miami | 53667 | aramis-fran72 |
+| 45.138.16.107 | 4 | 1698437941 | 1771423251 | EU | PL | Warsaw | 210558 |  |
+| 204.85.191.9 | 4 | 1698437953 | 1771423251 | NA | US | Chapel Hill | 36850 | tor01.telenet.unc.edu |
+| 193.189.100.206 | 4 | 1698437997 | 1771423251 | EU | SE |  | 41281 | tor-exit-13 |
+| 193.189.100.205 | 4 | 1698437976 | 1771423251 | EU | SE |  | 41281 | tor-exit-12 |
+| 193.189.100.204 | 4 | 1698437984 | 1771423251 | EU | SE |  | 41281 | tor-exit-11 |
+| 193.189.100.203 | 4 | 1698437950 | 1771423251 | EU | SE |  | 41281 | tor-exit-10 |
+| 193.189.100.202 | 4 | 1698437949 | 1771423251 | EU | SE |  | 41281 | tor-exit-9 |
+| 193.189.100.201 | 4 | 1698437983 | 1771423251 | EU | SE |  | 41281 | tor-exit-8 |
+| 188.68.36.28 | 4 | 1727431328 | 1771423251 | EU | DE | Nuremberg | 197540 | this-is-a-tor-node---42.artikel5ev.de |
+| 185.252.232.218 | 4 | 1698437972 | 1771423251 | EU | FR | Lauterbourg | 51167 | vmi1347637.contaboserver.net |
+| 185.129.61.129 | 4 | 1698437960 | 1771423251 | EU | DK |  | 210731 | relay-02.torproject.net |
+| 177.93.140.66 | 4 | 1749636103 | 1771423251 | NA | CW | Willemstad |  |  |
+| 88.80.20.86 | 4 | 1698437931 | 1771423250 | EU | SE |  | 33837 | host-88-80-20-86.cust.prq.se |
+| 87.120.222.33 | 4 | 1754460197 | 1771423250 | EU | CH | Zurich | 43548 |  |
+| 77.48.28.193 | 4 | 1698438003 | 1771423250 | EU | CZ | Brno | 16019 | 193.28.48.77.finalhosting.cz |
+| 62.133.45.2 | 4 | 1698437972 | 1771423250 | EU | RO | Bucharest | 9009 |  |
+| 45.84.107.200 | 4 | 1754370179 | 1771423250 | EU | SE |  | 9009 |  |
+| 45.154.98.33 | 4 | 1698507192 | 1771423250 | EU | NL | Lelystad | 210558 | 45.154.98.33.powered.by.rdp.sh |
+| 37.48.70.156 | 4 | 1698437982 | 1771423250 | EU | NL | Amsterdam | 60781 |  |
+| 196.196.200.100 | 4 | 1754161416 | 1771423250 | EU | IE | Dublin | 41564 |  |
+| 195.246.231.197 | 4 | 1754352117 | 1771423250 | EU | IS | Reykjavik |  | vps-195-246-231-197.1984.is |
+| 160.187.148.71 | 4 | 1754002888 | 1771423250 | AS | VN |  |  |  |
+| 154.26.159.157 | 4 | 1720040496 | 1771423250 | OC | AU | Sydney | 141995 | sortie-tor.a-n-o-n-y-m-e.net |
+| 109.237.27.11 | 4 | 1753718493 | 1771423250 | EU | GB | London | 63949 | 109-237-27-11.ip.linodeusercontent.com |
+| 107.189.7.141 | 4 | 1708046580 | 1771423250 | EU | LU | Luxembourg | 53667 |  |
+| 107.189.6.124 | 4 | 1698437981 | 1771423250 | EU | LU | Luxembourg | 53667 | farnsworth.rst.schiller.im |
+| 104.167.241.4 | 4 | 1753588892 | 1771423250 | NA | US | Willis | 398355 |  |
+| 185.225.69.187 | 4 | 1753552916 | 1771423249 | EU | HU | Budapest | 30836 | mta06.tormatans.info |
+| 107.189.8.56 | 4 | 1698437930 | 1771423249 | EU | LU | Luxembourg | 53667 | LuxembourgTorNew5.Quetzalcoatl-relays.org |
+| 107.189.5.7 | 4 | 1698437956 | 1771423249 | EU | LU | Luxembourg | 53667 | LuxembourgTorNew12.Quetzalcoatl-relays.org |
+| 107.189.5.121 | 4 | 1698437941 | 1771423249 | EU | LU | Luxembourg | 53667 | LuxembourgTorNew1.Quetzalcoatl-relays.org |
+| 107.189.4.12 | 4 | 1698437980 | 1771423249 | EU | LU | Luxembourg | 53667 | LuxembourgTorNew23.Quetzalcoatl-relays.org |
+| 107.189.31.33 | 4 | 1698437993 | 1771423249 | EU | LU | Luxembourg | 53667 | tor-exit-notice.middelstaedt.com |
+| 107.189.13.253 | 4 | 1698437980 | 1771423249 | EU | LU | Luxembourg | 53667 | LuxembourgTorNew11.Quetzalcoatl-relays.org |
+| 107.189.12.3 | 4 | 1698437967 | 1771423249 | EU | DE | Frankfurt am Main | 53667 | LuxembourgTorNew19.Quetzalcoatl-relays.org |
+| 107.189.10.175 | 4 | 1698437954 | 1771423249 | EU | LU | Bissen | 53667 | LuxembourgTorNew25.Quetzalcoatl-relays.org |
+| 104.244.79.61 | 4 | 1698437943 | 1771423249 | EU | CH |  | 53667 | LuxembourgTorNew32.Quetzalcoatl-relays.org |
+| 104.244.78.233 | 4 | 1698437950 | 1771423249 | EU | CH |  | 53667 | LuxembourgTorNew22.Quetzalcoatl-relays.org |
+| 104.244.73.190 | 4 | 1698437970 | 1771423249 | EU | CH |  | 53667 | LuxembourgTorNew9.Quetzalcoatl-relays.org |
+| 104.244.73.136 | 4 | 1698437993 | 1771423249 | EU | CH |  | 53667 | tor-exit-readme.middelstaedt.com |
+| 104.244.72.132 | 4 | 1698437996 | 1771423249 | EU | CH |  | 53667 | quetzalcoatl-relays.org |
+| 45.141.215.56 | 4 | 1698437931 | 1771423248 | EU | PL | Warsaw | 210558 |  |
+| 178.17.174.164 | 4 | 1698437984 | 1771423248 | EU | MD | Chisinau | 43289 | 178-17-174-164.static.as43289.net |
+| 107.189.8.226 | 4 | 1698437981 | 1771423248 | EU | LU | Luxembourg | 53667 | LuxembourgTorNew24.Quetzalcoatl-relays.org |
+| 107.189.8.133 | 4 | 1698437950 | 1771423248 | EU | LU | Luxembourg | 53667 | LuxembourgTorNew6.Quetzalcoatl-relays.org |
+| 107.189.7.144 | 4 | 1698437965 | 1771423248 | EU | LU | Luxembourg | 53667 | LuxembourgTorNew20.Quetzalcoatl-relays.org |
+| 107.189.4.209 | 4 | 1705462984 | 1771423248 | EU | LU | Luxembourg | 53667 |  |
+| 107.189.30.236 | 4 | 1698437942 | 1771423248 | EU | LU |  | 53667 | LuxembourgTorNew2.Quetzalcoatl-relays.org |
+| 107.189.14.4 | 4 | 1698437931 | 1771423248 | EU | LU | Luxembourg | 53667 | LuxembourgTorNew31.Quetzalcoatl-relays.org |
+| 107.189.11.111 | 4 | 1698437985 | 1771423248 | EU | LU | Luxembourg | 53667 | LuxembourgTorNew8.Quetzalcoatl-relays.org |
+| 107.189.1.9 | 4 | 1698437941 | 1771423248 | EU | LU | Luxembourg | 53667 | LuxembourgTorNew26.Quetzalcoatl-relays.org |
+| 107.189.1.160 | 4 | 1698437964 | 1771423248 | EU | LU | Luxembourg | 53667 | onion-exit.stagingdomain.name |
+| 104.244.79.50 | 4 | 1698437947 | 1771423248 | EU | CH |  | 53667 | LuxembourgTorNew3.Quetzalcoatl-relays.org |
+| 104.244.79.44 | 4 | 1698437975 | 1771423248 | EU | CH |  | 53667 | LuxembourgTorNew28.Quetzalcoatl-relays.org |
+| 104.244.74.97 | 4 | 1698437979 | 1771423248 | EU | CH |  | 53667 | tor-exit.yomi.katawaredoki.net |
+| 74.208.79.7 | 4 | 1753128223 | 1771423247 | NA | US |  | 8560 | ip74-208-79-7.pbiaas.com |
+| 64.190.113.221 | 4 | 1753340600 | 1771423247 | NA | US | Los Angeles | 399629 |  |
+| 38.135.25.144 | 4 | 1753304592 | 1771423247 | NA | US | Somers | 174 |  |
+| 38.135.25.143 | 4 | 1753304592 | 1771423247 | NA | US | Somers | 174 |  |
+| 38.135.25.142 | 4 | 1753304592 | 1771423247 | NA | US | Somers | 174 |  |
+| 38.135.25.141 | 4 | 1753304592 | 1771423247 | NA | US | Somers | 174 |  |
+| 31.220.75.237 | 4 | 1722427380 | 1771423247 | EU | FR | Lauterbourg | 51167 | vmi2055856.contaboserver.net |
+| 171.25.193.40 | 4 | 1753218096 | 1771423247 | EU | SE |  | 198093 | tor-exit-read-me.dfri.se |
+| 171.25.193.39 | 4 | 1753218096 | 1771423247 | EU | SE |  | 198093 | tor-exit-read-me.dfri.se |
+| 107.189.7.168 | 4 | 1701544784 | 1771423247 | EU | LU | Luxembourg | 53667 |  |
+| 107.189.31.187 | 4 | 1708046554 | 1771423247 | EU | LU | Luxembourg | 53667 | polyphemus.brandonkuschel.com |
+| 107.189.30.86 | 4 | 1698437974 | 1771423247 | EU | LU |  | 53667 | tor-exit.555002.xyz |
+| 107.189.3.94 | 4 | 1707704961 | 1771423247 | EU | LU | Luxembourg | 53667 | polyphemus5.brandonkuschel.com |
+| 107.189.3.148 | 4 | 1707699819 | 1771423247 | EU | LU | Luxembourg | 53667 | polyphemus4.brandonkuschel.com |
+| 23.129.64.161 | 4 | 1752872542 | 1771423246 | NA | US |  | 396507 | emeraldonion.net |
+| 23.129.64.160 | 4 | 1752872542 | 1771423246 | NA | US |  | 396507 | emeraldonion.net |
+| 23.129.64.159 | 4 | 1752872542 | 1771423246 | NA | US |  | 396507 | emeraldonion.net |
+| 23.129.64.158 | 4 | 1752872542 | 1771423246 | NA | US |  | 396507 | emeraldonion.net |
+| 23.129.64.157 | 4 | 1752872541 | 1771423246 | NA | US |  | 396507 | emeraldonion.net |
+| 23.129.64.156 | 4 | 1752872541 | 1771423246 | NA | US |  | 396507 | emeraldonion.net |
+| 23.129.64.155 | 4 | 1752872541 | 1771423246 | NA | US |  | 396507 | emeraldonion.net |
+| 23.129.64.154 | 4 | 1752872541 | 1771423246 | NA | US |  | 396507 | emeraldonion.net |
+| 23.129.64.130 | 4 | 1698437975 | 1771423246 | NA | US |  | 396507 |  |
+| 198.98.57.218 | 4 | 1752584532 | 1771423246 | NA | US | Staten Island | 53667 | tor-exit-nyc.pufferfish.li |
+| 171.25.193.36 | 4 | 1752541464 | 1771423246 | EU | SE |  | 198093 | mesh10.dfri.se |
+| 171.25.193.35 | 4 | 1752541464 | 1771423246 | EU | SE |  | 198093 | mesh10.dfri.se |
+| 107.189.8.181 | 4 | 1698437934 | 1771423246 | EU | LU | Luxembourg | 53667 | tor-exit-2.aa78i2efsewr0neeknk.xyz |
+| 107.189.8.16 | 4 | 1707699818 | 1771423246 | EU | LU | Luxembourg | 53667 | polyphemus2.brandonkuschel.com |
+| 5.255.101.131 | 4 | 1698437993 | 1771423245 | EU | NL | Dronten | 60404 |  |
+| 220.135.36.173 | 4 | 1752433358 | 1771423245 | AS | TW | Taipei | 3462 | 220-135-36-173.hinet-ip.hinet.net |
+| 194.15.36.117 | 4 | 1746831738 | 1771423245 | EU | DE |  | 213250 | 117.36.15.194.in-addr.arpa |
+| 192.159.99.27 | 4 | 1770562962 | 1771423245 | NA | US | New York | 14315 |  |
+| 185.233.100.23 | 4 | 1698437957 | 1771423245 | EU | FR |  | 198985 | elenagb.nos-oignons.net |
+| 185.220.101.188 | 4 | 1698437940 | 1771423245 | EU | DE | Brandenburg | 60729 | tor-exit-188.relayon.org |
+| 185.220.101.154 | 4 | 1698438010 | 1771423245 | EU | DE | Brandenburg | 60729 | tor-exit-154.relayon.org |
+| 185.220.101.147 | 4 | 1698438009 | 1771423245 | EU | DE | Brandenburg | 60729 | tor-exit-147.relayon.org |
+| 185.220.101.140 | 4 | 1698438010 | 1771423245 | EU | DE | Brandenburg | 60729 | tor-exit-140.relayon.org |
+| 171.25.193.38 | 4 | 1752537709 | 1771423245 | EU | SE |  | 198093 | mesh11.dfri.se |
+| 171.25.193.37 | 4 | 1752537709 | 1771423245 | EU | SE |  | 198093 | mesh11.dfri.se |
+| 124.198.132.13 | 4 | 1752076895 | 1771423245 | NA | US | New York | 9889 |  |
+| 118.163.74.160 | 4 | 1698437999 | 1771423245 | AS | TW | New Taipei City | 3462 | 118-163-74-160.hinet-ip.hinet.net |
+| 185.220.101.186 | 4 | 1698437950 | 1771423244 | EU | DE | Brandenburg | 60729 | tor-exit-186.relayon.org |
+| 185.220.101.182 | 4 | 1698438597 | 1771423244 | EU | DE | Brandenburg | 60729 | tor-exit-182.relayon.org |
+| 185.220.101.170 | 4 | 1698438596 | 1771423244 | EU | DE | Brandenburg | 60729 | tor-exit-170.relayon.org |
+| 185.220.101.169 | 4 | 1698438596 | 1771423244 | EU | DE | Brandenburg | 60729 | tor-exit-169.relayon.org |
+| 185.220.101.166 | 4 | 1698437950 | 1771423244 | EU | DE | Brandenburg | 60729 | tor-exit-166.relayon.org |
+| 185.220.101.165 | 4 | 1698438596 | 1771423244 | EU | DE | Brandenburg | 60729 | tor-exit-165.relayon.org |
+| 185.220.101.162 | 4 | 1698438596 | 1771423244 | EU | DE | Brandenburg | 60729 | tor-exit-162.relayon.org |
+| 185.220.101.157 | 4 | 1698438011 | 1771423244 | EU | DE | Brandenburg | 60729 | tor-exit-157.relayon.org |
+| 185.220.101.155 | 4 | 1698438595 | 1771423244 | EU | DE | Brandenburg | 60729 | tor-exit-155.relayon.org |
+| 185.220.101.152 | 4 | 1698438011 | 1771423244 | EU | DE | Brandenburg | 60729 | tor-exit-152.relayon.org |
+| 185.220.101.143 | 4 | 1698438011 | 1771423244 | EU | DE | Brandenburg | 60729 | tor-exit-143.relayon.org |
+| 185.220.101.139 | 4 | 1698438010 | 1771423244 | EU | DE | Brandenburg | 60729 | tor-exit-139.relayon.org |
+| 185.220.101.136 | 4 | 1698437962 | 1771423244 | EU | DE | Brandenburg | 60729 | tor-exit-136.relayon.org |
+| 185.220.101.132 | 4 | 1698438010 | 1771423244 | EU | DE | Brandenburg | 60729 | tor-exit-132.relayon.org |
+| 185.220.101.185 | 4 | 1698507105 | 1771423243 | EU | DE | Brandenburg | 60729 | tor-exit-185.relayon.org |
+| 185.220.101.183 | 4 | 1698438597 | 1771423243 | EU | DE | Brandenburg | 60729 | tor-exit-183.relayon.org |
+| 185.220.101.176 | 4 | 1698438596 | 1771423243 | EU | DE | Brandenburg | 60729 | tor-exit-176.relayon.org |
+| 185.220.101.175 | 4 | 1698438596 | 1771423243 | EU | DE | Brandenburg | 60729 | tor-exit-175.relayon.org |
+| 185.220.101.160 | 4 | 1698438010 | 1771423243 | EU | DE | Brandenburg | 60729 | tor-exit-160.relayon.org |
+| 185.220.101.156 | 4 | 1698438010 | 1771423243 | EU | DE | Brandenburg | 60729 | tor-exit-156.relayon.org |
+| 185.220.101.153 | 4 | 1698438010 | 1771423243 | EU | DE | Brandenburg | 60729 | tor-exit-153.relayon.org |
+| 185.220.101.145 | 4 | 1698438010 | 1771423243 | EU | DE | Brandenburg | 60729 | tor-exit-145.relayon.org |
+| 185.220.101.144 | 4 | 1698438010 | 1771423243 | EU | DE |  | 60729 | tor-exit-144.relayon.org |
+| 185.220.101.138 | 4 | 1698438011 | 1771423243 | EU | DE | Brandenburg | 60729 | tor-exit-138.relayon.org |
+| 185.220.101.137 | 4 | 1698438010 | 1771423243 | EU | DE | Brandenburg | 60729 | tor-exit-137.relayon.org |
+| 185.220.101.133 | 4 | 1698438010 | 1771423243 | EU | DE | Brandenburg | 60729 | tor-exit-133.relayon.org |
+| 185.220.101.131 | 4 | 1698507102 | 1771423243 | EU | DE | Brandenburg | 60729 | tor-exit-131.relayon.org |
+| 5.255.118.151 | 4 | 1751832210 | 1771423242 | EU | NL | Dronten | 60404 |  |
+| 45.88.186.89 | 4 | 1751918617 | 1771423242 | NA | US | Miami |  |  |
+| 38.135.24.33 | 4 | 1747951263 | 1771423242 | NA | US | Somers | 174 |  |
+| 195.47.238.93 | 4 | 1731150130 | 1771423242 | EU | SE |  | 30893 | tor-11.no-ack.net |
+| 192.159.99.74 | 4 | 1751731313 | 1771423242 | NA | US | New York | 14315 | 192.159.99.74.powered.by.rdp.sh |
+| 192.159.99.168 | 4 | 1751605320 | 1771423242 | NA | US | New York | 14315 |  |
+| 185.220.101.179 | 4 | 1698438597 | 1771423242 | EU | DE | Brandenburg | 60729 | tor-exit-179.relayon.org |
+| 185.220.101.174 | 4 | 1698437998 | 1771423242 | EU | DE | Brandenburg | 60729 | tor-exit-174.relayon.org |
+| 185.220.101.172 | 4 | 1698507104 | 1771423242 | EU | DE | Brandenburg | 60729 | tor-exit-172.relayon.org |
+| 185.220.101.164 | 4 | 1698507104 | 1771423242 | EU | DE | Brandenburg | 60729 | tor-exit-164.relayon.org |
+| 185.220.101.135 | 4 | 1698438010 | 1771423242 | EU | DE | Brandenburg | 60729 | tor-exit-135.relayon.org |
+| 185.220.101.130 | 4 | 1698438009 | 1771423242 | EU | DE | Brandenburg | 60729 | tor-exit-130.relayon.org |
+| 185.220.101.129 | 4 | 1698438009 | 1771423242 | EU | DE | Brandenburg | 60729 | tor-exit-129.relayon.org |
+| 185.193.52.180 | 4 | 1698437938 | 1771423242 | EU | RO |  | 44679 |  |
+| 82.118.248.205 | 4 | 1740560604 | 1771423241 | EU | BG | Kladnitsa | 45007 |  |
+| 80.94.92.99 | 4 | 1750737835 | 1771423241 | EU | RO |  | 47890 |  |
+| 72.211.49.235 | 4 | 1712955690 | 1771423241 | NA | US | San Diego | 22773 | wsip-72-211-49-235.sd.sd.cox.net |
+| 5.255.110.120 | 4 | 1751058205 | 1771423241 | EU | NL | Dronten | 60404 |  |
+| 23.137.254.244 | 4 | 1750417385 | 1771423241 | NA | US | Kansas City | 210630 | srv-93q3PF.incognet.io |
+| 23.137.248.100 | 4 | 1698437978 | 1771423241 | EU | NL | Amsterdam | 210630 | tor-exit.yangwenli.anondns.net |
+| 23.129.64.152 | 4 | 1749945759 | 1771423241 | NA | US |  | 396507 | emeraldonion.net |
+| 23.129.64.145 | 4 | 1698437960 | 1771423241 | NA | US |  | 396507 |  |
+| 23.129.64.141 | 4 | 1698437972 | 1771423241 | NA | US |  | 396507 |  |
+| 185.100.87.166 | 4 | 1723737706 | 1771423241 | EU | RO | Bucharest | 200651 |  |
+| 162.220.14.78 | 4 | 1751241706 | 1771423241 | NA | US |  | 8100 |  |
+| 162.220.14.54 | 4 | 1751072657 | 1771423241 | NA | US |  | 8100 |  |
+| 124.198.131.62 | 4 | 1751331827 | 1771423241 | NA | US | New York | 9889 |  |
+| 109.69.67.17 | 4 | 1698437997 | 1771423241 | EU | DE | Bremen | 49855 | tor.plutex.de |
+| 23.129.64.153 | 4 | 1749949484 | 1771423240 | NA | US |  | 396507 | emeraldonion.net |
+| 23.129.64.151 | 4 | 1749945759 | 1771423240 | NA | US |  | 396507 | emeraldonion.net |
+| 23.129.64.150 | 4 | 1721559731 | 1771423240 | NA | US |  | 396507 |  |
+| 23.129.64.149 | 4 | 1698437951 | 1771423240 | NA | US |  | 396507 |  |
+| 23.129.64.147 | 4 | 1698437973 | 1771423240 | NA | US |  | 396507 |  |
+| 23.129.64.146 | 4 | 1698437941 | 1771423240 | NA | US |  | 396507 |  |
+| 23.129.64.143 | 4 | 1698437948 | 1771423240 | NA | US |  | 396507 |  |
+| 23.129.64.142 | 4 | 1698437988 | 1771423240 | NA | US |  | 396507 |  |
+| 23.129.64.140 | 4 | 1698437991 | 1771423240 | NA | US |  | 396507 |  |
+| 23.129.64.139 | 4 | 1698437962 | 1771423240 | NA | US |  | 396507 |  |
+| 23.129.64.137 | 4 | 1698437987 | 1771423240 | NA | US |  | 396507 |  |
+| 23.129.64.136 | 4 | 1698437993 | 1771423240 | NA | US |  | 396507 |  |
+| 23.129.64.134 | 4 | 1698437971 | 1771423240 | NA | US |  | 396507 |  |
+| 23.129.64.133 | 4 | 1698437956 | 1771423240 | NA | US |  | 396507 |  |
+| 51.91.18.151 | 4 | 1698437987 | 1771423239 | EU | FR |  | 16276 | ns3151228.ip-51-91-18.eu |
+| 5.253.247.27 | 4 | 1747667024 | 1771423239 | EU | DE |  |  | 27.247.253.5.in-addr.arpa |
+| 45.137.70.158 | 4 | 1747681426 | 1771423239 | EU | DE |  |  | 158.70.137.45.in-addr.arpa |
+| 45.13.225.78 | 4 | 1746932602 | 1771423239 | EU | DE |  | 213250 | 78.225.13.45.in-addr.arpa |
+| 45.13.225.69 | 4 | 1746932602 | 1771423239 | EU | DE |  | 213250 | 69.225.13.45.in-addr.arpa |
+| 37.114.50.27 | 4 | 1747090892 | 1771423239 | EU | DE |  | 60461 | 27.50.114.37.in-addr.arpa |
+| 37.114.50.18 | 4 | 1747090892 | 1771423239 | EU | DE |  | 60461 | 18.50.114.37.in-addr.arpa |
+| 23.129.64.148 | 4 | 1698437992 | 1771423239 | NA | US |  | 396507 |  |
+| 23.129.64.144 | 4 | 1698437989 | 1771423239 | NA | US |  | 396507 |  |
+| 23.129.64.135 | 4 | 1698437960 | 1771423239 | NA | US |  | 396507 |  |
+| 23.129.64.132 | 4 | 1698437966 | 1771423239 | NA | US |  | 396507 |  |
+| 23.129.64.131 | 4 | 1698437987 | 1771423239 | NA | US |  | 396507 |  |
+| 109.71.252.97 | 4 | 1746925449 | 1771423239 | EU | DE |  | 213250 | 97.252.71.109.in-addr.arpa |
+| 109.71.252.88 | 4 | 1746925449 | 1771423239 | EU | DE |  | 213250 | 88.252.71.109.in-addr.arpa |
+| 94.72.104.135 | 4 | 1748743417 | 1771423238 | EU | GB | Portsmouth | 41314 | UK2Tor.quetzalcoatl-relays.org |
+| 77.48.28.237 | 4 | 1698437950 | 1771423238 | EU | CZ | Brno | 16019 | arnov.intervocalically.com |
+| 77.48.28.204 | 4 | 1698437945 | 1771423238 | EU | CZ | Brno | 16019 | 204.28.48.77.finalhosting.cz |
+| 72.5.43.62 | 4 | 1749114200 | 1771423238 | EU | RO |  |  |  |
+| 57.129.91.235 | 4 | 1748898206 | 1771423238 | EU | DE | Frankfurt am Main | 16276 | exit1.mit-security.at |
+| 37.114.63.5 | 4 | 1746932600 | 1771423238 | EU | DE |  | 60461 | 5.63.114.37.in-addr.arpa |
+| 37.114.50.142 | 4 | 1747090892 | 1771423238 | EU | DE |  | 60461 | 142.50.114.37.in-addr.arpa |
+| 37.114.50.124 | 4 | 1747090892 | 1771423238 | EU | DE |  | 60461 | 124.50.114.37.in-addr.arpa |
+| 206.166.251.193 | 4 | 1749283333 | 1771423238 | EU | NL | Amsterdam | 399629 |  |
+| 203.55.81.2 | 4 | 1757430273 | 1771423238 | EU | FR |  |  |  |
+| 203.55.81.1 | 4 | 1757430273 | 1771423238 | EU | FR |  |  |  |
+| 185.247.226.95 | 4 | 1748962922 | 1771423238 | EU | IS |  | 200651 |  |
+| 124.198.132.237 | 4 | 1749135695 | 1771423238 | NA | US | New York | 9889 |  |
+| 109.71.252.182 | 4 | 1746925449 | 1771423238 | EU | DE |  | 213250 | 182.252.71.109.in-addr.arpa |
+| 74.82.47.194 | 4 | 1698437982 | 1771423237 | NA | US |  | 6939 | tornado.foofus.com |
+| 66.94.111.228 | 4 | 1748567149 | 1771423237 | NA | US | Orangeburg | 40021 | USAEast1Tor.quetzalcoatl-relays.org |
+| 5.104.84.183 | 4 | 1747839820 | 1771423237 | AS | JP | Tokyo | 141995 | Japan1Tor.quetzalcoatl-relays.org |
+| 45.9.168.192 | 4 | 1748279010 | 1771423237 | EU | HU | Nyíregyháza | 211619 |  |
+| 45.9.156.101 | 4 | 1743775413 | 1771423237 | EU | BG | Sofia | 206003 |  |
+| 45.141.215.200 | 4 | 1698437930 | 1771423237 | EU | PL | Warsaw | 210558 |  |
+| 38.135.24.72 | 4 | 1748113419 | 1771423237 | NA | US | Somers | 174 |  |
+| 38.135.24.32 | 4 | 1747951408 | 1771423237 | NA | US | Somers | 174 |  |
+| 38.135.24.31 | 4 | 1747951408 | 1771423237 | NA | US | Somers | 174 |  |
+| 38.135.24.30 | 4 | 1747951408 | 1771423237 | NA | US | Somers | 174 |  |
+| 179.43.128.16 | 4 | 1698438007 | 1771423237 | EU | CH | Rümlang | 51852 | tellhonk.com |
+| 144.126.133.74 | 4 | 1748372640 | 1771423237 | NA | US | St Louis | 40021 | USACentral1Tor.quetzalcoatl-relays.org |
+| 124.198.131.223 | 4 | 1749045694 | 1771423237 | NA | US | New York | 9889 |  |
+| 107.189.8.70 | 4 | 1722636100 | 1771423237 | EU | LU | Luxembourg | 53667 | bvlu.anyvia.cloud |
+| 62.72.47.105 | 4 | 1746896616 | 1771423236 | AS | SG | Singapore |  | Singapore1Tor.quetzalcoatl-relays.org |
+| 62.171.137.169 | 4 | 1698437967 | 1771423236 | EU | DE | Frankfurt am Main | 51167 | vmi343398.contaboserver.net |
+| 46.250.243.29 | 4 | 1746997417 | 1771423236 | EU | GB | London | 834 | Australia1Tor.quetzalcoatl-relays.org |
+| 45.91.250.107 | 4 | 1747343015 | 1771423236 | EU | DE | Langen | 30823 | tor-exit-Herobrine01 |
+| 45.80.158.167 | 4 | 1746500611 | 1771423236 | EU | PL | Warsaw | 210558 |  |
+| 45.148.10.111 | 4 | 1720677782 | 1771423236 | EU | NL | Amsterdam | 48090 |  |
+| 45.138.16.230 | 4 | 1698437940 | 1771423236 | EU | PL | Warsaw | 210558 |  |
+| 45.133.74.53 | 4 | 1746835420 | 1771423236 | EU | DE |  | 213250 | 53.74.133.45.in-addr.arpa |
+| 37.228.129.63 | 4 | 1698437973 | 1771423236 | EU | FI |  | 200651 |  |
+| 204.194.29.4 | 4 | 1698437964 | 1771423236 | NA | US |  | 9 | TOR-EXIT.CYLAB.CMU.EDU |
+| 185.67.82.114 | 4 | 1698437943 | 1771423236 | EU | FI | Helsinki | 20904 | tor-ou.effi.org |
+| 171.25.193.131 | 4 | 1747332116 | 1771423236 | EU | SE |  | 198093 | tor-exit-read-me.dfri.se |
+| 154.53.58.161 | 4 | 1747753303 | 1771423236 | NA | US | Seattle | 40021 | USASeattle1Tor.quetzalcoatl-relays.org |
+| 149.102.153.38 | 4 | 1747659705 | 1771423236 | EU | GB | Portsmouth | 51167 | UK1Tor.quetzalcoatl-relays.org |
+| 92.246.84.133 | 4 | 1698437956 | 1771423235 | EU | DE |  | 44592 |  |
+| 45.84.107.174 | 4 | 1745672600 | 1771423235 | EU | SE |  | 9009 | exit-15.tor.r0cket.net |
+| 45.138.16.164 | 4 | 1745039004 | 1771423235 | EU | PL | Warsaw | 210558 |  |
+| 209.141.51.30 | 4 | 1698437958 | 1771423235 | NA | US | Las Vegas | 53667 | tor-exit.dicedonions.xyz |
+| 205.185.113.180 | 4 | 1698884665 | 1771423235 | NA | US | Las Vegas | 53667 | tor-exit.cubicchaos.net |
+| 2.58.56.93 | 4 | 1744916676 | 1771423235 | EU | NL | Lelystad | 210558 | 2.58.56.93.powered.by.rdp.sh |
+| 199.195.248.168 | 4 | 1746011015 | 1771423235 | NA | US | Staten Island | 53667 |  |
+| 194.15.113.118 | 4 | 1698437982 | 1771423235 | EU | CZ | Brno | 213354 | smtp.exempleasavoir.fr |
+| 185.241.208.185 | 4 | 1744851851 | 1771423235 | EU | PL | Warsaw | 210558 |  |
+| 178.218.144.64 | 4 | 1710108622 | 1771423235 | EU | IT | Milan | 212508 | 178.218.144.64.lowhosting.org |
+| 178.20.55.182 | 4 | 1698438002 | 1771423235 | EU | FR |  | 29075 | marcuse-2.nos-oignons.net |
+| 178.20.55.16 | 4 | 1698437933 | 1771423235 | EU | FR |  | 29075 | marcuse.nos-oignons.net |
+| 125.253.56.119 | 4 | 1744207295 | 1771423235 | OC | AU | Sydney | 38195 | 125-253-56-119.ip4.superloop.au |
+| 103.20.241.102 | 4 | 1746108095 | 1771423235 | AS | MY |  |  |  |
+| 89.147.110.82 | 4 | 1704589004 | 1771423234 | EU | IS | Reykjavik | 44925 | vps-89-147-110-82.1984.is |
+| 84.19.182.20 | 4 | 1698492505 | 1771423234 | EU | DE |  | 31103 | km21001-02.keymachine.de |
+| 77.239.97.46 | 4 | 1760392840 | 1771423234 | EU | DE | Frankfurt am Main | 6908 |  |
+| 45.95.169.104 | 4 | 1743015826 | 1771423234 | EU | HR | Sisak | 211619 |  |
+| 45.84.107.54 | 4 | 1742832206 | 1771423234 | EU | SE |  | 9009 | exit-14.tor.r0cket.net |
+| 193.189.100.200 | 4 | 1698437994 | 1771423234 | EU | SE |  | 41281 | tor-exit-7 |
+| 193.189.100.199 | 4 | 1698437934 | 1771423234 | EU | SE |  | 41281 | tor-exit-6 |
+| 193.189.100.198 | 4 | 1698437935 | 1771423234 | EU | SE |  | 41281 | tor-exit-5 |
+| 193.189.100.197 | 4 | 1698437992 | 1771423234 | EU | SE |  | 41281 | tor-exit-4 |
+| 193.189.100.196 | 4 | 1698437967 | 1771423234 | EU | SE |  | 41281 | tor-exit-3 |
+| 193.189.100.195 | 4 | 1698492164 | 1771423234 | EU | SE |  | 41281 | tor-exit-2 |
+| 193.189.100.194 | 4 | 1698437988 | 1771423234 | EU | SE |  | 41281 | tor-exit-1 |
+| 178.17.171.102 | 4 | 1698437929 | 1771423234 | EU | MD | Chisinau | 43289 | angband.teaparty.net |
+| 103.193.179.233 | 4 | 1707283127 | 1771423234 | AS | ID |  | 136052 | ip103-193-179-233.cloudhost.web.id |
+| 93.95.227.37 | 4 | 1740013526 | 1771423233 | EU | IS |  | 44925 | vps-93-95-227-37.1984.is |
+| 45.9.156.193 | 4 | 1770696268 | 1771423233 | EU | BG | Sofia | 206003 | vps24209.maxko-hosting.net |
+| 37.221.208.71 | 4 | 1740207794 | 1771423233 | EU | HU |  | 41075 | torexitspeakfreely.com |
+| 31.184.236.104 | 4 | 1742198607 | 1771423233 | EU | RU |  | 198620 |  |
+| 204.8.96.120 | 4 | 1713218556 | 1771423233 | NA | US |  | 62744 |  |
+| 198.46.166.157 | 4 | 1698437985 | 1771423233 | NA | US | Los Angeles | 36352 | tor03.mtak.nl |
+| 185.254.196.141 | 4 | 1698437942 | 1771423233 | EU | UA | Kyiv | 30860 | dedicated.vsys.host |
+| 172.233.82.41 | 4 | 1734220907 | 1771423233 | AS | JP | Osaka | 63949 | 172-233-82-41.ip.linodeusercontent.com |
+| 172.232.209.254 | 4 | 1742428909 | 1771423233 | EU | IT | Milan | 63949 | 172-232-209-254.ip.linodeusercontent.com |
+| 172.105.20.12 | 4 | 1742752900 | 1771423233 | NA | CA | Toronto | 63949 | 172-105-20-12.ip.linodeusercontent.com |
+| 172.104.186.73 | 4 | 1733079719 | 1771423233 | AS | SG | Singapore | 63949 | 172-104-186-73.ip.linodeusercontent.com |
+| 166.70.207.2 | 4 | 1698437977 | 1771423233 | NA | US | Orem | 6315 | this.is.a.tor.node.xmission.com |
+| 107.189.3.11 | 4 | 1698437963 | 1771423233 | EU | LU | Luxembourg | 53667 |  |
+| 103.146.203.11 | 4 | 1740704624 | 1771423233 | AS | ID |  | 136052 |  |
+| 87.101.92.171 | 4 | 1715144618 | 1771423232 | NA | CA | Montreal | 9009 |  |
+| 83.217.9.73 | 4 | 1709162131 | 1771423232 | AS | TR | Istanbul | 199669 | salsedo.osservatorionessuno.org |
+| 45.84.107.97 | 4 | 1739707381 | 1771423232 | EU | SE |  | 9009 | exit-13.tor.r0cket.net |
+| 45.84.107.47 | 4 | 1737378162 | 1771423232 | EU | SE |  | 9009 | exit-10.tor.r0cket.net |
+| 45.84.107.33 | 4 | 1737378162 | 1771423232 | EU | SE |  | 9009 | exit-09.tor.r0cket.net |
+| 45.84.107.17 | 4 | 1739707380 | 1771423232 | EU | SE |  | 9009 | exit-12.tor.r0cket.net |
+| 45.84.107.128 | 4 | 1739707380 | 1771423232 | EU | SE |  | 9009 | exit-11.tor.r0cket.net |
+| 31.44.238.25 | 4 | 1739869382 | 1771423232 | EU | SE | Vaxjo | 35100 |  |
+| 209.141.45.141 | 4 | 1734022934 | 1771423232 | NA | US | Las Vegas | 53667 | pkckr59.cn |
+| 205.185.113.8 | 4 | 1734026532 | 1771423232 | NA | US | Las Vegas | 53667 |  |
+| 198.98.57.151 | 4 | 1733767335 | 1771423232 | NA | US | Staten Island | 53667 |  |
+| 193.237.221.228 | 4 | 1736813776 | 1771423232 | EU | GB | Hounslow | 5378 | static-193-237-221-228.vodafonexdsl.co.uk |
+| 185.181.60.204 | 4 | 1766070034 | 1771423232 | EU | NO | Sandefjord | 56655 |  |
+| 185.150.28.13 | 4 | 1739444503 | 1771423232 | EU | CH |  | 59891 |  |
+| 93.99.104.18 | 4 | 1698437961 | 1771423231 | EU | CZ | Opava | 16019 | 18.104.99.93.finalhosting.cz |
+| 93.95.231.14 | 4 | 1705725623 | 1771423231 | EU | IS |  | 44925 | magic.torexit.syndicateguys.com |
+| 45.84.107.74 | 4 | 1737298986 | 1771423231 | EU | SE |  | 9009 | exit-07.tor.r0cket.net |
+| 45.84.107.55 | 4 | 1737298986 | 1771423231 | EU | SE |  | 9009 | exit-06.tor.r0cket.net |
+| 45.84.107.222 | 4 | 1737298986 | 1771423231 | EU | SE |  | 9009 | exit-05.tor.r0cket.net |
+| 45.84.107.172 | 4 | 1737378162 | 1771423231 | EU | SE |  | 9009 | exit-08.tor.r0cket.net |
+| 45.84.107.101 | 4 | 1736789368 | 1771423231 | EU | SE |  | 9009 | exit-04.tor.r0cket.net |
+| 45.138.16.231 | 4 | 1736280206 | 1771423231 | EU | PL | Warsaw | 210558 | aoi.nezu.cc |
+| 23.236.122.193 | 4 | 1736938934 | 1771423231 | NA | US | Ashburn | 21859 |  |
+| 198.98.62.158 | 4 | 1737025385 | 1771423231 | NA | US | Staten Island | 53667 |  |
+| 198.98.57.74 | 4 | 1737025385 | 1771423231 | NA | US | Staten Island | 53667 |  |
+| 178.218.144.96 | 4 | 1710364272 | 1771423231 | EU | IT | Milan | 212508 | 178.218.144.96.lowhosting.org |
+| 121.78.28.166 | 4 | 1736938882 | 1771423231 | AS | KR |  | 21859 |  |
+| 93.99.104.40 | 4 | 1725152598 | 1771423230 | EU | CZ | Opava | 16019 | 40.104.99.93.finalhosting.cz |
+| 88.80.26.3 | 4 | 1729469027 | 1771423230 | EU | SE |  | 33837 | TOR-EXIT-001.prq.se |
+| 72.235.129.116 | 4 | 1729411421 | 1771423230 | NA | US | Honolulu | 36149 | dhcp-72-235-129-116.hawaiiantel.net |
+| 45.66.35.35 | 4 | 1698437942 | 1771423230 | EU | NL | Amsterdam | 47482 | tor-exit.sabotage.org |
+| 45.138.16.248 | 4 | 1734490972 | 1771423230 | EU | PL | Warsaw | 210558 |  |
+| 23.184.48.78 | 4 | 1732428150 | 1771423230 | NA | US | Liberty Lake | 210630 | tor-exit-relay2.0xmiska.com |
+| 193.26.115.43 | 4 | 1698437951 | 1771423230 | NA | US | Miami | 23470 | 193.26.115.43.powered.by.rdp.sh |
+| 193.200.229.243 | 4 | 1766142165 | 1771423230 | EU | NO | Sandefjord |  |  |
+| 190.103.179.98 | 4 | 1698507118 | 1771423230 | NA | MX |  | 263812 | 98.ip-179-103-190.cdmx.mx.ipxon.net |
+| 185.235.146.29 | 4 | 1698437952 | 1771423230 | EU | FR | Toulouse | 39405 |  |
+| 172.104.182.84 | 4 | 1708834398 | 1771423230 | AS | SG | Singapore | 63949 | tor-exit.triggersolutions.au |
+| 146.59.231.4 | 4 | 1736251282 | 1771423230 | EU | FR |  | 16276 | vps-4e8e6ed2.vps.ovh.net |
+| 139.99.8.57 | 4 | 1698437947 | 1771423230 | AS | SG | Singapore | 16276 | ns536014.ip-139-99-8.net |
+| 136.244.111.163 | 4 | 1698437978 | 1771423230 | EU | NL | Amsterdam | 20473 | 136.244.111.163.vultrusercontent.com |
+| 91.203.144.194 | 4 | 1698437931 | 1771423229 | EU | UA | Kryvyi Rih | 45045 |  |
+| 89.147.111.87 | 4 | 1709867578 | 1771423229 | EU | IS | Reykjavik | 44925 | vps-89-147-111-87.1984.is |
+| 82.221.131.5 | 4 | 1698437984 | 1771423229 | EU | IS |  | 50613 |  |
+| 82.221.128.191 | 4 | 1698437986 | 1771423229 | EU | IS |  | 50613 |  |
+| 80.94.92.92 | 4 | 1731391403 | 1771423229 | EU | RO |  | 47890 |  |
+| 5.255.125.196 | 4 | 1698437955 | 1771423229 | EU | NL | Dronten | 60404 |  |
+| 5.255.118.218 | 4 | 1730819018 | 1771423229 | EU | NL | Dronten | 60404 |  |
+| 35.0.127.52 | 4 | 1698437947 | 1771423229 | NA | US | Ann Arbor | 36375 | tor-exit.eecs.umich.edu |
+| 193.36.132.21 | 4 | 1730898136 | 1771423229 | EU | NL | Amsterdam | 211895 | tanja.tor-exit.mxmla.de |
+| 188.239.191.25 | 4 | 1730894529 | 1771423229 | EU | NL | Amsterdam | 211895 | bernd.tor-exit.mxmla.de |
+| 185.165.171.84 | 4 | 1698437990 | 1771423229 | EU | IS |  | 200651 |  |
+| 176.58.121.177 | 4 | 1698437930 | 1771423229 | EU | GB | London | 63949 | golosa.info |
+| 124.198.131.108 | 4 | 1745812891 | 1771423229 | NA | US | New York | 9889 |  |
+| 108.61.189.136 | 4 | 1698437968 | 1771423229 | EU | NL | Amsterdam | 20473 | 108.61.189.136.vultrusercontent.com |
+| 88.80.26.4 | 4 | 1729487004 | 1771423228 | EU | SE |  | 33837 | TOR-EXIT-003.prq.se |
+| 88.80.26.2 | 4 | 1729461819 | 1771423228 | EU | SE |  | 33837 | TOR-EXIT-002.prq.se |
+| 87.118.116.12 | 4 | 1728129833 | 1771423228 | EU | DE |  | 31103 | tormachine.keymachine.de |
+| 84.239.46.144 | 4 | 1698437938 | 1771423228 | EU | RO |  | 201308 |  |
+| 45.84.107.198 | 4 | 1728140614 | 1771423228 | EU | SE |  | 9009 | exit-01.tor.r0cket.net |
+| 45.84.107.182 | 4 | 1728140614 | 1771423228 | EU | SE |  | 9009 | exit-02.tor.r0cket.net |
+| 212.38.189.186 | 4 | 1698438711 | 1771423228 | EU | GB |  | 20860 |  |
+| 200.122.181.2 | 4 | 1698437975 | 1771423228 | NA | CR | San José | 3790 |  |
+| 192.76.153.253 | 4 | 1757552668 | 1771423228 | EU | NL |  | 60404 |  |
+| 185.100.85.132 | 4 | 1698438007 | 1771423228 | EU | RO | Bucharest | 200651 |  |
+| 178.218.144.99 | 4 | 1698437971 | 1771423228 | EU | IT | Milan | 212508 | 178.218.144.99.lowhosting.org |
+| 172.81.132.94 | 4 | 1712750496 | 1771423228 | NA | US |  | 27176 | ip-172-81-132-94.host.datawagon.net |
+| 172.81.131.156 | 4 | 1698437945 | 1771423228 | NA | US | Chicago | 27176 | v1.fashionarmourco.com |
+| 104.244.78.232 | 4 | 1729602087 | 1771423228 | EU | CH |  | 53667 |  |
+| 93.95.231.88 | 4 | 1704919841 | 1771423227 | EU | IS |  | 44925 | vps-93-95-231-88.1984.is |
+| 91.208.75.3 | 4 | 1698437964 | 1771423227 | EU | RO |  | 6718 |  |
+| 45.84.107.76 | 4 | 1728140615 | 1771423227 | EU | SE |  | 9009 | exit-03.tor.r0cket.net |
+| 45.83.104.137 | 4 | 1698438000 | 1771423227 | EU | DE | Nuremberg | 197540 | v2202307203666234413.quicksrv.de |
+| 45.128.133.242 | 4 | 1698438007 | 1771423227 | EU | BE | Brussels | 206804 |  |
+| 209.141.51.180 | 4 | 1705269988 | 1771423227 | NA | US | Las Vegas | 53667 | a-n-o-n-y-m-e.net |
+| 185.243.218.230 | 4 | 1765702950 | 1771423227 | EU | NO | Sandefjord | 56655 | tor-exit-info.middelstaedt.com |
+| 185.243.218.229 | 4 | 1765706545 | 1771423227 | EU | NO | Sandefjord | 56655 | tor-exit-info.middelstaedt.com |
+| 185.243.218.225 | 4 | 1765620028 | 1771423227 | EU | NO | Sandefjord | 56655 | tor-exit.lokodlare.com |
+| 171.25.193.235 | 4 | 1698437959 | 1771423227 | EU | SE |  | 198093 | tor-exit-read-me.dfri.se |
+| 149.202.79.129 | 4 | 1698437957 | 1771423227 | EU | FR |  | 16276 | ns3016113.ip-149-202-79.eu |
+| 114.35.245.150 | 4 | 1698438493 | 1771423227 | AS | TW | Taipei | 3462 | 114-35-245-150.hinet-ip.hinet.net |
+| 107.189.29.184 | 4 | 1722636098 | 1771423227 | EU | LU | Luxembourg | 53667 |  |
+| 103.164.54.199 | 4 | 1723586489 | 1771423227 | AS | SG | Singapore | 141995 | sortie-tor.a-n-o-n-y-m-e.net |
+| 94.142.244.16 | 4 | 1698437973 | 1771423226 | EU | NL | Amsterdam | 8283 | tor-exit.vrij-heid.nl |
+| 94.142.241.194 | 4 | 1698437944 | 1771423226 | EU | NL | Amsterdam | 8283 | tor-exit.vrij-heid.nl |
+| 93.99.104.194 | 4 | 1698437961 | 1771423226 | EU | CZ | Opava | 16019 | zarni.haribaned.com |
+| 91.203.145.116 | 4 | 1698437973 | 1771423226 | EU | UA | Kyiv | 45045 |  |
+| 5.2.72.110 | 4 | 1698437992 | 1771423226 | EU | NL |  | 60404 |  |
+| 5.104.86.6 | 4 | 1721509712 | 1771423226 | AS | JP | Tokyo | 141995 | sortie-tor.a-n-o-n-y-m-e.net |
+| 31.133.0.210 | 4 | 1717099393 | 1771423226 | EU | PL |  | 51290 | unused-31-133-0-210.hosteam.pl |
+| 212.69.167.80 | 4 | 1698437941 | 1771423226 | EU | AT | Vienna | 8218 | 212.69.167.80.not-updated.vie.upstreamnet.at |
+| 185.243.218.226 | 4 | 1765623744 | 1771423226 | EU | NO | Sandefjord | 56655 | tor-exit.lokodlare.com |
+| 185.241.208.81 | 4 | 1719248509 | 1771423226 | EU | PL | Warsaw | 210558 | tor-exit-readme-5.maxzrbn.it |
+| 185.225.69.232 | 4 | 1698438001 | 1771423226 | EU | HU | Budapest | 30836 |  |
+| 185.106.102.102 | 4 | 1701660028 | 1771423226 | EU | CY | Limassol | 197648 | mybeautylab.shop |
+| 172.234.228.174 | 4 | 1726380093 | 1771423226 | NA | US | Tukwila | 20940 | bluto.relaymagic.org |
+| 165.73.242.163 | 4 | 1698437993 | 1771423226 | AF | ZA |  | 40676 |  |
+| 98.128.173.33 | 4 | 1712160208 | 1771423225 | EU | SE | Gothenburg | 8473 | h-98-128-173-33.A785.priv.bahnhof.se |
+| 91.92.109.126 | 4 | 1698438339 | 1771423225 | EU | BG |  | 34224 |  |
+| 91.202.5.104 | 4 | 1715043796 | 1771423225 | EU | NL | Haarlem | 43641 | sortie-tor.a-n-o-n-y-m-e.net |
+| 89.147.108.90 | 4 | 1705725561 | 1771423225 | EU | IS | Reykjavik | 44925 | miles.torexit.syndicateguys.com |
+| 62.182.84.146 | 4 | 1698437983 | 1771423225 | EU | UA | Kyiv | 30860 | ml148.spryraven.com |
+| 45.66.35.22 | 4 | 1700608929 | 1771423225 | EU | NL | Amsterdam | 47482 | ams02.torexit.nl |
+| 45.11.59.28 | 4 | 1715717034 | 1771423225 | NA | US | Seattle |  | sortie-tor.a-n-o-n-y-m-e.net |
+| 212.21.66.6 | 4 | 1698437988 | 1771423225 | EU | DE |  | 44716 | tor-exit-4.all.de |
+| 204.8.156.142 | 4 | 1698437939 | 1771423225 | NA | US | Boston | 10961 | cs-tor.bu.edu |
+| 199.195.253.124 | 4 | 1698437983 | 1771423225 | NA | US | Staten Island | 53667 |  |
+| 195.80.151.242 | 4 | 1714388484 | 1771423225 | EU | BG |  | 206804 |  |
+| 185.42.170.203 | 4 | 1698437982 | 1771423225 | EU | NO | Oslo | 62248 | exit01.tor.anduin.net |
+| 185.112.146.167 | 4 | 1698438579 | 1771423225 | EU | IS |  | 44925 | vps-185-112-146-167.1984.is |
+| 176.97.114.202 | 4 | 1714878101 | 1771423225 | EU | UA | Kyiv |  | sortie-tor.a-n-o-n-y-m-e.net |
+| 85.93.218.204 | 4 | 1698437983 | 1771423224 | EU | LU | Luxembourg | 9008 | tor.localhost.lu |
+| 66.220.242.222 | 4 | 1698437956 | 1771423224 | NA | US | West Lebanon | 17356 | vtelinet-66-220-242-222.vermontel.net |
+| 5.255.98.198 | 4 | 1698798469 | 1771423224 | EU | NL | Dronten | 60404 |  |
+| 5.255.104.202 | 4 | 1698437962 | 1771423224 | EU | NL | Dronten | 60404 |  |
+| 45.12.3.80 | 4 | 1701386380 | 1771423224 | EU | UA | Kyiv | 43180 | dedicated.vsys.host |
+| 185.246.84.179 | 4 | 1733320929 | 1771423224 | EU | FR |  | 21409 | exitnodev8.v6.rocks |
+| 185.246.188.149 | 4 | 1710335492 | 1771423224 | EU | NL |  | 200651 |  |
+| 185.191.204.254 | 4 | 1698437957 | 1771423224 | AS | IL |  | 35758 | 204.254.hqserv.co.il |
+| 178.218.144.18 | 4 | 1698437980 | 1771423224 | EU | IT | Milan | 212508 | 178.218.144.18.lowhosting.org |
+| 171.25.193.78 | 4 | 1698437964 | 1771423224 | EU | SE |  | 198093 | tor-exit-read-me.dfri.se |
+| 130.193.15.186 | 4 | 1698438000 | 1771423224 | EU | CZ |  | 29134 | vps1936.hosting90.net |
+| 123.253.35.32 | 4 | 1701325033 | 1771423224 | AS | MY | Cyberjaya | 55720 |  |
+| 107.189.13.180 | 4 | 1698438006 | 1771423224 | EU | LU | Luxembourg | 53667 |  |
+| 102.130.117.167 | 4 | 1713301294 | 1771423224 | AF | ZA |  | 328364 |  |
+| 92.243.24.163 | 4 | 1706624657 | 1771423223 | EU | FR |  | 203476 | ernest-tor.a-n-o-n-y-m-e.net |
+| 91.219.236.101 | 4 | 1706836484 | 1771423223 | EU | HU | Budapest | 56322 | sortie-tor.a-n-o-n-y-m-e.net |
+| 209.141.32.198 | 4 | 1710263492 | 1771423223 | NA | US | Las Vegas | 53667 | tor-exit-node1.duckdns.org |
+| 185.246.128.161 | 4 | 1698437975 | 1771423223 | EU | SE | Stockholm | 42237 |  |
+| 185.220.101.62 | 4 | 1698437998 | 1771423223 | EU | DE | Brandenburg | 60729 | tor-exit-62.for-privacy.net |
+| 185.220.101.60 | 4 | 1698437990 | 1771423223 | EU | DE | Brandenburg | 60729 | tor-exit-60.for-privacy.net |
+| 185.220.101.59 | 4 | 1698437976 | 1771423223 | EU | DE | Brandenburg | 60729 | tor-exit-59.for-privacy.net |
+| 185.220.101.58 | 4 | 1698437947 | 1771423223 | EU | DE | Brandenburg | 60729 | tor-exit-58.for-privacy.net |
+| 185.220.101.56 | 4 | 1698437968 | 1771423223 | EU | DE | Brandenburg | 60729 | tor-exit-56.for-privacy.net |
+| 185.220.101.54 | 4 | 1698437961 | 1771423223 | EU | DE | Brandenburg | 60729 | tor-exit-54.for-privacy.net |
+| 185.220.101.48 | 4 | 1698437995 | 1771423223 | EU | DE | Brandenburg | 60729 | tor-exit-48.for-privacy.net |
+| 185.220.101.45 | 4 | 1698437934 | 1771423223 | EU | DE | Brandenburg | 60729 | tor-exit-45.for-privacy.net |
+| 185.220.101.40 | 4 | 1698437991 | 1771423223 | EU | DE | Brandenburg | 60729 | tor-exit-40.for-privacy.net |
+| 107.189.13.254 | 4 | 1699744821 | 1771423223 | EU | LU | Luxembourg | 53667 |  |
+| 185.220.101.61 | 4 | 1698437976 | 1771423222 | EU | DE | Brandenburg | 60729 | tor-exit-61.for-privacy.net |
+| 185.220.101.57 | 4 | 1698437995 | 1771423222 | EU | DE | Brandenburg | 60729 | tor-exit-57.for-privacy.net |
+| 185.220.101.53 | 4 | 1698437983 | 1771423222 | EU | DE | Brandenburg | 60729 | tor-exit-53.for-privacy.net |
+| 185.220.101.52 | 4 | 1698437997 | 1771423222 | EU | DE | Brandenburg | 60729 | tor-exit-52.for-privacy.net |
+| 185.220.101.51 | 4 | 1698437990 | 1771423222 | EU | DE | Brandenburg | 60729 | tor-exit-51.for-privacy.net |
+| 185.220.101.50 | 4 | 1698437984 | 1771423222 | EU | DE | Brandenburg | 60729 | tor-exit-50.for-privacy.net |
+| 185.220.101.47 | 4 | 1698437933 | 1771423222 | EU | DE | Brandenburg | 60729 | tor-exit-47.for-privacy.net |
+| 185.220.101.42 | 4 | 1698437968 | 1771423222 | EU | DE | Brandenburg | 60729 | tor-exit-42.for-privacy.net |
+| 185.220.101.41 | 4 | 1698437984 | 1771423222 | EU | DE | Brandenburg | 60729 | tor-exit-41.for-privacy.net |
+| 185.220.101.39 | 4 | 1698437960 | 1771423222 | EU | DE | Brandenburg | 60729 | tor-exit-39.for-privacy.net |
+| 185.220.101.38 | 4 | 1698437955 | 1771423222 | EU | DE | Brandenburg | 60729 | tor-exit-38.for-privacy.net |
+| 185.220.101.37 | 4 | 1698437966 | 1771423222 | EU | DE | Brandenburg | 60729 | tor-exit-37.for-privacy.net |
+| 185.220.101.36 | 4 | 1698437981 | 1771423222 | EU | DE | Brandenburg | 60729 | tor-exit-36.for-privacy.net |
+| 204.137.14.92 | 4 | 1698438007 | 1771423221 | EU | NL | Eygelshoven | 399820 | ip.204-137-14-92.atomicnetworks.co |
+| 204.137.14.106 | 4 | 1698438007 | 1771423221 | EU | NL | Eygelshoven | 399820 | ip.204-137-14-106.atomicnetworks.co |
+| 204.137.14.105 | 4 | 1698438007 | 1771423221 | EU | NL | Eygelshoven | 399820 | ip.204-137-14-105.atomicnetworks.co |
+| 204.137.14.104 | 4 | 1699057458 | 1771423221 | EU | NL | Eygelshoven | 399820 | ip.204-137-14-104.atomicnetworks.co |
+| 185.220.101.63 | 4 | 1698437956 | 1771423221 | EU | DE | Brandenburg | 60729 | tor-exit-63.for-privacy.net |
+| 185.220.101.55 | 4 | 1698437956 | 1771423221 | EU | DE | Brandenburg | 60729 | tor-exit-55.for-privacy.net |
+| 185.220.101.49 | 4 | 1698437984 | 1771423221 | EU | DE | Brandenburg | 60729 | tor-exit-49.for-privacy.net |
+| 185.220.101.46 | 4 | 1698437951 | 1771423221 | EU | DE | Brandenburg | 60729 | tor-exit-46.for-privacy.net |
+| 185.220.101.44 | 4 | 1698437989 | 1771423221 | EU | DE | Brandenburg | 60729 | tor-exit-44.for-privacy.net |
+| 185.220.101.43 | 4 | 1698437968 | 1771423221 | EU | DE | Brandenburg | 60729 | tor-exit-43.for-privacy.net |
+| 185.220.101.35 | 4 | 1698437933 | 1771423221 | EU | DE | Brandenburg | 60729 | tor-exit-35.for-privacy.net |
+| 185.220.101.34 | 4 | 1698437928 | 1771423221 | EU | DE | Brandenburg | 60729 | tor-exit-34.for-privacy.net |
+| 185.220.101.33 | 4 | 1698437954 | 1771423221 | EU | DE | Brandenburg | 60729 | tor-exit-33.for-privacy.net |
+| 185.220.101.32 | 4 | 1698437977 | 1771423221 | EU | DE | Brandenburg | 60729 | tor-exit-32.for-privacy.net |
+| 93.95.228.125 | 4 | 1705725610 | 1771423220 | EU | IS | Reykjavik | 44925 | manor.torexit.syndicateguys.com |
+| 91.92.109.43 | 4 | 1698437965 | 1771423220 | EU | BG |  | 34224 |  |
+| 89.147.110.118 | 4 | 1705725561 | 1771423220 | EU | IS | Reykjavik | 44925 | mirca.torexit.syndicateguys.com |
+| 81.17.28.95 | 4 | 1705042903 | 1771423220 | EU | CH | Zurich | 51852 | hostedby.privatelayer.com |
+| 5.255.117.56 | 4 | 1704485673 | 1771423220 | EU | NL | Dronten | 60404 |  |
+| 45.66.35.21 | 4 | 1700608929 | 1771423220 | EU | NL | Amsterdam | 47482 | ams01.torexit.nl |
+| 45.66.35.20 | 4 | 1700608929 | 1771423220 | EU | NL | Amsterdam | 47482 | ams00.torexit.nl |
+| 205.185.124.176 | 4 | 1704238671 | 1771423220 | NA | US | Las Vegas | 53667 | no-records-kept.im.a.tor-exit-node.com |
+| 198.96.155.3 | 4 | 1698437939 | 1771423220 | NA | CA |  | 12093 | exit.tor.uwaterloo.ca |
+| 185.246.189.99 | 4 | 1707754048 | 1771423220 | EU | NL |  | 200651 |  |
+| 185.129.62.63 | 4 | 1698437980 | 1771423220 | EU | DK |  | 57860 | tor02.zencurity.com |
+| 179.43.159.78 | 4 | 1705031645 | 1771423220 | EU | CH | Rümlang | 51852 | hostedby.privatelayer.com |
+| 178.218.144.51 | 4 | 1698507094 | 1771423220 | EU | IT | Milan | 212508 | 178.218.144.51.lowhosting.org |
+| 104.192.3.74 | 4 | 1698437972 | 1771423220 | NA | US |  | 27176 | this-is-a-tor-exit |
+| 83.97.20.77 | 4 | 1698437998 | 1771423219 | EU | RO | Bucharest | 9009 | exit.teap0t.com |
+| 5.255.98.151 | 4 | 1698437994 | 1771423219 | EU | NL | Dronten | 60404 |  |
+| 5.255.100.26 | 4 | 1698614842 | 1771423219 | EU | NL | Dronten | 60404 | tor-exit-01.wurzel.io |
+| 5.2.67.226 | 4 | 1698437997 | 1771423219 | EU | NL |  | 60404 | tor-exit.NL-DRN-KVMNVME-3.liteserver.nl |
+| 205.185.123.93 | 4 | 1698438005 | 1771423219 | NA | US | Las Vegas | 53667 |  |
+| 205.185.121.170 | 4 | 1698438005 | 1771423219 | NA | US | Las Vegas | 53667 |  |
+| 198.58.107.53 | 4 | 1698437999 | 1771423219 | NA | US | Richardson | 63949 | tor.tyler.zone |
+| 185.225.69.203 | 4 | 1698438000 | 1771423219 | EU | HU | Budapest | 30836 |  |
+| 185.195.71.244 | 4 | 1698437939 | 1771423219 | EU | CH |  | 56803 |  |
+| 185.170.114.25 | 4 | 1698438005 | 1771423219 | EU | DE | Nuremberg | 197540 | this-is-a-tor-node---10.artikel5ev.de |
+| 185.154.110.17 | 4 | 1698437996 | 1771423219 | EU | SE |  | 49770 | static-17-110-154-185.internetport.com |
+| 185.130.47.58 | 4 | 1698437996 | 1771423219 | EU | NL | Amsterdam | 210083 | tor-exit-nl1.privex.cc |
+| 109.169.33.163 | 4 | 1698437997 | 1771423219 | EU | GB |  | 20860 | tor-exit-readme.hands.com |
+| 104.244.78.162 | 4 | 1698438006 | 1771423219 | EU | CH |  | 53667 |  |
+| 91.208.75.239 | 4 | 1698437990 | 1771423218 | EU | RO |  | 6718 |  |
+| 91.208.75.156 | 4 | 1698437991 | 1771423218 | EU | RO |  | 6718 |  |
+| 91.206.26.26 | 4 | 1698437992 | 1771423218 | EU | PL |  | 51290 | tor.httpx.pl |
+| 5.45.98.162 | 4 | 1698437993 | 1771423218 | EU | DE | Nuremberg | 197540 | NurembergTor13.quetzalcoatl-relays.org |
+| 205.185.116.34 | 4 | 1698437991 | 1771423218 | NA | US | Las Vegas | 53667 | tor-exit-relay-002.carlos1001.com |
+| 204.85.191.8 | 4 | 1698437988 | 1771423218 | NA | US | Chapel Hill | 36850 | tor00.telenet.unc.edu |
+| 204.85.191.7 | 4 | 1698437991 | 1771423218 | NA | US | Chapel Hill | 36850 | tor02.telenet.unc.edu |
+| 193.105.134.150 | 4 | 1698437990 | 1771423218 | EU | SE | Stockholm | 42237 |  |
+| 192.42.116.215 | 4 | 1698437982 | 1771423218 | EU | NL |  | 1101 | 18.tor-exit.nothingtohide.nl |
+| 185.82.219.109 | 4 | 1698437993 | 1771423218 | EU | BG | Sofia | 59729 | tornode2.vds-114833.com |
+| 185.56.171.94 | 4 | 1698437988 | 1771423218 | EU | IT |  | 3242 | pengy.lsd.cat |
+| 185.154.110.142 | 4 | 1698437992 | 1771423218 | EU | SE |  | 49770 | fearwakes.com |
+| 162.216.18.62 | 4 | 1726412493 | 1771423218 | NA | US | Cedar Knolls | 63949 | popeye.relaymagic.org |
+| 107.189.2.108 | 4 | 1698437992 | 1771423218 | EU | LU | Luxembourg | 53667 | sortie-tor.a-n-o-n-y-m-e.net |
+| 89.147.110.154 | 4 | 1698437986 | 1771423217 | EU | IS | Reykjavik | 44925 | tor.resetthe.world |
+| 80.67.172.162 | 4 | 1698437978 | 1771423217 | EU | FR | Aulnay-sous-Bois | 20766 | algrothendieck.nos-oignons.net |
+| 72.14.179.10 | 4 | 1698437986 | 1771423217 | NA | US | Richardson | 63949 | tor.colagioia.net |
+| 5.255.98.23 | 4 | 1698437981 | 1771423217 | EU | NL | Dronten | 60404 |  |
+| 46.232.251.191 | 4 | 1698437986 | 1771423217 | EU | DE | Nuremberg | 197540 | this-is-a-tor-node---8.artikel5ev.de |
+| 216.73.159.101 | 4 | 1698437977 | 1771423217 | SA | CL | Valdivia | 61138 |  |
+| 205.185.117.149 | 4 | 1698437984 | 1771423217 | NA | US | Las Vegas | 53667 | tor-exit.greektor.net |
+| 194.15.115.212 | 4 | 1698437977 | 1771423217 | EU | GB |  | 6939 |  |
+| 185.34.33.2 | 4 | 1698437981 | 1771423217 | EU | FR |  | 28855 | tor.laquadrature.net |
+| 185.244.192.175 | 4 | 1698437930 | 1771423217 | EU | DE | Nuremberg | 197540 | NurembergTor14.quetzalcoatl-relays.org |
+| 171.25.193.80 | 4 | 1698437980 | 1771423217 | EU | SE |  | 198093 | tor-exit-read-me.dfri.se |
+| 160.119.249.240 | 4 | 1698437979 | 1771423217 | AF | ZA |  | 328364 |  |
+| 124.198.131.253 | 4 | 1749009688 | 1771423217 | NA | US | New York | 9889 |  |
+| 103.109.101.105 | 4 | 1698437984 | 1771423217 | AS | HK |  | 206264 |  |
+| 91.208.75.153 | 4 | 1698437969 | 1771423216 | EU | RO |  | 6718 |  |
+| 87.118.122.30 | 4 | 1698437972 | 1771423216 | EU | DE |  | 31103 | this-is-a-tor-exit-node---keywebtor2.artikel5ev.de |
+| 87.118.116.90 | 4 | 1698437971 | 1771423216 | EU | DE |  | 31103 | this-is-a-tor-exit-node---keywebtor1.artikel5ev.de |
+| 81.16.33.42 | 4 | 1698437974 | 1771423216 | EU | AT |  | 13022 | www.tor-exitnode-read-this-html.epizy.com |
+| 51.81.222.62 | 4 | 1698437974 | 1771423216 | NA | US | Hillsboro | 16276 | tor2.teitel.net |
+| 5.255.97.221 | 4 | 1698437975 | 1771423216 | EU | NL | Dronten | 60404 | tor-exit.ambient8.xyz |
+| 198.98.48.33 | 4 | 1698437969 | 1771423216 | NA | US | Staten Island | 53667 | sortie-tor.a-n-o-n-y-m-e.net |
+| 192.42.116.193 | 4 | 1698437968 | 1771423216 | EU | NL |  | 1101 | 3.tor-exit.nothingtohide.nl |
+| 188.68.52.231 | 4 | 1698437969 | 1771423216 | EU | DE | Nuremberg | 197540 | NurembergTor62.quetzalcoatl-relays.org |
+| 185.241.208.139 | 4 | 1767978169 | 1771423216 | EU | PL | Warsaw | 210558 |  |
+| 185.207.107.130 | 4 | 1698437971 | 1771423216 | EU | DE | Nuremberg | 197540 | NurembergTor68.quetzalcoatl-relays.org |
+| 185.129.62.62 | 4 | 1698437971 | 1771423216 | EU | DK |  | 57860 | tor01.zencurity.com |
+| 173.255.198.243 | 4 | 1726376497 | 1771423216 | NA | US | Richardson | 63949 | brutus.relaymagic.org |
+| 171.25.193.77 | 4 | 1698437969 | 1771423216 | EU | SE |  | 198093 | tor-exit-read-me.dfri.se |
+| 95.128.43.164 | 4 | 1698437965 | 1771423215 | EU | FR | Ivry-sur-Seine | 41653 | exit-1.fr.tor.aquaray.com |
+| 94.230.208.148 | 4 | 1698437965 | 1771423215 | EU | CH | Zurich | 29691 | tor3e3.digitale-gesellschaft.ch |
+| 91.208.75.178 | 4 | 1698437967 | 1771423215 | EU | RO |  | 6718 |  |
+| 71.19.144.106 | 4 | 1698437966 | 1771423215 | NA | US | Santa Clara | 47066 | tor-exit-1.telnor.org |
+| 5.45.104.176 | 4 | 1698437968 | 1771423215 | EU | DE | Nuremberg | 197540 | NurembergTor54.quetzalcoatl-relays.org |
+| 45.132.246.245 | 4 | 1698437967 | 1771423215 | EU | DE | Nuremberg | 197540 | v2202302189715219857.goodsrv.de |
+| 209.141.55.26 | 4 | 1698437967 | 1771423215 | NA | US | Las Vegas | 53667 | tor-exit |
+| 192.42.116.185 | 4 | 1698437968 | 1771423215 | EU | NL |  | 1101 | 33.tor-exit.nothingtohide.nl |
+| 185.246.188.74 | 4 | 1698437967 | 1771423215 | EU | NL |  | 200651 |  |
+| 185.227.134.106 | 4 | 1698437965 | 1771423215 | AS | SG | Singapore | 141995 | vmi1262847.contaboserver.net |
+| 185.100.87.136 | 4 | 1698437968 | 1771423215 | EU | RO | Bucharest | 200651 |  |
+| 171.25.193.20 | 4 | 1698437965 | 1771423215 | EU | SE |  | 198093 | tor-exit-read-me.dfri.se |
+| 102.130.113.9 | 4 | 1698437965 | 1771423215 | AF | ZA |  | 328364 |  |
+| 94.230.208.147 | 4 | 1698437962 | 1771423214 | EU | CH | Zurich | 29691 | tor3e1.digitale-gesellschaft.ch |
+| 77.81.247.72 | 4 | 1698437962 | 1771423214 | EU | NL | Amsterdam | 43927 | 72.247.81.77.static.intovps.com |
+| 5.255.99.5 | 4 | 1698437960 | 1771423214 | EU | NL | Dronten | 60404 |  |
+| 217.12.221.131 | 4 | 1698437963 | 1771423214 | EU | UA | Kyiv | 15626 | tornode1.open-the-ip-in-a-browser.vds-114821.com |
+| 2.58.56.220 | 4 | 1698437962 | 1771423214 | EU | NL | Lelystad | 210558 | 2.58.56.220.powered.by.rdp.sh |
+| 195.88.74.206 | 4 | 1698437962 | 1771423214 | EU | BG |  | 48900 |  |
+| 192.42.116.209 | 4 | 1698437964 | 1771423214 | EU | NL |  | 1101 | 12.tor-exit.nothingtohide.nl |
+| 192.42.116.183 | 4 | 1698437958 | 1771423214 | EU | NL |  | 1101 | 31.tor-exit.nothingtohide.nl |
+| 185.244.192.184 | 4 | 1698437961 | 1771423214 | EU | DE | Nuremberg | 197540 | NurembergTor55.quetzalcoatl-relays.org |
+| 185.207.107.216 | 4 | 1698437960 | 1771423214 | EU | DE | Nuremberg | 197540 | NurembergTor11.quetzalcoatl-relays.org |
+| 185.100.87.41 | 4 | 1698437960 | 1771423214 | EU | RO | Bucharest | 200651 |  |
+| 185.100.87.174 | 4 | 1698437963 | 1771423214 | EU | RO | Bucharest | 200651 | torexit1.flokinet.net |
+| 179.43.182.58 | 4 | 1698437960 | 1771423214 | EU | CH | Rümlang | 51852 | burgerfarm |
+| 109.70.100.10 | 4 | 1698507085 | 1771423214 | EU | AT |  | 208323 | tor-exit-anonymizer.appliedprivacy.net |
+| 212.73.134.204 | 4 | 1698437952 | 1771423213 | EU | BG |  | 34224 |  |
+| 2.58.56.35 | 4 | 1718654539 | 1771423213 | EU | NL | Lelystad | 210558 | Amsterdam5.quetzalcoatl-relays.org |
+| 199.195.253.180 | 4 | 1698437953 | 1771423213 | NA | US | Staten Island | 53667 | NewYorkNewTor7.Quetzalcoatl-relays.org |
+| 199.195.251.119 | 4 | 1698437956 | 1771423213 | NA | US | Staten Island | 53667 | NewYorkTorNew6.Quetzalcoatl-relays.org |
+| 192.42.116.216 | 4 | 1698437954 | 1771423213 | EU | NL |  | 1101 | 19.tor-exit.nothingtohide.nl |
+| 192.42.116.214 | 4 | 1698437958 | 1771423213 | EU | NL |  | 1101 | 17.tor-exit.nothingtohide.nl |
+| 192.42.116.198 | 4 | 1698437954 | 1771423213 | EU | NL |  | 1101 | 8.tor-exit.nothingtohide.nl |
+| 188.68.49.235 | 4 | 1698437953 | 1771423213 | EU | DE | Nuremberg | 197540 | NurembergTor57.quetzalcoatl-relays.org |
+| 188.68.41.191 | 4 | 1698437958 | 1771423213 | EU | DE | Nuremberg | 197540 | NurembergTor35.quetzalcoatl-relays.org |
+| 185.246.188.73 | 4 | 1698437958 | 1771423213 | EU | NL |  | 200651 |  |
+| 185.241.208.71 | 4 | 1698437953 | 1771423213 | EU | PL | Warsaw | 210558 |  |
+| 185.181.61.203 | 4 | 1766142018 | 1771423213 | EU | NO | Sandefjord | 56655 |  |
+| 171.25.193.234 | 4 | 1698437953 | 1771423213 | EU | SE |  | 198093 | tor-exit-read-me.dfri.se |
+| 138.59.18.110 | 4 | 1698437958 | 1771423213 | NA | CR |  | 52423 |  |
+| 91.132.144.59 | 4 | 1698437951 | 1771423212 | EU | DE | Nuremberg | 197540 | NurembergTor49.quetzalcoatl-relays.org |
+| 45.141.215.61 | 4 | 1698437951 | 1771423212 | EU | PL | Warsaw | 210558 |  |
+| 45.141.215.110 | 4 | 1698437950 | 1771423212 | EU | PL | Warsaw | 210558 |  |
+| 45.138.16.234 | 4 | 1769486672 | 1771423212 | EU | PL | Warsaw | 210558 |  |
+| 192.42.116.217 | 4 | 1698437949 | 1771423212 | EU | NL |  | 1101 | 20.tor-exit.nothingtohide.nl |
+| 192.42.116.203 | 4 | 1698437951 | 1771423212 | EU | NL |  | 1101 | 40.tor-exit.nothingtohide.nl |
+| 192.42.116.197 | 4 | 1698437952 | 1771423212 | EU | NL |  | 1101 | 7.tor-exit.nothingtohide.nl |
+| 192.42.116.195 | 4 | 1698437950 | 1771423212 | EU | NL |  | 1101 | 5.tor-exit.nothingtohide.nl |
+| 192.42.116.194 | 4 | 1698437948 | 1771423212 | EU | NL |  | 1101 | 4.tor-exit.nothingtohide.nl |
+| 192.42.116.186 | 4 | 1698437952 | 1771423212 | EU | NL |  | 1101 | 34.tor-exit.nothingtohide.nl |
+| 190.211.254.97 | 4 | 1698437951 | 1771423212 | EU | GB | London | 51852 | hostedby.privatelayer.com |
+| 185.183.157.214 | 4 | 1698437951 | 1771423212 | EU | DE | Nuremberg | 197540 | NurembergTor24.quetzalcoatl-relays.org |
+| 109.70.100.3 | 4 | 1698437949 | 1771423212 | EU | AT |  | 208323 | tor-exit-anonymizer.appliedprivacy.net |
+| 91.208.75.4 | 4 | 1698437944 | 1771423211 | EU | RO |  | 6718 |  |
+| 80.241.60.207 | 4 | 1698437948 | 1771423211 | EU | DE | Berlin | 199118 | tor.mailbox.org |
+| 66.146.193.33 | 4 | 1698437947 | 1771423211 | NA | US |  | 26068 | OSH-NET-193-33.onshore.net |
+| 45.141.215.95 | 4 | 1698437948 | 1771423211 | EU | PL | Warsaw | 210558 |  |
+| 45.138.16.76 | 4 | 1698437945 | 1771423211 | EU | PL | Warsaw | 210558 | 45.138.16.76.powered.by.rdp.sh |
+| 45.134.225.36 | 4 | 1698437945 | 1771423211 | EU | DE |  | 208046 |  |
+| 192.42.116.219 | 4 | 1698437948 | 1771423211 | EU | NL |  | 1101 | 45.tor-exit.nothingtohide.nl |
+| 192.42.116.178 | 4 | 1698437944 | 1771423211 | EU | NL |  | 1101 | 26.tor-exit.nothingtohide.nl |
+| 192.42.116.176 | 4 | 1698437946 | 1771423211 | EU | NL |  | 1101 | 24.tor-exit.nothingtohide.nl |
+| 162.251.5.152 | 4 | 1698437945 | 1771423211 | NA | US | Portland | 46841 | ghatanothoa.unzane.com |
+| 139.99.172.11 | 4 | 1698437948 | 1771423211 | OC | AU | Sydney | 16276 | tor-exit-au-04.finlay.wattle.id.au |
+| 109.70.100.5 | 4 | 1698437945 | 1771423211 | EU | AT |  | 208323 | tor-exit-anonymizer.appliedprivacy.net |
+| 109.70.100.13 | 4 | 1698507085 | 1771423211 | EU | AT |  | 208323 | tor-exit-anonymizer.appliedprivacy.net |
+| 45.141.215.114 | 4 | 1698437943 | 1771423210 | EU | PL | Warsaw | 210558 |  |
+| 195.176.3.24 | 4 | 1698437941 | 1771423210 | EU | CH | Zurich | 559 | tor5e3.digitale-gesellschaft.ch |
+| 194.15.112.133 | 4 | 1698437942 | 1771423210 | EU | GB |  | 213354 |  |
+| 193.105.134.155 | 4 | 1698437939 | 1771423210 | EU | SE | Stockholm | 42237 |  |
+| 192.42.116.218 | 4 | 1698437944 | 1771423210 | EU | NL |  | 1101 | 44.tor-exit.nothingtohide.nl |
+| 192.42.116.210 | 4 | 1698437944 | 1771423210 | EU | NL |  | 1101 | 13.tor-exit.nothingtohide.nl |
+| 192.42.116.199 | 4 | 1698437943 | 1771423210 | EU | NL |  | 1101 | 9.tor-exit.nothingtohide.nl |
+| 192.42.116.191 | 4 | 1698437940 | 1771423210 | EU | NL |  | 1101 | 1.tor-exit.nothingtohide.nl |
+| 192.42.116.182 | 4 | 1698437941 | 1771423210 | EU | NL |  | 1101 | 30.tor-exit.nothingtohide.nl |
+| 192.42.116.180 | 4 | 1698437942 | 1771423210 | EU | NL |  | 1101 | 28.tor-exit.nothingtohide.nl |
+| 192.42.116.179 | 4 | 1698437939 | 1771423210 | EU | NL |  | 1101 | 27.tor-exit.nothingtohide.nl |
+| 171.25.193.79 | 4 | 1698437940 | 1771423210 | EU | SE |  | 198093 | tor-exit-read-me.dfri.se |
+| 124.198.131.121 | 4 | 1768860126 | 1771423210 | NA | US | New York | 9889 |  |
+| 109.70.100.12 | 4 | 1698507085 | 1771423210 | EU | AT |  | 208323 | tor-exit-anonymizer.appliedprivacy.net |
+| 87.118.122.51 | 4 | 1698437938 | 1771423209 | EU | DE |  | 31103 | this-is-a-tor-exit-node---keywebtor3.artikel5ev.de |
+| 78.142.18.219 | 4 | 1698437937 | 1771423209 | EU | BG |  | 208046 | hostslick02-tor-exit.tuxli.org |
+| 5.255.103.235 | 4 | 1698437938 | 1771423209 | EU | NL | Dronten | 60404 |  |
+| 45.141.215.97 | 4 | 1698437937 | 1771423209 | EU | PL | Warsaw | 210558 |  |
+| 45.138.16.222 | 4 | 1698437937 | 1771423209 | EU | PL | Warsaw | 210558 |  |
+| 192.42.116.212 | 4 | 1698437937 | 1771423209 | EU | NL |  | 1101 | 15.tor-exit.nothingtohide.nl |
+| 192.42.116.202 | 4 | 1698437937 | 1771423209 | EU | NL |  | 1101 | 39.tor-exit.nothingtohide.nl |
+| 192.42.116.192 | 4 | 1698437937 | 1771423209 | EU | NL |  | 1101 | 2.tor-exit.nothingtohide.nl |
+| 192.42.116.177 | 4 | 1698437937 | 1771423209 | EU | NL |  | 1101 | 25.tor-exit.nothingtohide.nl |
+| 192.42.116.174 | 4 | 1698437936 | 1771423209 | EU | NL |  | 1101 | 22.tor-exit.nothingtohide.nl |
+| 190.120.229.98 | 4 | 1698437937 | 1771423209 | SA | PE | Santiago de Surco | 263812 | 98.ip-229-120-190.lim.pe.ipxon.net |
+| 185.241.208.115 | 4 | 1698437936 | 1771423209 | EU | PL | Warsaw | 210558 |  |
+| 124.198.132.172 | 4 | 1750518102 | 1771423209 | NA | US | New York | 9889 |  |
+| 109.70.100.9 | 4 | 1698507087 | 1771423209 | EU | AT |  | 208323 | tor-exit-anonymizer.appliedprivacy.net |
+| 194.26.192.77 | 4 | 1698437935 | 1771423208 | EU | NL | Lelystad | 210558 | 194.26.192.77.powered.by.rdp.sh |
+| 192.42.116.211 | 4 | 1698437934 | 1771423208 | EU | NL |  | 1101 | 14.tor-exit.nothingtohide.nl |
+| 192.42.116.181 | 4 | 1698437935 | 1771423208 | EU | NL |  | 1101 | 29.tor-exit.nothingtohide.nl |
+| 192.159.99.21 | 4 | 1767664954 | 1771423208 | NA | US | New York | 14315 |  |
+| 185.35.202.222 | 4 | 1698437935 | 1771423208 | EU | NO | Oslo | 50304 | tor-proxy-readme.hackeriet.no |
+| 109.70.100.7 | 4 | 1698507086 | 1771423208 | EU | AT |  | 208323 | tor-exit-anonymizer.appliedprivacy.net |
+| 109.70.100.11 | 4 | 1698507085 | 1771423208 | EU | AT |  | 208323 | tor-exit-anonymizer.appliedprivacy.net |
 | 97.242.25.123 | 4 | 1771254268 | 1771419865 | NA | US | Chicago | 6167 | 123.sub-97-242-25.myvzw.com |
 | 97.228.8.162 | 4 | 1770513264 | 1771419865 | NA | US | Tucson | 6167 | 162.sub-97-228-8.myvzw.com |
 | 96.66.15.152 | 4 | 1698437953 | 1771419865 | NA | US | Macomb | 7922 | 96-66-15-152-static.hfc.comcastbusiness.net |
 | 96.126.98.146 | 4 | 1715810607 | 1771419865 | NA | US | Fremont | 63949 | 96-126-98-146.ip.linodeusercontent.com |
-| 95.211.244.28 | 4 | 1698437952 | 1771419865 | EU | NL |  | 60781 |  |
-| 95.211.174.137 | 4 | 1734404603 | 1771419864 | EU | NL |  | 60781 |  |
-| 95.168.173.143 | 4 | 1698437972 | 1771419864 | EU | NL |  | 60781 |  |
-| 95.143.193.125 | 4 | 1698437940 | 1771419864 | EU | SE |  | 49770 |  |
-| 95.128.43.164 | 4 | 1698437965 | 1771419864 | EU | FR | Ivry-sur-Seine | 41653 | exit-1.fr.tor.aquaray.com |
-| 94.75.225.81 | 4 | 1698438006 | 1771419864 | EU | NL |  | 60781 |  |
-| 94.72.104.135 | 4 | 1748743417 | 1771419864 | EU | GB | Portsmouth | 41314 | UK2Tor.quetzalcoatl-relays.org |
 | 94.72.103.33 | 4 | 1729983829 | 1771419864 | EU | GB | Portsmouth | 41314 | sortie-tor.a-n-o-n-y-m-e.net |
-| 94.249.175.34 | 4 | 1770411706 | 1771419864 | EU | NL | Amsterdam | 12586 | tor-exit-contact-saigyouji-at-cock-lu |
-| 94.249.175.18 | 4 | 1768863894 | 1771419864 | EU | NL | Amsterdam | 12586 | tor-exit.nl2.2cb.li |
-| 94.230.208.148 | 4 | 1698437965 | 1771419864 | EU | CH | Zurich | 29691 | tor3e3.digitale-gesellschaft.ch |
-| 94.230.208.147 | 4 | 1698437962 | 1771419864 | EU | CH | Zurich | 29691 | tor3e1.digitale-gesellschaft.ch |
-| 94.16.121.91 | 4 | 1698437942 | 1771419864 | EU | DE | Nuremberg | 197540 | this-is-a-tor-node---9.artikel5ev.de |
-| 94.16.116.81 | 4 | 1698437931 | 1771419864 | EU | DE | Nuremberg | 197540 | tor-exit-0071.fourwinds.cc |
-| 94.16.115.121 | 4 | 1725235399 | 1771419864 | EU | DE | Nuremberg | 197540 | tor-exit.okade.pro |
 | 94.159.98.53 | 4 | 1762704239 | 1771419863 | EU | DE | Frankfurt am Main | 49531 | 128197.h2.nexus |
-| 94.154.172.227 | 4 | 1765681482 | 1771419863 | EU | BG |  | 206003 | tor-exit.cembranutboys.de |
-| 94.142.244.16 | 4 | 1698437973 | 1771419863 | EU | NL | Amsterdam | 8283 | tor-exit.vrij-heid.nl |
-| 94.142.241.194 | 4 | 1698437944 | 1771419863 | EU | NL | Amsterdam | 8283 | tor-exit.vrij-heid.nl |
-| 94.136.185.218 | 4 | 1767603880 | 1771419863 | AS | IN | Mumbai |  | vmi3004789.contaboserver.net |
-| 93.99.104.40 | 4 | 1725152598 | 1771419863 | EU | CZ | Opava | 16019 | 40.104.99.93.finalhosting.cz |
-| 93.99.104.194 | 4 | 1698437961 | 1771419863 | EU | CZ | Opava | 16019 | zarni.haribaned.com |
-| 93.99.104.18 | 4 | 1698437961 | 1771419863 | EU | CZ | Opava | 16019 | 18.104.99.93.finalhosting.cz |
-| 93.99.104.128 | 4 | 1698437971 | 1771419863 | EU | CZ | Opava | 16019 | 128.104.99.93.finalhosting.cz |
-| 93.95.231.88 | 4 | 1704919841 | 1771419863 | EU | IS |  | 44925 | vps-93-95-231-88.1984.is |
-| 93.95.231.14 | 4 | 1705725623 | 1771419863 | EU | IS |  | 44925 | magic.torexit.syndicateguys.com |
-| 93.95.228.125 | 4 | 1705725610 | 1771419863 | EU | IS | Reykjavik | 44925 | manor.torexit.syndicateguys.com |
-| 93.95.227.37 | 4 | 1740013526 | 1771419863 | EU | IS |  | 44925 | vps-93-95-227-37.1984.is |
-| 93.94.51.56 | 4 | 1769382297 | 1771419862 | EU | DE | Frankfurt am Main |  |  |
-| 93.94.51.243 | 4 | 1755839231 | 1771419862 | EU | DE | Frankfurt am Main |  |  |
-| 93.94.51.138 | 4 | 1767168281 | 1771419862 | EU | DE | Frankfurt am Main |  |  |
-| 93.123.12.112 | 4 | 1698437987 | 1771419862 | EU | BG |  | 34224 |  |
-| 93.113.25.90 | 4 | 1767564270 | 1771419862 | EU | RO | Orăştie | 9050 |  |
-| 93.113.25.160 | 4 | 1768871851 | 1771419862 | EU | RO | Orăştie | 9050 |  |
-| 93.113.25.109 | 4 | 1767816333 | 1771419862 | EU | RO | Orăştie | 9050 | tor-exit.ro.2cb.li |
-| 92.246.84.133 | 4 | 1698437956 | 1771419862 | EU | DE |  | 44592 |  |
-| 92.243.24.163 | 4 | 1706624657 | 1771419862 | EU | FR |  | 203476 | ernest-tor.a-n-o-n-y-m-e.net |
-| 92.119.165.108 | 4 | 1767899098 | 1771419862 | EU | DE |  | 3320 |  |
-| 92.119.164.208 | 4 | 1766592274 | 1771419862 | EU | DE |  | 3320 | lain.92.119.164.208.aluy.net |
-| 92.118.112.83 | 4 | 1769587487 | 1771419862 | NA | US | Atlanta | 207713 | 115498.ip-ptr.tech |
-| 91.92.109.43 | 4 | 1698437965 | 1771419862 | EU | BG |  | 34224 |  |
-| 91.92.109.126 | 4 | 1698438339 | 1771419862 | EU | BG |  | 34224 |  |
-| 91.219.237.39 | 4 | 1715875399 | 1771419861 | EU | HU | Budapest | 56322 | 85976148-stellar.serverastra.com |
-| 91.219.236.101 | 4 | 1706836484 | 1771419861 | EU | HU | Budapest | 56322 | sortie-tor.a-n-o-n-y-m-e.net |
-| 91.212.45.214 | 4 | 1768370703 | 1771419861 | EU | NL | Amsterdam |  | tor-exit-ams.bronk-ict.nl |
-| 91.208.75.4 | 4 | 1698437944 | 1771419861 | EU | RO |  | 6718 |  |
-| 91.208.75.3 | 4 | 1698437964 | 1771419861 | EU | RO |  | 6718 |  |
-| 91.208.75.239 | 4 | 1698437990 | 1771419861 | EU | RO |  | 6718 |  |
-| 91.208.75.178 | 4 | 1698437967 | 1771419861 | EU | RO |  | 6718 |  |
-| 91.208.75.156 | 4 | 1698437991 | 1771419861 | EU | RO |  | 6718 |  |
-| 91.208.75.153 | 4 | 1698437969 | 1771419861 | EU | RO |  | 6718 |  |
-| 91.206.26.26 | 4 | 1698437992 | 1771419861 | EU | PL |  | 51290 | tor.httpx.pl |
-| 91.206.169.29 | 4 | 1762970647 | 1771419861 | EU | PL | Warsaw | 210558 |  |
-| 91.203.145.116 | 4 | 1698437973 | 1771419861 | EU | UA | Kyiv | 45045 |  |
-| 91.203.144.194 | 4 | 1698437931 | 1771419861 | EU | UA | Kryvyi Rih | 45045 |  |
-| 91.202.5.104 | 4 | 1715043796 | 1771419861 | EU | NL | Haarlem | 43641 | sortie-tor.a-n-o-n-y-m-e.net |
-| 91.132.144.59 | 4 | 1698437951 | 1771419860 | EU | DE | Nuremberg | 197540 | NurembergTor49.quetzalcoatl-relays.org |
 | 90.49.166.252 | 4 | 1770451488 | 1771419860 | EU | FR | Rezé | 3215 | lfbn-nan-1-76-252.w90-49.abo.wanadoo.fr |
-| 89.99.115.4 | 4 | 1766099076 | 1771419860 | EU | NL | Amsterdam | 33915 | 89-99-115-4.cable.dynamic.v4.ziggo.nl |
-| 89.34.230.17 | 4 | 1771103080 | 1771419860 | EU | NL | Amsterdam | 39543 |  |
-| 89.185.80.94 | 4 | 1770624285 | 1771419860 | NA | US | Phoenix | 207967 | 115498.ip-ptr.tech |
-| 89.169.13.202 | 4 | 1771412659 | 1771419860 | EU | RU |  | 31514 | hanujlbhuk.serv.host |
-| 89.147.111.87 | 4 | 1709867578 | 1771419860 | EU | IS | Reykjavik | 44925 | vps-89-147-111-87.1984.is |
-| 89.147.110.82 | 4 | 1704589004 | 1771419860 | EU | IS | Reykjavik | 44925 | vps-89-147-110-82.1984.is |
-| 89.147.110.154 | 4 | 1698437986 | 1771419860 | EU | IS | Reykjavik | 44925 | tor.resetthe.world |
-| 89.147.110.118 | 4 | 1705725561 | 1771419860 | EU | IS | Reykjavik | 44925 | mirca.torexit.syndicateguys.com |
-| 89.147.108.90 | 4 | 1705725561 | 1771419860 | EU | IS | Reykjavik | 44925 | miles.torexit.syndicateguys.com |
-| 89.125.255.12 | 4 | 1771182288 | 1771419860 | EU | NL | Amsterdam | 25441 | tor-exit.nl4.2cb.li |
-| 88.80.26.4 | 4 | 1729487004 | 1771419859 | EU | SE |  | 33837 | TOR-EXIT-003.prq.se |
-| 88.80.26.3 | 4 | 1729469027 | 1771419859 | EU | SE |  | 33837 | TOR-EXIT-001.prq.se |
-| 88.80.26.2 | 4 | 1729461819 | 1771419859 | EU | SE |  | 33837 | TOR-EXIT-002.prq.se |
-| 88.80.20.86 | 4 | 1698437931 | 1771419859 | EU | SE |  | 33837 | host-88-80-20-86.cust.prq.se |
-| 87.120.222.33 | 4 | 1754460197 | 1771419859 | EU | CH | Zurich | 43548 |  |
-| 87.118.122.51 | 4 | 1698437938 | 1771419859 | EU | DE |  | 31103 | this-is-a-tor-exit-node---keywebtor3.artikel5ev.de |
-| 87.118.122.30 | 4 | 1698437972 | 1771419859 | EU | DE |  | 31103 | this-is-a-tor-exit-node---keywebtor2.artikel5ev.de |
-| 87.118.116.90 | 4 | 1698437971 | 1771419859 | EU | DE |  | 31103 | this-is-a-tor-exit-node---keywebtor1.artikel5ev.de |
-| 87.118.116.12 | 4 | 1728129833 | 1771419859 | EU | DE |  | 31103 | tormachine.keymachine.de |
-| 87.118.110.27 | 4 | 1698437977 | 1771419859 | EU | DE |  | 31103 | www.miner.dk |
-| 87.101.92.171 | 4 | 1715144618 | 1771419859 | NA | CA | Montreal | 9009 |  |
-| 86.54.28.49 | 4 | 1737659139 | 1771419859 | EU | NL | Amsterdam | 206509 | tor-exit.afflicted.sh |
 | 86.238.234.69 | 4 | 1771193058 | 1771419859 | EU | FR | Ris-Orangis | 3215 | lfbn-idf2-1-1003-69.w86-238.abo.wanadoo.fr |
-| 85.93.218.204 | 4 | 1698437983 | 1771419858 | EU | LU | Luxembourg | 9008 | tor.localhost.lu |
-| 85.208.139.110 | 4 | 1760836784 | 1771419858 | EU | DE | Frankfurt am Main | 46308 | 115498.ip-ptr.tech |
 | 85.119.82.142 | 4 | 1698438336 | 1771419858 | EU | GB | London | 8943 | tor-exit.siblings.net |
-| 84.239.46.144 | 4 | 1698437938 | 1771419858 | EU | RO |  | 201308 |  |
-| 84.238.156.136 | 4 | 1764533094 | 1771419858 | EU | BG | Sofia | 8866 | 84-238-156-136.ip.btc-net.bg |
-| 84.212.130.191 | 4 | 1763550249 | 1771419858 | EU | NO | Oslo | 41164 | cm-84.212.130.191.get.no |
-| 84.19.182.20 | 4 | 1698492505 | 1771419858 | EU | DE |  | 31103 | km21001-02.keymachine.de |
-| 84.16.224.227 | 4 | 1700026403 | 1771419858 | EU | DE |  | 28753 |  |
-| 83.97.20.77 | 4 | 1698437998 | 1771419858 | EU | RO | Bucharest | 9009 | exit.teap0t.com |
-| 83.217.9.73 | 4 | 1709162131 | 1771419858 | AS | TR | Istanbul | 199669 | salsedo.osservatorionessuno.org |
 | 83.217.161.176 | 4 | 1768745083 | 1771419858 | EU | GB | Darlington | 29129 |  |
 | 82.68.49.227 | 4 | 1698557338 | 1771419858 | EU | GB | Doncaster | 13037 | tor-exit.cellarnet.co.uk |
-| 82.221.139.190 | 4 | 1698438009 | 1771419858 | EU | IS |  | 50613 | tor-and-gnunet-readme.ageinghacker.net |
-| 82.221.131.71 | 4 | 1698437971 | 1771419858 | EU | IS |  | 50613 |  |
-| 82.221.131.5 | 4 | 1698437984 | 1771419857 | EU | IS |  | 50613 |  |
-| 82.221.128.191 | 4 | 1698437986 | 1771419857 | EU | IS |  | 50613 |  |
-| 82.221.100.12 | 4 | 1763568250 | 1771419857 | EU | IS | Reykjavik | 50613 |  |
-| 82.197.182.161 | 4 | 1698437939 | 1771419857 | EU | CH |  | 13030 | 161-182-197-82.init7.net |
-| 82.153.138.57 | 4 | 1762722235 | 1771419857 | EU | RO | Orăştie | 206509 | tor-exit.truck.obzgs5tbmn4q.org |
-| 82.153.138.184 | 4 | 1741201302 | 1771419857 | EU | RO | Orăştie | 206509 |  |
-| 82.118.248.205 | 4 | 1740560604 | 1771419857 | EU | BG | Kladnitsa | 45007 |  |
-| 81.19.141.199 | 4 | 1763366650 | 1771419857 | EU | DE | Frankfurt am Main | 207713 | 115498.ip-ptr.tech |
-| 81.19.140.246 | 4 | 1765069597 | 1771419857 | NA | CA |  | 207713 | 115498.ip-ptr.tech |
-| 81.181.104.22 | 4 | 1740528222 | 1771419857 | EU | PL | Warsaw | 9009 |  |
-| 81.17.28.95 | 4 | 1705042903 | 1771419857 | EU | CH | Zurich | 51852 | hostedby.privatelayer.com |
-| 81.17.24.237 | 4 | 1767679469 | 1771419857 | EU | CH | Zurich | 51852 | hostedby.privatelayer.com |
-| 81.16.33.42 | 4 | 1698437974 | 1771419857 | EU | AT |  | 13022 | www.tor-exitnode-read-this-html.epizy.com |
-| 80.94.92.99 | 4 | 1750737835 | 1771419857 | EU | RO |  | 47890 |  |
-| 80.94.92.92 | 4 | 1731391403 | 1771419856 | EU | RO |  | 47890 |  |
-| 80.78.18.86 | 4 | 1764950669 | 1771419856 | EU | SE |  | 39287 | tor-exit-relay.504e1256.host.njalla.net |
-| 80.71.228.8 | 4 | 1771063300 | 1771419856 | NA | US | Grand Rapids |  | tor.cozycritters.eu |
-| 80.67.172.162 | 4 | 1698437978 | 1771419856 | EU | FR | Aulnay-sous-Bois | 20766 | algrothendieck.nos-oignons.net |
-| 80.66.72.160 | 4 | 1770624281 | 1771419856 | EU | DE | Frankfurt am Main | 210512 |  |
-| 80.66.72.134 | 4 | 1766991869 | 1771419856 | EU | DE | Frankfurt am Main | 210512 |  |
-| 80.253.251.75 | 4 | 1768982686 | 1771419856 | EU | DE | Frankfurt am Main | 60781 |  |
-| 80.241.60.207 | 4 | 1698437948 | 1771419856 | EU | DE | Berlin | 199118 | tor.mailbox.org |
-| 8.215.52.126 | 4 | 1762920241 | 1771419856 | AS | ID | Jakarta | 45102 |  |
-| 8.211.148.167 | 4 | 1762855441 | 1771419856 | AS | JP | Tokyo | 45102 |  |
-| 78.159.131.103 | 4 | 1757826226 | 1771419856 | EU | AL |  |  | 115498.ip-ptr.tech |
-| 78.153.140.44 | 4 | 1750071811 | 1771419856 | EU | GB | City of London | 49469 | teufel.dorfdsl.de |
-| 78.142.18.219 | 4 | 1698437937 | 1771419856 | EU | BG |  | 208046 | hostslick02-tor-exit.tuxli.org |
 | 77.90.8.65 | 4 | 1762204009 | 1771419855 | EU | DE |  | 12586 |  |
-| 77.81.247.72 | 4 | 1698437962 | 1771419855 | EU | NL | Amsterdam | 43927 | 72.247.81.77.static.intovps.com |
-| 77.48.28.239 | 4 | 1698437943 | 1771419855 | EU | CZ | Brno | 16019 | www.tor-exitnode-read-this-html.epizy.com |
-| 77.48.28.237 | 4 | 1698437950 | 1771419855 | EU | CZ | Brno | 16019 | arnov.intervocalically.com |
-| 77.48.28.204 | 4 | 1698437945 | 1771419855 | EU | CZ | Brno | 16019 | 204.28.48.77.finalhosting.cz |
-| 77.48.28.193 | 4 | 1698438003 | 1771419855 | EU | CZ | Brno | 16019 | 193.28.48.77.finalhosting.cz |
-| 77.239.97.46 | 4 | 1760392840 | 1771419855 | EU | DE | Frankfurt am Main | 6908 |  |
-| 74.82.47.194 | 4 | 1698437982 | 1771419855 | NA | US |  | 6939 | tornado.foofus.com |
-| 74.50.118.26 | 4 | 1767517470 | 1771419855 | NA | US |  |  | mail.banzaitracker.com |
-| 74.208.79.7 | 4 | 1753128223 | 1771419855 | NA | US |  | 8560 | ip74-208-79-7.pbiaas.com |
 | 74.208.77.132 | 4 | 1762301038 | 1771419855 | NA | US |  | 8560 | pikamon.net |
-| 74.208.192.81 | 4 | 1766448264 | 1771419855 | NA | US |  | 8560 | ip74-208-192-81.pbiaas.com |
 | 73.151.172.60 | 4 | 1771394656 | 1771419855 | NA | US | Cool | 7922 | c-73-151-172-60.hsd1.ca.comcast.net |
 | 72.88.95.47 | 4 | 1770480284 | 1771419855 | NA | US | Buffalo | 701 | pool-72-88-95-47.bflony.fios.verizon.net |
 | 72.76.47.229 | 4 | 1770483883 | 1771419854 | NA | US | Hoboken | 701 | pool-72-76-47-229.nwrknj.fios.verizon.net |
-| 72.5.43.62 | 4 | 1749114200 | 1771419854 | EU | RO |  |  |  |
-| 72.235.129.116 | 4 | 1729411421 | 1771419854 | NA | US | Honolulu | 36149 | dhcp-72-235-129-116.hawaiiantel.net |
-| 72.211.49.235 | 4 | 1712955690 | 1771419854 | NA | US | San Diego | 22773 | wsip-72-211-49-235.sd.sd.cox.net |
 | 72.180.144.67 | 4 | 1771185909 | 1771419854 | NA | US | Weslaco | 11427 | syn-072-180-144-067.res.spectrum.com |
-| 72.14.179.10 | 4 | 1698437986 | 1771419854 | NA | US | Richardson | 63949 | tor.colagioia.net |
-| 71.19.144.106 | 4 | 1698437966 | 1771419854 | NA | US | Santa Clara | 47066 | tor-exit-1.telnor.org |
 | 69.163.77.166 | 4 | 1770613480 | 1771419854 | NA | US | Fairview | 36103 | tor-relay-1.toodenwable.net |
 | 68.183.200.189 | 4 | 1742425415 | 1771419854 | NA | CA | Toronto | 14061 |  |
-| 67.217.244.5 | 4 | 1756004630 | 1771419854 | NA | US |  |  | ip67-217-244-5.pbiaas.com |
-| 66.94.111.228 | 4 | 1748567149 | 1771419854 | NA | US | Orangeburg | 40021 | USAEast1Tor.quetzalcoatl-relays.org |
-| 66.78.40.91 | 4 | 1767377070 | 1771419854 | NA | US |  | 21769 | tor-exit-usa.bronk-ict.nl |
-| 66.220.242.222 | 4 | 1698437956 | 1771419854 | NA | US | West Lebanon | 17356 | vtelinet-66-220-242-222.vermontel.net |
 | 66.183.173.29 | 4 | 1698438333 | 1771419854 | NA | CA | Sechelt | 852 | s66-183-173-29.bc.hsia.telus.net |
-| 66.146.193.33 | 4 | 1698437947 | 1771419853 | NA | US |  | 26068 | OSH-NET-193-33.onshore.net |
 | 64.227.110.29 | 4 | 1742425415 | 1771419853 | NA | US | Santa Clara | 14061 |  |
 | 64.225.78.62 | 4 | 1742425415 | 1771419853 | EU | NL | Amsterdam | 14061 |  |
-| 64.190.76.4 | 4 | 1738170192 | 1771419853 | EU | IT |  | 11696 |  |
-| 64.190.76.3 | 4 | 1734703388 | 1771419853 | EU | IT |  | 11696 |  |
-| 64.190.76.2 | 4 | 1733778210 | 1771419853 | EU | IT |  | 11696 |  |
-| 64.190.76.14 | 4 | 1764443057 | 1771419853 | EU | IT |  | 11696 |  |
-| 64.190.76.13 | 4 | 1743959017 | 1771419853 | EU | IT |  | 11696 |  |
-| 64.190.76.12 | 4 | 1744455801 | 1771419853 | EU | IT |  | 11696 |  |
-| 64.190.76.11 | 4 | 1744455801 | 1771419853 | EU | IT |  | 11696 |  |
-| 64.190.76.10 | 4 | 1744455801 | 1771419853 | EU | IT |  | 11696 |  |
-| 64.190.113.221 | 4 | 1753340600 | 1771419853 | NA | US | Los Angeles | 399629 |  |
-| 64.188.93.178 | 4 | 1769303581 | 1771419853 | EU | FI | Helsinki | 46339 | vm719078.hosted-by.u1host.com |
-| 62.72.47.105 | 4 | 1746896616 | 1771419853 | AS | SG | Singapore |  | Singapore1Tor.quetzalcoatl-relays.org |
-| 62.60.232.4 | 4 | 1766311464 | 1771419852 | AS | HK | Hong Kong | 142578 | 115498.ip-ptr.tech |
-| 62.182.84.146 | 4 | 1698437983 | 1771419852 | EU | UA | Kyiv | 30860 | ml148.spryraven.com |
-| 62.171.137.169 | 4 | 1698437967 | 1771419852 | EU | DE | Frankfurt am Main | 51167 | vmi343398.contaboserver.net |
-| 62.133.60.208 | 4 | 1759374228 | 1771419852 | EU | DE | Frankfurt am Main | 48430 | 115498.ip-ptr.tech |
-| 62.133.45.2 | 4 | 1698437972 | 1771419852 | EU | RO | Bucharest | 9009 |  |
-| 57.131.30.92 | 4 | 1770952060 | 1771419852 | EU | IT |  |  | tor-exit.acenlabs.org |
-| 57.129.91.235 | 4 | 1748898206 | 1771419852 | EU | DE | Frankfurt am Main | 16276 | exit1.mit-security.at |
 | 54.37.75.160 | 4 | 1770513251 | 1771419852 | EU | FR |  | 16276 | vps-4428cf23.vps.ovh.net |
 | 54.36.111.72 | 4 | 1756422227 | 1771419852 | EU | DE | Frankfurt am Main | 16276 | ns3112187.ip-54-36-111.eu |
-| 54.36.108.162 | 4 | 1698437969 | 1771419852 | EU | FR |  | 16276 | ns3112521.ip-54-36-108.eu |
-| 52.149.123.145 | 4 | 1767967469 | 1771419852 | EU | NL | Amsterdam | 8075 |  |
-| 51.91.18.151 | 4 | 1698437987 | 1771419852 | EU | FR |  | 16276 | ns3151228.ip-51-91-18.eu |
-| 51.81.222.62 | 4 | 1698437974 | 1771419852 | NA | US | Hillsboro | 16276 | tor2.teitel.net |
-| 51.38.225.46 | 4 | 1719500581 | 1771419852 | EU | FR |  | 16276 | vps-d19ace40.vps.ovh.net |
-| 51.158.151.177 | 4 | 1764630247 | 1771419851 | EU | NL | Haarlem | 12876 | 51-158-151-177.rev.poneytelecom.eu |
-| 51.15.59.15 | 4 | 1698437939 | 1771419851 | EU | NL | Haarlem | 12876 | 15-59-15-51.instances.scw.cloud |
 | 51.15.20.78 | 4 | 1769731476 | 1771419851 | EU | NL | Haarlem | 12876 | 51-15-20-78.rev.poneytelecom.eu |
-| 51.15.15.81 | 4 | 1767902707 | 1771419851 | EU | NL | Haarlem | 12876 | 51-15-15-81.rev.poneytelecom.eu |
 | 51.15.15.45 | 4 | 1769731476 | 1771419851 | EU | NL | Haarlem | 12876 | 51-15-15-45.rev.poneytelecom.eu |
-| 5.79.66.19 | 4 | 1698437933 | 1771419851 | EU | NL |  | 60781 |  |
-| 5.45.98.162 | 4 | 1698437993 | 1771419851 | EU | DE | Nuremberg | 197540 | NurembergTor13.quetzalcoatl-relays.org |
-| 5.45.104.176 | 4 | 1698437968 | 1771419851 | EU | DE | Nuremberg | 197540 | NurembergTor54.quetzalcoatl-relays.org |
-| 5.34.182.203 | 4 | 1714708885 | 1771419851 | EU | UA | Kyiv | 15626 | replacement.118668.server.net |
-| 5.255.99.5 | 4 | 1698437960 | 1771419851 | EU | NL | Dronten | 60404 |  |
-| 5.255.99.147 | 4 | 1698437997 | 1771419851 | EU | NL | Dronten | 60404 |  |
-| 5.255.99.124 | 4 | 1698437979 | 1771419851 | EU | NL | Dronten | 60404 |  |
-| 5.255.98.23 | 4 | 1698437981 | 1771419851 | EU | NL | Dronten | 60404 |  |
-| 5.255.98.198 | 4 | 1698798469 | 1771419850 | EU | NL | Dronten | 60404 |  |
-| 5.255.98.151 | 4 | 1698437994 | 1771419850 | EU | NL | Dronten | 60404 |  |
-| 5.255.97.221 | 4 | 1698437975 | 1771419850 | EU | NL | Dronten | 60404 | tor-exit.ambient8.xyz |
-| 5.255.97.184 | 4 | 1769699076 | 1771419850 | EU | NL | Dronten | 60404 |  |
-| 5.255.127.222 | 4 | 1698437989 | 1771419850 | EU | NL | Dronten | 60404 |  |
-| 5.255.125.196 | 4 | 1698437955 | 1771419850 | EU | NL | Dronten | 60404 |  |
-| 5.255.123.164 | 4 | 1708489096 | 1771419850 | EU | NL | Dronten | 60404 |  |
-| 5.255.123.158 | 4 | 1721588653 | 1771419850 | EU | NL | Dronten | 60404 |  |
-| 5.255.119.76 | 4 | 1767873870 | 1771419850 | EU | NL | Dronten | 60404 |  |
-| 5.255.118.218 | 4 | 1730819018 | 1771419850 | EU | NL | Dronten | 60404 |  |
-| 5.255.118.151 | 4 | 1751832210 | 1771419850 | EU | NL | Dronten | 60404 |  |
-| 5.255.117.56 | 4 | 1704485673 | 1771419850 | EU | NL | Dronten | 60404 |  |
-| 5.255.117.152 | 4 | 1769695475 | 1771419850 | EU | NL | Dronten | 60404 |  |
-| 5.255.117.134 | 4 | 1769699076 | 1771419850 | EU | NL | Dronten | 60404 |  |
-| 5.255.115.58 | 4 | 1698437993 | 1771419849 | EU | NL | Dronten | 60404 |  |
-| 5.255.115.48 | 4 | 1769695475 | 1771419849 | EU | NL | Dronten | 60404 |  |
-| 5.255.111.52 | 4 | 1766700264 | 1771419849 | EU | NL | Dronten | 60404 |  |
-| 5.255.110.120 | 4 | 1751058205 | 1771419849 | EU | NL | Dronten | 60404 |  |
-| 5.255.104.35 | 4 | 1769695474 | 1771419849 | EU | NL | Dronten | 60404 |  |
-| 5.255.104.202 | 4 | 1698437962 | 1771419849 | EU | NL | Dronten | 60404 |  |
-| 5.255.103.235 | 4 | 1698437938 | 1771419849 | EU | NL | Dronten | 60404 |  |
 | 5.255.102.43 | 4 | 1698438329 | 1771419849 | EU | NL | Dronten | 60404 |  |
-| 5.255.102.26 | 4 | 1767783870 | 1771419849 | EU | NL | Dronten | 60404 |  |
-| 5.255.101.131 | 4 | 1698437993 | 1771419849 | EU | NL | Dronten | 60404 |  |
-| 5.255.101.10 | 4 | 1698437984 | 1771419849 | EU | NL | Dronten | 60404 | tor-exit-3.aa78i2efsewr0neeknk.xyz |
-| 5.255.100.26 | 4 | 1698614842 | 1771419849 | EU | NL | Dronten | 60404 | tor-exit-01.wurzel.io |
-| 5.253.247.27 | 4 | 1747667024 | 1771419849 | EU | DE |  |  | 27.247.253.5.in-addr.arpa |
-| 5.252.154.89 | 4 | 1770890669 | 1771419849 | NA | PA |  | 30860 |  |
 | 5.2.79.190 | 4 | 1698437996 | 1771419849 | EU | NL |  | 60404 |  |
-| 5.2.79.179 | 4 | 1698437975 | 1771419848 | EU | NL |  | 60404 |  |
-| 5.2.72.110 | 4 | 1698437992 | 1771419848 | EU | NL |  | 60404 |  |
-| 5.2.67.226 | 4 | 1698437997 | 1771419848 | EU | NL |  | 60404 | tor-exit.NL-DRN-KVMNVME-3.liteserver.nl |
-| 5.196.95.34 | 4 | 1698437972 | 1771419848 | EU | FR |  | 16276 | ns376762.ip-5-196-95.eu |
-| 5.104.86.6 | 4 | 1721509712 | 1771419848 | AS | JP | Tokyo | 141995 | sortie-tor.a-n-o-n-y-m-e.net |
-| 5.104.84.183 | 4 | 1747839820 | 1771419848 | AS | JP | Tokyo | 141995 | Japan1Tor.quetzalcoatl-relays.org |
-| 47.84.7.211 | 4 | 1763028240 | 1771419848 | AS | SG |  |  |  |
 | 47.5.54.116 | 4 | 1771200261 | 1771419848 | NA | US | Casper | 33588 | syn-047-005-054-116.res.spectrum.com |
-| 47.254.173.155 | 4 | 1764072243 | 1771419848 | EU | DE | Frankfurt am Main | 45102 |  |
-| 47.254.153.161 | 4 | 1762610626 | 1771419848 | EU | DE | Frankfurt am Main | 45102 |  |
-| 47.254.15.174 | 4 | 1762679026 | 1771419848 | NA | US |  | 45102 |  |
-| 47.250.80.226 | 4 | 1762787028 | 1771419848 | AS | MY | Kuala Lumpur | 45102 |  |
-| 46.38.236.103 | 4 | 1767744489 | 1771419848 | EU | DE | Nuremberg | 197540 | geistslowysrelay-tor-exit-node.net |
-| 46.250.243.29 | 4 | 1746997417 | 1771419848 | EU | GB | London | 834 | Australia1Tor.quetzalcoatl-relays.org |
-| 46.232.251.191 | 4 | 1698437986 | 1771419847 | EU | DE | Nuremberg | 197540 | this-is-a-tor-node---8.artikel5ev.de |
-| 46.165.243.36 | 4 | 1698437992 | 1771419847 | EU | DE |  | 28753 |  |
-| 46.165.194.56 | 4 | 1768979081 | 1771419847 | EU | DE |  | 28753 |  |
-| 45.95.233.104 | 4 | 1760836774 | 1771419847 | EU | FR |  | 207713 | 115498.ip-ptr.tech |
-| 45.95.169.119 | 4 | 1768716277 | 1771419847 | EU | HR | Sisak | 211619 | tor-exit-croatia.bronk-ict.nl |
-| 45.95.169.104 | 4 | 1743015826 | 1771419847 | EU | HR | Sisak | 211619 |  |
-| 45.94.31.68 | 4 | 1718215378 | 1771419847 | EU | NL | Lelystad | 211826 |  |
-| 45.94.31.228 | 4 | 1768575869 | 1771419847 | EU | NL | Lelystad | 211826 |  |
-| 45.91.250.107 | 4 | 1747343015 | 1771419847 | EU | DE | Langen | 30823 | tor-exit-Herobrine01 |
 | 45.90.4.235 | 4 | 1702131196 | 1771419847 | EU | DE | Nuremberg | 197540 | tor-exit-node.1ea7deadbeef.de |
-| 45.9.168.192 | 4 | 1748279010 | 1771419847 | EU | HU | Nyíregyháza | 211619 |  |
-| 45.9.168.106 | 4 | 1766603081 | 1771419847 | EU | HU | Nyíregyháza | 211619 | vps22160.maxko-hosting.net |
-| 45.9.156.22 | 4 | 1758931427 | 1771419847 | EU | BG | Sofia | 206003 | vps19823.maxko-hosting.net |
-| 45.9.156.193 | 4 | 1770696268 | 1771419847 | EU | BG | Sofia | 206003 | vps24209.maxko-hosting.net |
-| 45.9.156.192 | 4 | 1770411664 | 1771419846 | EU | BG | Sofia | 206003 | vps24200.maxko-hosting.net |
-| 45.9.156.106 | 4 | 1768187058 | 1771419846 | EU | BG | Sofia | 206003 | bulgaria.bronk-ict.nl |
-| 45.9.156.101 | 4 | 1743775413 | 1771419846 | EU | BG | Sofia | 206003 |  |
-| 45.9.148.50 | 4 | 1738263796 | 1771419846 | EU | NL | Amsterdam | 49447 | nl-tor.nicevps.net |
-| 45.88.186.89 | 4 | 1751918617 | 1771419846 | NA | US | Miami |  |  |
-| 45.84.107.97 | 4 | 1739707381 | 1771419846 | EU | SE |  | 9009 | exit-13.tor.r0cket.net |
-| 45.84.107.76 | 4 | 1728140615 | 1771419846 | EU | SE |  | 9009 | exit-03.tor.r0cket.net |
-| 45.84.107.74 | 4 | 1737298986 | 1771419846 | EU | SE |  | 9009 | exit-07.tor.r0cket.net |
-| 45.84.107.55 | 4 | 1737298986 | 1771419846 | EU | SE |  | 9009 | exit-06.tor.r0cket.net |
-| 45.84.107.54 | 4 | 1742832206 | 1771419846 | EU | SE |  | 9009 | exit-14.tor.r0cket.net |
-| 45.84.107.47 | 4 | 1737378162 | 1771419846 | EU | SE |  | 9009 | exit-10.tor.r0cket.net |
-| 45.84.107.33 | 4 | 1737378162 | 1771419846 | EU | SE |  | 9009 | exit-09.tor.r0cket.net |
-| 45.84.107.222 | 4 | 1737298986 | 1771419846 | EU | SE |  | 9009 | exit-05.tor.r0cket.net |
-| 45.84.107.200 | 4 | 1754370179 | 1771419846 | EU | SE |  | 9009 |  |
-| 45.84.107.198 | 4 | 1728140614 | 1771419845 | EU | SE |  | 9009 | exit-01.tor.r0cket.net |
-| 45.84.107.182 | 4 | 1728140614 | 1771419845 | EU | SE |  | 9009 | exit-02.tor.r0cket.net |
-| 45.84.107.174 | 4 | 1745672600 | 1771419845 | EU | SE |  | 9009 | exit-15.tor.r0cket.net |
-| 45.84.107.172 | 4 | 1737378162 | 1771419845 | EU | SE |  | 9009 | exit-08.tor.r0cket.net |
-| 45.84.107.17 | 4 | 1739707380 | 1771419845 | EU | SE |  | 9009 | exit-12.tor.r0cket.net |
-| 45.84.107.128 | 4 | 1739707380 | 1771419845 | EU | SE |  | 9009 | exit-11.tor.r0cket.net |
-| 45.84.107.101 | 4 | 1736789368 | 1771419845 | EU | SE |  | 9009 | exit-04.tor.r0cket.net |
-| 45.83.104.137 | 4 | 1698438000 | 1771419845 | EU | DE | Nuremberg | 197540 | v2202307203666234413.quicksrv.de |
-| 45.80.158.93 | 4 | 1756321442 | 1771419845 | EU | PL | Warsaw | 210558 | insanityserver.org |
-| 45.80.158.75 | 4 | 1756393422 | 1771419845 | EU | PL | Warsaw | 210558 |  |
-| 45.80.158.249 | 4 | 1766851453 | 1771419845 | EU | PL | Warsaw | 210558 |  |
-| 45.80.158.167 | 4 | 1746500611 | 1771419845 | EU | PL | Warsaw | 210558 |  |
-| 45.80.158.165 | 4 | 1766790258 | 1771419845 | EU | PL | Warsaw | 210558 |  |
-| 45.80.158.143 | 4 | 1764641044 | 1771419844 | EU | PL | Warsaw | 210558 |  |
-| 45.80.158.142 | 4 | 1764605040 | 1771419844 | EU | PL | Warsaw | 210558 |  |
-| 45.80.158.111 | 4 | 1766775877 | 1771419844 | EU | PL | Warsaw | 210558 | sortie-tor.a-n-o-n-y-m-e.net |
-| 45.8.93.239 | 4 | 1771333445 | 1771419844 | EU | SE | Stockholm | 207279 |  |
-| 45.66.35.35 | 4 | 1698437942 | 1771419844 | EU | NL | Amsterdam | 47482 | tor-exit.sabotage.org |
-| 45.66.35.34 | 4 | 1726977802 | 1771419844 | EU | NL | Amsterdam | 47482 | jolix34.386bsd.net |
-| 45.66.35.33 | 4 | 1726967000 | 1771419844 | EU | NL | Amsterdam | 47482 | jolix33.386bsd.net |
-| 45.66.35.32 | 4 | 1726963422 | 1771419844 | EU | NL | Amsterdam | 47482 | jolix32.386bsd.net |
-| 45.66.35.31 | 4 | 1726963422 | 1771419844 | EU | NL | Amsterdam | 47482 | jolix31.386bsd.net |
-| 45.66.35.30 | 4 | 1764104642 | 1771419844 | EU | NL | Amsterdam | 47482 | ams10.torexit.nl |
-| 45.66.35.29 | 4 | 1763773596 | 1771419844 | EU | NL | Amsterdam | 47482 | ams09.torexit.nl |
-| 45.66.35.28 | 4 | 1763640232 | 1771419844 | EU | NL | Amsterdam | 47482 | ams08.torexit.nl |
-| 45.66.35.27 | 4 | 1763611450 | 1771419844 | EU | NL | Amsterdam | 47482 | ams07.torexit.nl |
-| 45.66.35.26 | 4 | 1763622235 | 1771419844 | EU | NL | Amsterdam | 47482 | ams06.torexit.nl |
-| 45.66.35.25 | 4 | 1763521442 | 1771419843 | EU | NL | Amsterdam | 47482 | ams05.torexit.nl |
-| 45.66.35.24 | 4 | 1763607847 | 1771419843 | EU | NL | Amsterdam | 47482 | ams04.torexit.nl |
-| 45.66.35.23 | 4 | 1763517842 | 1771419843 | EU | NL | Amsterdam | 47482 | ams03.torexit.nl |
-| 45.66.35.22 | 4 | 1700608929 | 1771419843 | EU | NL | Amsterdam | 47482 | ams02.torexit.nl |
-| 45.66.35.21 | 4 | 1700608929 | 1771419843 | EU | NL | Amsterdam | 47482 | ams01.torexit.nl |
-| 45.66.35.20 | 4 | 1700608929 | 1771419843 | EU | NL | Amsterdam | 47482 | ams00.torexit.nl |
-| 45.66.35.10 | 4 | 1698437992 | 1771419843 | EU | NL | Amsterdam | 47482 | torix.dizum.com |
-| 45.61.188.15 | 4 | 1698437934 | 1771419843 | NA | US | Miami | 53667 |  |
-| 45.61.185.172 | 4 | 1698437941 | 1771419843 | NA | US | Miami | 53667 | aramis-fran72 |
-| 45.61.184.51 | 4 | 1762229214 | 1771419843 | NA | US | Miami | 53667 |  |
-| 45.58.190.74 | 4 | 1755911157 | 1771419843 | NA | US |  | 46844 | vira10.granvillano.eu |
-| 45.38.20.240 | 4 | 1762812227 | 1771419843 | NA | US |  | 18779 |  |
 | 45.38.20.153 | 4 | 1752462196 | 1771419843 | NA | US |  | 18779 |  |
 | 45.33.85.245 | 4 | 1742022198 | 1771419843 | NA | US | Cedar Knolls | 63949 | 45-33-85-245.ip.linodeusercontent.com |
-| 45.154.98.33 | 4 | 1698507192 | 1771419842 | EU | NL | Lelystad | 210558 | 45.154.98.33.powered.by.rdp.sh |
-| 45.15.140.245 | 4 | 1762391413 | 1771419842 | OC | NZ | Wellington | 35913 | s8175.local |
-| 45.148.10.111 | 4 | 1720677782 | 1771419842 | EU | NL | Amsterdam | 48090 |  |
-| 45.143.200.32 | 4 | 1752213800 | 1771419842 | EU | CH | Zurich | 212283 | 115498.ip-ptr.tech |
-| 45.143.200.3 | 4 | 1764061442 | 1771419842 | EU | CH | Zurich | 212283 | 115498.ip-ptr.tech |
-| 45.141.215.97 | 4 | 1698437937 | 1771419842 | EU | PL | Warsaw | 210558 |  |
-| 45.141.215.95 | 4 | 1698437948 | 1771419842 | EU | PL | Warsaw | 210558 |  |
-| 45.141.215.61 | 4 | 1698437951 | 1771419842 | EU | PL | Warsaw | 210558 |  |
-| 45.141.215.56 | 4 | 1698437931 | 1771419842 | EU | PL | Warsaw | 210558 |  |
-| 45.141.215.28 | 4 | 1729739016 | 1771419842 | EU | PL | Warsaw | 210558 |  |
-| 45.141.215.238 | 4 | 1756310621 | 1771419842 | EU | PL | Warsaw | 210558 |  |
-| 45.141.215.227 | 4 | 1766772254 | 1771419842 | EU | PL | Warsaw | 210558 |  |
-| 45.141.215.200 | 4 | 1698437930 | 1771419842 | EU | PL | Warsaw | 210558 |  |
-| 45.141.215.16 | 4 | 1764619466 | 1771419841 | EU | PL | Warsaw | 210558 |  |
-| 45.141.215.156 | 4 | 1763078627 | 1771419841 | EU | PL | Warsaw | 210558 |  |
-| 45.141.215.114 | 4 | 1698437943 | 1771419841 | EU | PL | Warsaw | 210558 |  |
-| 45.141.215.110 | 4 | 1698437950 | 1771419841 | EU | PL | Warsaw | 210558 |  |
-| 45.138.16.76 | 4 | 1698437945 | 1771419841 | EU | PL | Warsaw | 210558 | 45.138.16.76.powered.by.rdp.sh |
-| 45.138.16.69 | 4 | 1744459393 | 1771419841 | EU | PL | Warsaw | 210558 | 45.138.16.69.powered.by.rdp.sh |
-| 45.138.16.248 | 4 | 1734490972 | 1771419841 | EU | PL | Warsaw | 210558 |  |
-| 45.138.16.234 | 4 | 1769486672 | 1771419841 | EU | PL | Warsaw | 210558 |  |
-| 45.138.16.231 | 4 | 1736280206 | 1771419841 | EU | PL | Warsaw | 210558 | aoi.nezu.cc |
-| 45.138.16.230 | 4 | 1698437940 | 1771419841 | EU | PL | Warsaw | 210558 |  |
-| 45.138.16.222 | 4 | 1698437937 | 1771419841 | EU | PL | Warsaw | 210558 |  |
-| 45.138.16.164 | 4 | 1745039004 | 1771419841 | EU | PL | Warsaw | 210558 |  |
-| 45.138.16.125 | 4 | 1769357074 | 1771419840 | EU | PL | Warsaw | 210558 | tor-exit.pl.2cb.li |
-| 45.138.16.118 | 4 | 1765861450 | 1771419840 | EU | PL | Warsaw | 210558 | coinbase.websupport.ltd |
-| 45.138.16.107 | 4 | 1698437941 | 1771419840 | EU | PL | Warsaw | 210558 |  |
-| 45.137.99.182 | 4 | 1756073013 | 1771419840 | EU | RO | Orăştie | 209242 |  |
-| 45.137.70.158 | 4 | 1747681426 | 1771419840 | EU | DE |  |  | 158.70.137.45.in-addr.arpa |
-| 45.137.201.100 | 4 | 1764741827 | 1771419840 | EU | IT | Milan | 39120 | lain.45.137.201.100.al.uy |
-| 45.134.225.36 | 4 | 1698437945 | 1771419840 | EU | DE |  | 208046 |  |
-| 45.133.74.53 | 4 | 1746835420 | 1771419840 | EU | DE |  | 213250 | 53.74.133.45.in-addr.arpa |
-| 45.132.246.245 | 4 | 1698437967 | 1771419840 | EU | DE | Nuremberg | 197540 | v2202302189715219857.goodsrv.de |
-| 45.13.225.78 | 4 | 1746932602 | 1771419840 | EU | DE |  | 213250 | 78.225.13.45.in-addr.arpa |
-| 45.13.225.69 | 4 | 1746932602 | 1771419840 | EU | DE |  | 213250 | 69.225.13.45.in-addr.arpa |
 | 45.129.0.166 | 4 | 1732222985 | 1771419840 | EU | PL | Warsaw | 62005 |  |
-| 45.128.133.242 | 4 | 1698438007 | 1771419840 | EU | BE | Brussels | 206804 |  |
-| 45.12.3.80 | 4 | 1701386380 | 1771419840 | EU | UA | Kyiv | 43180 | dedicated.vsys.host |
 | 45.118.133.44 | 4 | 1715810587 | 1771419839 | AS | SG | Singapore | 63949 | 45-118-133-44.ip.linodeusercontent.com |
-| 45.11.59.28 | 4 | 1715717034 | 1771419839 | NA | US | Seattle |  | sortie-tor.a-n-o-n-y-m-e.net |
-| 44.30.4.69 | 4 | 1757412241 | 1771419839 | EU | PL | Ciechanów | 7377 | test.sq5wep.pl |
-| 43.159.138.176 | 4 | 1769576673 | 1771419839 | NA | US | Santa Clara | 132203 |  |
-| 43.157.71.110 | 4 | 1769573061 | 1771419839 | EU | DE | Frankfurt am Main | 132203 |  |
-| 43.157.157.73 | 4 | 1769573061 | 1771419839 | SA | BR | São Paulo | 132203 |  |
-| 38.60.250.79 | 4 | 1756641812 | 1771419839 | EU | DE | Frankfurt am Main | 138915 |  |
 | 38.58.179.138 | 4 | 1726938201 | 1771419839 | NA | US | Draper | 174 |  |
 | 38.242.218.37 | 4 | 1738810985 | 1771419839 | EU | FR | Lauterbourg | 51167 | vmi2441575.contaboserver.net |
 | 38.175.200.22 | 4 | 1771412637 | 1771419839 | AS | JP | Tokyo | 174 | undefined.hostname.localhost |
-| 38.135.25.97 | 4 | 1762056212 | 1771419839 | NA | US | Somers | 174 |  |
-| 38.135.25.2 | 4 | 1749009789 | 1771419839 | NA | US | Somers | 174 |  |
-| 38.135.25.144 | 4 | 1753304592 | 1771419839 | NA | US | Somers | 174 |  |
-| 38.135.25.143 | 4 | 1753304592 | 1771419839 | NA | US | Somers | 174 |  |
-| 38.135.25.142 | 4 | 1753304592 | 1771419838 | NA | US | Somers | 174 |  |
-| 38.135.25.141 | 4 | 1753304592 | 1771419838 | NA | US | Somers | 174 |  |
-| 38.135.25.140 | 4 | 1767211490 | 1771419838 | NA | US | Somers | 174 |  |
-| 38.135.25.136 | 4 | 1769414660 | 1771419838 | NA | US | Somers | 174 |  |
-| 38.135.25.127 | 4 | 1766862259 | 1771419838 | NA | US | Somers | 174 |  |
-| 38.135.24.72 | 4 | 1748113419 | 1771419838 | NA | US | Somers | 174 |  |
-| 38.135.24.33 | 4 | 1747951263 | 1771419838 | NA | US | Somers | 174 |  |
-| 38.135.24.32 | 4 | 1747951408 | 1771419838 | NA | US | Somers | 174 |  |
-| 38.135.24.31 | 4 | 1747951408 | 1771419838 | NA | US | Somers | 174 |  |
-| 38.135.24.30 | 4 | 1747951408 | 1771419838 | NA | US | Somers | 174 |  |
-| 38.135.24.176 | 4 | 1759946615 | 1771419838 | NA | US | Somers | 174 |  |
-| 38.135.24.120 | 4 | 1769411067 | 1771419838 | NA | US | Somers | 174 |  |
-| 38.134.41.34 | 4 | 1769324666 | 1771419838 | NA | US | Houston | 174 | yamame-tor-exit.houraisan.net |
-| 37.77.56.238 | 4 | 1738303369 | 1771419838 | EU | EE | Tallinn | 210636 |  |
-| 37.48.70.156 | 4 | 1698437982 | 1771419837 | EU | NL | Amsterdam | 60781 |  |
-| 37.235.49.90 | 4 | 1771153448 | 1771419837 | EU | IS | Hafnarfjordur | 50613 | 90.49.235.37.static.edisglobal.com |
 | 37.235.48.29 | 4 | 1698438322 | 1771419837 | EU | PL | Warsaw | 9009 | 29.48.235.37.in-addr.arpa |
-| 37.228.129.63 | 4 | 1698437973 | 1771419837 | EU | FI |  | 200651 |  |
-| 37.228.129.241 | 4 | 1763381029 | 1771419837 | EU | FI |  | 200651 |  |
-| 37.228.129.189 | 4 | 1738962183 | 1771419837 | EU | FI |  | 200651 |  |
-| 37.228.129.168 | 4 | 1756267413 | 1771419837 | EU | FI |  | 200651 |  |
-| 37.228.129.162 | 4 | 1753714986 | 1771419837 | EU | FI |  | 200651 |  |
-| 37.228.129.128 | 4 | 1698437990 | 1771419837 | EU | FI |  | 200651 |  |
-| 37.221.208.71 | 4 | 1740207794 | 1771419837 | EU | HU |  | 41075 | torexitspeakfreely.com |
-| 37.187.74.97 | 4 | 1721599562 | 1771419837 | EU | FR |  | 16276 | ns3364969.ip-37-187-74.eu |
-| 37.114.63.5 | 4 | 1746932600 | 1771419837 | EU | DE |  | 60461 | 5.63.114.37.in-addr.arpa |
-| 37.114.50.27 | 4 | 1747090892 | 1771419837 | EU | DE |  | 60461 | 27.50.114.37.in-addr.arpa |
-| 37.114.50.18 | 4 | 1747090892 | 1771419836 | EU | DE |  | 60461 | 18.50.114.37.in-addr.arpa |
-| 37.114.50.142 | 4 | 1747090892 | 1771419836 | EU | DE |  | 60461 | 142.50.114.37.in-addr.arpa |
-| 37.114.50.124 | 4 | 1747090892 | 1771419836 | EU | DE |  | 60461 | 124.50.114.37.in-addr.arpa |
-| 35.0.127.52 | 4 | 1698437947 | 1771419836 | NA | US | Ann Arbor | 36375 | tor-exit.eecs.umich.edu |
-| 31.44.238.25 | 4 | 1739869382 | 1771419836 | EU | SE | Vaxjo | 35100 |  |
-| 31.220.75.237 | 4 | 1722427380 | 1771419836 | EU | FR | Lauterbourg | 51167 | vmi2055856.contaboserver.net |
-| 31.184.236.104 | 4 | 1742198607 | 1771419836 | EU | RU |  | 198620 |  |
-| 31.133.0.235 | 4 | 1757365413 | 1771419836 | EU | PL |  | 51290 | tor.caspervk.net |
-| 31.133.0.210 | 4 | 1717099393 | 1771419836 | EU | PL |  | 51290 | unused-31-133-0-210.hosteam.pl |
-| 31.129.22.65 | 4 | 1706358453 | 1771419836 | EU | PT | Viana do Castelo | 207713 | sacco.osservatorionessuno.org |
 | 2c0f:6c0:0:11::b00:b1e5 | 6 | 1769670258 | 1771419836 | AF | ZA | Johannesburg |  |  |
 | 2a14:c380:c70:a6:aaaa:bbbb:cccc:dddd | 6 | 1768079053 | 1771419836 | EU | DE |  |  |  |
 | 2a14:c380:90:15:3837:298b:d872:a827 | 6 | 1765173853 | 1771419836 | EU | DE |  |  |  |
@@ -1177,188 +2012,10 @@ Those IPs are not guaranteed to be tor nodes, but they were seen as tor nodes wi
 | 2400:8905::f03c:95ff:fe67:ec03 | 6 | 1734220954 | 1771419784 | AS | JP | Osaka | 63949 |  |
 | 2400:8901::f03c:95ff:fe89:4a88 | 6 | 1733079772 | 1771419784 | AS | SG | Singapore | 63949 |  |
 | 23.236.186.22 | 4 | 1762434170 | 1771419784 | EU | NL | Halfweg |  | muscularizes.digihouseweb.com |
-| 23.236.122.193 | 4 | 1736938934 | 1771419783 | NA | US | Ashburn | 21859 |  |
-| 23.191.200.9 | 4 | 1742281354 | 1771419783 | NA | US |  |  |  |
-| 23.191.200.8 | 4 | 1742277757 | 1771419783 | NA | US |  |  |  |
-| 23.191.200.7 | 4 | 1742266967 | 1771419783 | NA | US |  |  |  |
-| 23.191.200.26 | 4 | 1742637751 | 1771419783 | NA | US |  |  |  |
-| 23.191.200.25 | 4 | 1742634157 | 1771419783 | NA | US |  |  |  |
-| 23.191.200.24 | 4 | 1742634157 | 1771419783 | NA | US |  |  |  |
-| 23.191.200.23 | 4 | 1742547760 | 1771419783 | NA | US |  |  |  |
-| 23.191.200.22 | 4 | 1742547760 | 1771419783 | NA | US |  |  |  |
-| 23.191.200.21 | 4 | 1742547760 | 1771419783 | NA | US |  |  |  |
-| 23.191.200.20 | 4 | 1742544154 | 1771419783 | NA | US |  |  |  |
-| 23.191.200.19 | 4 | 1742544153 | 1771419783 | NA | US |  |  |  |
-| 23.191.200.18 | 4 | 1742547760 | 1771419783 | NA | US |  |  |  |
-| 23.191.200.17 | 4 | 1742284954 | 1771419783 | NA | US |  |  |  |
-| 23.191.200.16 | 4 | 1742288553 | 1771419782 | NA | US |  |  |  |
-| 23.191.200.15 | 4 | 1742281354 | 1771419782 | NA | US |  |  |  |
-| 23.191.200.14 | 4 | 1742281354 | 1771419782 | NA | US |  |  |  |
-| 23.191.200.13 | 4 | 1742281354 | 1771419782 | NA | US |  |  |  |
-| 23.191.200.12 | 4 | 1742281354 | 1771419782 | NA | US |  |  |  |
-| 23.191.200.11 | 4 | 1742277757 | 1771419782 | NA | US |  |  |  |
-| 23.191.200.10 | 4 | 1742277756 | 1771419782 | NA | US |  |  |  |
-| 23.184.48.78 | 4 | 1732428150 | 1771419782 | NA | US | Liberty Lake | 210630 | tor-exit-relay2.0xmiska.com |
-| 23.155.8.104 | 4 | 1704593573 | 1771419782 | NA | US | Fremont |  | tor-exit.toor.sh |
-| 23.137.255.85 | 4 | 1759403087 | 1771419782 | NA | US | Liberty Lake | 210630 |  |
-| 23.137.254.244 | 4 | 1750417385 | 1771419782 | NA | US | Kansas City | 210630 | srv-93q3PF.incognet.io |
-| 23.137.253.113 | 4 | 1756537359 | 1771419782 | NA | US |  | 210630 | sn-tor-exit01.slugnet.org |
-| 23.137.252.225 | 4 | 1762945371 | 1771419782 | EU | CH |  | 210630 | switzerland-eu.incogvpn.com |
-| 23.137.251.75 | 4 | 1768150988 | 1771419782 | EU | BG | Sofia | 210630 | rdns.23-137-251-75.isp.st |
-| 23.137.248.100 | 4 | 1698437978 | 1771419781 | EU | NL | Amsterdam | 210630 | tor-exit.yangwenli.anondns.net |
-| 23.137.105.248 | 4 | 1760436160 | 1771419781 | NA | US | North Kansas City |  |  |
-| 23.134.90.61 | 4 | 1766908988 | 1771419781 | EU | CH | Zurich | 924 | 61-90-134-23.kc-mo.default.cloudie.us |
-| 23.134.90.60 | 4 | 1766908988 | 1771419781 | EU | CH | Zurich | 924 | 60-90-134-23.kc-mo.default.cloudie.us |
-| 23.134.88.61 | 4 | 1766916185 | 1771419781 | NA | US |  | 924 | 61-88-134-23.fmt-us.tor-exit.fevi.net |
-| 23.129.64.99 | 4 | 1755471743 | 1771419781 | NA | US |  | 396507 | emeraldonion.net |
-| 23.129.64.225 | 4 | 1698437931 | 1771419781 | NA | US |  | 396507 |  |
-| 23.129.64.224 | 4 | 1698437961 | 1771419781 | NA | US |  | 396507 |  |
-| 23.129.64.223 | 4 | 1698437980 | 1771419781 | NA | US |  | 396507 |  |
-| 23.129.64.222 | 4 | 1698437998 | 1771419781 | NA | US |  | 396507 |  |
-| 23.129.64.221 | 4 | 1698437994 | 1771419781 | NA | US |  | 396507 |  |
-| 23.129.64.220 | 4 | 1698437989 | 1771419781 | NA | US |  | 396507 |  |
-| 23.129.64.219 | 4 | 1698437994 | 1771419781 | NA | US |  | 396507 |  |
-| 23.129.64.218 | 4 | 1698437979 | 1771419781 | NA | US |  | 396507 |  |
-| 23.129.64.217 | 4 | 1698437968 | 1771419780 | NA | US |  | 396507 |  |
-| 23.129.64.216 | 4 | 1698437994 | 1771419780 | NA | US |  | 396507 |  |
-| 23.129.64.215 | 4 | 1698437986 | 1771419780 | NA | US |  | 396507 |  |
-| 23.129.64.214 | 4 | 1698437978 | 1771419780 | NA | US |  | 396507 |  |
-| 23.129.64.213 | 4 | 1698437933 | 1771419780 | NA | US |  | 396507 |  |
-| 23.129.64.212 | 4 | 1698437996 | 1771419780 | NA | US |  | 396507 |  |
-| 23.129.64.211 | 4 | 1698437989 | 1771419780 | NA | US |  | 396507 |  |
-| 23.129.64.210 | 4 | 1698437990 | 1771419780 | NA | US |  | 396507 |  |
-| 23.129.64.209 | 4 | 1755511339 | 1771419780 | NA | US |  | 396507 | emeraldonion.net |
-| 23.129.64.208 | 4 | 1755514949 | 1771419780 | NA | US |  | 396507 | emeraldonion.net |
-| 23.129.64.207 | 4 | 1755511339 | 1771419780 | NA | US |  | 396507 | emeraldonion.net |
-| 23.129.64.206 | 4 | 1755511339 | 1771419780 | NA | US |  | 396507 | emeraldonion.net |
-| 23.129.64.205 | 4 | 1755514948 | 1771419780 | NA | US |  | 396507 | emeraldonion.net |
-| 23.129.64.204 | 4 | 1755511339 | 1771419780 | NA | US |  | 396507 | emeraldonion.net |
-| 23.129.64.203 | 4 | 1755511339 | 1771419779 | NA | US |  | 396507 | emeraldonion.net |
-| 23.129.64.202 | 4 | 1755511339 | 1771419779 | NA | US |  | 396507 | emeraldonion.net |
-| 23.129.64.201 | 4 | 1755511339 | 1771419779 | NA | US |  | 396507 | emeraldonion.net |
-| 23.129.64.200 | 4 | 1755511339 | 1771419779 | NA | US |  | 396507 | emeraldonion.net |
-| 23.129.64.199 | 4 | 1755514948 | 1771419779 | NA | US |  | 396507 | emeraldonion.net |
-| 23.129.64.198 | 4 | 1755511339 | 1771419779 | NA | US |  | 396507 | emeraldonion.net |
-| 23.129.64.197 | 4 | 1755514948 | 1771419779 | NA | US |  | 396507 | emeraldonion.net |
-| 23.129.64.196 | 4 | 1755514948 | 1771419779 | NA | US |  | 396507 | emeraldonion.net |
-| 23.129.64.195 | 4 | 1755511339 | 1771419779 | NA | US |  | 396507 | emeraldonion.net |
-| 23.129.64.194 | 4 | 1755511339 | 1771419779 | NA | US |  | 396507 | emeraldonion.net |
-| 23.129.64.193 | 4 | 1755435738 | 1771419779 | NA | US |  | 396507 | emeraldonion.net |
-| 23.129.64.192 | 4 | 1755435738 | 1771419779 | NA | US |  | 396507 | emeraldonion.net |
-| 23.129.64.191 | 4 | 1755435738 | 1771419779 | NA | US |  | 396507 | emeraldonion.net |
-| 23.129.64.190 | 4 | 1755435738 | 1771419779 | NA | US |  | 396507 | emeraldonion.net |
-| 23.129.64.189 | 4 | 1755435738 | 1771419778 | NA | US |  | 396507 | emeraldonion.net |
-| 23.129.64.188 | 4 | 1755435738 | 1771419778 | NA | US |  | 396507 | emeraldonion.net |
-| 23.129.64.187 | 4 | 1755435738 | 1771419778 | NA | US |  | 396507 | emeraldonion.net |
-| 23.129.64.186 | 4 | 1755435738 | 1771419778 | NA | US |  | 396507 | emeraldonion.net |
-| 23.129.64.185 | 4 | 1755435738 | 1771419778 | NA | US |  | 396507 | emeraldonion.net |
-| 23.129.64.184 | 4 | 1721984538 | 1771419778 | NA | US |  | 396507 |  |
-| 23.129.64.183 | 4 | 1721984538 | 1771419778 | NA | US |  | 396507 |  |
-| 23.129.64.182 | 4 | 1721984538 | 1771419778 | NA | US |  | 396507 |  |
-| 23.129.64.181 | 4 | 1721984538 | 1771419778 | NA | US |  | 396507 |  |
-| 23.129.64.180 | 4 | 1721984537 | 1771419778 | NA | US |  | 396507 |  |
-| 23.129.64.179 | 4 | 1721984537 | 1771419778 | NA | US |  | 396507 |  |
-| 23.129.64.178 | 4 | 1721984537 | 1771419778 | NA | US |  | 396507 |  |
-| 23.129.64.177 | 4 | 1721984537 | 1771419778 | NA | US |  | 396507 |  |
-| 23.129.64.176 | 4 | 1721984537 | 1771419778 | NA | US |  | 396507 |  |
-| 23.129.64.175 | 4 | 1721984537 | 1771419777 | NA | US |  | 396507 |  |
-| 23.129.64.174 | 4 | 1721980937 | 1771419777 | NA | US |  | 396507 |  |
-| 23.129.64.173 | 4 | 1721980937 | 1771419777 | NA | US |  | 396507 |  |
-| 23.129.64.172 | 4 | 1721980937 | 1771419777 | NA | US |  | 396507 |  |
-| 23.129.64.171 | 4 | 1721980937 | 1771419777 | NA | US |  | 396507 |  |
-| 23.129.64.170 | 4 | 1755435737 | 1771419777 | NA | US |  | 396507 | emeraldonion.net |
-| 23.129.64.169 | 4 | 1755435737 | 1771419777 | NA | US |  | 396507 | emeraldonion.net |
-| 23.129.64.168 | 4 | 1755435737 | 1771419777 | NA | US |  | 396507 | emeraldonion.net |
-| 23.129.64.167 | 4 | 1755435737 | 1771419777 | NA | US |  | 396507 | emeraldonion.net |
-| 23.129.64.166 | 4 | 1755435737 | 1771419777 | NA | US |  | 396507 | emeraldonion.net |
-| 23.129.64.165 | 4 | 1752872542 | 1771419777 | NA | US |  | 396507 | emeraldonion.net |
-| 23.129.64.164 | 4 | 1752872542 | 1771419777 | NA | US |  | 396507 | emeraldonion.net |
-| 23.129.64.163 | 4 | 1752872542 | 1771419777 | NA | US |  | 396507 | emeraldonion.net |
-| 23.129.64.162 | 4 | 1752872542 | 1771419777 | NA | US |  | 396507 | emeraldonion.net |
-| 23.129.64.161 | 4 | 1752872542 | 1771419777 | NA | US |  | 396507 | emeraldonion.net |
-| 23.129.64.160 | 4 | 1752872542 | 1771419776 | NA | US |  | 396507 | emeraldonion.net |
-| 23.129.64.159 | 4 | 1752872542 | 1771419776 | NA | US |  | 396507 | emeraldonion.net |
-| 23.129.64.158 | 4 | 1752872542 | 1771419776 | NA | US |  | 396507 | emeraldonion.net |
-| 23.129.64.157 | 4 | 1752872541 | 1771419776 | NA | US |  | 396507 | emeraldonion.net |
-| 23.129.64.156 | 4 | 1752872541 | 1771419776 | NA | US |  | 396507 | emeraldonion.net |
-| 23.129.64.155 | 4 | 1752872541 | 1771419776 | NA | US |  | 396507 | emeraldonion.net |
-| 23.129.64.154 | 4 | 1752872541 | 1771419776 | NA | US |  | 396507 | emeraldonion.net |
-| 23.129.64.153 | 4 | 1749949484 | 1771419776 | NA | US |  | 396507 | emeraldonion.net |
-| 23.129.64.152 | 4 | 1749945759 | 1771419776 | NA | US |  | 396507 | emeraldonion.net |
-| 23.129.64.151 | 4 | 1749945759 | 1771419776 | NA | US |  | 396507 | emeraldonion.net |
-| 23.129.64.150 | 4 | 1721559731 | 1771419776 | NA | US |  | 396507 |  |
-| 23.129.64.149 | 4 | 1698437951 | 1771419776 | NA | US |  | 396507 |  |
-| 23.129.64.148 | 4 | 1698437992 | 1771419776 | NA | US |  | 396507 |  |
-| 23.129.64.147 | 4 | 1698437973 | 1771419776 | NA | US |  | 396507 |  |
-| 23.129.64.146 | 4 | 1698437941 | 1771419775 | NA | US |  | 396507 |  |
-| 23.129.64.145 | 4 | 1698437960 | 1771419775 | NA | US |  | 396507 |  |
-| 23.129.64.144 | 4 | 1698437989 | 1771419775 | NA | US |  | 396507 |  |
-| 23.129.64.143 | 4 | 1698437948 | 1771419775 | NA | US |  | 396507 |  |
-| 23.129.64.142 | 4 | 1698437988 | 1771419775 | NA | US |  | 396507 |  |
-| 23.129.64.141 | 4 | 1698437972 | 1771419775 | NA | US |  | 396507 |  |
-| 23.129.64.140 | 4 | 1698437991 | 1771419775 | NA | US |  | 396507 |  |
-| 23.129.64.139 | 4 | 1698437962 | 1771419775 | NA | US |  | 396507 |  |
-| 23.129.64.138 | 4 | 1698437995 | 1771419775 | NA | US |  | 396507 |  |
-| 23.129.64.137 | 4 | 1698437987 | 1771419775 | NA | US |  | 396507 |  |
-| 23.129.64.136 | 4 | 1698437993 | 1771419775 | NA | US |  | 396507 |  |
-| 23.129.64.135 | 4 | 1698437960 | 1771419775 | NA | US |  | 396507 |  |
-| 23.129.64.134 | 4 | 1698437971 | 1771419775 | NA | US |  | 396507 |  |
-| 23.129.64.133 | 4 | 1698437956 | 1771419775 | NA | US |  | 396507 |  |
-| 23.129.64.132 | 4 | 1698437966 | 1771419774 | NA | US |  | 396507 |  |
-| 23.129.64.131 | 4 | 1698437987 | 1771419774 | NA | US |  | 396507 |  |
-| 23.129.64.130 | 4 | 1698437975 | 1771419774 | NA | US |  | 396507 |  |
-| 220.135.36.173 | 4 | 1752433358 | 1771419774 | AS | TW | Taipei | 3462 | 220-135-36-173.hinet-ip.hinet.net |
-| 217.182.75.199 | 4 | 1757192554 | 1771419774 | EU | PL | Warsaw | 16276 | tor-relay05.stareintodeathandbestill.com |
-| 217.12.221.131 | 4 | 1698437963 | 1771419774 | EU | UA | Kyiv | 15626 | tornode1.open-the-ip-in-a-browser.vds-114821.com |
-| 216.9.225.157 | 4 | 1767182589 | 1771419774 | NA | US |  | 208287 | static-216-9-225-157.whitelabelservices.us |
-| 216.73.159.75 | 4 | 1698437933 | 1771419774 | SA | CL | Valdivia | 61138 |  |
-| 216.73.159.101 | 4 | 1698437977 | 1771419774 | SA | CL | Valdivia | 61138 |  |
-| 216.239.90.19 | 4 | 1698437954 | 1771419774 | NA | CA |  | 10996 | tor-gateway.vif.com |
-| 213.95.149.22 | 4 | 1698437968 | 1771419774 | EU | DE | Nuremberg | 12337 | tor2.smurf.noris.de |
-| 213.176.18.193 | 4 | 1762502563 | 1771419774 | EU | CH | Zurich | 142578 |  |
-| 212.95.50.77 | 4 | 1698437978 | 1771419774 | EU | DE |  | 28753 | hosted-by.leaseweb.com |
-| 212.95.50.223 | 4 | 1769698990 | 1771419774 | EU | DE |  | 28753 |  |
-| 212.73.134.204 | 4 | 1698437952 | 1771419773 | EU | BG |  | 34224 |  |
-| 212.69.167.80 | 4 | 1698437941 | 1771419773 | EU | AT | Vienna | 8218 | 212.69.167.80.not-updated.vie.upstreamnet.at |
-| 212.38.189.186 | 4 | 1698438711 | 1771419773 | EU | GB |  | 20860 |  |
-| 212.21.66.6 | 4 | 1698437988 | 1771419773 | EU | DE |  | 44716 | tor-exit-4.all.de |
-| 209.141.58.254 | 4 | 1738695753 | 1771419773 | NA | US | Las Vegas | 53667 | backup01.dnswp.com |
-| 209.141.55.26 | 4 | 1698437967 | 1771419773 | NA | US | Las Vegas | 53667 | tor-exit |
-| 209.141.51.30 | 4 | 1698437958 | 1771419773 | NA | US | Las Vegas | 53667 | tor-exit.dicedonions.xyz |
-| 209.141.51.180 | 4 | 1705269988 | 1771419773 | NA | US | Las Vegas | 53667 | a-n-o-n-y-m-e.net |
-| 209.141.45.141 | 4 | 1734022934 | 1771419773 | NA | US | Las Vegas | 53667 | pkckr59.cn |
-| 209.141.40.68 | 4 | 1738695753 | 1771419773 | NA | US | Las Vegas | 53667 |  |
-| 209.141.34.15 | 4 | 1738695753 | 1771419773 | NA | US | Las Vegas | 53667 | valefor.vile.sx |
-| 209.141.32.198 | 4 | 1710263492 | 1771419773 | NA | US | Las Vegas | 53667 | tor-exit-node1.duckdns.org |
-| 209.127.122.140 | 4 | 1763348561 | 1771419773 | NA | US | Buffalo | 55286 | null.hpwh.net |
 | 206.81.25.191 | 4 | 1742425353 | 1771419773 | EU | DE | Frankfurt am Main | 14061 |  |
-| 206.206.192.178 | 4 | 1765321381 | 1771419772 | NA | US | Tempe | 2900 |  |
 | 206.189.6.56 | 4 | 1749664940 | 1771419772 | EU | NL | Amsterdam | 14061 |  |
-| 206.166.251.193 | 4 | 1749283333 | 1771419772 | EU | NL | Amsterdam | 399629 |  |
 | 205.185.126.29 | 4 | 1761026563 | 1771419772 | NA | US | Las Vegas | 53667 | smtp2.jzdssba.shop |
-| 205.185.124.176 | 4 | 1704238671 | 1771419772 | NA | US | Las Vegas | 53667 | no-records-kept.im.a.tor-exit-node.com |
-| 205.185.123.93 | 4 | 1698438005 | 1771419772 | NA | US | Las Vegas | 53667 |  |
-| 205.185.121.177 | 4 | 1738695752 | 1771419772 | NA | US | Las Vegas | 53667 | tor-exit-3.0xem.ma |
-| 205.185.121.170 | 4 | 1698438005 | 1771419772 | NA | US | Las Vegas | 53667 |  |
-| 205.185.117.149 | 4 | 1698437984 | 1771419772 | NA | US | Las Vegas | 53667 | tor-exit.greektor.net |
-| 205.185.116.34 | 4 | 1698437991 | 1771419772 | NA | US | Las Vegas | 53667 | tor-exit-relay-002.carlos1001.com |
-| 205.185.113.8 | 4 | 1734026532 | 1771419772 | NA | US | Las Vegas | 53667 |  |
-| 205.185.113.180 | 4 | 1698884665 | 1771419772 | NA | US | Las Vegas | 53667 | tor-exit.cubicchaos.net |
-| 205.185.113.112 | 4 | 1768849410 | 1771419772 | NA | US | Las Vegas | 53667 | exit0.privacyisaright.me |
-| 204.85.191.9 | 4 | 1698437953 | 1771419772 | NA | US | Chapel Hill | 36850 | tor01.telenet.unc.edu |
-| 204.85.191.8 | 4 | 1698437988 | 1771419771 | NA | US | Chapel Hill | 36850 | tor00.telenet.unc.edu |
-| 204.85.191.7 | 4 | 1698437991 | 1771419771 | NA | US | Chapel Hill | 36850 | tor02.telenet.unc.edu |
-| 204.8.96.120 | 4 | 1713218556 | 1771419771 | NA | US |  | 62744 |  |
-| 204.8.156.142 | 4 | 1698437939 | 1771419771 | NA | US | Boston | 10961 | cs-tor.bu.edu |
 | 204.76.203.203 | 4 | 1757336553 | 1771419771 | EU | NL | Eygelshoven | 400328 | hosted-by.pfcloud.io |
-| 204.194.29.4 | 4 | 1698437964 | 1771419771 | NA | US |  | 9 | TOR-EXIT.CYLAB.CMU.EDU |
-| 204.137.14.92 | 4 | 1698438007 | 1771419771 | EU | NL | Eygelshoven | 399820 | ip.204-137-14-92.atomicnetworks.co |
-| 204.137.14.106 | 4 | 1698438007 | 1771419771 | EU | NL | Eygelshoven | 399820 | ip.204-137-14-106.atomicnetworks.co |
-| 204.137.14.105 | 4 | 1698438007 | 1771419771 | EU | NL | Eygelshoven | 399820 | ip.204-137-14-105.atomicnetworks.co |
-| 204.137.14.104 | 4 | 1699057458 | 1771419771 | EU | NL | Eygelshoven | 399820 | ip.204-137-14-104.atomicnetworks.co |
-| 203.55.81.2 | 4 | 1757430273 | 1771419771 | EU | FR |  |  |  |
-| 203.55.81.1 | 4 | 1757430273 | 1771419771 | EU | FR |  |  |  |
-| 203.202.232.160 | 4 | 1763521368 | 1771419771 | AS | TR | Istanbul | 18229 |  |
 | 201.213.55.128 | 4 | 1771225370 | 1771419771 | SA | AR | Quilmes | 7303 | 201.213.55.128.fibercorp.com.ar |
 | 2001:b030:2422::7234 | 6 | 1698438266 | 1771419770 | AS | TW |  | 3462 | 2001-b030-2422-0000-0000-0000-0000-7234.hinet-ip6.hinet.net |
 | 2001:b011:4006:39be::b | 6 | 1764025370 | 1771419770 | AS | TW | Taipei | 3462 | 2001-b011-4006-39be-0000-0000-0000-000b.dynamic-ip6.hinet.net |
@@ -1470,85 +2127,15 @@ Those IPs are not guaranteed to be tor nodes, but they were seen as tor nodes wi
 | 2001:620:20d0::24 | 6 | 1698438258 | 1771419763 | EU | CH | Zug | 559 | tor5e3.digitale-gesellschaft.ch |
 | 2001:620:20d0::23 | 6 | 1698438258 | 1771419763 | EU | CH | Zug | 559 | tor5e1.digitale-gesellschaft.ch |
 | 2001:470:1:908::9001 | 6 | 1698438257 | 1771419763 | - | - |  | 6939 |  |
-| 200.122.181.2 | 4 | 1698437975 | 1771419763 | NA | CR | San José | 3790 |  |
-| 2.58.56.93 | 4 | 1744916676 | 1771419763 | EU | NL | Lelystad | 210558 | 2.58.56.93.powered.by.rdp.sh |
-| 2.58.56.35 | 4 | 1718654539 | 1771419762 | EU | NL | Lelystad | 210558 | Amsterdam5.quetzalcoatl-relays.org |
-| 2.58.56.220 | 4 | 1698437962 | 1771419762 | EU | NL | Lelystad | 210558 | 2.58.56.220.powered.by.rdp.sh |
-| 2.56.10.36 | 4 | 1725174125 | 1771419762 | EU | NL |  | 213373 |  |
-| 199.195.253.180 | 4 | 1698437953 | 1771419762 | NA | US | Staten Island | 53667 | NewYorkNewTor7.Quetzalcoatl-relays.org |
-| 199.195.253.156 | 4 | 1698437933 | 1771419762 | NA | US | Staten Island | 53667 | aramis-tor73 |
-| 199.195.253.124 | 4 | 1698437983 | 1771419762 | NA | US | Staten Island | 53667 |  |
-| 199.195.251.119 | 4 | 1698437956 | 1771419762 | NA | US | Staten Island | 53667 | NewYorkTorNew6.Quetzalcoatl-relays.org |
-| 199.195.248.168 | 4 | 1746011015 | 1771419762 | NA | US | Staten Island | 53667 |  |
-| 198.98.62.158 | 4 | 1737025385 | 1771419762 | NA | US | Staten Island | 53667 |  |
-| 198.98.61.60 | 4 | 1698437991 | 1771419762 | NA | US | Staten Island | 53667 |  |
-| 198.98.57.74 | 4 | 1737025385 | 1771419762 | NA | US | Staten Island | 53667 |  |
-| 198.98.57.151 | 4 | 1733767335 | 1771419762 | NA | US | Staten Island | 53667 |  |
-| 198.98.51.249 | 4 | 1709270153 | 1771419762 | NA | US | Staten Island | 53667 | tor-exit-http-readme.hackb.2mpd.com |
-| 198.98.50.199 | 4 | 1698437949 | 1771419761 | NA | US | Staten Island | 53667 | tor-exit.cyberjake.xyz |
-| 198.98.48.33 | 4 | 1698437969 | 1771419761 | NA | US | Staten Island | 53667 | sortie-tor.a-n-o-n-y-m-e.net |
-| 198.96.155.3 | 4 | 1698437939 | 1771419761 | NA | CA |  | 12093 | exit.tor.uwaterloo.ca |
-| 198.58.107.53 | 4 | 1698437999 | 1771419761 | NA | US | Richardson | 63949 | tor.tyler.zone |
-| 198.50.212.160 | 4 | 1746212586 | 1771419761 | NA | CA |  | 16276 | tor.ki5qhc.com |
 | 198.50.191.95 | 4 | 1698438249 | 1771419761 | NA | CA |  | 16276 | as16276.tor.shh.sh |
-| 198.46.166.157 | 4 | 1698437985 | 1771419761 | NA | US | Los Angeles | 36352 | tor03.mtak.nl |
 | 198.251.89.96 | 4 | 1706404970 | 1771419761 | EU | LU | Luxembourg | 53667 | polyphemus-i.brandonkuschel.com |
 | 198.251.88.18 | 4 | 1707014218 | 1771419761 | AF | EG |  | 53667 | polyphemus5-i.brandonkuschel.com |
 | 198.251.84.237 | 4 | 1706404970 | 1771419761 | EU | LU | Luxembourg | 53667 | polyphemus4-i.brandonkuschel.com |
 | 198.251.84.163 | 4 | 1706404970 | 1771419761 | EU | LU | Luxembourg | 53667 | polyphemus2-i.brandonkuschel.com |
-| 196.196.200.100 | 4 | 1754161416 | 1771419761 | EU | IE | Dublin | 41564 |  |
-| 195.88.74.206 | 4 | 1698437962 | 1771419761 | EU | BG |  | 48900 |  |
-| 195.80.151.242 | 4 | 1714388484 | 1771419760 | EU | BG |  | 206804 |  |
-| 195.47.238.50 | 4 | 1766206960 | 1771419760 | EU | SE |  | 30893 |  |
-| 195.47.238.44 | 4 | 1745956960 | 1771419760 | EU | SE |  | 30893 | anonode.se-1.prod.encrypt.co.il |
-| 195.246.231.197 | 4 | 1754352117 | 1771419760 | EU | IS | Reykjavik |  | vps-195-246-231-197.1984.is |
-| 195.176.3.24 | 4 | 1698437941 | 1771419760 | EU | CH | Zurich | 559 | tor5e3.digitale-gesellschaft.ch |
-| 195.160.220.104 | 4 | 1698438006 | 1771419760 | EU | NL | Haarlem |  | dedicated.sollutium.com |
 | 195.133.88.211 | 4 | 1756634537 | 1771419760 | EU | AT | Vienna | 207713 | 56433.ip-ptr.tech |
-| 194.53.137.42 | 4 | 1769130732 | 1771419760 | EU | ES | Madrid | 9009 |  |
-| 194.53.137.156 | 4 | 1740528139 | 1771419760 | EU | ES | Madrid | 9009 |  |
-| 194.32.107.87 | 4 | 1766203355 | 1771419760 | EU | NO | Sandefjord | 56655 | static.194.32.107.87.terrahost.com |
-| 194.32.107.231 | 4 | 1768493081 | 1771419760 | EU | NO | Sandefjord | 56655 |  |
-| 194.32.107.172 | 4 | 1767657771 | 1771419760 | EU | NO | Sandefjord | 56655 | static.194.32.107.172.terrahost.com |
-| 194.32.107.163 | 4 | 1766203355 | 1771419760 | EU | NO | Sandefjord | 56655 |  |
-| 194.32.107.14 | 4 | 1765382559 | 1771419759 | EU | NO | Sandefjord | 56655 | tor-exit-194.32.107.14.johand.dev |
-| 194.26.192.77 | 4 | 1698437935 | 1771419759 | EU | NL | Lelystad | 210558 | 194.26.192.77.powered.by.rdp.sh |
-| 194.26.192.46 | 4 | 1767841362 | 1771419759 | EU | NL | Lelystad | 210558 | mail.bigdick.one |
-| 194.26.192.22 | 4 | 1759622539 | 1771419759 | EU | NL | Lelystad | 210558 | 194.26.192.22.powered.by.rdp.sh |
-| 194.26.192.177 | 4 | 1756663338 | 1771419759 | EU | NL | Lelystad | 210558 | 194.26.192.177.powered.by.rdp.sh |
-| 194.163.157.49 | 4 | 1698437982 | 1771419759 | EU | FR | Lauterbourg | 51167 | vmi1306862.contaboserver.net |
-| 194.15.36.117 | 4 | 1746831738 | 1771419759 | EU | DE |  | 213250 | 117.36.15.194.in-addr.arpa |
-| 194.15.115.212 | 4 | 1698437977 | 1771419759 | EU | GB |  | 6939 |  |
-| 194.15.113.118 | 4 | 1698437982 | 1771419759 | EU | CZ | Brno | 213354 | smtp.exempleasavoir.fr |
-| 194.15.112.133 | 4 | 1698437942 | 1771419759 | EU | GB |  | 213354 |  |
-| 193.46.217.136 | 4 | 1769256171 | 1771419759 | NA | US | Fremont |  |  |
-| 193.36.132.21 | 4 | 1730898136 | 1771419759 | EU | NL | Amsterdam | 211895 | tanja.tor-exit.mxmla.de |
-| 193.26.115.43 | 4 | 1698437951 | 1771419759 | NA | US | Miami | 23470 | 193.26.115.43.powered.by.rdp.sh |
-| 193.26.115.140 | 4 | 1749222128 | 1771419759 | NA | US | Miami | 23470 | Miami3Tor.quetzalcoatl-relays.org |
-| 193.26.115.123 | 4 | 1756620138 | 1771419758 | NA | US | Miami | 23470 | 193.26.115.123.powered.by.rdp.sh |
-| 193.239.232.235 | 4 | 1759165334 | 1771419758 | EU | SE |  | 41634 |  |
 | 193.239.232.102 | 4 | 1698437972 | 1771419758 | EU | SE |  | 41634 |  |
-| 193.237.221.228 | 4 | 1736813776 | 1771419758 | EU | GB | Hounslow | 5378 | static-193-237-221-228.vodafonexdsl.co.uk |
 | 193.237.155.109 | 4 | 1758067343 | 1771419758 | EU | GB | Birmingham | 5378 | static-193-237-155-109.vodafonexdsl.co.uk |
-| 193.228.128.170 | 4 | 1765526559 | 1771419758 | EU | RU |  | 207713 | 115498.ip-ptr.tech |
-| 193.200.229.243 | 4 | 1766142165 | 1771419758 | EU | NO | Sandefjord |  |  |
-| 193.189.100.206 | 4 | 1698437997 | 1771419758 | EU | SE |  | 41281 | tor-exit-13 |
-| 193.189.100.205 | 4 | 1698437976 | 1771419758 | EU | SE |  | 41281 | tor-exit-12 |
-| 193.189.100.204 | 4 | 1698437984 | 1771419758 | EU | SE |  | 41281 | tor-exit-11 |
-| 193.189.100.203 | 4 | 1698437950 | 1771419758 | EU | SE |  | 41281 | tor-exit-10 |
-| 193.189.100.202 | 4 | 1698437949 | 1771419758 | EU | SE |  | 41281 | tor-exit-9 |
-| 193.189.100.201 | 4 | 1698437983 | 1771419758 | EU | SE |  | 41281 | tor-exit-8 |
-| 193.189.100.200 | 4 | 1698437994 | 1771419758 | EU | SE |  | 41281 | tor-exit-7 |
-| 193.189.100.199 | 4 | 1698437934 | 1771419757 | EU | SE |  | 41281 | tor-exit-6 |
-| 193.189.100.198 | 4 | 1698437935 | 1771419757 | EU | SE |  | 41281 | tor-exit-5 |
-| 193.189.100.197 | 4 | 1698437992 | 1771419757 | EU | SE |  | 41281 | tor-exit-4 |
-| 193.189.100.196 | 4 | 1698437967 | 1771419757 | EU | SE |  | 41281 | tor-exit-3 |
-| 193.189.100.195 | 4 | 1698492164 | 1771419757 | EU | SE |  | 41281 | tor-exit-2 |
-| 193.189.100.194 | 4 | 1698437988 | 1771419757 | EU | SE |  | 41281 | tor-exit-1 |
 | 193.142.147.69 | 4 | 1722286920 | 1771419757 | EU | DE |  | 208046 |  |
-| 193.105.134.254 | 4 | 1767931362 | 1771419757 | EU | SE | Stockholm | 42237 |  |
-| 193.105.134.155 | 4 | 1698437939 | 1771419757 | EU | SE | Stockholm | 42237 |  |
-| 193.105.134.150 | 4 | 1698437990 | 1771419757 | EU | SE | Stockholm | 42237 |  |
 | 192.76.160.154 | 4 | 1761595374 | 1771419757 | EU | DE | Frankfurt am Main | 60404 |  |
 | 192.76.160.153 | 4 | 1761595373 | 1771419757 | EU | DE | Frankfurt am Main | 60404 |  |
 | 192.76.160.152 | 4 | 1761595373 | 1771419757 | EU | DE | Frankfurt am Main | 60404 |  |
@@ -1574,356 +2161,25 @@ Those IPs are not guaranteed to be tor nodes, but they were seen as tor nodes wi
 | 192.76.160.132 | 4 | 1761595372 | 1771419755 | EU | DE | Frankfurt am Main | 60404 |  |
 | 192.76.160.131 | 4 | 1761595372 | 1771419755 | EU | DE | Frankfurt am Main | 60404 |  |
 | 192.76.160.130 | 4 | 1761595371 | 1771419755 | EU | DE | Frankfurt am Main | 60404 |  |
-| 192.76.153.253 | 4 | 1757552668 | 1771419755 | EU | NL |  | 60404 |  |
-| 192.42.116.28 | 4 | 1698437961 | 1771419755 | EU | NL |  | 1101 | this-is-a-tor-exit-node-hviv128.hviv.nl |
-| 192.42.116.22 | 4 | 1698437996 | 1771419755 | EU | NL |  | 1101 | this-is-a-tor-exit-node-hviv122.hviv.nl |
-| 192.42.116.219 | 4 | 1698437948 | 1771419755 | EU | NL |  | 1101 | 45.tor-exit.nothingtohide.nl |
-| 192.42.116.218 | 4 | 1698437944 | 1771419755 | EU | NL |  | 1101 | 44.tor-exit.nothingtohide.nl |
-| 192.42.116.217 | 4 | 1698437949 | 1771419755 | EU | NL |  | 1101 | 20.tor-exit.nothingtohide.nl |
-| 192.42.116.216 | 4 | 1698437954 | 1771419755 | EU | NL |  | 1101 | 19.tor-exit.nothingtohide.nl |
-| 192.42.116.215 | 4 | 1698437982 | 1771419754 | EU | NL |  | 1101 | 18.tor-exit.nothingtohide.nl |
-| 192.42.116.214 | 4 | 1698437958 | 1771419754 | EU | NL |  | 1101 | 17.tor-exit.nothingtohide.nl |
-| 192.42.116.212 | 4 | 1698437937 | 1771419754 | EU | NL |  | 1101 | 15.tor-exit.nothingtohide.nl |
-| 192.42.116.211 | 4 | 1698437934 | 1771419754 | EU | NL |  | 1101 | 14.tor-exit.nothingtohide.nl |
-| 192.42.116.210 | 4 | 1698437944 | 1771419754 | EU | NL |  | 1101 | 13.tor-exit.nothingtohide.nl |
-| 192.42.116.209 | 4 | 1698437964 | 1771419754 | EU | NL |  | 1101 | 12.tor-exit.nothingtohide.nl |
-| 192.42.116.203 | 4 | 1698437951 | 1771419754 | EU | NL |  | 1101 | 40.tor-exit.nothingtohide.nl |
-| 192.42.116.202 | 4 | 1698437937 | 1771419754 | EU | NL |  | 1101 | 39.tor-exit.nothingtohide.nl |
-| 192.42.116.200 | 4 | 1698437934 | 1771419754 | EU | NL |  | 1101 | 10.tor-exit.nothingtohide.nl |
-| 192.42.116.199 | 4 | 1698437943 | 1771419754 | EU | NL |  | 1101 | 9.tor-exit.nothingtohide.nl |
-| 192.42.116.198 | 4 | 1698437954 | 1771419754 | EU | NL |  | 1101 | 8.tor-exit.nothingtohide.nl |
-| 192.42.116.197 | 4 | 1698437952 | 1771419753 | EU | NL |  | 1101 | 7.tor-exit.nothingtohide.nl |
-| 192.42.116.195 | 4 | 1698437950 | 1771419753 | EU | NL |  | 1101 | 5.tor-exit.nothingtohide.nl |
-| 192.42.116.194 | 4 | 1698437948 | 1771419753 | EU | NL |  | 1101 | 4.tor-exit.nothingtohide.nl |
-| 192.42.116.193 | 4 | 1698437968 | 1771419753 | EU | NL |  | 1101 | 3.tor-exit.nothingtohide.nl |
-| 192.42.116.192 | 4 | 1698437937 | 1771419753 | EU | NL |  | 1101 | 2.tor-exit.nothingtohide.nl |
-| 192.42.116.191 | 4 | 1698437940 | 1771419753 | EU | NL |  | 1101 | 1.tor-exit.nothingtohide.nl |
-| 192.42.116.186 | 4 | 1698437952 | 1771419753 | EU | NL |  | 1101 | 34.tor-exit.nothingtohide.nl |
-| 192.42.116.185 | 4 | 1698437968 | 1771419753 | EU | NL |  | 1101 | 33.tor-exit.nothingtohide.nl |
-| 192.42.116.183 | 4 | 1698437958 | 1771419753 | EU | NL |  | 1101 | 31.tor-exit.nothingtohide.nl |
-| 192.42.116.182 | 4 | 1698437941 | 1771419753 | EU | NL |  | 1101 | 30.tor-exit.nothingtohide.nl |
-| 192.42.116.181 | 4 | 1698437935 | 1771419753 | EU | NL |  | 1101 | 29.tor-exit.nothingtohide.nl |
-| 192.42.116.180 | 4 | 1698437942 | 1771419753 | EU | NL |  | 1101 | 28.tor-exit.nothingtohide.nl |
-| 192.42.116.179 | 4 | 1698437939 | 1771419752 | EU | NL |  | 1101 | 27.tor-exit.nothingtohide.nl |
-| 192.42.116.178 | 4 | 1698437944 | 1771419752 | EU | NL |  | 1101 | 26.tor-exit.nothingtohide.nl |
-| 192.42.116.177 | 4 | 1698437937 | 1771419752 | EU | NL |  | 1101 | 25.tor-exit.nothingtohide.nl |
-| 192.42.116.176 | 4 | 1698437946 | 1771419752 | EU | NL |  | 1101 | 24.tor-exit.nothingtohide.nl |
-| 192.42.116.174 | 4 | 1698437936 | 1771419752 | EU | NL |  | 1101 | 22.tor-exit.nothingtohide.nl |
-| 192.34.80.176 | 4 | 1760630639 | 1771419752 | NA | US | Boston | 33083 | minkus.tld |
-| 192.159.99.74 | 4 | 1751731313 | 1771419752 | NA | US | New York | 14315 | 192.159.99.74.powered.by.rdp.sh |
-| 192.159.99.38 | 4 | 1763168774 | 1771419752 | NA | US | New York | 14315 |  |
-| 192.159.99.27 | 4 | 1770562962 | 1771419752 | NA | US | New York | 14315 |  |
-| 192.159.99.21 | 4 | 1767664954 | 1771419752 | NA | US | New York | 14315 |  |
-| 192.159.99.168 | 4 | 1751605320 | 1771419752 | NA | US | New York | 14315 |  |
-| 192.159.99.162 | 4 | 1762030932 | 1771419752 | NA | US | New York | 14315 | 192.159.99.162.powered.by.rdp.sh |
-| 192.121.44.34 | 4 | 1763024547 | 1771419751 | EU | SE |  | 29518 | tor-relay04.playstar.se |
-| 192.121.44.33 | 4 | 1763024547 | 1771419751 | EU | SE |  | 29518 | tor-relay03.playstar.se |
-| 192.121.44.27 | 4 | 1698438625 | 1771419751 | EU | SE |  | 29518 | tor-relay02.playstar.se |
-| 192.121.44.26 | 4 | 1698438625 | 1771419751 | EU | SE |  | 29518 | tor-relay01.playstar.se |
-| 192.109.200.33 | 4 | 1770760956 | 1771419751 | EU | SE | Stockholm |  | bizarrecake.ptr.network |
-| 192.108.48.150 | 4 | 1700589866 | 1771419751 | EU | DE | Fulda | 680 | tor.rz.hs-fulda.de |
-| 190.211.254.97 | 4 | 1698437951 | 1771419751 | EU | GB | London | 51852 | hostedby.privatelayer.com |
-| 190.211.254.185 | 4 | 1759186962 | 1771419751 | EU | GB | London | 51852 | hostedby.privatelayer.com |
-| 190.123.46.170 | 4 | 1760609037 | 1771419751 | NA | PA |  | 52284 |  |
-| 190.120.229.98 | 4 | 1698437937 | 1771419751 | SA | PE | Santiago de Surco | 263812 | 98.ip-229-120-190.lim.pe.ipxon.net |
-| 190.120.229.2 | 4 | 1758258138 | 1771419751 | SA | PE | Santiago de Surco | 263812 | 2.ip-229-120-190.lim.pe.ipxon.net |
-| 190.103.179.98 | 4 | 1698507118 | 1771419751 | NA | MX |  | 263812 | 98.ip-179-103-190.cdmx.mx.ipxon.net |
 | 189.229.72.214 | 4 | 1771383759 | 1771419751 | NA | MX | Ciudad Nezahualcoyotl | 8151 | dsl-189-229-72-214-dyn.prod-infinitum.com.mx |
-| 188.68.52.231 | 4 | 1698437969 | 1771419751 | EU | DE | Nuremberg | 197540 | NurembergTor62.quetzalcoatl-relays.org |
-| 188.68.49.235 | 4 | 1698437953 | 1771419750 | EU | DE | Nuremberg | 197540 | NurembergTor57.quetzalcoatl-relays.org |
-| 188.68.41.191 | 4 | 1698437958 | 1771419750 | EU | DE | Nuremberg | 197540 | NurembergTor35.quetzalcoatl-relays.org |
-| 188.68.36.28 | 4 | 1727431328 | 1771419750 | EU | DE | Nuremberg | 197540 | this-is-a-tor-node---42.artikel5ev.de |
-| 188.239.191.25 | 4 | 1730894529 | 1771419750 | EU | NL | Amsterdam | 211895 | bernd.tor-exit.mxmla.de |
 | 187.198.60.21 | 4 | 1771322548 | 1771419750 | NA | MX | Nuevo Laredo | 8151 | dsl-21-60-198-187-dynamic.prod-infinitum.com.mx |
 | 186.19.109.110 | 4 | 1771268569 | 1771419750 | SA | AR | Los Polvorines | 27747 | cpe-186-19-109-110.telecentro-reversos.com.ar |
 | 186.132.164.71 | 4 | 1771290512 | 1771419750 | SA | AR | Burzaco | 22927 | 186-132-164-71.speedy.com.ar |
-| 185.93.89.96 | 4 | 1769022286 | 1771419750 | AS | IR |  |  |  |
-| 185.82.219.109 | 4 | 1698437993 | 1771419750 | EU | BG | Sofia | 59729 | tornode2.vds-114833.com |
-| 185.67.82.114 | 4 | 1698437943 | 1771419750 | EU | FI | Helsinki | 20904 | tor-ou.effi.org |
 | 185.62.58.225 | 4 | 1762948942 | 1771419750 | EU | NL |  | 62370 | s45289.hosted-by-snel.com |
-| 185.62.58.165 | 4 | 1767844957 | 1771419750 | EU | NL |  | 62370 | tor-exit-temp.bronk-ict.nl |
-| 185.62.56.249 | 4 | 1766858543 | 1771419750 | EU | NL |  | 62370 | development.bronk-ict.nl |
-| 185.56.171.94 | 4 | 1698437988 | 1771419750 | EU | IT |  | 3242 | pengy.lsd.cat |
-| 185.42.170.203 | 4 | 1698437982 | 1771419749 | EU | NO | Oslo | 62248 | exit01.tor.anduin.net |
-| 185.39.207.83 | 4 | 1706313857 | 1771419749 | EU | GR |  | 207713 | vanzetti.osservatorionessuno.org |
-| 185.35.202.222 | 4 | 1698437935 | 1771419749 | EU | NO | Oslo | 50304 | tor-proxy-readme.hackeriet.no |
-| 185.34.33.2 | 4 | 1698437981 | 1771419749 | EU | FR |  | 28855 | tor.laquadrature.net |
-| 185.254.196.141 | 4 | 1698437942 | 1771419749 | EU | UA | Kyiv | 30860 | dedicated.vsys.host |
-| 185.252.232.218 | 4 | 1698437972 | 1771419749 | EU | FR | Lauterbourg | 51167 | vmi1347637.contaboserver.net |
 | 185.248.141.34 | 4 | 1758240235 | 1771419749 | EU | DE |  | 48314 |  |
-| 185.247.226.95 | 4 | 1748962922 | 1771419749 | EU | IS |  | 200651 |  |
-| 185.247.224.89 | 4 | 1763017340 | 1771419749 | EU | RO | Bucharest | 200651 |  |
-| 185.247.184.105 | 4 | 1701566363 | 1771419749 | EU | IT |  | 207713 | pingj.lsd.cat |
-| 185.246.84.179 | 4 | 1733320929 | 1771419749 | EU | FR |  | 21409 | exitnodev8.v6.rocks |
-| 185.246.191.53 | 4 | 1766016158 | 1771419749 | EU | IS |  |  |  |
-| 185.246.190.83 | 4 | 1763380941 | 1771419749 | EU | IS |  |  |  |
-| 185.246.190.137 | 4 | 1766545350 | 1771419749 | EU | IS |  |  |  |
-| 185.246.190.136 | 4 | 1766545350 | 1771419748 | EU | IS |  |  |  |
-| 185.246.189.99 | 4 | 1707754048 | 1771419748 | EU | NL |  | 200651 |  |
-| 185.246.188.74 | 4 | 1698437967 | 1771419748 | EU | NL |  | 200651 |  |
-| 185.246.188.73 | 4 | 1698437958 | 1771419748 | EU | NL |  | 200651 |  |
-| 185.246.188.149 | 4 | 1710335492 | 1771419748 | EU | NL |  | 200651 |  |
-| 185.246.128.161 | 4 | 1698437975 | 1771419748 | EU | SE | Stockholm | 42237 |  |
-| 185.244.192.184 | 4 | 1698437961 | 1771419748 | EU | DE | Nuremberg | 197540 | NurembergTor55.quetzalcoatl-relays.org |
-| 185.244.192.175 | 4 | 1698437930 | 1771419748 | EU | DE | Nuremberg | 197540 | NurembergTor14.quetzalcoatl-relays.org |
-| 185.243.218.233 | 4 | 1766865817 | 1771419748 | EU | NO | Sandefjord | 56655 |  |
-| 185.243.218.232 | 4 | 1766872948 | 1771419748 | EU | NO | Sandefjord | 56655 |  |
-| 185.243.218.231 | 4 | 1766944942 | 1771419748 | EU | NO | Sandefjord | 56655 |  |
-| 185.243.218.230 | 4 | 1765702950 | 1771419748 | EU | NO | Sandefjord | 56655 | tor-exit-info.middelstaedt.com |
-| 185.243.218.229 | 4 | 1765706545 | 1771419748 | EU | NO | Sandefjord | 56655 | tor-exit-info.middelstaedt.com |
-| 185.243.218.226 | 4 | 1765623744 | 1771419748 | EU | NO | Sandefjord | 56655 | tor-exit.lokodlare.com |
-| 185.243.218.225 | 4 | 1765620028 | 1771419747 | EU | NO | Sandefjord | 56655 | tor-exit.lokodlare.com |
-| 185.241.208.82 | 4 | 1751036515 | 1771419747 | EU | PL | Warsaw | 210558 | SQUY |
-| 185.241.208.81 | 4 | 1719248509 | 1771419747 | EU | PL | Warsaw | 210558 | tor-exit-readme-5.maxzrbn.it |
-| 185.241.208.71 | 4 | 1698437953 | 1771419747 | EU | PL | Warsaw | 210558 |  |
-| 185.241.208.234 | 4 | 1765854152 | 1771419747 | EU | PL | Warsaw | 210558 |  |
-| 185.241.208.185 | 4 | 1744851851 | 1771419747 | EU | PL | Warsaw | 210558 |  |
-| 185.241.208.139 | 4 | 1767978169 | 1771419747 | EU | PL | Warsaw | 210558 |  |
-| 185.241.208.136 | 4 | 1766761349 | 1771419747 | EU | PL | Warsaw | 210558 | ns2.rdp.rs |
-| 185.241.208.115 | 4 | 1698437936 | 1771419747 | EU | PL | Warsaw | 210558 |  |
-| 185.236.20.142 | 4 | 1758157543 | 1771419747 | EU | NL | Amsterdam | 210512 |  |
-| 185.235.146.29 | 4 | 1698437952 | 1771419747 | EU | FR | Toulouse | 39405 |  |
-| 185.233.100.23 | 4 | 1698437957 | 1771419747 | EU | FR |  | 198985 | elenagb.nos-oignons.net |
-| 185.231.33.38 | 4 | 1757844129 | 1771419747 | AF | SC |  |  |  |
-| 185.227.68.78 | 4 | 1698437932 | 1771419747 | EU | FI | Helsinki | 206804 |  |
-| 185.227.134.106 | 4 | 1698437965 | 1771419746 | AS | SG | Singapore | 141995 | vmi1262847.contaboserver.net |
-| 185.225.69.232 | 4 | 1698438001 | 1771419746 | EU | HU | Budapest | 30836 |  |
-| 185.225.69.225 | 4 | 1760184125 | 1771419746 | EU | HU | Budapest | 30836 |  |
-| 185.225.69.222 | 4 | 1760184125 | 1771419746 | EU | HU | Budapest | 30836 |  |
-| 185.225.69.203 | 4 | 1698438000 | 1771419746 | EU | HU | Budapest | 30836 |  |
-| 185.225.69.187 | 4 | 1753552916 | 1771419746 | EU | HU | Budapest | 30836 | mta06.tormatans.info |
-| 185.220.101.99 | 4 | 1706118295 | 1771419746 | EU | DE | Brandenburg | 60729 | tor-exit-99.digitalcourage.de |
-| 185.220.101.98 | 4 | 1706118295 | 1771419746 | EU | DE | Brandenburg | 60729 | tor-exit-98.digitalcourage.de |
-| 185.220.101.97 | 4 | 1706118295 | 1771419746 | EU | DE | Brandenburg | 60729 | tor-exit-97.digitalcourage.de |
-| 185.220.101.96 | 4 | 1706118295 | 1771419746 | EU | DE | Brandenburg | 60729 | tor-exit-96.digitalcourage.de |
-| 185.220.101.9 | 4 | 1698437988 | 1771419746 | EU | DE | Brandenburg | 60729 | berlin01.tor-exit.artikel10.org |
-| 185.220.101.8 | 4 | 1698437931 | 1771419746 | EU | DE | Brandenburg | 60729 | berlin01.tor-exit.artikel10.org |
-| 185.220.101.7 | 4 | 1698437963 | 1771419746 | EU | DE | Brandenburg | 60729 | berlin01.tor-exit.artikel10.org |
-| 185.220.101.63 | 4 | 1698437956 | 1771419746 | EU | DE | Brandenburg | 60729 | tor-exit-63.for-privacy.net |
-| 185.220.101.62 | 4 | 1698437998 | 1771419745 | EU | DE | Brandenburg | 60729 | tor-exit-62.for-privacy.net |
-| 185.220.101.61 | 4 | 1698437976 | 1771419745 | EU | DE | Brandenburg | 60729 | tor-exit-61.for-privacy.net |
-| 185.220.101.60 | 4 | 1698437990 | 1771419745 | EU | DE | Brandenburg | 60729 | tor-exit-60.for-privacy.net |
-| 185.220.101.6 | 4 | 1698437949 | 1771419745 | EU | DE | Brandenburg | 60729 | berlin01.tor-exit.artikel10.org |
-| 185.220.101.59 | 4 | 1698437976 | 1771419745 | EU | DE | Brandenburg | 60729 | tor-exit-59.for-privacy.net |
-| 185.220.101.58 | 4 | 1698437947 | 1771419745 | EU | DE | Brandenburg | 60729 | tor-exit-58.for-privacy.net |
-| 185.220.101.57 | 4 | 1698437995 | 1771419745 | EU | DE | Brandenburg | 60729 | tor-exit-57.for-privacy.net |
-| 185.220.101.56 | 4 | 1698437968 | 1771419745 | EU | DE | Brandenburg | 60729 | tor-exit-56.for-privacy.net |
-| 185.220.101.55 | 4 | 1698437956 | 1771419745 | EU | DE | Brandenburg | 60729 | tor-exit-55.for-privacy.net |
-| 185.220.101.54 | 4 | 1698437961 | 1771419745 | EU | DE | Brandenburg | 60729 | tor-exit-54.for-privacy.net |
-| 185.220.101.53 | 4 | 1698437983 | 1771419745 | EU | DE | Brandenburg | 60729 | tor-exit-53.for-privacy.net |
-| 185.220.101.52 | 4 | 1698437997 | 1771419745 | EU | DE | Brandenburg | 60729 | tor-exit-52.for-privacy.net |
-| 185.220.101.51 | 4 | 1698437990 | 1771419745 | EU | DE | Brandenburg | 60729 | tor-exit-51.for-privacy.net |
-| 185.220.101.50 | 4 | 1698437984 | 1771419745 | EU | DE | Brandenburg | 60729 | tor-exit-50.for-privacy.net |
-| 185.220.101.5 | 4 | 1698437931 | 1771419745 | EU | DE | Brandenburg | 60729 | berlin01.tor-exit.artikel10.org |
-| 185.220.101.49 | 4 | 1698437984 | 1771419744 | EU | DE | Brandenburg | 60729 | tor-exit-49.for-privacy.net |
-| 185.220.101.48 | 4 | 1698437995 | 1771419744 | EU | DE | Brandenburg | 60729 | tor-exit-48.for-privacy.net |
-| 185.220.101.47 | 4 | 1698437933 | 1771419744 | EU | DE | Brandenburg | 60729 | tor-exit-47.for-privacy.net |
-| 185.220.101.46 | 4 | 1698437951 | 1771419744 | EU | DE | Brandenburg | 60729 | tor-exit-46.for-privacy.net |
-| 185.220.101.45 | 4 | 1698437934 | 1771419744 | EU | DE | Brandenburg | 60729 | tor-exit-45.for-privacy.net |
-| 185.220.101.44 | 4 | 1698437989 | 1771419744 | EU | DE | Brandenburg | 60729 | tor-exit-44.for-privacy.net |
-| 185.220.101.43 | 4 | 1698437968 | 1771419744 | EU | DE | Brandenburg | 60729 | tor-exit-43.for-privacy.net |
-| 185.220.101.42 | 4 | 1698437968 | 1771419744 | EU | DE | Brandenburg | 60729 | tor-exit-42.for-privacy.net |
-| 185.220.101.41 | 4 | 1698437984 | 1771419744 | EU | DE | Brandenburg | 60729 | tor-exit-41.for-privacy.net |
-| 185.220.101.40 | 4 | 1698437991 | 1771419744 | EU | DE | Brandenburg | 60729 | tor-exit-40.for-privacy.net |
-| 185.220.101.4 | 4 | 1698437928 | 1771419744 | EU | DE | Brandenburg | 60729 | berlin01.tor-exit.artikel10.org |
-| 185.220.101.39 | 4 | 1698437960 | 1771419744 | EU | DE | Brandenburg | 60729 | tor-exit-39.for-privacy.net |
-| 185.220.101.38 | 4 | 1698437955 | 1771419744 | EU | DE | Brandenburg | 60729 | tor-exit-38.for-privacy.net |
-| 185.220.101.37 | 4 | 1698437966 | 1771419744 | EU | DE | Brandenburg | 60729 | tor-exit-37.for-privacy.net |
-| 185.220.101.36 | 4 | 1698437981 | 1771419743 | EU | DE | Brandenburg | 60729 | tor-exit-36.for-privacy.net |
-| 185.220.101.35 | 4 | 1698437933 | 1771419743 | EU | DE | Brandenburg | 60729 | tor-exit-35.for-privacy.net |
-| 185.220.101.34 | 4 | 1698437928 | 1771419743 | EU | DE | Brandenburg | 60729 | tor-exit-34.for-privacy.net |
-| 185.220.101.33 | 4 | 1698437954 | 1771419743 | EU | DE | Brandenburg | 60729 | tor-exit-33.for-privacy.net |
-| 185.220.101.32 | 4 | 1698437977 | 1771419743 | EU | DE | Brandenburg | 60729 | tor-exit-32.for-privacy.net |
-| 185.220.101.31 | 4 | 1698437930 | 1771419743 | EU | DE | Brandenburg | 60729 | berlin01.tor-exit.artikel10.org |
-| 185.220.101.30 | 4 | 1698437955 | 1771419743 | EU | DE | Brandenburg | 60729 | berlin01.tor-exit.artikel10.org |
-| 185.220.101.3 | 4 | 1698437937 | 1771419743 | EU | DE | Brandenburg | 60729 | berlin01.tor-exit.artikel10.org |
-| 185.220.101.29 | 4 | 1698437960 | 1771419743 | EU | DE | Brandenburg | 60729 | berlin01.tor-exit.artikel10.org |
-| 185.220.101.28 | 4 | 1698437960 | 1771419743 | EU | DE | Brandenburg | 60729 | berlin01.tor-exit.artikel10.org |
-| 185.220.101.27 | 4 | 1698437931 | 1771419743 | EU | DE | Brandenburg | 60729 | berlin01.tor-exit.artikel10.org |
-| 185.220.101.26 | 4 | 1698437974 | 1771419743 | EU | DE | Brandenburg | 60729 | berlin01.tor-exit.artikel10.org |
-| 185.220.101.25 | 4 | 1698437942 | 1771419743 | EU | DE | Brandenburg | 60729 | berlin01.tor-exit.artikel10.org |
-| 185.220.101.24 | 4 | 1698437939 | 1771419743 | EU | DE | Brandenburg | 60729 | berlin01.tor-exit.artikel10.org |
-| 185.220.101.23 | 4 | 1698437940 | 1771419742 | EU | DE | Brandenburg | 60729 | berlin01.tor-exit.artikel10.org |
-| 185.220.101.22 | 4 | 1698437963 | 1771419742 | EU | DE | Brandenburg | 60729 | berlin01.tor-exit.artikel10.org |
-| 185.220.101.21 | 4 | 1698437936 | 1771419742 | EU | DE | Brandenburg | 60729 | berlin01.tor-exit.artikel10.org |
-| 185.220.101.20 | 4 | 1698437963 | 1771419742 | EU | DE | Brandenburg | 60729 | berlin01.tor-exit.artikel10.org |
-| 185.220.101.2 | 4 | 1698437955 | 1771419742 | EU | DE | Brandenburg | 60729 | berlin01.tor-exit.artikel10.org |
-| 185.220.101.191 | 4 | 1698437990 | 1771419742 | EU | DE | Brandenburg | 60729 | tor-exit-191.relayon.org |
-| 185.220.101.190 | 4 | 1698438597 | 1771419742 | EU | DE | Brandenburg | 60729 | tor-exit-190.relayon.org |
-| 185.220.101.19 | 4 | 1698437946 | 1771419742 | EU | DE | Brandenburg | 60729 | berlin01.tor-exit.artikel10.org |
-| 185.220.101.189 | 4 | 1698507106 | 1771419742 | EU | DE | Brandenburg | 60729 | tor-exit-189.relayon.org |
-| 185.220.101.188 | 4 | 1698437940 | 1771419742 | EU | DE | Brandenburg | 60729 | tor-exit-188.relayon.org |
-| 185.220.101.186 | 4 | 1698437950 | 1771419742 | EU | DE | Brandenburg | 60729 | tor-exit-186.relayon.org |
-| 185.220.101.185 | 4 | 1698507105 | 1771419742 | EU | DE | Brandenburg | 60729 | tor-exit-185.relayon.org |
-| 185.220.101.184 | 4 | 1698437970 | 1771419742 | EU | DE | Brandenburg | 60729 | tor-exit-184.relayon.org |
-| 185.220.101.183 | 4 | 1698438597 | 1771419742 | EU | DE | Brandenburg | 60729 | tor-exit-183.relayon.org |
-| 185.220.101.182 | 4 | 1698438597 | 1771419741 | EU | DE | Brandenburg | 60729 | tor-exit-182.relayon.org |
-| 185.220.101.181 | 4 | 1698437997 | 1771419741 | EU | DE | Brandenburg | 60729 | tor-exit-181.relayon.org |
-| 185.220.101.180 | 4 | 1698438597 | 1771419741 | EU | DE | Brandenburg | 60729 | tor-exit-180.relayon.org |
-| 185.220.101.18 | 4 | 1698437967 | 1771419741 | EU | DE | Brandenburg | 60729 | berlin01.tor-exit.artikel10.org |
-| 185.220.101.179 | 4 | 1698438597 | 1771419741 | EU | DE | Brandenburg | 60729 | tor-exit-179.relayon.org |
-| 185.220.101.178 | 4 | 1698438597 | 1771419741 | EU | DE | Brandenburg | 60729 | tor-exit-178.relayon.org |
-| 185.220.101.177 | 4 | 1698507105 | 1771419741 | EU | DE | Brandenburg | 60729 | tor-exit-177.relayon.org |
-| 185.220.101.176 | 4 | 1698438596 | 1771419741 | EU | DE | Brandenburg | 60729 | tor-exit-176.relayon.org |
-| 185.220.101.175 | 4 | 1698438596 | 1771419741 | EU | DE | Brandenburg | 60729 | tor-exit-175.relayon.org |
-| 185.220.101.174 | 4 | 1698437998 | 1771419741 | EU | DE | Brandenburg | 60729 | tor-exit-174.relayon.org |
-| 185.220.101.173 | 4 | 1698437990 | 1771419741 | EU | DE | Brandenburg | 60729 | tor-exit-173.relayon.org |
-| 185.220.101.172 | 4 | 1698507104 | 1771419741 | EU | DE | Brandenburg | 60729 | tor-exit-172.relayon.org |
-| 185.220.101.171 | 4 | 1698438596 | 1771419741 | EU | DE | Schönwalde | 60729 | tor-exit-171.relayon.org |
-| 185.220.101.170 | 4 | 1698438596 | 1771419741 | EU | DE | Brandenburg | 60729 | tor-exit-170.relayon.org |
-| 185.220.101.17 | 4 | 1698437951 | 1771419740 | EU | DE | Brandenburg | 60729 | berlin01.tor-exit.artikel10.org |
-| 185.220.101.169 | 4 | 1698438596 | 1771419740 | EU | DE | Brandenburg | 60729 | tor-exit-169.relayon.org |
-| 185.220.101.168 | 4 | 1698507104 | 1771419740 | EU | DE | Brandenburg | 60729 | tor-exit-168.relayon.org |
-| 185.220.101.167 | 4 | 1698438596 | 1771419740 | EU | DE | Brandenburg | 60729 | tor-exit-167.relayon.org |
-| 185.220.101.166 | 4 | 1698437950 | 1771419740 | EU | DE | Brandenburg | 60729 | tor-exit-166.relayon.org |
-| 185.220.101.165 | 4 | 1698438596 | 1771419740 | EU | DE | Brandenburg | 60729 | tor-exit-165.relayon.org |
-| 185.220.101.164 | 4 | 1698507104 | 1771419740 | EU | DE | Brandenburg | 60729 | tor-exit-164.relayon.org |
-| 185.220.101.163 | 4 | 1698438596 | 1771419740 | EU | DE | Brandenburg | 60729 | tor-exit-163.relayon.org |
-| 185.220.101.162 | 4 | 1698438596 | 1771419740 | EU | DE | Brandenburg | 60729 | tor-exit-162.relayon.org |
-| 185.220.101.161 | 4 | 1698437955 | 1771419740 | EU | DE | Brandenburg | 60729 | tor-exit-161.relayon.org |
-| 185.220.101.160 | 4 | 1698438010 | 1771419740 | EU | DE | Brandenburg | 60729 | tor-exit-160.relayon.org |
-| 185.220.101.16 | 4 | 1698437972 | 1771419740 | EU | DE | Brandenburg | 60729 | berlin01.tor-exit.artikel10.org |
-| 185.220.101.159 | 4 | 1698438009 | 1771419740 | EU | DE | Brandenburg | 60729 | tor-exit-159.relayon.org |
-| 185.220.101.157 | 4 | 1698438011 | 1771419740 | EU | DE | Brandenburg | 60729 | tor-exit-157.relayon.org |
-| 185.220.101.156 | 4 | 1698438010 | 1771419739 | EU | DE | Brandenburg | 60729 | tor-exit-156.relayon.org |
-| 185.220.101.155 | 4 | 1698438595 | 1771419739 | EU | DE | Brandenburg | 60729 | tor-exit-155.relayon.org |
-| 185.220.101.154 | 4 | 1698438010 | 1771419739 | EU | DE | Brandenburg | 60729 | tor-exit-154.relayon.org |
-| 185.220.101.153 | 4 | 1698438010 | 1771419739 | EU | DE | Brandenburg | 60729 | tor-exit-153.relayon.org |
-| 185.220.101.152 | 4 | 1698438011 | 1771419739 | EU | DE | Brandenburg | 60729 | tor-exit-152.relayon.org |
-| 185.220.101.151 | 4 | 1698438010 | 1771419739 | EU | DE | Brandenburg | 60729 | tor-exit-151.relayon.org |
-| 185.220.101.150 | 4 | 1698438011 | 1771419739 | EU | DE | Brandenburg | 60729 | tor-exit-150.relayon.org |
-| 185.220.101.15 | 4 | 1698437982 | 1771419739 | EU | DE | Brandenburg | 60729 | berlin01.tor-exit.artikel10.org |
-| 185.220.101.149 | 4 | 1698438010 | 1771419739 | EU | DE | Brandenburg | 60729 | tor-exit-149.relayon.org |
-| 185.220.101.148 | 4 | 1698438010 | 1771419739 | EU | DE | Brandenburg | 60729 | tor-exit-148.relayon.org |
-| 185.220.101.147 | 4 | 1698438009 | 1771419739 | EU | DE | Brandenburg | 60729 | tor-exit-147.relayon.org |
-| 185.220.101.146 | 4 | 1698438009 | 1771419739 | EU | DE | Brandenburg | 60729 | tor-exit-146.relayon.org |
-| 185.220.101.145 | 4 | 1698438010 | 1771419739 | EU | DE | Brandenburg | 60729 | tor-exit-145.relayon.org |
-| 185.220.101.144 | 4 | 1698438010 | 1771419739 | EU | DE |  | 60729 | tor-exit-144.relayon.org |
-| 185.220.101.143 | 4 | 1698438011 | 1771419738 | EU | DE | Brandenburg | 60729 | tor-exit-143.relayon.org |
-| 185.220.101.142 | 4 | 1698438594 | 1771419738 | EU | DE | Brandenburg | 60729 | tor-exit-142.relayon.org |
-| 185.220.101.141 | 4 | 1698438009 | 1771419738 | EU | DE | Brandenburg | 60729 | tor-exit-141.relayon.org |
-| 185.220.101.140 | 4 | 1698438010 | 1771419738 | EU | DE | Brandenburg | 60729 | tor-exit-140.relayon.org |
-| 185.220.101.14 | 4 | 1698437982 | 1771419738 | EU | DE | Brandenburg | 60729 | berlin01.tor-exit.artikel10.org |
-| 185.220.101.139 | 4 | 1698438010 | 1771419738 | EU | DE | Brandenburg | 60729 | tor-exit-139.relayon.org |
-| 185.220.101.138 | 4 | 1698438011 | 1771419738 | EU | DE | Brandenburg | 60729 | tor-exit-138.relayon.org |
-| 185.220.101.137 | 4 | 1698438010 | 1771419738 | EU | DE | Brandenburg | 60729 | tor-exit-137.relayon.org |
-| 185.220.101.136 | 4 | 1698437962 | 1771419738 | EU | DE | Brandenburg | 60729 | tor-exit-136.relayon.org |
-| 185.220.101.135 | 4 | 1698438010 | 1771419738 | EU | DE | Brandenburg | 60729 | tor-exit-135.relayon.org |
-| 185.220.101.134 | 4 | 1698438009 | 1771419738 | EU | DE | Brandenburg | 60729 | tor-exit-134.relayon.org |
-| 185.220.101.133 | 4 | 1698438010 | 1771419738 | EU | DE | Brandenburg | 60729 | tor-exit-133.relayon.org |
-| 185.220.101.132 | 4 | 1698438010 | 1771419738 | EU | DE | Brandenburg | 60729 | tor-exit-132.relayon.org |
-| 185.220.101.131 | 4 | 1698507102 | 1771419738 | EU | DE | Brandenburg | 60729 | tor-exit-131.relayon.org |
-| 185.220.101.130 | 4 | 1698438009 | 1771419737 | EU | DE | Brandenburg | 60729 | tor-exit-130.relayon.org |
-| 185.220.101.13 | 4 | 1698437942 | 1771419737 | EU | DE | Brandenburg | 60729 | berlin01.tor-exit.artikel10.org |
-| 185.220.101.129 | 4 | 1698438009 | 1771419737 | EU | DE | Brandenburg | 60729 | tor-exit-129.relayon.org |
-| 185.220.101.128 | 4 | 1698438011 | 1771419737 | EU | DE | Brandenburg | 60729 | tor-exit-128.relayon.org |
-| 185.220.101.12 | 4 | 1698437931 | 1771419737 | EU | DE | Brandenburg | 60729 | berlin01.tor-exit.artikel10.org |
-| 185.220.101.110 | 4 | 1706118252 | 1771419737 | EU | DE | Brandenburg | 60729 | tor-exit-110.digitalcourage.de |
-| 185.220.101.11 | 4 | 1698437959 | 1771419737 | EU | DE | Brandenburg | 60729 | berlin01.tor-exit.artikel10.org |
-| 185.220.101.109 | 4 | 1706118252 | 1771419737 | EU | DE | Brandenburg | 60729 | tor-exit-109.digitalcourage.de |
-| 185.220.101.108 | 4 | 1706118251 | 1771419737 | EU | DE | Brandenburg | 60729 | tor-exit-108.digitalcourage.de |
-| 185.220.101.107 | 4 | 1706118251 | 1771419737 | EU | DE | Brandenburg | 60729 | tor-exit-107.digitalcourage.de |
-| 185.220.101.106 | 4 | 1706118251 | 1771419737 | EU | DE | Brandenburg | 60729 | tor-exit-106.digitalcourage.de |
-| 185.220.101.105 | 4 | 1706118251 | 1771419737 | EU | DE | Brandenburg | 60729 | tor-exit-105.digitalcourage.de |
-| 185.220.101.104 | 4 | 1706118251 | 1771419737 | EU | DE | Brandenburg | 60729 | tor-exit-104.digitalcourage.de |
-| 185.220.101.103 | 4 | 1706118251 | 1771419737 | EU | DE | Brandenburg | 60729 | tor-exit-103.digitalcourage.de |
-| 185.220.101.102 | 4 | 1706118251 | 1771419736 | EU | DE | Brandenburg | 60729 | tor-exit-102.digitalcourage.de |
-| 185.220.101.101 | 4 | 1706118251 | 1771419736 | EU | DE | Brandenburg | 60729 | tor-exit-101.digitalcourage.de |
-| 185.220.101.100 | 4 | 1706118251 | 1771419736 | EU | DE | Brandenburg | 60729 | tor-exit-100.digitalcourage.de |
-| 185.220.101.10 | 4 | 1698437956 | 1771419736 | EU | DE | Brandenburg | 60729 | berlin01.tor-exit.artikel10.org |
-| 185.220.101.1 | 4 | 1698437936 | 1771419736 | EU | DE | Brandenburg | 60729 | berlin01.tor-exit.artikel10.org |
-| 185.220.101.0 | 4 | 1698437950 | 1771419736 | EU | DE | Brandenburg | 60729 | berlin01.tor-exit.artikel10.org |
-| 185.220.100.255 | 4 | 1698437936 | 1771419736 | EU | DE | Haßfurt |  | tor-exit-4.zbau.f3netze.de |
-| 185.220.100.254 | 4 | 1698437979 | 1771419736 | EU | DE |  |  | tor-exit-3.zbau.f3netze.de |
-| 185.220.100.253 | 4 | 1698437939 | 1771419736 | EU | DE |  |  | tor-exit-2.zbau.f3netze.de |
-| 185.220.100.252 | 4 | 1698437969 | 1771419736 | EU | DE |  |  | tor-exit-1.zbau.f3netze.de |
-| 185.220.100.251 | 4 | 1698437960 | 1771419736 | EU | DE |  |  | tor-exit-12.zbau.f3netze.de |
-| 185.220.100.250 | 4 | 1698437954 | 1771419736 | EU | DE |  |  | tor-exit-11.zbau.f3netze.de |
-| 185.220.100.249 | 4 | 1698437956 | 1771419736 | EU | DE |  |  | tor-exit-10.zbau.f3netze.de |
-| 185.220.100.248 | 4 | 1698437932 | 1771419736 | EU | DE |  |  | tor-exit-9.zbau.f3netze.de |
-| 185.220.100.247 | 4 | 1698437942 | 1771419735 | EU | DE |  |  | tor-exit-8.zbau.f3netze.de |
-| 185.220.100.246 | 4 | 1698437941 | 1771419735 | EU | DE |  |  | tor-exit-7.zbau.f3netze.de |
-| 185.220.100.245 | 4 | 1698437935 | 1771419735 | EU | DE |  |  | tor-exit-6.zbau.f3netze.de |
-| 185.220.100.244 | 4 | 1698437929 | 1771419735 | EU | DE |  |  | tor-exit-5.zbau.f3netze.de |
-| 185.220.100.243 | 4 | 1698437979 | 1771419735 | EU | DE |  |  | tor-exit-16.zbau.f3netze.de |
-| 185.220.100.242 | 4 | 1698437948 | 1771419735 | EU | DE |  |  | tor-exit-15.zbau.f3netze.de |
-| 185.220.100.241 | 4 | 1698437971 | 1771419735 | EU | DE |  |  | tor-exit-14.zbau.f3netze.de |
-| 185.220.100.240 | 4 | 1698437939 | 1771419735 | EU | DE |  |  | tor-exit-13.zbau.f3netze.de |
-| 185.212.226.76 | 4 | 1763946265 | 1771419735 | EU | FR |  | 41652 |  |
-| 185.208.159.170 | 4 | 1769396537 | 1771419735 | NA | US | Houston |  | privatealps.net |
-| 185.207.107.216 | 4 | 1698437960 | 1771419735 | EU | DE | Nuremberg | 197540 | NurembergTor11.quetzalcoatl-relays.org |
-| 185.207.107.130 | 4 | 1698437971 | 1771419735 | EU | DE | Nuremberg | 197540 | NurembergTor68.quetzalcoatl-relays.org |
-| 185.195.71.244 | 4 | 1698437939 | 1771419735 | EU | CH |  | 56803 |  |
-| 185.193.52.180 | 4 | 1698437938 | 1771419735 | EU | RO |  | 44679 |  |
 | 185.191.239.49 | 4 | 1753290096 | 1771419734 | EU | CH |  | 264617 |  |
 | 185.191.239.172 | 4 | 1752948108 | 1771419734 | EU | CH |  | 264617 |  |
 | 185.191.239.158 | 4 | 1755374514 | 1771419734 | EU | CH |  | 264617 |  |
-| 185.191.204.254 | 4 | 1698437957 | 1771419734 | AS | IL |  | 35758 | 204.254.hqserv.co.il |
-| 185.183.157.214 | 4 | 1698437951 | 1771419734 | EU | DE | Nuremberg | 197540 | NurembergTor24.quetzalcoatl-relays.org |
-| 185.181.61.203 | 4 | 1766142018 | 1771419734 | EU | NO | Sandefjord | 56655 |  |
-| 185.181.61.201 | 4 | 1765296139 | 1771419734 | EU | NO | Sandefjord | 56655 | tor-exit.runebyte.net |
-| 185.181.60.204 | 4 | 1766070034 | 1771419734 | EU | NO | Sandefjord | 56655 |  |
-| 185.177.238.26 | 4 | 1756713713 | 1771419734 | EU | AL |  | 207713 | 115498.ip-ptr.tech |
-| 185.170.114.25 | 4 | 1698438005 | 1771419734 | EU | DE | Nuremberg | 197540 | this-is-a-tor-node---10.artikel5ev.de |
-| 185.165.171.84 | 4 | 1698437990 | 1771419734 | EU | IS |  | 200651 |  |
-| 185.156.72.7 | 4 | 1756429448 | 1771419734 | EU | FR | Paris | 61432 |  |
-| 185.154.110.17 | 4 | 1698437996 | 1771419734 | EU | SE |  | 49770 | static-17-110-154-185.internetport.com |
-| 185.154.110.142 | 4 | 1698437992 | 1771419733 | EU | SE |  | 49770 | fearwakes.com |
-| 185.150.28.13 | 4 | 1739444503 | 1771419733 | EU | CH |  | 59891 |  |
-| 185.138.88.25 | 4 | 1759039312 | 1771419733 | EU | NL | Amsterdam | 42478 |  |
-| 185.132.53.58 | 4 | 1769695340 | 1771419733 | EU | DE |  |  | lain.185.132.53.58.aluy.net |
-| 185.132.53.47 | 4 | 1734058909 | 1771419733 | EU | DE |  |  |  |
-| 185.132.53.45 | 4 | 1769698941 | 1771419733 | EU | DE |  |  | lain.185.132.53.45.aluy.net |
-| 185.132.53.37 | 4 | 1769695340 | 1771419733 | EU | DE |  |  | lain.185.132.53.37.aluy.net |
-| 185.132.53.27 | 4 | 1769698941 | 1771419733 | EU | DE |  |  | lain.185.132.53.27.aluy.net |
-| 185.132.53.150 | 4 | 1758492112 | 1771419733 | EU | DE |  |  | tor-01.sy.st |
-| 185.132.53.121 | 4 | 1768575740 | 1771419733 | EU | DE |  |  | tor-exit.nl.2cb.li |
-| 185.132.53.11 | 4 | 1769608943 | 1771419733 | EU | DE |  |  | lain.185.132.53.11.aluy.net |
-| 185.132.53.107 | 4 | 1759726910 | 1771419733 | EU | DE |  |  | lain.185.132.53.107.al.uy |
 | 185.132.176.180 | 4 | 1732136512 | 1771419733 | EU | NL | Naaldwijk | 49981 | 185-132-176-180.hosted-by-worldstream.net |
-| 185.130.47.58 | 4 | 1698437996 | 1771419733 | EU | NL | Amsterdam | 210083 | tor-exit-nl1.privex.cc |
-| 185.129.62.64 | 4 | 1759510916 | 1771419732 | EU | DK |  | 57860 |  |
-| 185.129.62.63 | 4 | 1698437980 | 1771419732 | EU | DK |  | 57860 | tor02.zencurity.com |
-| 185.129.62.62 | 4 | 1698437971 | 1771419732 | EU | DK |  | 57860 | tor01.zencurity.com |
-| 185.129.61.9 | 4 | 1698437960 | 1771419732 | EU | DK |  | 210731 | tor-project-exit9.dotsrc.org |
-| 185.129.61.8 | 4 | 1698437985 | 1771419732 | EU | DK |  | 210731 | tor-project-exit8.dotsrc.org |
-| 185.129.61.7 | 4 | 1698437993 | 1771419732 | EU | DK |  | 210731 | tor-project-exit7.dotsrc.org |
-| 185.129.61.6 | 4 | 1698437950 | 1771419732 | EU | DK |  | 210731 | tor-project-exit6.dotsrc.org |
-| 185.129.61.5 | 4 | 1698437978 | 1771419732 | EU | DK |  | 210731 | tor-project-exit5.dotsrc.org |
-| 185.129.61.4 | 4 | 1698437973 | 1771419732 | EU | DK |  | 210731 | tor-project-exit4.dotsrc.org |
-| 185.129.61.3 | 4 | 1698437960 | 1771419732 | EU | DK |  | 210731 | tor-project-exit3.dotsrc.org |
-| 185.129.61.2 | 4 | 1698437930 | 1771419732 | EU | DK |  | 210731 | tor-project-exit2.dotsrc.org |
-| 185.129.61.129 | 4 | 1698437960 | 1771419732 | EU | DK |  | 210731 | relay-02.torproject.net |
-| 185.129.61.10 | 4 | 1698437978 | 1771419732 | EU | DK |  | 210731 | tor-project-exit10.dotsrc.org |
-| 185.129.61.1 | 4 | 1698437968 | 1771419732 | EU | DK |  | 210731 | tor-project-exit1.dotsrc.org |
-| 185.126.114.110 | 4 | 1755306264 | 1771419731 | EU | UA | Mykolayiv | 3236 |  |
 | 185.125.171.72 | 4 | 1764954136 | 1771419731 | EU | NO | Sandefjord | 56655 | fenris-torexit-01.norse.work |
-| 185.113.128.30 | 4 | 1698437990 | 1771419731 | EU | GB | London | 42831 | psiren-tor.gigatux.com |
-| 185.112.146.167 | 4 | 1698438579 | 1771419731 | EU | IS |  | 44925 | vps-185-112-146-167.1984.is |
-| 185.112.144.11 | 4 | 1715626902 | 1771419731 | EU | IS |  | 44925 | tor-exit-readme-2.maxzrbn.it |
-| 185.11.139.198 | 4 | 1715378577 | 1771419731 | EU | DE |  | 48823 | 185.11.136.232 |
-| 185.11.136.232 | 4 | 1714870901 | 1771419731 | EU | DE |  | 48823 | www.rubbeldiekatz.info |
 | 185.107.57.66 | 4 | 1717434095 | 1771419731 | EU | NL |  | 43350 |  |
 | 185.107.57.65 | 4 | 1717434095 | 1771419731 | EU | NL |  | 43350 |  |
 | 185.107.57.64 | 4 | 1717430492 | 1771419731 | EU | NL |  | 43350 |  |
-| 185.106.102.102 | 4 | 1701660028 | 1771419731 | EU | CY | Limassol | 197648 | mybeautylab.shop |
-| 185.100.87.41 | 4 | 1698437960 | 1771419731 | EU | RO | Bucharest | 200651 |  |
-| 185.100.87.250 | 4 | 1698437934 | 1771419731 | EU | RO | Bucharest | 200651 | bucarest01.tor-exit.artikel10.org |
-| 185.100.87.192 | 4 | 1698437949 | 1771419731 | EU | RO | Bucharest | 200651 | bucarest01.tor-exit.artikel10.org |
-| 185.100.87.174 | 4 | 1698437963 | 1771419730 | EU | RO | Bucharest | 200651 | torexit1.flokinet.net |
-| 185.100.87.166 | 4 | 1723737706 | 1771419730 | EU | RO | Bucharest | 200651 |  |
-| 185.100.87.136 | 4 | 1698437968 | 1771419730 | EU | RO | Bucharest | 200651 |  |
-| 185.100.85.25 | 4 | 1698437942 | 1771419730 | EU | RO | Bucharest | 200651 | bucarest01.tor-exit.artikel10.org |
-| 185.100.85.24 | 4 | 1698437934 | 1771419730 | EU | RO | Bucharest | 200651 | bucarest01.tor-exit.artikel10.org |
-| 185.100.85.132 | 4 | 1698438007 | 1771419730 | EU | RO | Bucharest | 200651 |  |
 | 184.59.56.109 | 4 | 1770818536 | 1771419730 | NA | US | Menominee | 10796 | syn-184-059-056-109.res.spectrum.com |
 | 181.95.73.107 | 4 | 1771354996 | 1771419730 | SA | AR | La Cumbre | 7303 | host107.181-95-73.telecom.net.ar |
 | 181.46.48.58 | 4 | 1771304527 | 1771419730 | SA | AR | Monte Grande | 27747 | cpe-181-46-48-58.telecentro-reversos.com.ar |
 | 181.23.233.84 | 4 | 1771387332 | 1771419730 | SA | AR |  | 22927 | 181-23-233-84.speedy.com.ar |
 | 181.162.38.8 | 4 | 1771376783 | 1771419730 | SA | CL | Concepción | 7418 | 181-162-38-8.fo.baf.movistar.cl |
-| 180.150.226.99 | 4 | 1698437935 | 1771419730 | AS | KR |  | 45382 |  |
-| 179.43.182.58 | 4 | 1698437960 | 1771419730 | EU | CH | Rümlang | 51852 | burgerfarm |
-| 179.43.159.78 | 4 | 1705031645 | 1771419729 | EU | CH | Rümlang | 51852 | hostedby.privatelayer.com |
 | 179.43.159.201 | 4 | 1698437961 | 1771419729 | EU | CH | Rümlang | 51852 | hostedby.privatelayer.com |
 | 179.43.159.200 | 4 | 1698437949 | 1771419729 | EU | CH | Rümlang | 51852 | hostedby.privatelayer.com |
 | 179.43.159.199 | 4 | 1698437932 | 1771419729 | EU | CH | Rümlang | 51852 | hostedby.privatelayer.com |
@@ -1932,309 +2188,53 @@ Those IPs are not guaranteed to be tor nodes, but they were seen as tor nodes wi
 | 179.43.159.196 | 4 | 1698437963 | 1771419729 | EU | CH | Rümlang | 51852 | hostedby.privatelayer.com |
 | 179.43.159.195 | 4 | 1698437992 | 1771419729 | EU | CH | Rümlang | 51852 | hostedby.privatelayer.com |
 | 179.43.159.194 | 4 | 1698437969 | 1771419729 | EU | CH | Rümlang | 51852 | hostedby.privatelayer.com |
-| 179.43.134.22 | 4 | 1770206503 | 1771419729 | EU | CH | Rümlang | 51852 | hostedby.privatelayer.com |
-| 179.43.133.50 | 4 | 1761508943 | 1771419729 | EU | CH | Rümlang | 51852 | kisstracks.net |
-| 179.43.128.16 | 4 | 1698438007 | 1771419729 | EU | CH | Rümlang | 51852 | tellhonk.com |
 | 179.24.39.196 | 4 | 1771419729 | 1771419729 | SA | UY | Montevideo | 6057 | r179-24-39-196.dialup.adsl.anteldata.net.uy |
-| 178.79.154.219 | 4 | 1706907777 | 1771419729 | EU | GB | London | 63949 | 178-79-154-219.ip.linodeusercontent.com |
 | 178.254.18.25 | 4 | 1698438219 | 1771419728 | EU | DE | Eschweiler | 42730 | v45016.1blu.de |
-| 178.218.144.99 | 4 | 1698437971 | 1771419728 | EU | IT | Milan | 212508 | 178.218.144.99.lowhosting.org |
-| 178.218.144.96 | 4 | 1710364272 | 1771419728 | EU | IT | Milan | 212508 | 178.218.144.96.lowhosting.org |
-| 178.218.144.64 | 4 | 1710108622 | 1771419728 | EU | IT | Milan | 212508 | 178.218.144.64.lowhosting.org |
-| 178.218.144.51 | 4 | 1698507094 | 1771419728 | EU | IT | Milan | 212508 | 178.218.144.51.lowhosting.org |
-| 178.218.144.18 | 4 | 1698437980 | 1771419728 | EU | IT | Milan | 212508 | 178.218.144.18.lowhosting.org |
-| 178.20.55.182 | 4 | 1698438002 | 1771419728 | EU | FR |  | 29075 | marcuse-2.nos-oignons.net |
-| 178.20.55.16 | 4 | 1698437933 | 1771419728 | EU | FR |  | 29075 | marcuse.nos-oignons.net |
 | 178.175.148.209 | 4 | 1698437944 | 1771419728 | EU | MD |  | 43289 | 178-175-148-209.static.as43289.net |
-| 178.175.148.155 | 4 | 1760565795 | 1771419728 | EU | MD |  | 43289 |  |
-| 178.170.114.117 | 4 | 1769738544 | 1771419728 | EU | FR |  | 21409 | tor-exit-node.frhb99701flex.ikexpress.com |
-| 178.17.58.241 | 4 | 1769385735 | 1771419728 | EU | DE | Frankfurt am Main |  |  |
-| 178.17.58.159 | 4 | 1756775052 | 1771419728 | EU | DE | Frankfurt am Main |  |  |
-| 178.17.174.164 | 4 | 1698437984 | 1771419728 | EU | MD | Chisinau | 43289 | 178-17-174-164.static.as43289.net |
-| 178.17.174.14 | 4 | 1698437928 | 1771419728 | EU | MD | Chisinau | 43289 |  |
-| 178.17.171.102 | 4 | 1698437929 | 1771419727 | EU | MD | Chisinau | 43289 | angband.teaparty.net |
-| 178.17.170.225 | 4 | 1763218922 | 1771419727 | EU | MD | Chisinau | 43289 | pen.werec0ming.tech |
-| 178.162.175.5 | 4 | 1736063655 | 1771419727 | EU | NL |  | 60781 | hosted-by.leaseweb.com |
 | 178.128.160.54 | 4 | 1742425307 | 1771419727 | EU | GB | Slough | 14061 |  |
-| 177.93.140.66 | 4 | 1749636103 | 1771419727 | NA | CW | Willemstad |  |  |
-| 176.97.114.202 | 4 | 1714878101 | 1771419727 | EU | UA | Kyiv |  | sortie-tor.a-n-o-n-y-m-e.net |
-| 176.65.149.96 | 4 | 1744322508 | 1771419727 | EU | NL | Eygelshoven |  |  |
-| 176.65.149.105 | 4 | 1745571705 | 1771419727 | EU | NL | Eygelshoven |  |  |
-| 176.65.148.3 | 4 | 1744322462 | 1771419727 | EU | NL | Eygelshoven |  |  |
 | 176.65.148.149 | 4 | 1744322508 | 1771419727 | EU | NL | Eygelshoven |  |  |
-| 176.65.148.133 | 4 | 1745654504 | 1771419727 | EU | NL | Eygelshoven |  |  |
 | 176.65.134.8 | 4 | 1763982213 | 1771419727 | EU | SI |  |  |  |
 | 176.58.124.159 | 4 | 1741640502 | 1771419727 | EU | GB | London | 63949 | 176-58-124-159.ip.linodeusercontent.com |
-| 176.58.121.177 | 4 | 1698437930 | 1771419727 | EU | GB | London | 63949 | golosa.info |
-| 176.125.240.208 | 4 | 1765983728 | 1771419726 | EU | RU |  | 48430 | 22cilan |
-| 176.121.81.51 | 4 | 1698437996 | 1771419726 | EU | PL | Wroclaw | 59444 | host-176-121-81-51.amsnet.pl |
-| 176.118.193.33 | 4 | 1698437991 | 1771419726 | EU | AT |  | 44486 |  |
 | 176.118.193.106 | 4 | 1698438218 | 1771419726 | EU | AT |  | 44486 |  |
 | 174.45.24.172 | 4 | 1771164129 | 1771419726 | NA | US | Gillette | 33588 | syn-174-045-024-172.res.spectrum.com |
 | 173.90.142.204 | 4 | 1771113739 | 1771419726 | NA | US | Lima | 10796 | syn-173-090-142-204.res.spectrum.com |
-| 173.255.198.243 | 4 | 1726376497 | 1771419726 | NA | US | Richardson | 63949 | brutus.relaymagic.org |
-| 173.237.206.68 | 4 | 1698437948 | 1771419726 | NA | US |  | 26527 | host173-237-206-68.lightwavenetworks.com |
 | 172.93.49.243 | 4 | 1737547293 | 1771419726 | NA | US | New York | 29802 |  |
 | 172.93.1.27 | 4 | 1762934520 | 1771419726 | NA | US | Las Vegas | 53340 |  |
-| 172.86.70.20 | 4 | 1769608936 | 1771419726 | EU | DE | Frankfurt am Main | 14956 | 20.70.86.172.static.cloudzy.com |
-| 172.81.132.94 | 4 | 1712750496 | 1771419726 | NA | US |  | 27176 | ip-172-81-132-94.host.datawagon.net |
-| 172.81.131.156 | 4 | 1698437945 | 1771419726 | NA | US | Chicago | 27176 | v1.fashionarmourco.com |
-| 172.81.131.139 | 4 | 1698437956 | 1771419726 | NA | US | Chicago | 27176 | bhsfm.bond |
-| 172.234.92.148 | 4 | 1765317726 | 1771419725 | AS | JP | Osaka | 20940 | tor-exit.brokenbotnet.com |
-| 172.234.228.174 | 4 | 1726380093 | 1771419725 | NA | US | Tukwila | 20940 | bluto.relaymagic.org |
-| 172.233.82.41 | 4 | 1734220907 | 1771419725 | AS | JP | Osaka | 63949 | 172-233-82-41.ip.linodeusercontent.com |
-| 172.232.209.254 | 4 | 1742428909 | 1771419725 | EU | IT | Milan | 63949 | 172-232-209-254.ip.linodeusercontent.com |
-| 172.105.20.12 | 4 | 1742752900 | 1771419725 | NA | CA | Toronto | 63949 | 172-105-20-12.ip.linodeusercontent.com |
-| 172.105.179.100 | 4 | 1768633330 | 1771419725 | OC | AU | Sydney | 63949 | 172-105-179-100.ip.linodeusercontent.com |
 | 172.105.161.162 | 4 | 1715810493 | 1771419725 | OC | AU | Sydney | 63949 | 172-105-161-162.ip.linodeusercontent.com |
-| 172.105.110.178 | 4 | 1771398123 | 1771419725 | NA | CA | Toronto | 63949 | tor-exit.scarybeaver.hicsuntdracones.ca |
-| 172.104.243.155 | 4 | 1698437971 | 1771419725 | EU | DE | Frankfurt am Main | 63949 | 172-104-243-155.ip.linodeusercontent.com |
-| 172.104.186.73 | 4 | 1733079719 | 1771419725 | AS | SG | Singapore | 63949 | 172-104-186-73.ip.linodeusercontent.com |
-| 172.104.182.84 | 4 | 1708834398 | 1771419725 | AS | SG | Singapore | 63949 | tor-exit.triggersolutions.au |
-| 171.25.193.82 | 4 | 1756771308 | 1771419725 | EU | SE |  | 198093 | tor-exit-read-me.dfri.se |
-| 171.25.193.81 | 4 | 1756771308 | 1771419725 | EU | SE |  | 198093 | tor-exit-read-me.dfri.se |
-| 171.25.193.80 | 4 | 1698437980 | 1771419725 | EU | SE |  | 198093 | tor-exit-read-me.dfri.se |
-| 171.25.193.79 | 4 | 1698437940 | 1771419724 | EU | SE |  | 198093 | tor-exit-read-me.dfri.se |
-| 171.25.193.78 | 4 | 1698437964 | 1771419724 | EU | SE |  | 198093 | tor-exit-read-me.dfri.se |
-| 171.25.193.77 | 4 | 1698437969 | 1771419724 | EU | SE |  | 198093 | tor-exit-read-me.dfri.se |
-| 171.25.193.40 | 4 | 1753218096 | 1771419724 | EU | SE |  | 198093 | tor-exit-read-me.dfri.se |
-| 171.25.193.39 | 4 | 1753218096 | 1771419724 | EU | SE |  | 198093 | tor-exit-read-me.dfri.se |
-| 171.25.193.38 | 4 | 1752537709 | 1771419724 | EU | SE |  | 198093 | mesh11.dfri.se |
-| 171.25.193.37 | 4 | 1752537709 | 1771419724 | EU | SE |  | 198093 | mesh11.dfri.se |
-| 171.25.193.36 | 4 | 1752541464 | 1771419724 | EU | SE |  | 198093 | mesh10.dfri.se |
-| 171.25.193.35 | 4 | 1752541464 | 1771419724 | EU | SE |  | 198093 | mesh10.dfri.se |
-| 171.25.193.235 | 4 | 1698437959 | 1771419724 | EU | SE |  | 198093 | tor-exit-read-me.dfri.se |
-| 171.25.193.234 | 4 | 1698437953 | 1771419724 | EU | SE |  | 198093 | tor-exit-read-me.dfri.se |
-| 171.25.193.20 | 4 | 1698437965 | 1771419724 | EU | SE |  | 198093 | tor-exit-read-me.dfri.se |
-| 171.25.193.132 | 4 | 1756843338 | 1771419724 | EU | SE |  | 198093 | tor-exit-read-me.dfri.se |
-| 171.25.193.131 | 4 | 1747332116 | 1771419723 | EU | SE |  | 198093 | tor-exit-read-me.dfri.se |
-| 171.25.158.113 | 4 | 1767380669 | 1771419723 | EU | SE | Vaxjo | 35100 |  |
 | 170.64.203.139 | 4 | 1741892653 | 1771419723 | OC | AU | Sydney |  |  |
 | 170.64.202.213 | 4 | 1749664895 | 1771419723 | OC | AU | Sydney |  |  |
-| 167.86.67.104 | 4 | 1768374208 | 1771419723 | EU | DE | Nuremberg | 51167 | vmi3019662.contaboserver.net |
 | 167.71.202.62 | 4 | 1749664895 | 1771419723 | AS | SG | Singapore | 14061 |  |
-| 167.17.40.238 | 4 | 1771178523 | 1771419723 | EU | FI | Helsinki |  | tor-exit.fi.2cb.li |
-| 166.70.207.2 | 4 | 1698437977 | 1771419723 | NA | US | Orem | 6315 | this.is.a.tor.node.xmission.com |
-| 165.73.242.163 | 4 | 1698437993 | 1771419723 | AF | ZA |  | 40676 |  |
 | 165.227.41.75 | 4 | 1741899696 | 1771419723 | NA | CA | Toronto | 14061 |  |
 | 165.22.121.164 | 4 | 1749664895 | 1771419723 | EU | GB | Slough | 14061 |  |
 | 164.90.131.37 | 4 | 1742425303 | 1771419723 | NA | US | Clifton | 14061 |  |
-| 163.172.84.90 | 4 | 1770555732 | 1771419723 | EU | FR | Paris | 12876 | 163-172-84-90.tor-exit-node.cig.sh |
-| 162.251.5.152 | 4 | 1698437945 | 1771419723 | NA | US | Portland | 46841 | ghatanothoa.unzane.com |
-| 162.220.14.78 | 4 | 1751241706 | 1771419722 | NA | US |  | 8100 |  |
-| 162.220.14.54 | 4 | 1751072657 | 1771419722 | NA | US |  | 8100 |  |
-| 162.216.18.62 | 4 | 1726412493 | 1771419722 | NA | US | Cedar Knolls | 63949 | popeye.relaymagic.org |
 | 162.210.173.17 | 4 | 1698507090 | 1771419722 | NA | US |  | 46841 | suck.it.tor-exit.forked.net |
-| 162.19.7.11 | 4 | 1753830101 | 1771419722 | EU | FR |  | 16276 | ip11.ip-162-19-7.eu |
 | 161.35.148.205 | 4 | 1741899695 | 1771419722 | EU | NL | Amsterdam | 14061 |  |
-| 161.129.68.162 | 4 | 1742824900 | 1771419722 | NA | US | Dallas | 8100 | vps3013924.trouble-free.net |
-| 160.187.148.71 | 4 | 1754002888 | 1771419722 | AS | VN |  |  |  |
-| 160.119.249.240 | 4 | 1698437979 | 1771419722 | AF | ZA |  | 328364 |  |
 | 159.89.23.116 | 4 | 1749664894 | 1771419722 | EU | DE | Frankfurt am Main | 14061 |  |
 | 159.223.170.101 | 4 | 1741899695 | 1771419722 | NA | US | North Bergen | 14061 |  |
 | 159.203.7.160 | 4 | 1741896110 | 1771419722 | NA | CA | Toronto | 14061 |  |
 | 159.203.44.191 | 4 | 1749664893 | 1771419722 | NA | CA | Toronto | 14061 |  |
 | 159.203.24.145 | 4 | 1749664893 | 1771419722 | NA | CA | Toronto | 14061 |  |
 | 158.247.177.83 | 4 | 1770894135 | 1771419721 | NA | US | Frankfort | 26133 | host-158-247-177-83.dhcp.fewpb.net |
-| 158.174.210.97 | 4 | 1765814526 | 1771419721 | EU | SE | Örebro | 8473 | h-158-174-210-97.na.cust.bahnhof.se |
 | 157.245.206.140 | 4 | 1742425302 | 1771419721 | AS | SG | Singapore | 14061 |  |
 | 157.245.108.94 | 4 | 1758661305 | 1771419721 | AS | IN | Bengaluru | 14061 |  |
 | 157.230.17.193 | 4 | 1741892651 | 1771419721 | EU | DE | Frankfurt am Main | 14061 |  |
-| 154.53.58.161 | 4 | 1747753303 | 1771419721 | NA | US | Seattle | 40021 | USASeattle1Tor.quetzalcoatl-relays.org |
-| 154.26.159.157 | 4 | 1720040496 | 1771419721 | OC | AU | Sydney | 141995 | sortie-tor.a-n-o-n-y-m-e.net |
-| 154.205.129.174 | 4 | 1756821704 | 1771419721 | EU | FR | Paris | 399674 |  |
 | 154.16.116.61 | 4 | 1698437974 | 1771419721 | NA | US | Buffalo | 46337 |  |
 | 154.125.28.18 | 4 | 1771275717 | 1771419721 | AF | SN | Dakar | 8346 |  |
-| 152.53.210.165 | 4 | 1756112508 | 1771419721 | EU | AT |  |  | us.okade.pro |
-| 152.53.170.213 | 4 | 1766437319 | 1771419721 | NA | US | Manassas |  | nobody.yourvserver.net |
-| 152.53.150.12 | 4 | 1762311714 | 1771419721 | EU | DE | Nuremberg |  | tor-exit.diyarciftci.xyz |
 | 150.129.10.152 | 4 | 1764115324 | 1771419721 | EU | NL | Dronten | 60404 |  |
-| 149.56.44.47 | 4 | 1698437929 | 1771419720 | NA | CA | Montreal | 16276 | 47.ip-149-56-44.net |
-| 149.202.79.129 | 4 | 1698437957 | 1771419720 | EU | FR |  | 16276 | ns3016113.ip-149-202-79.eu |
-| 149.202.79.101 | 4 | 1698437962 | 1771419720 | EU | FR |  | 16276 | ns3016085.ip-149-202-79.eu |
-| 149.102.153.38 | 4 | 1747659705 | 1771419720 | EU | GB | Portsmouth | 51167 | UK1Tor.quetzalcoatl-relays.org |
-| 147.45.51.193 | 4 | 1766307717 | 1771419720 | EU | IT | Milan | 2895 | 115498.ip-ptr.tech |
-| 147.45.116.17 | 4 | 1765526522 | 1771419720 | SA | BR | São Paulo | 2895 | 115498.ip-ptr.tech |
 | 147.182.202.137 | 4 | 1741899693 | 1771419720 | NA | US | Santa Clara | 14061 |  |
-| 146.59.231.4 | 4 | 1736251282 | 1771419720 | EU | FR |  | 16276 | vps-4e8e6ed2.vps.ovh.net |
 | 146.190.251.108 | 4 | 1742425300 | 1771419720 | NA | CA | Toronto | 14061 |  |
 | 146.185.253.130 | 4 | 1698438214 | 1771419720 | EU | NL |  | 50673 | wauderieve.info |
-| 144.31.253.90 | 4 | 1768834929 | 1771419720 | EU | NL | Amsterdam |  | vm704050.hosted-by.u1host.com |
-| 144.31.120.166 | 4 | 1768496604 | 1771419720 | EU | DE | Frankfurt am Main |  | exit.gaukova.ru |
-| 144.208.79.169 | 4 | 1752044497 | 1771419720 | NA | US |  | 54641 |  |
-| 144.126.133.74 | 4 | 1748372640 | 1771419720 | NA | US | St Louis | 40021 | USACentral1Tor.quetzalcoatl-relays.org |
 | 143.110.247.195 | 4 | 1758664906 | 1771419719 | AS | IN | Bengaluru | 14061 |  |
-| 141.98.11.62 | 4 | 1698437958 | 1771419719 | EU | LT | Vilnius | 209605 | srv-141-98-11-62.serveroffer.net |
-| 139.99.8.57 | 4 | 1698437947 | 1771419719 | AS | SG | Singapore | 16276 | ns536014.ip-139-99-8.net |
-| 139.99.172.11 | 4 | 1698437948 | 1771419719 | OC | AU | Sydney | 16276 | tor-exit-au-04.finlay.wattle.id.au |
 | 139.59.85.179 | 4 | 1758664906 | 1771419719 | AS | IN | Bengaluru | 14061 |  |
-| 139.59.189.51 | 4 | 1770746522 | 1771419719 | EU | GB | Slough | 14061 |  |
 | 139.59.177.238 | 4 | 1741892649 | 1771419719 | EU | GB | Slough | 14061 |  |
 | 138.68.144.236 | 4 | 1746734517 | 1771419719 | EU | GB | Slough | 14061 |  |
-| 138.59.18.110 | 4 | 1698437958 | 1771419719 | NA | CR |  | 52423 |  |
-| 138.226.236.65 | 4 | 1762995857 | 1771419719 | EU | GB |  |  |  |
 | 138.226.236.24 | 4 | 1764619328 | 1771419719 | EU | GB |  |  |  |
-| 138.226.236.103 | 4 | 1762905715 | 1771419719 | EU | GB |  |  |  |
 | 138.207.237.232 | 4 | 1771174927 | 1771419719 | NA | US | Masontown | 11776 | d-138-207-237-232.paw.cpe.atlanticbb.net |
-| 137.74.114.130 | 4 | 1769266931 | 1771419718 | EU | FR |  | 16276 | vps-82a30cbc.vps.ovh.net |
-| 136.244.111.163 | 4 | 1698437978 | 1771419718 | EU | NL | Amsterdam | 20473 | 136.244.111.163.vultrusercontent.com |
 | 134.199.203.32 | 4 | 1749664891 | 1771419718 | NA | US | Douglasville |  |  |
 | 134.199.173.242 | 4 | 1742425299 | 1771419718 | OC | AU | Sydney |  |  |
-| 131.72.79.38 | 4 | 1749034894 | 1771419718 | NA | TT | Princes Town | 264811 | 131-72-79-38.rev.airlinkdc.com |
-| 130.193.15.79 | 4 | 1698507088 | 1771419718 | EU | CZ |  | 29134 | vps121143.cloud-anywhere.eu |
-| 130.193.15.186 | 4 | 1698438000 | 1771419718 | EU | CZ |  | 29134 | vps1936.hosting90.net |
-| 130.193.10.21 | 4 | 1698438005 | 1771419718 | EU | CZ | Prague | 29134 | smtp.crimsonpond.com |
-| 128.31.0.13 | 4 | 1698437936 | 1771419718 | NA | US | Cambridge | 3 | tor-exit.csail.mit.edu |
-| 125.253.56.119 | 4 | 1744207295 | 1771419718 | OC | AU | Sydney | 38195 | 125-253-56-119.ip4.superloop.au |
-| 125.212.241.131 | 4 | 1698437991 | 1771419718 | AS | VN | Ho Chi Minh City | 38731 | server.teetalk.vn |
-| 124.198.132.52 | 4 | 1749499309 | 1771419718 | NA | US | New York | 9889 |  |
-| 124.198.132.237 | 4 | 1749135695 | 1771419718 | NA | US | New York | 9889 |  |
-| 124.198.132.172 | 4 | 1750518102 | 1771419718 | NA | US | New York | 9889 |  |
-| 124.198.132.13 | 4 | 1752076895 | 1771419718 | NA | US | New York | 9889 |  |
-| 124.198.131.62 | 4 | 1751331827 | 1771419717 | NA | US | New York | 9889 |  |
-| 124.198.131.29 | 4 | 1756832499 | 1771419717 | NA | US | New York | 9889 |  |
-| 124.198.131.253 | 4 | 1749009688 | 1771419717 | NA | US | New York | 9889 |  |
-| 124.198.131.223 | 4 | 1749045694 | 1771419717 | NA | US | New York | 9889 |  |
-| 124.198.131.191 | 4 | 1760210183 | 1771419717 | NA | US | New York | 9889 |  |
-| 124.198.131.133 | 4 | 1762610503 | 1771419717 | NA | US | New York | 9889 |  |
-| 124.198.131.121 | 4 | 1768860126 | 1771419717 | NA | US | New York | 9889 |  |
-| 124.198.131.114 | 4 | 1759190507 | 1771419717 | NA | US | New York | 9889 |  |
-| 124.198.131.108 | 4 | 1745812891 | 1771419717 | NA | US | New York | 9889 |  |
-| 123.253.35.32 | 4 | 1701325033 | 1771419717 | AS | MY | Cyberjaya | 55720 |  |
-| 121.78.28.166 | 4 | 1736938882 | 1771419717 | AS | KR |  | 21859 |  |
 | 119.28.139.55 | 4 | 1745820100 | 1771419717 | AS | HK | Hong Kong | 132203 |  |
-| 118.163.74.160 | 4 | 1698437999 | 1771419717 | AS | TW | New Taipei City | 3462 | 118-163-74-160.hinet-ip.hinet.net |
-| 114.35.245.150 | 4 | 1698438493 | 1771419716 | AS | TW | Taipei | 3462 | 114-35-245-150.hinet-ip.hinet.net |
-| 109.71.252.97 | 4 | 1746925449 | 1771419716 | EU | DE |  | 213250 | 97.252.71.109.in-addr.arpa |
-| 109.71.252.88 | 4 | 1746925449 | 1771419716 | EU | DE |  | 213250 | 88.252.71.109.in-addr.arpa |
-| 109.71.252.182 | 4 | 1746925449 | 1771419716 | EU | DE |  | 213250 | 182.252.71.109.in-addr.arpa |
-| 109.70.100.9 | 4 | 1698507087 | 1771419716 | EU | AT |  | 208323 | tor-exit-anonymizer.appliedprivacy.net |
-| 109.70.100.7 | 4 | 1698507086 | 1771419716 | EU | AT |  | 208323 | tor-exit-anonymizer.appliedprivacy.net |
-| 109.70.100.5 | 4 | 1698437945 | 1771419716 | EU | AT |  | 208323 | tor-exit-anonymizer.appliedprivacy.net |
-| 109.70.100.3 | 4 | 1698437949 | 1771419716 | EU | AT |  | 208323 | tor-exit-anonymizer.appliedprivacy.net |
-| 109.70.100.13 | 4 | 1698507085 | 1771419716 | EU | AT |  | 208323 | tor-exit-anonymizer.appliedprivacy.net |
-| 109.70.100.12 | 4 | 1698507085 | 1771419716 | EU | AT |  | 208323 | tor-exit-anonymizer.appliedprivacy.net |
-| 109.70.100.11 | 4 | 1698507085 | 1771419715 | EU | AT |  | 208323 | tor-exit-anonymizer.appliedprivacy.net |
-| 109.70.100.10 | 4 | 1698507085 | 1771419715 | EU | AT |  | 208323 | tor-exit-anonymizer.appliedprivacy.net |
-| 109.69.67.17 | 4 | 1698437997 | 1771419715 | EU | DE | Bremen | 49855 | tor.plutex.de |
 | 109.48.92.141 | 4 | 1771279312 | 1771419715 | EU | PT | Braga | 2860 | a109-48-92-141.cpe.netcabo.pt |
-| 109.237.27.11 | 4 | 1753718493 | 1771419715 | EU | GB | London | 63949 | 109-237-27-11.ip.linodeusercontent.com |
-| 109.228.160.190 | 4 | 1741111295 | 1771419715 | EU | SE | Mölnlycke | 8473 | h-109-228-160-190.A444.priv.bahnhof.se |
-| 109.169.33.163 | 4 | 1698437997 | 1771419715 | EU | GB |  | 20860 | tor-exit-readme.hands.com |
-| 108.61.189.136 | 4 | 1698437968 | 1771419715 | EU | NL | Amsterdam | 20473 | 108.61.189.136.vultrusercontent.com |
-| 108.59.12.41 | 4 | 1758024103 | 1771419715 | NA | US |  | 30633 |  |
-| 107.189.8.70 | 4 | 1722636100 | 1771419715 | EU | LU | Luxembourg | 53667 | bvlu.anyvia.cloud |
-| 107.189.8.65 | 4 | 1698437932 | 1771419715 | EU | LU | Luxembourg | 53667 | lux2.tor-exit-node.net |
-| 107.189.8.56 | 4 | 1698437930 | 1771419715 | EU | LU | Luxembourg | 53667 | LuxembourgTorNew5.Quetzalcoatl-relays.org |
-| 107.189.8.226 | 4 | 1698437981 | 1771419715 | EU | LU | Luxembourg | 53667 | LuxembourgTorNew24.Quetzalcoatl-relays.org |
-| 107.189.8.181 | 4 | 1698437934 | 1771419714 | EU | LU | Luxembourg | 53667 | tor-exit-2.aa78i2efsewr0neeknk.xyz |
-| 107.189.8.133 | 4 | 1698437950 | 1771419714 | EU | LU | Luxembourg | 53667 | LuxembourgTorNew6.Quetzalcoatl-relays.org |
-| 107.189.7.168 | 4 | 1701544784 | 1771419714 | EU | LU | Luxembourg | 53667 |  |
-| 107.189.7.144 | 4 | 1698437965 | 1771419714 | EU | LU | Luxembourg | 53667 | LuxembourgTorNew20.Quetzalcoatl-relays.org |
-| 107.189.7.141 | 4 | 1708046580 | 1771419714 | EU | LU | Luxembourg | 53667 |  |
-| 107.189.6.124 | 4 | 1698437981 | 1771419714 | EU | LU | Luxembourg | 53667 | farnsworth.rst.schiller.im |
-| 107.189.5.7 | 4 | 1698437956 | 1771419714 | EU | LU | Luxembourg | 53667 | LuxembourgTorNew12.Quetzalcoatl-relays.org |
-| 107.189.5.249 | 4 | 1739149431 | 1771419714 | EU | LU | Luxembourg | 53667 | tor-exit.hackb4.2mpd.com |
-| 107.189.5.121 | 4 | 1698437941 | 1771419714 | EU | LU | Luxembourg | 53667 | LuxembourgTorNew1.Quetzalcoatl-relays.org |
-| 107.189.4.209 | 4 | 1705462984 | 1771419714 | EU | LU | Luxembourg | 53667 |  |
-| 107.189.4.12 | 4 | 1698437980 | 1771419714 | EU | LU | Luxembourg | 53667 | LuxembourgTorNew23.Quetzalcoatl-relays.org |
-| 107.189.31.52 | 4 | 1757880129 | 1771419714 | EU | LU | Luxembourg | 53667 |  |
-| 107.189.31.33 | 4 | 1698437993 | 1771419714 | EU | LU | Luxembourg | 53667 | tor-exit-notice.middelstaedt.com |
-| 107.189.30.86 | 4 | 1698437974 | 1771419714 | EU | LU |  | 53667 | tor-exit.555002.xyz |
-| 107.189.30.69 | 4 | 1698437960 | 1771419713 | EU | LU |  | 53667 | torexit.107.189.30.69.com |
-| 107.189.30.49 | 4 | 1722636098 | 1771419713 | EU | LU |  | 53667 |  |
-| 107.189.30.236 | 4 | 1698437942 | 1771419713 | EU | LU |  | 53667 | LuxembourgTorNew2.Quetzalcoatl-relays.org |
-| 107.189.3.11 | 4 | 1698437963 | 1771419713 | EU | LU | Luxembourg | 53667 |  |
-| 107.189.29.184 | 4 | 1722636098 | 1771419713 | EU | LU | Luxembourg | 53667 |  |
-| 107.189.27.145 | 4 | 1760663932 | 1771419713 | EU | NL | Zaandam | 53667 | 145.27.189.107.static.cloudzy.com |
-| 107.189.20.102 | 4 | 1769562270 | 1771419713 | EU | NL | Zaandam | 53667 | 102.20.189.107.static.cloudzy.com |
-| 107.189.2.108 | 4 | 1698437992 | 1771419713 | EU | LU | Luxembourg | 53667 | sortie-tor.a-n-o-n-y-m-e.net |
-| 107.189.14.43 | 4 | 1698437978 | 1771419713 | EU | LU | Luxembourg | 53667 | tor-exit-node-46344-l.supermegaultra.xyz |
-| 107.189.14.4 | 4 | 1698437931 | 1771419713 | EU | LU | Luxembourg | 53667 | LuxembourgTorNew31.Quetzalcoatl-relays.org |
-| 107.189.13.254 | 4 | 1699744821 | 1771419713 | EU | LU | Luxembourg | 53667 |  |
-| 107.189.13.253 | 4 | 1698437980 | 1771419713 | EU | LU | Luxembourg | 53667 | LuxembourgTorNew11.Quetzalcoatl-relays.org |
-| 107.189.13.180 | 4 | 1698438006 | 1771419713 | EU | LU | Luxembourg | 53667 |  |
-| 107.189.12.3 | 4 | 1698437967 | 1771419713 | EU | DE | Frankfurt am Main | 53667 | LuxembourgTorNew19.Quetzalcoatl-relays.org |
-| 107.189.12.157 | 4 | 1764889305 | 1771419712 | EU | DE | Frankfurt am Main | 53667 | tor-exit.2cb.network |
-| 107.189.11.111 | 4 | 1698437985 | 1771419712 | EU | LU | Luxembourg | 53667 | LuxembourgTorNew8.Quetzalcoatl-relays.org |
-| 107.189.10.175 | 4 | 1698437954 | 1771419712 | EU | LU | Bissen | 53667 | LuxembourgTorNew25.Quetzalcoatl-relays.org |
-| 107.189.1.9 | 4 | 1698437941 | 1771419712 | EU | LU | Luxembourg | 53667 | LuxembourgTorNew26.Quetzalcoatl-relays.org |
-| 107.189.1.175 | 4 | 1698438011 | 1771419712 | EU | LU | Luxembourg | 53667 | tor.likogan.dev |
-| 107.189.1.160 | 4 | 1698437964 | 1771419712 | EU | LU | Luxembourg | 53667 | onion-exit.stagingdomain.name |
-| 104.244.79.61 | 4 | 1698437943 | 1771419712 | EU | CH |  | 53667 | LuxembourgTorNew32.Quetzalcoatl-relays.org |
-| 104.244.79.50 | 4 | 1698437947 | 1771419712 | EU | CH |  | 53667 | LuxembourgTorNew3.Quetzalcoatl-relays.org |
-| 104.244.79.44 | 4 | 1698437975 | 1771419712 | EU | CH |  | 53667 | LuxembourgTorNew28.Quetzalcoatl-relays.org |
-| 104.244.78.233 | 4 | 1698437950 | 1771419712 | EU | CH |  | 53667 | LuxembourgTorNew22.Quetzalcoatl-relays.org |
-| 104.244.78.232 | 4 | 1729602087 | 1771419712 | EU | CH |  | 53667 |  |
-| 104.244.78.162 | 4 | 1698438006 | 1771419712 | EU | CH |  | 53667 |  |
-| 104.244.76.237 | 4 | 1738983684 | 1771419712 | EU | CH |  | 53667 | tor-exit-node-3426345-4.supermegaultra.xyz |
-| 104.244.75.74 | 4 | 1698437932 | 1771419712 | EU | CH |  | 53667 | this-is-a-tor-exit-node.h-o-s-t.name |
-| 104.244.75.140 | 4 | 1738983684 | 1771419711 | EU | CH |  | 53667 | tor-exit-node-4672345-n.supermegaultra.xyz |
-| 104.244.74.97 | 4 | 1698437979 | 1771419711 | EU | CH |  | 53667 | tor-exit.yomi.katawaredoki.net |
-| 104.244.74.51 | 4 | 1758826911 | 1771419711 | EU | CH |  | 53667 |  |
-| 104.244.73.190 | 4 | 1698437970 | 1771419711 | EU | CH |  | 53667 | LuxembourgTorNew9.Quetzalcoatl-relays.org |
-| 104.244.73.14 | 4 | 1768612693 | 1771419711 | EU | CH |  | 53667 | away.twr.mib.mybluehost.me |
-| 104.244.73.136 | 4 | 1698437993 | 1771419711 | EU | CH |  | 53667 | tor-exit-readme.middelstaedt.com |
-| 104.244.72.132 | 4 | 1698437996 | 1771419711 | EU | CH |  | 53667 | quetzalcoatl-relays.org |
-| 104.219.236.100 | 4 | 1698437974 | 1771419711 | NA | US |  | 27176 | ip-104-219-236-100.host.datawagon.net |
-| 104.192.3.74 | 4 | 1698437972 | 1771419711 | NA | US |  | 27176 | this-is-a-tor-exit |
-| 104.167.242.118 | 4 | 1706430090 | 1771419711 | NA | US |  | 398355 |  |
-| 104.167.242.117 | 4 | 1706430086 | 1771419711 | NA | US |  | 398355 |  |
-| 104.167.241.4 | 4 | 1753588892 | 1771419711 | NA | US | Willis | 398355 |  |
-| 103.91.65.44 | 4 | 1757332894 | 1771419711 | AS | MY | Cyberjaya | 55720 |  |
-| 103.28.52.93 | 4 | 1698438206 | 1771419711 | AS | ID |  | 136052 | ip93.52.28.103.in-addr.arpa.unknwn.cloudhost.asia |
-| 103.253.24.18 | 4 | 1698438000 | 1771419710 | AS | SG |  | 6939 |  |
-| 103.20.241.102 | 4 | 1746108095 | 1771419710 | AS | MY |  |  |  |
-| 103.193.179.233 | 4 | 1707283127 | 1771419710 | AS | ID |  | 136052 | ip103-193-179-233.cloudhost.web.id |
-| 103.164.54.199 | 4 | 1723586489 | 1771419710 | AS | SG | Singapore | 141995 | sortie-tor.a-n-o-n-y-m-e.net |
-| 103.146.203.11 | 4 | 1740704624 | 1771419710 | AS | ID |  | 136052 |  |
-| 103.109.101.105 | 4 | 1698437984 | 1771419710 | AS | HK |  | 206264 |  |
-| 102.211.56.20 | 4 | 1760360490 | 1771419710 | AF | ZA | Johannesburg |  | vps19848.maxko-hosting.net |
-| 102.130.127.117 | 4 | 1698437989 | 1771419710 | AF | ZA |  | 328364 |  |
-| 102.130.117.167 | 4 | 1713301294 | 1771419710 | AF | ZA |  | 328364 |  |
-| 102.130.113.9 | 4 | 1698437965 | 1771419710 | AF | ZA |  | 328364 |  |
 | 100.4.48.196 | 4 | 1770494556 | 1771419710 | NA | US | Virginia Beach | 701 | pool-100-4-48-196.nrflva.fios.verizon.net |
-| 144.31.77.174 | 4 | 1771351324 | 1771419694 | NA | US |  |  | vm735588.hosted-by.u1host.com |
-| 78.130.199.40 | 4 | 1768493290 | 1771419693 | EU | BG | Sofia | 9070 | clients-pools.pl.cooolbox.bg |
-| 159.195.71.90 | 4 | 1771160522 | 1771419693 | EU | DE | Nuremberg |  | v2202512322449422885.ultrasrv.de |
-| 141.98.233.171 | 4 | 1771290480 | 1771419693 | EU | BE |  |  | 163572.ip-ptr.tech |
-| 109.122.196.109 | 4 | 1771257712 | 1771419693 | EU | DE | Frankfurt am Main | 48678 | instance261256.waicore.network |
-| 23.137.253.125 | 4 | 1770865303 | 1771419692 | NA | US |  | 210630 | static.23-137-253-125.isp.st |
-| 195.47.238.91 | 4 | 1731124927 | 1771419691 | EU | SE |  | 30893 | tor-9.no-ack.net |
-| 195.47.238.83 | 4 | 1729346533 | 1771419691 | EU | SE |  | 30893 | tor-2.datanerd.se |
-| 94.156.152.8 | 4 | 1759658634 | 1771419689 | EU | BG |  | 8100 |  |
-| 67.219.109.141 | 4 | 1699403402 | 1771419689 | OC | AU | Melbourne | 20473 | tor-exit-au-42.project-privacy.com.au |
-| 172.232.219.78 | 4 | 1770109302 | 1771419689 | EU | IT | Milan | 63949 | 172-232-219-78.ip.linodeusercontent.com |
-| 95.135.208.24 | 4 | 1769652291 | 1771419687 | EU | NL | Amsterdam | 6849 | static.95.135.208.24.deluxhost.net |
-| 158.94.211.63 | 4 | 1769673728 | 1771419687 | NA | US | New York | 786 | tor-exit.us.2cb.li |
-| 180.149.44.96 | 4 | 1768921340 | 1771419685 | AS | AZ | Baku | 202422 | petidix7863.example.com |
-| 192.42.116.27 | 4 | 1698437998 | 1771419683 | EU | NL |  | 1101 | this-is-a-tor-exit-node-hviv127.hviv.nl |
-| 192.42.116.26 | 4 | 1698437993 | 1771419682 | EU | NL |  | 1101 | this-is-a-tor-exit-node-hviv126.hviv.nl |
-| 192.42.116.17 | 4 | 1698437996 | 1771419682 | EU | NL |  | 1101 | this-is-a-tor-exit-node-hviv117.hviv.nl |
-| 192.42.116.14 | 4 | 1698437977 | 1771419682 | EU | NL |  | 1101 | this-is-a-tor-exit-node-hviv114.hviv.nl |
-| 178.17.170.23 | 4 | 1698437990 | 1771419680 | EU | MD | Chisinau | 43289 | 178-17-170-23.static.as43289.net |
-| 23.151.8.88 | 4 | 1767063697 | 1771419678 | NA | US |  | 11721 |  |
-| 176.65.134.9 | 4 | 1768320092 | 1771419678 | EU | SI |  |  | 176.65.134.9 |
-| 23.134.88.60 | 4 | 1766829778 | 1771419677 | NA | US |  | 924 | 60-88-134-23.fmt-us.tor-exit.fevi.net |
-| 23.191.200.2 | 4 | 1739581486 | 1771419662 | NA | US |  |  |  |
-| 23.137.255.45 | 4 | 1760115686 | 1771419662 | NA | US | Liberty Lake | 210630 |  |
-| 66.78.40.146 | 4 | 1752465674 | 1771419660 | NA | US |  | 21769 |  |
-| 64.190.113.106 | 4 | 1759485823 | 1771419660 | NA | US | Los Angeles | 399629 |  |
-| 23.191.200.27 | 4 | 1742637751 | 1771419655 | NA | US |  |  |  |
-| 23.191.200.6 | 4 | 1739592141 | 1771419654 | NA | US |  |  |  |
-| 23.191.200.5 | 4 | 1739592141 | 1771419654 | NA | US |  |  |  |
-| 23.191.200.4 | 4 | 1739592141 | 1771419654 | NA | US |  |  |  |
-| 23.191.200.31 | 4 | 1742637752 | 1771419654 | NA | US |  |  |  |
-| 23.191.200.30 | 4 | 1742637752 | 1771419654 | NA | US |  |  |  |
-| 23.191.200.3 | 4 | 1739592141 | 1771419654 | NA | US |  |  |  |
-| 23.191.200.29 | 4 | 1742637751 | 1771419654 | NA | US |  |  |  |
-| 23.191.200.28 | 4 | 1742637751 | 1771419654 | NA | US |  |  |  |
-| 107.189.3.94 | 4 | 1707704961 | 1771419647 | EU | LU | Luxembourg | 53667 | polyphemus5.brandonkuschel.com |
-| 107.189.3.148 | 4 | 1707699819 | 1771419647 | EU | LU | Luxembourg | 53667 | polyphemus4.brandonkuschel.com |
-| 198.98.57.218 | 4 | 1752584532 | 1771419646 | NA | US | Staten Island | 53667 | tor-exit-nyc.pufferfish.li |
-| 107.189.8.16 | 4 | 1707699818 | 1771419646 | EU | LU | Luxembourg | 53667 | polyphemus2.brandonkuschel.com |
-| 107.189.31.187 | 4 | 1708046554 | 1771419646 | EU | LU | Luxembourg | 53667 | polyphemus.brandonkuschel.com |
-| 195.47.238.93 | 4 | 1731150130 | 1771419642 | EU | SE |  | 30893 | tor-11.no-ack.net |
 | 98.116.219.251 | 4 | 1770473094 | 1771416268 | NA | US | Brooklyn | 701 | pool-98-116-219-251.nycmny.fios.verizon.net |
 | 71.179.180.145 | 4 | 1770599254 | 1771416257 | NA | US | Odenton | 701 | pool-71-179-180-145.bltmmd.fios.verizon.net |
 | 70.109.222.224 | 4 | 1770599253 | 1771416257 | NA | US | Wakefield | 701 | pool-70-109-222-224.prvdri.fios.verizon.net |
@@ -2250,6 +2250,4 @@ Those IPs are not guaranteed to be tor nodes, but they were seen as tor nodes wi
 | 146.174.35.91 | 4 | 1771315318 | 1771408924 | NA | US | St. George | 4181 | h146-174-35-91.mdsnwi.tisp.static.tds.net |
 | 204.197.165.251 | 4 | 1771390972 | 1771405369 | NA | US | Frederic | 16614 |  |
 | 170.239.20.75 | 4 | 1771383730 | 1771405321 | SA | BR | Coronel Vivida | 271527 | 170-239-20-75.netplusinternet.net.br |
-| 97.214.229.78 | 4 | 1771391066 | 1771401871 | NA | US | Sacramento | 6167 | 78.sub-97-214-229.myvzw.com |
-| 1.54.191.57 | 4 | 1771387311 | 1771401715 | AS | VN | Ho Chi Minh City | 18403 |  |
 
