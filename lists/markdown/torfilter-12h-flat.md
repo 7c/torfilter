@@ -2,15 +2,21 @@
 # TORFilter
 Last seen within 12 hours
 
-Count : 2360
+Count : 2356
 
-Generated: 2026-07-11T14:00:04.468Z
+Generated: 2026-07-11T15:00:05.349Z
 
 Those IPs are not guaranteed to be tor nodes, but they were seen as tor nodes within the last 12 hours. Use at your own risk, This is NOT a abuse feed, This feed is made for sitemasters to detect traffic from tor nodes, this is the only purpose of this feed
 
 
 | ip | ipversion | firstseen | lastseen | continentcode | countrycode | city | ASN | rdns |
 |---|---|---|---|---|---|---|---|---|
+| 5.45.102.93 | 4 | 1698437928 | 1783782006 | EU | DE | Nuremberg | 197540 | NurembergTor10.quetzalcoatl-relays.org |
+| 89.58.26.216 | 4 | 1698437927 | 1783782005 | EU | DE | Nuremberg | 197540 | NurembergTor78.quetzalcoatl-relays.org |
+| 80.67.167.81 | 4 | 1698437927 | 1783782005 | EU | FR | Paris | 2027 | nosoignons.cust.milkywan.net |
+| 198.98.51.189 | 4 | 1698437927 | 1783782005 | NA | US | Staten Island | 53667 | tor.teitel.net |
+| 171.25.193.25 | 4 | 1698437927 | 1783782005 | EU | SE |  | 198093 | tor-exit-read-me.dfri.se |
+| 109.70.100.4 | 4 | 1698437928 | 1783782005 | EU | AT |  | 208323 | tor-exit-anonymizer.appliedprivacy.net |
 | 93.95.228.125 | 4 | 1705725610 | 1783775782 | EU | IS | Reykjavik | 44925 | manor.torexit.syndicateguys.com |
 | 45.38.20.164 | 4 | 1781809497 | 1783775782 | NA | US |  | 18779 |  |
 | 150.40.127.237 | 4 | 1783755780 | 1783775782 | EU | NL | Meppel |  | vps36660.maxko-hosting.net |
@@ -1383,9 +1389,7 @@ Those IPs are not guaranteed to be tor nodes, but they were seen as tor nodes wi
 | 109.70.100.6 | 4 | 1698437933 | 1783775688 | EU | AT |  | 208323 | tor-exit-anonymizer.appliedprivacy.net |
 | 109.70.100.11 | 4 | 1698507085 | 1783775688 | EU | AT |  | 208323 | tor-exit-anonymizer.appliedprivacy.net |
 | 89.58.41.156 | 4 | 1698437929 | 1783775687 | EU | DE | Nuremberg | 197540 | NurembergTor79.quetzalcoatl-relays.org |
-| 89.58.26.216 | 4 | 1698437927 | 1783775687 | EU | DE | Nuremberg | 197540 | NurembergTor78.quetzalcoatl-relays.org |
 | 87.118.116.103 | 4 | 1698437929 | 1783775687 | EU | DE |  | 31103 | ns.tor-exit-4.artikel5ev.de |
-| 5.45.102.93 | 4 | 1698437928 | 1783775687 | EU | DE | Nuremberg | 197540 | NurembergTor10.quetzalcoatl-relays.org |
 | 37.187.5.192 | 4 | 1698437932 | 1783775687 | EU | FR |  | 16276 | ns3126614.ip-37-187-5.eu |
 | 195.176.3.23 | 4 | 1698437933 | 1783775687 | EU | CH | Zurich | 559 | tor5e1.digitale-gesellschaft.ch |
 | 192.42.116.99 | 4 | 1771963494 | 1783775687 | EU | NL |  | 1101 |  |
@@ -1394,12 +1398,8 @@ Those IPs are not guaranteed to be tor nodes, but they were seen as tor nodes wi
 | 185.165.169.239 | 4 | 1698437933 | 1783775687 | EU | RO | Bucharest | 200651 | hermes.modafinilsupply.org |
 | 179.43.182.232 | 4 | 1698437931 | 1783775687 | EU | CH | Rümlang | 51852 | fastboy |
 | 109.70.100.8 | 4 | 1698507087 | 1783775687 | EU | AT |  | 208323 | tor-exit-anonymizer.appliedprivacy.net |
-| 109.70.100.4 | 4 | 1698437928 | 1783775687 | EU | AT |  | 208323 | tor-exit-anonymizer.appliedprivacy.net |
 | 109.70.100.2 | 4 | 1698437931 | 1783775687 | EU | AT |  | 208323 | tor-exit-anonymizer.appliedprivacy.net |
 | 109.70.100.1 | 4 | 1698437930 | 1783775687 | EU | AT |  | 208323 | tor-exit-anonymizer.appliedprivacy.net |
-| 80.67.167.81 | 4 | 1698437927 | 1783775686 | EU | FR | Paris | 2027 | nosoignons.cust.milkywan.net |
-| 198.98.51.189 | 4 | 1698437927 | 1783775686 | NA | US | Staten Island | 53667 | tor.teitel.net |
-| 171.25.193.25 | 4 | 1698437927 | 1783775686 | EU | SE |  | 198093 | tor-exit-read-me.dfri.se |
 | 96.66.15.152 | 4 | 1698437953 | 1783775069 | NA | US | New Baltimore | 7922 | 96-66-15-152-static.hfc.comcastbusiness.net |
 | 96.126.98.146 | 4 | 1715810607 | 1783775069 | NA | US | Fremont | 63949 | 96-126-98-146.ip.linodeusercontent.com |
 | 94.72.103.33 | 4 | 1729983829 | 1783775068 | EU | GB | Portsmouth | 41314 | sortie-tor.a-n-o-n-y-m-e.net |
@@ -2367,8 +2367,4 @@ Those IPs are not guaranteed to be tor nodes, but they were seen as tor nodes wi
 | 185.130.45.73 | 4 | 1783580525 | 1783755764 | EU | SE | Stockholm | 210083 | 185.130.45.73.static.privex.cc |
 | 51.81.222.62 | 4 | 1698437974 | 1783755675 | NA | US | Hillsboro | 16276 | tor2.teitel.net |
 | 23.184.48.78 | 4 | 1732428150 | 1783748216 | NA | US | Liberty Lake | 210630 | tor-exit-relay2.0xmiska.com |
-| 82.68.49.227 | 4 | 1698557338 | 1783737358 | EU | GB | Marlborough | 13037 | tor-exit.cellarnet.co.uk |
-| 2a02:8010:677e:f9d0:215:5dff:fe01:210c | 6 | 1709522267 | 1783737315 | EU | GB | Malmesbury | 13037 |  |
-| 2001:b011:4006:9339::b | 6 | 1772733754 | 1783737259 | AS | TW | Taipei | 3462 | 2001-b011-4006-9339-0000-0000-0000-000b.dynamic-ip6.hinet.net |
-| 94.23.204.164 | 4 | 1781060643 | 1783737185 | EU | FR |  | 16276 | ns3040214.ip-94-23-204.eu |
 
