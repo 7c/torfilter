@@ -2,15 +2,33 @@
 # TORFilter
 Last seen within 72 hours
 
-Count : 2417
+Count : 2416
 
-Generated: 2026-07-15T17:00:05.124Z
+Generated: 2026-07-15T18:00:06.434Z
 
 Those IPs are not guaranteed to be tor nodes, but they were seen as tor nodes within the last 72 hours. Use at your own risk, This is NOT a abuse feed, This feed is made for sitemasters to detect traffic from tor nodes, this is the only purpose of this feed
 
 
 | ip | ipversion | firstseen | lastseen | continentcode | countrycode | city | ASN | rdns |
 |---|---|---|---|---|---|---|---|---|
+| 195.176.3.23 | 4 | 1698437933 | 1784138407 | EU | CH | Zurich | 559 | tor5e1.digitale-gesellschaft.ch |
+| 185.165.169.239 | 4 | 1698437933 | 1784138407 | EU | RO | Bucharest | 200651 | hermes.modafinilsupply.org |
+| 109.70.100.8 | 4 | 1698507087 | 1784138407 | EU | AT |  | 208323 | tor-exit-anonymizer.appliedprivacy.net |
+| 89.58.41.156 | 4 | 1698437929 | 1784138406 | EU | DE | Nuremberg | 197540 | NurembergTor79.quetzalcoatl-relays.org |
+| 89.58.26.216 | 4 | 1698437927 | 1784138406 | EU | DE | Nuremberg | 197540 | NurembergTor78.quetzalcoatl-relays.org |
+| 87.118.116.103 | 4 | 1698437929 | 1784138406 | EU | DE |  | 31103 | ns.tor-exit-4.artikel5ev.de |
+| 80.67.167.81 | 4 | 1698437927 | 1784138406 | EU | FR | Paris | 2027 | nosoignons.cust.milkywan.net |
+| 5.45.102.93 | 4 | 1698437928 | 1784138406 | EU | DE | Nuremberg | 197540 | NurembergTor10.quetzalcoatl-relays.org |
+| 37.187.5.192 | 4 | 1698437932 | 1784138406 | EU | FR |  | 16276 | ns3126614.ip-37-187-5.eu |
+| 198.98.51.189 | 4 | 1698437927 | 1784138406 | NA | US | Staten Island | 53667 | tor.teitel.net |
+| 192.42.116.99 | 4 | 1771963494 | 1784138406 | EU | NL |  | 1101 |  |
+| 192.42.116.44 | 4 | 1771967050 | 1784138406 | EU | NL |  | 1101 |  |
+| 192.42.116.12 | 4 | 1771956250 | 1784138406 | EU | NL |  | 1101 | hviv-bare.as1101.net |
+| 179.43.182.232 | 4 | 1698437931 | 1784138406 | EU | CH | Rümlang | 51852 | fastboy |
+| 171.25.193.25 | 4 | 1698437927 | 1784138406 | EU | SE |  | 198093 | tor-exit-read-me.dfri.se |
+| 109.70.100.4 | 4 | 1698437928 | 1784138406 | EU | AT |  | 208323 | tor-exit-anonymizer.appliedprivacy.net |
+| 109.70.100.2 | 4 | 1698437931 | 1784138406 | EU | AT |  | 208323 | tor-exit-anonymizer.appliedprivacy.net |
+| 109.70.100.1 | 4 | 1698437930 | 1784138406 | EU | AT |  | 208323 | tor-exit-anonymizer.appliedprivacy.net |
 | 51.158.147.105 | 4 | 1784106241 | 1784132118 | EU | NL | Haarlem | 12876 | 51-158-147-105.rev.poneytelecom.eu |
 | 45.131.64.238 | 4 | 1782295413 | 1784132118 | EU | DE |  | 213250 | 238.64.131.45.in-addr.arpa |
 | 185.129.62.64 | 4 | 1759510916 | 1784132118 | EU | DK |  | 57860 |  |
@@ -1389,24 +1407,6 @@ Those IPs are not guaranteed to be tor nodes, but they were seen as tor nodes wi
 | 109.70.100.7 | 4 | 1698507086 | 1784132023 | EU | AT |  | 208323 | tor-exit-anonymizer.appliedprivacy.net |
 | 109.70.100.6 | 4 | 1698437933 | 1784132023 | EU | AT |  | 208323 | tor-exit-anonymizer.appliedprivacy.net |
 | 109.70.100.11 | 4 | 1698507085 | 1784132023 | EU | AT |  | 208323 | tor-exit-anonymizer.appliedprivacy.net |
-| 89.58.41.156 | 4 | 1698437929 | 1784132022 | EU | DE | Nuremberg | 197540 | NurembergTor79.quetzalcoatl-relays.org |
-| 87.118.116.103 | 4 | 1698437929 | 1784132022 | EU | DE |  | 31103 | ns.tor-exit-4.artikel5ev.de |
-| 5.45.102.93 | 4 | 1698437928 | 1784132022 | EU | DE | Nuremberg | 197540 | NurembergTor10.quetzalcoatl-relays.org |
-| 37.187.5.192 | 4 | 1698437932 | 1784132022 | EU | FR |  | 16276 | ns3126614.ip-37-187-5.eu |
-| 195.176.3.23 | 4 | 1698437933 | 1784132022 | EU | CH | Zurich | 559 | tor5e1.digitale-gesellschaft.ch |
-| 192.42.116.99 | 4 | 1771963494 | 1784132022 | EU | NL |  | 1101 |  |
-| 192.42.116.44 | 4 | 1771967050 | 1784132022 | EU | NL |  | 1101 |  |
-| 192.42.116.12 | 4 | 1771956250 | 1784132022 | EU | NL |  | 1101 | hviv-bare.as1101.net |
-| 185.165.169.239 | 4 | 1698437933 | 1784132022 | EU | RO | Bucharest | 200651 | hermes.modafinilsupply.org |
-| 179.43.182.232 | 4 | 1698437931 | 1784132022 | EU | CH | Rümlang | 51852 | fastboy |
-| 109.70.100.8 | 4 | 1698507087 | 1784132022 | EU | AT |  | 208323 | tor-exit-anonymizer.appliedprivacy.net |
-| 109.70.100.4 | 4 | 1698437928 | 1784132022 | EU | AT |  | 208323 | tor-exit-anonymizer.appliedprivacy.net |
-| 109.70.100.2 | 4 | 1698437931 | 1784132022 | EU | AT |  | 208323 | tor-exit-anonymizer.appliedprivacy.net |
-| 109.70.100.1 | 4 | 1698437930 | 1784132022 | EU | AT |  | 208323 | tor-exit-anonymizer.appliedprivacy.net |
-| 89.58.26.216 | 4 | 1698437927 | 1784132021 | EU | DE | Nuremberg | 197540 | NurembergTor78.quetzalcoatl-relays.org |
-| 80.67.167.81 | 4 | 1698437927 | 1784132021 | EU | FR | Paris | 2027 | nosoignons.cust.milkywan.net |
-| 198.98.51.189 | 4 | 1698437927 | 1784132021 | NA | US | Staten Island | 53667 | tor.teitel.net |
-| 171.25.193.25 | 4 | 1698437927 | 1784132021 | EU | SE |  | 198093 | tor-exit-read-me.dfri.se |
 | 96.66.15.152 | 4 | 1698437953 | 1784131451 | NA | US | New Baltimore | 7922 | 96-66-15-152-static.hfc.comcastbusiness.net |
 | 96.126.98.146 | 4 | 1715810607 | 1784131450 | NA | US | Fremont | 63949 | 96-126-98-146.ip.linodeusercontent.com |
 | 94.72.103.33 | 4 | 1729983829 | 1784131450 | EU | GB | Portsmouth | 41314 | sortie-tor.a-n-o-n-y-m-e.net |
@@ -2427,5 +2427,4 @@ Those IPs are not guaranteed to be tor nodes, but they were seen as tor nodes wi
 | 185.125.171.72 | 4 | 1764954136 | 1783900767 | EU | NO | Sandefjord | 56655 | fenris-torexit-01.norse.work |
 | 186.134.217.25 | 4 | 1783623862 | 1783886596 | SA | AR | Moreno | 22927 | 186-134-217-25.mrse.com.ar |
 | 191.84.226.204 | 4 | 1783774950 | 1783884512 | SA | AR | La Plata | 22927 |  |
-| 186.19.232.208 | 4 | 1780498939 | 1783875746 | SA | AR |  | 27747 | cpe-186-19-232-208.telecentro-reversos.com.ar |
 
