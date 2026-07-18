@@ -2,15 +2,17 @@
 # TORFilter
 Last seen within 48 hours
 
-Count : 2421
+Count : 2402
 
-Generated: 2026-07-17T19:00:05.742Z
+Generated: 2026-07-18T18:00:04.749Z
 
 Those IPs are not guaranteed to be tor nodes, but they were seen as tor nodes within the last 48 hours. Use at your own risk, This is NOT a abuse feed, This feed is made for sitemasters to detect traffic from tor nodes, this is the only purpose of this feed
 
 
 | ip | ipversion | firstseen | lastseen | continentcode | countrycode | city | ASN | rdns |
 |---|---|---|---|---|---|---|---|---|
+| 80.67.167.81 | 4 | 1698437927 | 1784397605 | EU | FR | Paris | 2027 | nosoignons.cust.milkywan.net |
+| 171.25.193.25 | 4 | 1698437927 | 1784397605 | EU | SE |  | 198093 | tor-exit-read-me.dfri.se |
 | 96.66.15.152 | 4 | 1698437953 | 1784311469 | NA | US | New Baltimore | 7922 | 96-66-15-152-static.hfc.comcastbusiness.net |
 | 96.44.159.148 | 4 | 1780419826 | 1784311469 | NA | CA | Toronto | 8100 |  |
 | 96.44.154.224 | 4 | 1780193037 | 1784311469 | NA | CA | Toronto | 8100 |  |
@@ -118,7 +120,6 @@ Those IPs are not guaranteed to be tor nodes, but they were seen as tor nodes wi
 | 80.94.92.92 | 4 | 1731391403 | 1784311461 | EU | RO |  | 47890 |  |
 | 80.82.76.41 | 4 | 1783199060 | 1784311461 | EU | NL | Amsterdam | 202425 | 41.76.82.80.in-addr.arpa |
 | 80.67.172.162 | 4 | 1698437978 | 1784311461 | EU | FR |  | 20766 | algrothendieck.nos-oignons.net |
-| 80.67.167.81 | 4 | 1698437927 | 1784311461 | EU | FR | Paris | 2027 | nosoignons.cust.milkywan.net |
 | 80.251.153.113 | 4 | 1783692100 | 1784311461 | EU | NL | Amsterdam | 206264 |  |
 | 80.241.60.207 | 4 | 1698437948 | 1784311461 | EU | DE | Berlin | 199118 | tor.mailbox.org |
 | 8.215.52.126 | 4 | 1762920241 | 1784311461 | AS | ID | Jakarta | 45102 |  |
@@ -2068,7 +2069,6 @@ Those IPs are not guaranteed to be tor nodes, but they were seen as tor nodes wi
 | 171.25.193.37 | 4 | 1752537709 | 1784311326 | EU | SE |  | 198093 | mesh11.dfri.se |
 | 171.25.193.36 | 4 | 1752541464 | 1784311326 | EU | SE |  | 198093 | mesh10.dfri.se |
 | 171.25.193.35 | 4 | 1752541464 | 1784311326 | EU | SE |  | 198093 | mesh10.dfri.se |
-| 171.25.193.25 | 4 | 1698437927 | 1784311326 | EU | SE |  | 198093 | tor-exit-read-me.dfri.se |
 | 171.25.193.235 | 4 | 1698437959 | 1784311326 | EU | SE |  | 198093 | tor-exit-read-me.dfri.se |
 | 171.25.193.234 | 4 | 1698437953 | 1784311326 | EU | SE |  | 198093 | tor-exit-read-me.dfri.se |
 | 171.25.193.20 | 4 | 1698437965 | 1784311325 | EU | SE |  | 198093 | tor-exit-read-me.dfri.se |
@@ -2413,23 +2413,4 @@ Those IPs are not guaranteed to be tor nodes, but they were seen as tor nodes wi
 | 23.129.64.192 | 4 | 1755435738 | 1784224894 | NA | US |  | 396507 | emeraldonion.net |
 | 23.129.64.224 | 4 | 1698437961 | 1784224878 | NA | US |  | 396507 |  |
 | 194.163.157.49 | 4 | 1698437982 | 1784224839 | EU | FR | Lauterbourg | 51167 | vmi1306862.contaboserver.net |
-| 2a00:6800:3:c4f::1 | 6 | 1771610594 | 1784208311 | EU | DE |  | 42730 |  |
-| 2001:b011:4006:9339::b | 6 | 1772733754 | 1784208264 | AS | TW | Taipei | 3462 | 2001-b011-4006-9339-0000-0000-0000-000b.dynamic-ip6.hinet.net |
-| 178.254.22.78 | 4 | 1771610521 | 1784208232 | EU | DE | Osnabrück | 42730 | v45174.1blu.de |
-| 102.159.196.58 | 4 | 1784203308 | 1784208212 | AF | TN | Tunis | 37705 |  |
-| 198.167.206.163 | 4 | 1705759600 | 1784206864 | EU | SE |  | 39287 | c6a7cea3.vpn.njalla.net |
-| 89.129.214.197 | 4 | 1781777027 | 1784203455 | EU | ES | Valencia | 12479 | 197.pool89-129-214.dynamic.orange.es |
-| 66.78.40.35 | 4 | 1782111826 | 1784203286 | NA | US |  | 21769 | tor.dmt.observer |
-| 181.167.93.103 | 4 | 1775304117 | 1784196126 | SA | AR | Córdoba | 7303 | 103-93-167-181.fibertel.com.ar |
-| 217.156.49.33 | 4 | 1781467393 | 1784185281 | AS | JP | Tokyo | 9009 |  |
-| 89.234.157.254 | 4 | 1698437959 | 1784181103 | EU | FR | Toulouse | 197422 | marylou.nos-oignons.net |
-| 85.206.174.98 | 4 | 1783447457 | 1784181102 | EU | LT | Šiauliai | 61272 | 40153-67382.bacloud.info |
-| 187.21.222.222 | 4 | 1784160149 | 1784167340 | SA | BR | Mongaguá | 28573 | bb15dede.virtua.com.br |
-| 181.88.229.226 | 4 | 1784160131 | 1784167323 | SA | AR | Rosario | 7303 | host226.181-88-229.telecom.net.ar |
-| 100.34.131.31 | 4 | 1770487316 | 1784167301 | NA | US | Levittown | 701 | pool-100-34-131-31.phlapa.fios.verizon.net |
-| 181.99.240.26 | 4 | 1784037731 | 1784152924 | SA | AR | Rosario | 7303 | host26.181-99-240.telecom.net.ar |
-| 181.162.227.33 | 4 | 1784070139 | 1784152924 | SA | CL | Concepción | 7418 | 181-162-227-33.fo.baf.movistar.cl |
-| 41.226.148.37 | 4 | 1784143769 | 1784149328 | AF | TN | Ben Arous | 37705 |  |
-| 45.9.156.89 | 4 | 1783695846 | 1784145730 | EU | BG | Sofia | 206003 | server36631.maxko-hosting.net |
-| 198.167.206.133 | 4 | 1742749331 | 1784145675 | EU | SE |  | 39287 | c6a7ce85.vpn.njalla.net |
 

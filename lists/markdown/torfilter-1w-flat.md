@@ -2,15 +2,17 @@
 # TORFilter
 Last seen within 168 hours
 
-Count : 2500
+Count : 2480
 
-Generated: 2026-07-17T19:00:05.742Z
+Generated: 2026-07-18T18:00:04.749Z
 
 Those IPs are not guaranteed to be tor nodes, but they were seen as tor nodes within the last 168 hours. Use at your own risk, This is NOT a abuse feed, This feed is made for sitemasters to detect traffic from tor nodes, this is the only purpose of this feed
 
 
 | ip | ipversion | firstseen | lastseen | continentcode | countrycode | city | ASN | rdns |
 |---|---|---|---|---|---|---|---|---|
+| 80.67.167.81 | 4 | 1698437927 | 1784397605 | EU | FR | Paris | 2027 | nosoignons.cust.milkywan.net |
+| 171.25.193.25 | 4 | 1698437927 | 1784397605 | EU | SE |  | 198093 | tor-exit-read-me.dfri.se |
 | 96.66.15.152 | 4 | 1698437953 | 1784311469 | NA | US | New Baltimore | 7922 | 96-66-15-152-static.hfc.comcastbusiness.net |
 | 96.44.159.148 | 4 | 1780419826 | 1784311469 | NA | CA | Toronto | 8100 |  |
 | 96.44.154.224 | 4 | 1780193037 | 1784311469 | NA | CA | Toronto | 8100 |  |
@@ -118,7 +120,6 @@ Those IPs are not guaranteed to be tor nodes, but they were seen as tor nodes wi
 | 80.94.92.92 | 4 | 1731391403 | 1784311461 | EU | RO |  | 47890 |  |
 | 80.82.76.41 | 4 | 1783199060 | 1784311461 | EU | NL | Amsterdam | 202425 | 41.76.82.80.in-addr.arpa |
 | 80.67.172.162 | 4 | 1698437978 | 1784311461 | EU | FR |  | 20766 | algrothendieck.nos-oignons.net |
-| 80.67.167.81 | 4 | 1698437927 | 1784311461 | EU | FR | Paris | 2027 | nosoignons.cust.milkywan.net |
 | 80.251.153.113 | 4 | 1783692100 | 1784311461 | EU | NL | Amsterdam | 206264 |  |
 | 80.241.60.207 | 4 | 1698437948 | 1784311461 | EU | DE | Berlin | 199118 | tor.mailbox.org |
 | 8.215.52.126 | 4 | 1762920241 | 1784311461 | AS | ID | Jakarta | 45102 |  |
@@ -2068,7 +2069,6 @@ Those IPs are not guaranteed to be tor nodes, but they were seen as tor nodes wi
 | 171.25.193.37 | 4 | 1752537709 | 1784311326 | EU | SE |  | 198093 | mesh11.dfri.se |
 | 171.25.193.36 | 4 | 1752541464 | 1784311326 | EU | SE |  | 198093 | mesh10.dfri.se |
 | 171.25.193.35 | 4 | 1752541464 | 1784311326 | EU | SE |  | 198093 | mesh10.dfri.se |
-| 171.25.193.25 | 4 | 1698437927 | 1784311326 | EU | SE |  | 198093 | tor-exit-read-me.dfri.se |
 | 171.25.193.235 | 4 | 1698437959 | 1784311326 | EU | SE |  | 198093 | tor-exit-read-me.dfri.se |
 | 171.25.193.234 | 4 | 1698437953 | 1784311326 | EU | SE |  | 198093 | tor-exit-read-me.dfri.se |
 | 171.25.193.20 | 4 | 1698437965 | 1784311325 | EU | SE |  | 198093 | tor-exit-read-me.dfri.se |
@@ -2491,24 +2491,4 @@ Those IPs are not guaranteed to be tor nodes, but they were seen as tor nodes wi
 | 78.141.219.102 | 4 | 1774249287 | 1783814487 | EU | NL | Amsterdam | 20473 | ns2.stare.network |
 | 92.119.164.131 | 4 | 1780776289 | 1783814482 | EU | DE |  | 3320 | lain.92.119.164.131.aluy.net |
 | 184.75.221.107 | 4 | 1722189692 | 1783807035 | NA | CA |  | 32489 | mojeooffers.net |
-| 73.124.93.241 | 4 | 1783422253 | 1783790438 | NA | US | Jupiter | 7922 | c-73-124-93-241.hsd1.fl.comcast.net |
-| 68.183.21.96 | 4 | 1783278282 | 1783790284 | NA | US | North Bergen | 14061 |  |
-| 144.202.114.50 | 4 | 1783062044 | 1783790280 | NA | US | Los Angeles | 20473 | 144.202.114.50.vultrusercontent.com |
-| 67.219.109.141 | 4 | 1699403402 | 1783790272 | OC | AU | Melbourne | 20473 | tor-exit-au-42.project-privacy.com.au |
-| 198.167.206.185 | 4 | 1759770138 | 1783775740 | EU | SE |  | 39287 | c6a7ceb9.vpn.njalla.net |
-| 2602:fc24:12:81a6::1 | 6 | 1698438281 | 1783774995 | EU | NL | Amsterdam | 210630 |  |
-| 23.137.248.100 | 4 | 1698437978 | 1783774981 | EU | NL | Amsterdam | 210630 | tor-exit.yangwenli.anondns.net |
-| 191.84.237.58 | 4 | 1783472687 | 1783774950 | SA | AR | La Plata | 22927 |  |
-| 104.36.80.7 | 4 | 1754798485 | 1783774912 | EU | NL | Amsterdam | 20150 |  |
-| 2605:6400:30:f8da:2b2:a293:30ad:506d | 6 | 1698438288 | 1783770656 | EU | CH | Bern | 53667 | tor-exit-node-46344-l-6.supermegaultra.xyz |
-| 45.138.16.189 | 4 | 1783202640 | 1783770560 | EU | PL | Warsaw | 210558 |  |
-| 2a0b:f4c2:1::167 | 6 | 1698438862 | 1783764232 | NA | US |  | 60729 | tor-exit-167.relayon.org |
-| 2602:fc24:16:1c::a | 6 | 1777899780 | 1783764192 | EU | SE | Stockholm | 210630 | se-eu.tor-exit.isp.llc |
-| 2001:9b0:25e:f700::20e | 6 | 1782705743 | 1783764157 | EU | SE | Mölnlycke | 8473 |  |
-| 168.222.241.39 | 4 | 1777899716 | 1783764122 | EU | SE | Stockholm |  | se-eu.tor-exit.isp.llc |
-| 186.134.215.210 | 4 | 1783737247 | 1783755808 | SA | AR | Moreno | 22927 | 186-134-215-210.mrse.com.ar |
-| 185.130.45.73 | 4 | 1783580525 | 1783755764 | EU | SE | Stockholm | 210083 | 185.130.45.73.static.privex.cc |
-| 23.184.48.78 | 4 | 1732428150 | 1783748216 | NA | US | Liberty Lake | 210630 | tor-exit-relay2.0xmiska.com |
-| 94.23.204.164 | 4 | 1781060643 | 1783737185 | EU | FR |  | 16276 | ns3040214.ip-94-23-204.eu |
-| 181.97.196.9 | 4 | 1783722332 | 1783729773 | SA | AR | Río Tercero | 7303 | host9.181-97-196.telecom.net.ar |
 

@@ -2,15 +2,17 @@
 # TORFilter
 Last seen within 72 hours
 
-Count : 2436
+Count : 2422
 
-Generated: 2026-07-17T19:00:05.742Z
+Generated: 2026-07-18T18:00:04.749Z
 
 Those IPs are not guaranteed to be tor nodes, but they were seen as tor nodes within the last 72 hours. Use at your own risk, This is NOT a abuse feed, This feed is made for sitemasters to detect traffic from tor nodes, this is the only purpose of this feed
 
 
 | ip | ipversion | firstseen | lastseen | continentcode | countrycode | city | ASN | rdns |
 |---|---|---|---|---|---|---|---|---|
+| 80.67.167.81 | 4 | 1698437927 | 1784397605 | EU | FR | Paris | 2027 | nosoignons.cust.milkywan.net |
+| 171.25.193.25 | 4 | 1698437927 | 1784397605 | EU | SE |  | 198093 | tor-exit-read-me.dfri.se |
 | 96.66.15.152 | 4 | 1698437953 | 1784311469 | NA | US | New Baltimore | 7922 | 96-66-15-152-static.hfc.comcastbusiness.net |
 | 96.44.159.148 | 4 | 1780419826 | 1784311469 | NA | CA | Toronto | 8100 |  |
 | 96.44.154.224 | 4 | 1780193037 | 1784311469 | NA | CA | Toronto | 8100 |  |
@@ -118,7 +120,6 @@ Those IPs are not guaranteed to be tor nodes, but they were seen as tor nodes wi
 | 80.94.92.92 | 4 | 1731391403 | 1784311461 | EU | RO |  | 47890 |  |
 | 80.82.76.41 | 4 | 1783199060 | 1784311461 | EU | NL | Amsterdam | 202425 | 41.76.82.80.in-addr.arpa |
 | 80.67.172.162 | 4 | 1698437978 | 1784311461 | EU | FR |  | 20766 | algrothendieck.nos-oignons.net |
-| 80.67.167.81 | 4 | 1698437927 | 1784311461 | EU | FR | Paris | 2027 | nosoignons.cust.milkywan.net |
 | 80.251.153.113 | 4 | 1783692100 | 1784311461 | EU | NL | Amsterdam | 206264 |  |
 | 80.241.60.207 | 4 | 1698437948 | 1784311461 | EU | DE | Berlin | 199118 | tor.mailbox.org |
 | 8.215.52.126 | 4 | 1762920241 | 1784311461 | AS | ID | Jakarta | 45102 |  |
@@ -2068,7 +2069,6 @@ Those IPs are not guaranteed to be tor nodes, but they were seen as tor nodes wi
 | 171.25.193.37 | 4 | 1752537709 | 1784311326 | EU | SE |  | 198093 | mesh11.dfri.se |
 | 171.25.193.36 | 4 | 1752541464 | 1784311326 | EU | SE |  | 198093 | mesh10.dfri.se |
 | 171.25.193.35 | 4 | 1752541464 | 1784311326 | EU | SE |  | 198093 | mesh10.dfri.se |
-| 171.25.193.25 | 4 | 1698437927 | 1784311326 | EU | SE |  | 198093 | tor-exit-read-me.dfri.se |
 | 171.25.193.235 | 4 | 1698437959 | 1784311326 | EU | SE |  | 198093 | tor-exit-read-me.dfri.se |
 | 171.25.193.234 | 4 | 1698437953 | 1784311326 | EU | SE |  | 198093 | tor-exit-read-me.dfri.se |
 | 171.25.193.20 | 4 | 1698437965 | 1784311325 | EU | SE |  | 198093 | tor-exit-read-me.dfri.se |
@@ -2433,18 +2433,4 @@ Those IPs are not guaranteed to be tor nodes, but they were seen as tor nodes wi
 | 45.9.156.89 | 4 | 1783695846 | 1784145730 | EU | BG | Sofia | 206003 | server36631.maxko-hosting.net |
 | 198.167.206.133 | 4 | 1742749331 | 1784145675 | EU | SE |  | 39287 | c6a7ce85.vpn.njalla.net |
 | 45.66.35.25 | 4 | 1763521442 | 1784138460 | EU | NL | Amsterdam | 47482 | ams05.torexit.nl |
-| 99.245.59.136 | 4 | 1784060451 | 1784106253 | NA | CA | Mississauga | 812 | pool-99-245-59-136.cpe.net.cable.rogers.com |
-| 23.128.248.165 | 4 | 1780336951 | 1784106074 | NA | US |  | 55103 | tor-exit006.stormycloud.org |
-| 2001:67c:e60:c0c:192:42:116:118 | 6 | 1782950549 | 1784098952 | EU | NL |  |  |  |
-| 104.244.76.121 | 4 | 1778767303 | 1784098871 | EU | CH |  | 53667 |  |
-| 41.62.90.29 | 4 | 1784066546 | 1784095368 | AF | TN | Tunis | 37705 |  |
-| 2620:18c:0:192::e0:140 | 6 | 1749949501 | 1784091807 | NA | US |  | 396507 |  |
-| 2001:67c:e60:c0c:192:42:116:14 | 6 | 1771956274 | 1784091755 | EU | NL |  |  |  |
-| 2001:67c:e60:c0c:192:42:116:13 | 6 | 1771956273 | 1784091755 | EU | NL |  |  |  |
-| 2620:18c:0:192::e0:192 | 6 | 1755435752 | 1784081007 | NA | US |  | 396507 |  |
-| 88.99.213.29 | 4 | 1783199063 | 1784080896 | EU | DE | Falkenstein | 24940 | static.29.213.99.88.clients.your-server.de |
-| 91.212.45.214 | 4 | 1768370703 | 1784079021 | EU | NL | Amsterdam |  | tor-exit-ams.bronk-ict.nl |
-| 2620:18c:0:192::e0:224 | 6 | 1755511355 | 1784070223 | NA | US |  | 396507 |  |
-| 194.32.107.231 | 4 | 1768493081 | 1784070111 | EU | NO | Sandefjord | 56655 |  |
-| 2001:67c:e60:c0c:192:42:116:21 | 6 | 1777564959 | 1784062866 | EU | NL |  |  |  |
 

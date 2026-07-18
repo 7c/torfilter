@@ -2,15 +2,17 @@
 # TORFilter
 Last seen within 744 hours
 
-Count : 2798
+Count : 2779
 
-Generated: 2026-07-17T19:00:05.742Z
+Generated: 2026-07-18T18:00:04.749Z
 
 Those IPs are not guaranteed to be tor nodes, but they were seen as tor nodes within the last 744 hours. Use at your own risk, This is NOT a abuse feed, This feed is made for sitemasters to detect traffic from tor nodes, this is the only purpose of this feed
 
 
 | ip | ipversion | firstseen | lastseen | continentcode | countrycode | city | ASN | rdns |
 |---|---|---|---|---|---|---|---|---|
+| 80.67.167.81 | 4 | 1698437927 | 1784397605 | EU | FR | Paris | 2027 | nosoignons.cust.milkywan.net |
+| 171.25.193.25 | 4 | 1698437927 | 1784397605 | EU | SE |  | 198093 | tor-exit-read-me.dfri.se |
 | 96.66.15.152 | 4 | 1698437953 | 1784311469 | NA | US | New Baltimore | 7922 | 96-66-15-152-static.hfc.comcastbusiness.net |
 | 96.44.159.148 | 4 | 1780419826 | 1784311469 | NA | CA | Toronto | 8100 |  |
 | 96.44.154.224 | 4 | 1780193037 | 1784311469 | NA | CA | Toronto | 8100 |  |
@@ -118,7 +120,6 @@ Those IPs are not guaranteed to be tor nodes, but they were seen as tor nodes wi
 | 80.94.92.92 | 4 | 1731391403 | 1784311461 | EU | RO |  | 47890 |  |
 | 80.82.76.41 | 4 | 1783199060 | 1784311461 | EU | NL | Amsterdam | 202425 | 41.76.82.80.in-addr.arpa |
 | 80.67.172.162 | 4 | 1698437978 | 1784311461 | EU | FR |  | 20766 | algrothendieck.nos-oignons.net |
-| 80.67.167.81 | 4 | 1698437927 | 1784311461 | EU | FR | Paris | 2027 | nosoignons.cust.milkywan.net |
 | 80.251.153.113 | 4 | 1783692100 | 1784311461 | EU | NL | Amsterdam | 206264 |  |
 | 80.241.60.207 | 4 | 1698437948 | 1784311461 | EU | DE | Berlin | 199118 | tor.mailbox.org |
 | 8.215.52.126 | 4 | 1762920241 | 1784311461 | AS | ID | Jakarta | 45102 |  |
@@ -2068,7 +2069,6 @@ Those IPs are not guaranteed to be tor nodes, but they were seen as tor nodes wi
 | 171.25.193.37 | 4 | 1752537709 | 1784311326 | EU | SE |  | 198093 | mesh11.dfri.se |
 | 171.25.193.36 | 4 | 1752541464 | 1784311326 | EU | SE |  | 198093 | mesh10.dfri.se |
 | 171.25.193.35 | 4 | 1752541464 | 1784311326 | EU | SE |  | 198093 | mesh10.dfri.se |
-| 171.25.193.25 | 4 | 1698437927 | 1784311326 | EU | SE |  | 198093 | tor-exit-read-me.dfri.se |
 | 171.25.193.235 | 4 | 1698437959 | 1784311326 | EU | SE |  | 198093 | tor-exit-read-me.dfri.se |
 | 171.25.193.234 | 4 | 1698437953 | 1784311326 | EU | SE |  | 198093 | tor-exit-read-me.dfri.se |
 | 171.25.193.20 | 4 | 1698437965 | 1784311325 | EU | SE |  | 198093 | tor-exit-read-me.dfri.se |
@@ -2790,23 +2790,4 @@ Those IPs are not guaranteed to be tor nodes, but they were seen as tor nodes wi
 | 150.40.126.168 | 4 | 1778684510 | 1781748010 | EU | RS | Belgrade |  | vps26105.maxko-hosting.net |
 | 41.230.178.124 | 4 | 1781723034 | 1781733815 | AF | TN | Tunis | 37705 |  |
 | 186.136.91.133 | 4 | 1781643734 | 1781730134 | SA | AR | Villa Ballester | 7303 | 133-91-136-186.fibertel.com.ar |
-| 2a02:6f8:2020:206:b::193 | 6 | 1781600588 | 1781715782 | EU | GB |  | 39287 | c6a7cec1.vpn.njalla.net |
-| 64.69.40.75 | 4 | 1778803367 | 1781697675 | NA | US | Los Angeles | 35916 |  |
-| 2a01:239:2c3:fb00::1 | 6 | 1781625782 | 1781690584 | EU | DE |  | 6724 |  |
-| 2a0e:bfc7:300:66::52be | 6 | 1778721030 | 1781676210 | EU | RS | Belgrade | 211619 |  |
-| 190.229.208.14 | 4 | 1781582533 | 1781672533 | SA | AR | Morón | 7303 | host14.190-229-208.telecom.net.ar |
-| 2.27.63.137 | 4 | 1780570940 | 1781672489 | NA | US |  | 12576 |  |
-| 45.135.193.117 | 4 | 1777557811 | 1781661816 | EU | DE | Langen |  | 45.135.193.117.ptr.pfcloud.network |
-| 2a14:7c2:12cd::50b5:8cff:fe08:512a | 6 | 1777554206 | 1781661812 | EU | DE | Langen |  | 2a14-07c2-12cd-0000-50b5-8cff-fe08-512a.ptr6.pfcloud.network |
-| 197.0.151.213 | 4 | 1781654538 | 1781661736 | AF | TN | Mennzel Bou Zelfa | 37705 |  |
-| 186.57.53.94 | 4 | 1781647335 | 1781661731 | SA | AR | Ezeiza | 22927 | 186-57-53-94.mrse.com.ar |
-| 84.52.43.49 | 4 | 1781323433 | 1781661681 | EU | EE | Tallinn | 8728 | sa-84-52-43-49.saturn.infonet.ee |
-| 84.52.19.43 | 4 | 1781449429 | 1781661681 | EU | EE | Tallinn | 8728 | sa-84-52-19-43.saturn.infonet.ee |
-| 24.203.156.90 | 4 | 1779285769 | 1781658217 | NA | CA | Québec | 5769 | modemcable090.156-203-24.mc.videotron.ca |
-| 2602:f6f6:2:35cb::1 | 6 | 1775289780 | 1781650971 | NA | US |  |  |  |
-| 197.3.176.221 | 4 | 1781643739 | 1781650940 | AF | TN | Aryanah | 37705 |  |
-| 191.83.131.92 | 4 | 1781632932 | 1781650936 | SA | AR | Las Heras | 22927 | 191-83-131-92.mrse.com.ar |
-| 200.79.157.231 | 4 | 1781283743 | 1781643741 | NA | MX | Tijuana | 8151 | 200.79.157.231.dsl.dyn.telnor.net |
-| 2a02:810b:4483:b5c4::2 | 6 | 1781625784 | 1781636609 | EU | DE | Saarlouis | 3209 |  |
-| 197.14.228.10 | 4 | 1781600540 | 1781636560 | AF | TN | Korba | 2609 |  |
 
