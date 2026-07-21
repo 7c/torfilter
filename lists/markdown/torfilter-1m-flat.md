@@ -2,15 +2,22 @@
 # TORFilter
 Last seen within 744 hours
 
-Count : 2785
+Count : 2777
 
-Generated: 2026-07-20T19:00:06.091Z
+Generated: 2026-07-21T18:00:06.473Z
 
 Those IPs are not guaranteed to be tor nodes, but they were seen as tor nodes within the last 744 hours. Use at your own risk, This is NOT a abuse feed, This feed is made for sitemasters to detect traffic from tor nodes, this is the only purpose of this feed
 
 
 | ip | ipversion | firstseen | lastseen | continentcode | countrycode | city | ASN | rdns |
 |---|---|---|---|---|---|---|---|---|
+| 89.58.26.216 | 4 | 1698437927 | 1784656809 | EU | DE | Nuremberg | 197540 | NurembergTor78.quetzalcoatl-relays.org |
+| 80.67.167.81 | 4 | 1698437927 | 1784656809 | EU | FR | Paris | 2027 | nosoignons.cust.milkywan.net |
+| 5.45.102.93 | 4 | 1698437928 | 1784656809 | EU | DE | Nuremberg | 197540 | NurembergTor10.quetzalcoatl-relays.org |
+| 198.98.51.189 | 4 | 1698437927 | 1784656809 | NA | US | Staten Island | 53667 | tor.teitel.net |
+| 192.42.116.99 | 4 | 1771963494 | 1784656809 | EU | NL |  | 1101 |  |
+| 109.70.100.4 | 4 | 1698437928 | 1784656809 | EU | AT |  | 208323 | tor-exit-anonymizer.appliedprivacy.net |
+| 171.25.193.25 | 4 | 1698437927 | 1784656808 | EU | SE |  | 198093 | tor-exit-read-me.dfri.se |
 | 96.66.15.152 | 4 | 1698437953 | 1784570664 | NA | US | New Baltimore | 7922 | 96-66-15-152-static.hfc.comcastbusiness.net |
 | 96.44.159.148 | 4 | 1780419826 | 1784570664 | NA | CA | Toronto | 8100 |  |
 | 96.44.154.224 | 4 | 1780193037 | 1784570663 | NA | CA | Toronto | 8100 |  |
@@ -64,7 +71,6 @@ Those IPs are not guaranteed to be tor nodes, but they were seen as tor nodes wi
 | 91.132.144.59 | 4 | 1698437951 | 1784570660 | EU | DE | Nuremberg | 197540 | NurembergTor49.quetzalcoatl-relays.org |
 | 90.184.10.74 | 4 | 1783868666 | 1784570660 | EU | DK |  |  | x5ab80a4a.customers.hiper-net.dk |
 | 89.58.41.156 | 4 | 1698437929 | 1784570660 | EU | DE | Nuremberg | 197540 | NurembergTor79.quetzalcoatl-relays.org |
-| 89.58.26.216 | 4 | 1698437927 | 1784570660 | EU | DE | Nuremberg | 197540 | NurembergTor78.quetzalcoatl-relays.org |
 | 89.147.111.87 | 4 | 1709867578 | 1784570660 | EU | IS | Reykjavik | 44925 | vps-89-147-111-87.1984.is |
 | 89.147.110.82 | 4 | 1704589004 | 1784570660 | EU | IS | Reykjavik | 44925 | vps-89-147-110-82.1984.is |
 | 89.147.110.251 | 4 | 1774235033 | 1784570660 | EU | IS | Reykjavik | 44925 | vps-89-147-110-251.1984.is |
@@ -117,7 +123,6 @@ Those IPs are not guaranteed to be tor nodes, but they were seen as tor nodes wi
 | 80.94.92.92 | 4 | 1731391403 | 1784570656 | EU | RO |  | 47890 |  |
 | 80.82.76.41 | 4 | 1783199060 | 1784570656 | EU | NL | Amsterdam | 202425 | 41.76.82.80.in-addr.arpa |
 | 80.67.172.162 | 4 | 1698437978 | 1784570656 | EU | FR |  | 20766 | algrothendieck.nos-oignons.net |
-| 80.67.167.81 | 4 | 1698437927 | 1784570656 | EU | FR | Paris | 2027 | nosoignons.cust.milkywan.net |
 | 80.251.153.113 | 4 | 1783692100 | 1784570656 | EU | NL | Amsterdam | 206264 |  |
 | 80.241.60.207 | 4 | 1698437948 | 1784570656 | EU | DE | Berlin | 199118 | tor.mailbox.org |
 | 8.215.52.126 | 4 | 1762920241 | 1784570656 | AS | ID | Jakarta | 45102 |  |
@@ -189,7 +194,6 @@ Those IPs are not guaranteed to be tor nodes, but they were seen as tor nodes wi
 | 5.83.143.18 | 4 | 1774908251 | 1784570651 | EU | NL | Amsterdam | 12586 | 18.143.83.5.hosted-by.hypernex.cc |
 | 5.45.98.162 | 4 | 1698437993 | 1784570651 | EU | DE | Nuremberg | 197540 | NurembergTor13.quetzalcoatl-relays.org |
 | 5.45.104.176 | 4 | 1698437968 | 1784570651 | EU | DE | Nuremberg | 197540 | NurembergTor54.quetzalcoatl-relays.org |
-| 5.45.102.93 | 4 | 1698437928 | 1784570651 | EU | DE | Nuremberg | 197540 | NurembergTor10.quetzalcoatl-relays.org |
 | 5.44.252.164 | 4 | 1780841024 | 1784570651 | EU | UA |  | 3236 | mail.kars.zip |
 | 5.255.98.151 | 4 | 1698437994 | 1784570651 | EU | NL | Dronten | 60404 |  |
 | 5.255.127.222 | 4 | 1698437989 | 1784570651 | EU | NL | Dronten | 60404 |  |
@@ -1594,7 +1598,6 @@ Those IPs are not guaranteed to be tor nodes, but they were seen as tor nodes wi
 | 198.98.57.74 | 4 | 1737025385 | 1784570553 | NA | US | Staten Island | 53667 |  |
 | 198.98.57.151 | 4 | 1733767335 | 1784570553 | NA | US | Staten Island | 53667 |  |
 | 198.98.51.249 | 4 | 1709270153 | 1784570553 | NA | US | Staten Island | 53667 | tor-exit-http-readme.hackb.2mpd.com |
-| 198.98.51.189 | 4 | 1698437927 | 1784570553 | NA | US | Staten Island | 53667 | tor.teitel.net |
 | 198.98.50.199 | 4 | 1698437949 | 1784570553 | NA | US | Staten Island | 53667 | tor-exit.cyberjake.xyz |
 | 198.98.48.33 | 4 | 1698437969 | 1784570553 | NA | US | Staten Island | 53667 | sortie-tor.a-n-o-n-y-m-e.net |
 | 198.96.155.3 | 4 | 1698437939 | 1784570553 | NA | CA |  | 12093 | exit.tor.uwaterloo.ca |
@@ -2020,7 +2023,6 @@ Those IPs are not guaranteed to be tor nodes, but they were seen as tor nodes wi
 | 171.25.193.37 | 4 | 1752537709 | 1784570523 | EU | SE |  | 198093 | mesh11.dfri.se |
 | 171.25.193.36 | 4 | 1752541464 | 1784570523 | EU | SE |  | 198093 | mesh10.dfri.se |
 | 171.25.193.35 | 4 | 1752541464 | 1784570523 | EU | SE |  | 198093 | mesh10.dfri.se |
-| 171.25.193.25 | 4 | 1698437927 | 1784570523 | EU | SE |  | 198093 | tor-exit-read-me.dfri.se |
 | 171.25.193.235 | 4 | 1698437959 | 1784570523 | EU | SE |  | 198093 | tor-exit-read-me.dfri.se |
 | 171.25.193.234 | 4 | 1698437953 | 1784570523 | EU | SE |  | 198093 | tor-exit-read-me.dfri.se |
 | 171.25.193.20 | 4 | 1698437965 | 1784570523 | EU | SE |  | 198093 | tor-exit-read-me.dfri.se |
@@ -2158,7 +2160,6 @@ Those IPs are not guaranteed to be tor nodes, but they were seen as tor nodes wi
 | 109.70.100.7 | 4 | 1698507086 | 1784570513 | EU | AT |  | 208323 | tor-exit-anonymizer.appliedprivacy.net |
 | 109.70.100.6 | 4 | 1698437933 | 1784570513 | EU | AT |  | 208323 | tor-exit-anonymizer.appliedprivacy.net |
 | 109.70.100.5 | 4 | 1698437945 | 1784570513 | EU | AT |  | 208323 | tor-exit-anonymizer.appliedprivacy.net |
-| 109.70.100.4 | 4 | 1698437928 | 1784570513 | EU | AT |  | 208323 | tor-exit-anonymizer.appliedprivacy.net |
 | 109.70.100.3 | 4 | 1698437949 | 1784570513 | EU | AT |  | 208323 | tor-exit-anonymizer.appliedprivacy.net |
 | 109.70.100.2 | 4 | 1698437931 | 1784570513 | EU | AT |  | 208323 | tor-exit-anonymizer.appliedprivacy.net |
 | 109.70.100.15 | 4 | 1698507086 | 1784570513 | EU | AT |  | 208323 | tor-exit-anonymizer.appliedprivacy.net |
@@ -2375,7 +2376,6 @@ Those IPs are not guaranteed to be tor nodes, but they were seen as tor nodes wi
 | 192.42.116.43 | 4 | 1771967050 | 1784570407 | EU | NL |  | 1101 |  |
 | 192.42.116.42 | 4 | 1771967050 | 1784570407 | EU | NL |  | 1101 |  |
 | 192.42.116.14 | 4 | 1698437977 | 1784570407 | EU | NL |  | 1101 | this-is-a-tor-exit-node-hviv114.hviv.nl |
-| 192.42.116.99 | 4 | 1771963494 | 1784570406 | EU | NL |  | 1101 |  |
 | 192.42.116.44 | 4 | 1771967050 | 1784570406 | EU | NL |  | 1101 |  |
 | 192.42.116.12 | 4 | 1771956250 | 1784570406 | EU | NL |  | 1101 | hviv-bare.as1101.net |
 | 94.72.103.33 | 4 | 1729983829 | 1784397874 | EU | GB | Portsmouth | 41314 | sortie-tor.a-n-o-n-y-m-e.net |
@@ -2788,12 +2788,4 @@ Those IPs are not guaranteed to be tor nodes, but they were seen as tor nodes wi
 | 186.136.80.234 | 4 | 1777770585 | 1781992932 | SA | AR | Córdoba | 7303 | 234-80-136-186.fibertel.com.ar |
 | 203.12.31.101 | 4 | 1777903355 | 1781989291 | EU | NL | Amsterdam | 7545 |  |
 | 186.31.182.164 | 4 | 1781942533 | 1781985778 | SA | CO | Bogotá | 19429 | dynamic-186-31-182-164.dynamic.etb.net.co |
-| 198.167.206.130 | 4 | 1705309624 | 1781974863 | EU | SE |  | 39287 | c6a7ce82.vpn.njalla.net |
-| 41.62.103.118 | 4 | 1781949818 | 1781967813 | AF | TN | Tunis | 37705 |  |
-| 201.170.37.171 | 4 | 1781956945 | 1781960544 | NA | MX | Tijuana | 8151 | 201.170.37.171.dsl.dyn.telnor.net |
-| 200.79.152.164 | 4 | 1781737338 | 1781953338 | NA | MX | Tijuana | 8151 | 200.79.152.164.dsl.dyn.telnor.net |
-| 149.33.41.42 | 4 | 1781514104 | 1781942491 | EU | DE | Frankfurt am Main | 6079 |  |
-| 186.155.53.115 | 4 | 1781906535 | 1781938930 | SA | CO | Bogotá | 19429 | dynamic-186-155-53-115.dynamic.etb.net.co |
-| 203.12.31.99 | 4 | 1777312957 | 1781931687 | EU | NL | Amsterdam | 7545 |  |
-| 189.164.183.97 | 4 | 1781758931 | 1781917478 | NA | MX | San Andrés Cholula | 8151 | dsl-97-183-164-189-dynamic.prod-infinitum.com.mx |
 
