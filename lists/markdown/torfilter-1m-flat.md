@@ -2,9 +2,9 @@
 # TORFilter
 Last seen within 744 hours
 
-Count : 2825
+Count : 2824
 
-Generated: 2026-08-08T19:00:04.771Z
+Generated: 2026-08-08T23:00:06.043Z
 
 Those IPs are not guaranteed to be tor nodes, but they were seen as tor nodes within the last 744 hours. Use at your own risk, This is NOT a abuse feed, This feed is made for sitemasters to detect traffic from tor nodes, this is the only purpose of this feed
 
@@ -2835,5 +2835,4 @@ Those IPs are not guaranteed to be tor nodes, but they were seen as tor nodes wi
 | 2001:67c:e60:c0c:192:42:116:115 | 6 | 1782950549 | 1783562551 | EU | NL |  |  |  |
 | 2001:67c:e60:c0c:192:42:116:96 | 6 | 1771977876 | 1783562551 | EU | NL |  |  |  |
 | 93.113.25.90 | 4 | 1767564270 | 1783562473 | EU | RO | Orăştie | 9050 |  |
-| 46.180.14.112 | 4 | 1783461845 | 1783537460 | EU | RU | Kemerovo | 39927 |  |
 
