@@ -2,9 +2,9 @@
 # TORFilter
 Last seen within 744 hours
 
-Count : 2815
+Count : 2813
 
-Generated: 2026-08-09T12:00:04.886Z
+Generated: 2026-08-09T13:00:05.594Z
 
 Those IPs are not guaranteed to be tor nodes, but they were seen as tor nodes within the last 744 hours. Use at your own risk, This is NOT a abuse feed, This feed is made for sitemasters to detect traffic from tor nodes, this is the only purpose of this feed
 
@@ -2824,6 +2824,4 @@ Those IPs are not guaranteed to be tor nodes, but they were seen as tor nodes wi
 | 216.9.225.157 | 4 | 1767182589 | 1783623766 | NA | US |  | 208287 | static-216-9-225-157.whitelabelservices.us |
 | 186.134.222.144 | 4 | 1783310541 | 1783620147 | SA | AR | Paso del Rey | 22927 | 186-134-222-144.mrse.com.ar |
 | 198.167.206.151 | 4 | 1704370197 | 1783602059 | EU | SE |  | 39287 | c6a7ce97.vpn.njalla.net |
-| 2001:9b0:25e:1200::20e | 6 | 1782925343 | 1783598552 | EU | SE | Landvetter | 8473 |  |
-| 185.240.161.101 | 4 | 1783198946 | 1783598499 | EU | NL |  |  | abelohost-101.161.240.185.dedicated-ip.abelons.com |
 
