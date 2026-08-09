@@ -2,9 +2,9 @@
 # TORFilter
 Last seen within 744 hours
 
-Count : 2815
+Count : 2814
 
-Generated: 2026-08-09T22:00:03.999Z
+Generated: 2026-08-09T23:00:04.962Z
 
 Those IPs are not guaranteed to be tor nodes, but they were seen as tor nodes within the last 744 hours. Use at your own risk, This is NOT a abuse feed, This feed is made for sitemasters to detect traffic from tor nodes, this is the only purpose of this feed
 
@@ -2825,5 +2825,4 @@ Those IPs are not guaranteed to be tor nodes, but they were seen as tor nodes wi
 | 181.26.104.196 | 4 | 1783382528 | 1783663326 | SA | AR | Guernica | 22927 | 181-26-104-196.mrse.com.ar |
 | 2001:67c:e60:c0c:192:42:116:142 | 6 | 1771988586 | 1783659753 | EU | NL |  |  |  |
 | 2001:67c:e60:c0c:192:42:116:51 | 6 | 1771974277 | 1783638153 | EU | NL |  |  |  |
-| 86.165.126.91 | 4 | 1783616656 | 1783634656 | EU | GB | Gainsborough | 2856 | host86-165-126-91.range86-165.btcentralplus.com |
 
