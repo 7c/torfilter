@@ -2,9 +2,9 @@
 # TORFilter
 Last seen within 3 hours
 
-Count : 2326
+Count : 2319
 
-Generated: 2026-08-09T20:00:05.898Z
+Generated: 2026-08-09T21:00:04.934Z
 
 Those IPs are not guaranteed to be tor nodes, but they were seen as tor nodes within the last 3 hours. Use at your own risk, This is NOT a abuse feed, This feed is made for sitemasters to detect traffic from tor nodes, this is the only purpose of this feed
 
@@ -2330,11 +2330,4 @@ Those IPs are not guaranteed to be tor nodes, but they were seen as tor nodes wi
 | 192.42.116.46 | 4 | 1771967051 | 1786298408 | EU | NL |  | 1101 |  |
 | 192.42.116.43 | 4 | 1771967050 | 1786298408 | EU | NL |  | 1101 |  |
 | 192.42.116.15 | 4 | 1698437950 | 1786298408 | EU | NL |  | 1101 | this-is-a-tor-exit-node-hviv115.hviv.nl |
-| 192.42.116.92 | 4 | 1771963493 | 1786298407 | EU | NL |  | 1101 |  |
-| 192.42.116.50 | 4 | 1771967051 | 1786298407 | EU | NL |  | 1101 |  |
-| 192.42.116.42 | 4 | 1771967050 | 1786298407 | EU | NL |  | 1101 |  |
-| 192.42.116.14 | 4 | 1698437977 | 1786298407 | EU | NL |  | 1101 | this-is-a-tor-exit-node-hviv114.hviv.nl |
-| 192.42.116.99 | 4 | 1771963494 | 1786298406 | EU | NL |  | 1101 |  |
-| 192.42.116.44 | 4 | 1771967050 | 1786298406 | EU | NL |  | 1101 |  |
-| 192.42.116.12 | 4 | 1771956250 | 1786298406 | EU | NL |  | 1101 | hviv-bare.as1101.net |
 
