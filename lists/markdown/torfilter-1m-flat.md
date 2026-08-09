@@ -2,9 +2,9 @@
 # TORFilter
 Last seen within 744 hours
 
-Count : 2813
+Count : 2812
 
-Generated: 2026-08-09T13:00:05.594Z
+Generated: 2026-08-09T14:00:03.668Z
 
 Those IPs are not guaranteed to be tor nodes, but they were seen as tor nodes within the last 744 hours. Use at your own risk, This is NOT a abuse feed, This feed is made for sitemasters to detect traffic from tor nodes, this is the only purpose of this feed
 
@@ -2823,5 +2823,4 @@ Those IPs are not guaranteed to be tor nodes, but they were seen as tor nodes wi
 | 108.181.115.201 | 4 | 1783087304 | 1783623813 | NA | US | Los Angeles | 40676 |  |
 | 216.9.225.157 | 4 | 1767182589 | 1783623766 | NA | US |  | 208287 | static-216-9-225-157.whitelabelservices.us |
 | 186.134.222.144 | 4 | 1783310541 | 1783620147 | SA | AR | Paso del Rey | 22927 | 186-134-222-144.mrse.com.ar |
-| 198.167.206.151 | 4 | 1704370197 | 1783602059 | EU | SE |  | 39287 | c6a7ce97.vpn.njalla.net |
 
