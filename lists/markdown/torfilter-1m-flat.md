@@ -2,9 +2,9 @@
 # TORFilter
 Last seen within 744 hours
 
-Count : 2824
+Count : 2821
 
-Generated: 2026-08-09T02:00:05.445Z
+Generated: 2026-08-09T03:00:06.907Z
 
 Those IPs are not guaranteed to be tor nodes, but they were seen as tor nodes within the last 744 hours. Use at your own risk, This is NOT a abuse feed, This feed is made for sitemasters to detect traffic from tor nodes, this is the only purpose of this feed
 
@@ -2832,7 +2832,4 @@ Those IPs are not guaranteed to be tor nodes, but they were seen as tor nodes wi
 | 2001:41d0:2:4fa4::1 | 6 | 1781060548 | 1783573351 | EU | FR |  | 16276 |  |
 | 93.113.25.160 | 4 | 1768871851 | 1783569686 | EU | RO | Orăştie | 9050 |  |
 | 201.83.242.7 | 4 | 1771550103 | 1783566157 | SA | BR | São Paulo | 28573 | c953f207.virtua.com.br |
-| 2001:67c:e60:c0c:192:42:116:115 | 6 | 1782950549 | 1783562551 | EU | NL |  |  |  |
-| 2001:67c:e60:c0c:192:42:116:96 | 6 | 1771977876 | 1783562551 | EU | NL |  |  |  |
-| 93.113.25.90 | 4 | 1767564270 | 1783562473 | EU | RO | Orăştie | 9050 |  |
 
