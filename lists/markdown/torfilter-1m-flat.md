@@ -2,9 +2,9 @@
 # TORFilter
 Last seen within 744 hours
 
-Count : 2810
+Count : 2804
 
-Generated: 2026-08-10T14:00:05.318Z
+Generated: 2026-08-10T15:00:06.099Z
 
 Those IPs are not guaranteed to be tor nodes, but they were seen as tor nodes within the last 744 hours. Use at your own risk, This is NOT a abuse feed, This feed is made for sitemasters to detect traffic from tor nodes, this is the only purpose of this feed
 
@@ -2815,10 +2815,4 @@ Those IPs are not guaranteed to be tor nodes, but they were seen as tor nodes wi
 | 94.23.204.164 | 4 | 1781060643 | 1783737185 | EU | FR |  | 16276 | ns3040214.ip-94-23-204.eu |
 | 181.97.196.9 | 4 | 1783722332 | 1783729773 | SA | AR | Río Tercero | 7303 | host9.181-97-196.telecom.net.ar |
 | 198.167.206.166 | 4 | 1704373826 | 1783695660 | EU | SE |  | 39287 | c6a7cea6.vpn.njalla.net |
-| 2001:67c:e60:c0c:192:42:116:114 | 6 | 1782950549 | 1783692150 | EU | NL |  |  |  |
-| 2001:67c:e60:c0c:192:42:116:109 | 6 | 1782846157 | 1783692150 | EU | NL |  |  |  |
-| 2001:67c:e60:c0c:192:42:116:101 | 6 | 1772013878 | 1783692150 | EU | NL |  |  |  |
-| 2001:67c:e60:c0c:192:42:116:94 | 6 | 1771977876 | 1783692150 | EU | NL |  |  |  |
-| 2001:67c:e60:c0c:192:42:116:92 | 6 | 1771977875 | 1783692150 | EU | NL |  |  |  |
-| 2001:67c:e60:c0c:192:42:116:60 | 6 | 1777564959 | 1783692150 | EU | NL |  |  |  |
 
