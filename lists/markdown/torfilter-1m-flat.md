@@ -2,9 +2,9 @@
 # TORFilter
 Last seen within 744 hours
 
-Count : 2804
+Count : 2803
 
-Generated: 2026-08-10T15:00:06.099Z
+Generated: 2026-08-10T16:00:05.457Z
 
 Those IPs are not guaranteed to be tor nodes, but they were seen as tor nodes within the last 744 hours. Use at your own risk, This is NOT a abuse feed, This feed is made for sitemasters to detect traffic from tor nodes, this is the only purpose of this feed
 
@@ -2814,5 +2814,4 @@ Those IPs are not guaranteed to be tor nodes, but they were seen as tor nodes wi
 | 23.184.48.78 | 4 | 1732428150 | 1783748216 | NA | US | Liberty Lake | 210630 | tor-exit-relay2.0xmiska.com |
 | 94.23.204.164 | 4 | 1781060643 | 1783737185 | EU | FR |  | 16276 | ns3040214.ip-94-23-204.eu |
 | 181.97.196.9 | 4 | 1783722332 | 1783729773 | SA | AR | Río Tercero | 7303 | host9.181-97-196.telecom.net.ar |
-| 198.167.206.166 | 4 | 1704373826 | 1783695660 | EU | SE |  | 39287 | c6a7cea6.vpn.njalla.net |
 
