@@ -2,9 +2,9 @@
 # TORFilter
 Last seen within 744 hours
 
-Count : 2811
+Count : 2810
 
-Generated: 2026-08-10T12:00:06.634Z
+Generated: 2026-08-10T13:00:04.533Z
 
 Those IPs are not guaranteed to be tor nodes, but they were seen as tor nodes within the last 744 hours. Use at your own risk, This is NOT a abuse feed, This feed is made for sitemasters to detect traffic from tor nodes, this is the only purpose of this feed
 
@@ -2821,5 +2821,4 @@ Those IPs are not guaranteed to be tor nodes, but they were seen as tor nodes wi
 | 2001:67c:e60:c0c:192:42:116:94 | 6 | 1771977876 | 1783692150 | EU | NL |  |  |  |
 | 2001:67c:e60:c0c:192:42:116:92 | 6 | 1771977875 | 1783692150 | EU | NL |  |  |  |
 | 2001:67c:e60:c0c:192:42:116:60 | 6 | 1777564959 | 1783692150 | EU | NL |  |  |  |
-| 185.117.88.34 | 4 | 1783252926 | 1783684901 | EU | SE | Stockholm | 59711 |  |
 
