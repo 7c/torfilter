@@ -2,9 +2,9 @@
 # TORFilter
 Last seen within 744 hours
 
-Count : 2798
+Count : 2797
 
-Generated: 2026-08-11T11:00:06.164Z
+Generated: 2026-08-11T12:00:04.440Z
 
 Those IPs are not guaranteed to be tor nodes, but they were seen as tor nodes within the last 744 hours. Use at your own risk, This is NOT a abuse feed, This feed is made for sitemasters to detect traffic from tor nodes, this is the only purpose of this feed
 
@@ -2808,5 +2808,4 @@ Those IPs are not guaranteed to be tor nodes, but they were seen as tor nodes wi
 | 23.137.248.100 | 4 | 1698437978 | 1783774981 | EU | NL | Amsterdam | 210630 | tor-exit.yangwenli.anondns.net |
 | 191.84.237.58 | 4 | 1783472687 | 1783774950 | SA | AR | La Plata | 22927 |  |
 | 104.36.80.7 | 4 | 1754798485 | 1783774912 | EU | NL | Amsterdam | 20150 |  |
-| 2605:6400:30:f8da:2b2:a293:30ad:506d | 6 | 1698438288 | 1783770656 | EU | CH | Bern | 53667 | tor-exit-node-46344-l-6.supermegaultra.xyz |
 
