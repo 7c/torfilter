@@ -2,9 +2,9 @@
 # TORFilter
 Last seen within 744 hours
 
-Count : 2800
+Count : 2799
 
-Generated: 2026-08-11T21:00:07.224Z
+Generated: 2026-08-11T22:00:06.209Z
 
 Those IPs are not guaranteed to be tor nodes, but they were seen as tor nodes within the last 744 hours. Use at your own risk, This is NOT a abuse feed, This feed is made for sitemasters to detect traffic from tor nodes, this is the only purpose of this feed
 
@@ -2810,5 +2810,4 @@ Those IPs are not guaranteed to be tor nodes, but they were seen as tor nodes wi
 | 190.49.55.210 | 4 | 1783820573 | 1783825349 | SA | AR | Lanus | 22927 | 190-49-55-210.mrse.com.ar |
 | 181.45.212.201 | 4 | 1779559317 | 1783821726 | SA | AR | Ituzaingo | 27747 | cpe-181-45-212-201.telecentro-reversos.com.ar |
 | 2a07:2486:400f::9 | 6 | 1783256619 | 1783814620 | EU | DE |  |  |  |
-| 184.75.221.107 | 4 | 1722189692 | 1783807035 | NA | CA |  | 32489 | mojeooffers.net |
 
