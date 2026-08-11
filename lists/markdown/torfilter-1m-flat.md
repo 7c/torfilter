@@ -2,9 +2,9 @@
 # TORFilter
 Last seen within 744 hours
 
-Count : 2797
+Count : 2792
 
-Generated: 2026-08-11T13:00:05.232Z
+Generated: 2026-08-11T14:00:05.365Z
 
 Those IPs are not guaranteed to be tor nodes, but they were seen as tor nodes within the last 744 hours. Use at your own risk, This is NOT a abuse feed, This feed is made for sitemasters to detect traffic from tor nodes, this is the only purpose of this feed
 
@@ -2803,9 +2803,4 @@ Those IPs are not guaranteed to be tor nodes, but they were seen as tor nodes wi
 | 184.75.221.107 | 4 | 1722189692 | 1783807035 | NA | CA |  | 32489 | mojeooffers.net |
 | 68.183.21.96 | 4 | 1783278282 | 1783790284 | NA | US | North Bergen | 14061 |  |
 | 144.202.114.50 | 4 | 1783062044 | 1783790280 | NA | US | Los Angeles | 20473 | 144.202.114.50.vultrusercontent.com |
-| 198.167.206.185 | 4 | 1759770138 | 1783775740 | EU | SE |  | 39287 | c6a7ceb9.vpn.njalla.net |
-| 2602:fc24:12:81a6::1 | 6 | 1698438281 | 1783774995 | EU | NL | Amsterdam | 210630 |  |
-| 23.137.248.100 | 4 | 1698437978 | 1783774981 | EU | NL | Amsterdam | 210630 | tor-exit.yangwenli.anondns.net |
-| 191.84.237.58 | 4 | 1783472687 | 1783774950 | SA | AR | La Plata | 22927 |  |
-| 104.36.80.7 | 4 | 1754798485 | 1783774912 | EU | NL | Amsterdam | 20150 |  |
 
