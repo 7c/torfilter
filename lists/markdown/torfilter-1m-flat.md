@@ -2,9 +2,9 @@
 # TORFilter
 Last seen within 744 hours
 
-Count : 2792
+Count : 2790
 
-Generated: 2026-08-11T17:00:04.001Z
+Generated: 2026-08-11T18:00:05.761Z
 
 Those IPs are not guaranteed to be tor nodes, but they were seen as tor nodes within the last 744 hours. Use at your own risk, This is NOT a abuse feed, This feed is made for sitemasters to detect traffic from tor nodes, this is the only purpose of this feed
 
@@ -2801,6 +2801,4 @@ Those IPs are not guaranteed to be tor nodes, but they were seen as tor nodes wi
 | 181.45.212.201 | 4 | 1779559317 | 1783821726 | SA | AR | Ituzaingo | 27747 | cpe-181-45-212-201.telecentro-reversos.com.ar |
 | 2a07:2486:400f::9 | 6 | 1783256619 | 1783814620 | EU | DE |  |  |  |
 | 184.75.221.107 | 4 | 1722189692 | 1783807035 | NA | CA |  | 32489 | mojeooffers.net |
-| 68.183.21.96 | 4 | 1783278282 | 1783790284 | NA | US | North Bergen | 14061 |  |
-| 144.202.114.50 | 4 | 1783062044 | 1783790280 | NA | US | Los Angeles | 20473 | 144.202.114.50.vultrusercontent.com |
 
