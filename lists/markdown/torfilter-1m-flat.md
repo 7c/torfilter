@@ -2,9 +2,9 @@
 # TORFilter
 Last seen within 744 hours
 
-Count : 2805
+Count : 2804
 
-Generated: 2026-08-11T02:00:05.940Z
+Generated: 2026-08-11T03:00:04.687Z
 
 Those IPs are not guaranteed to be tor nodes, but they were seen as tor nodes within the last 744 hours. Use at your own risk, This is NOT a abuse feed, This feed is made for sitemasters to detect traffic from tor nodes, this is the only purpose of this feed
 
@@ -2815,5 +2815,4 @@ Those IPs are not guaranteed to be tor nodes, but they were seen as tor nodes wi
 | 186.134.215.210 | 4 | 1783737247 | 1783755808 | SA | AR | Moreno | 22927 | 186-134-215-210.mrse.com.ar |
 | 185.130.45.73 | 4 | 1783580525 | 1783755764 | EU | SE | Stockholm | 210083 | 185.130.45.73.static.privex.cc |
 | 23.184.48.78 | 4 | 1732428150 | 1783748216 | NA | US | Liberty Lake | 210630 | tor-exit-relay2.0xmiska.com |
-| 94.23.204.164 | 4 | 1781060643 | 1783737185 | EU | FR |  | 16276 | ns3040214.ip-94-23-204.eu |
 
