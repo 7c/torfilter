@@ -2,9 +2,9 @@
 # TORFilter
 Last seen within 744 hours
 
-Count : 2793
+Count : 2792
 
-Generated: 2026-08-12T16:00:04.844Z
+Generated: 2026-08-12T17:00:06.737Z
 
 Those IPs are not guaranteed to be tor nodes, but they were seen as tor nodes within the last 744 hours. Use at your own risk, This is NOT a abuse feed, This feed is made for sitemasters to detect traffic from tor nodes, this is the only purpose of this feed
 
@@ -2803,5 +2803,4 @@ Those IPs are not guaranteed to be tor nodes, but they were seen as tor nodes wi
 | 185.125.171.72 | 4 | 1764954136 | 1783900767 | EU | NO | Sandefjord | 56655 | fenris-torexit-01.norse.work |
 | 186.134.217.25 | 4 | 1783623862 | 1783886596 | SA | AR | Moreno | 22927 | 186-134-217-25.mrse.com.ar |
 | 191.84.226.204 | 4 | 1783774950 | 1783884512 | SA | AR | La Plata | 22927 |  |
-| 190.55.27.108 | 4 | 1783461746 | 1783872149 | SA | AR | Burzaco | 27747 | cpe-190-55-27-108.telecentro-reversos.com.ar |
 
