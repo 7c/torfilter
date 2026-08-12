@@ -2,9 +2,9 @@
 # TORFilter
 Last seen within 744 hours
 
-Count : 2792
+Count : 2791
 
-Generated: 2026-08-12T20:00:05.117Z
+Generated: 2026-08-12T21:00:05.527Z
 
 Those IPs are not guaranteed to be tor nodes, but they were seen as tor nodes within the last 744 hours. Use at your own risk, This is NOT a abuse feed, This feed is made for sitemasters to detect traffic from tor nodes, this is the only purpose of this feed
 
@@ -2802,5 +2802,4 @@ Those IPs are not guaranteed to be tor nodes, but they were seen as tor nodes wi
 | 2a03:94e0:ffff:194:32:107::231 | 6 | 1768493197 | 1783900853 | EU | NO | Sandefjord | 56655 |  |
 | 2a03:94e0:ffff:185:125:171::72 | 6 | 1764954206 | 1783900852 | EU | NO | Sandefjord | 56655 | fenris-torexit-01.norse.work |
 | 185.125.171.72 | 4 | 1764954136 | 1783900767 | EU | NO | Sandefjord | 56655 | fenris-torexit-01.norse.work |
-| 186.134.217.25 | 4 | 1783623862 | 1783886596 | SA | AR | Moreno | 22927 | 186-134-217-25.mrse.com.ar |
 
