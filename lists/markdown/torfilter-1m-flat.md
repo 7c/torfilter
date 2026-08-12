@@ -2,9 +2,9 @@
 # TORFilter
 Last seen within 744 hours
 
-Count : 2796
+Count : 2794
 
-Generated: 2026-08-12T04:00:05.750Z
+Generated: 2026-08-12T05:00:05.299Z
 
 Those IPs are not guaranteed to be tor nodes, but they were seen as tor nodes within the last 744 hours. Use at your own risk, This is NOT a abuse feed, This feed is made for sitemasters to detect traffic from tor nodes, this is the only purpose of this feed
 
@@ -2805,6 +2805,4 @@ Those IPs are not guaranteed to be tor nodes, but they were seen as tor nodes wi
 | 191.84.226.204 | 4 | 1783774950 | 1783884512 | SA | AR | La Plata | 22927 |  |
 | 190.55.27.108 | 4 | 1783461746 | 1783872149 | SA | AR | Burzaco | 27747 | cpe-190-55-27-108.telecentro-reversos.com.ar |
 | 2001:9b0:25f:fb00::20e | 6 | 1783764157 | 1783836154 | EU | SE | Landvetter | 8473 |  |
-| 2602:fc24:19:524::1 | 6 | 1736532138 | 1783830889 | NA | US |  | 210630 |  |
-| 181.26.88.52 | 4 | 1783725982 | 1783828925 | SA | AR | Guernica | 22927 | 181-26-88-52.mrse.com.ar |
 
