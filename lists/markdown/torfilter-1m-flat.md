@@ -2,9 +2,9 @@
 # TORFilter
 Last seen within 744 hours
 
-Count : 2798
+Count : 2797
 
-Generated: 2026-08-12T02:00:06.063Z
+Generated: 2026-08-12T03:00:07.559Z
 
 Those IPs are not guaranteed to be tor nodes, but they were seen as tor nodes within the last 744 hours. Use at your own risk, This is NOT a abuse feed, This feed is made for sitemasters to detect traffic from tor nodes, this is the only purpose of this feed
 
@@ -2808,5 +2808,4 @@ Those IPs are not guaranteed to be tor nodes, but they were seen as tor nodes wi
 | 2602:fc24:19:524::1 | 6 | 1736532138 | 1783830889 | NA | US |  | 210630 |  |
 | 181.26.88.52 | 4 | 1783725982 | 1783828925 | SA | AR | Guernica | 22927 | 181-26-88-52.mrse.com.ar |
 | 190.49.55.210 | 4 | 1783820573 | 1783825349 | SA | AR | Lanus | 22927 | 190-49-55-210.mrse.com.ar |
-| 181.45.212.201 | 4 | 1779559317 | 1783821726 | SA | AR | Ituzaingo | 27747 | cpe-181-45-212-201.telecentro-reversos.com.ar |
 
