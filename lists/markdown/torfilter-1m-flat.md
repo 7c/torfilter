@@ -2,9 +2,9 @@
 # TORFilter
 Last seen within 744 hours
 
-Count : 2797
+Count : 2796
 
-Generated: 2026-08-12T03:00:07.559Z
+Generated: 2026-08-12T04:00:05.750Z
 
 Those IPs are not guaranteed to be tor nodes, but they were seen as tor nodes within the last 744 hours. Use at your own risk, This is NOT a abuse feed, This feed is made for sitemasters to detect traffic from tor nodes, this is the only purpose of this feed
 
@@ -2807,5 +2807,4 @@ Those IPs are not guaranteed to be tor nodes, but they were seen as tor nodes wi
 | 2001:9b0:25f:fb00::20e | 6 | 1783764157 | 1783836154 | EU | SE | Landvetter | 8473 |  |
 | 2602:fc24:19:524::1 | 6 | 1736532138 | 1783830889 | NA | US |  | 210630 |  |
 | 181.26.88.52 | 4 | 1783725982 | 1783828925 | SA | AR | Guernica | 22927 | 181-26-88-52.mrse.com.ar |
-| 190.49.55.210 | 4 | 1783820573 | 1783825349 | SA | AR | Lanus | 22927 | 190-49-55-210.mrse.com.ar |
 
