@@ -2,9 +2,9 @@
 # TORFilter
 Last seen within 744 hours
 
-Count : 2779
+Count : 2777
 
-Generated: 2026-08-13T16:00:05.531Z
+Generated: 2026-08-13T17:00:04.347Z
 
 Those IPs are not guaranteed to be tor nodes, but they were seen as tor nodes within the last 744 hours. Use at your own risk, This is NOT a abuse feed, This feed is made for sitemasters to detect traffic from tor nodes, this is the only purpose of this feed
 
@@ -2788,6 +2788,4 @@ Those IPs are not guaranteed to be tor nodes, but they were seen as tor nodes wi
 | 2a0e:bfc7::461e:a1ff:fe60:d778 | 6 | 1783695836 | 1783987428 | EU | BG | Sofia | 211619 |  |
 | 2a09:61c0::25 | 6 | 1763521410 | 1783978154 | EU | NL |  |  |  |
 | 195.123.4.8 | 4 | 1783260145 | 1783978042 | EU | DE |  |  |  |
-| 201.253.89.91 | 4 | 1783905800 | 1783958553 | SA | AR | Pilar | 7303 | host91.201-253-89.telecom.net.ar |
-| 198.167.206.199 | 4 | 1741971735 | 1783958458 | EU | SE |  | 39287 | c6a7cec7.vpn.njalla.net |
 
