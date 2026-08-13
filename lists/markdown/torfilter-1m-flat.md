@@ -2,9 +2,9 @@
 # TORFilter
 Last seen within 744 hours
 
-Count : 2788
+Count : 2783
 
-Generated: 2026-08-13T03:00:07.398Z
+Generated: 2026-08-13T04:00:04.323Z
 
 Those IPs are not guaranteed to be tor nodes, but they were seen as tor nodes within the last 744 hours. Use at your own risk, This is NOT a abuse feed, This feed is made for sitemasters to detect traffic from tor nodes, this is the only purpose of this feed
 
@@ -2794,9 +2794,4 @@ Those IPs are not guaranteed to be tor nodes, but they were seen as tor nodes wi
 | 31.44.238.25 | 4 | 1739869382 | 1783937093 | EU | SE | Vaxjo | 35100 |  |
 | 107.189.14.43 | 4 | 1698437978 | 1783933295 | EU | LU | Luxembourg | 53667 | tor-exit-node-46344-l.supermegaultra.xyz |
 | 191.83.138.205 | 4 | 1783468947 | 1783918874 | SA | AR | Las Heras | 22927 | 191-83-138-205.mrse.com.ar |
-| 103.247.61.20 | 4 | 1776081700 | 1783912128 | AS | TH |  | 55423 |  |
-| 23.137.253.254 | 4 | 1736532133 | 1783912097 | NA | US |  | 210630 |  |
-| 185.220.101.167 | 4 | 1698438596 | 1783912074 | EU | DE | Brandenburg an der Havel | 60729 | tor-exit-167.relayon.org |
-| 185.220.101.138 | 4 | 1698438011 | 1783912053 | EU | DE | Brandenburg an der Havel | 60729 | tor-exit-138.relayon.org |
-| 2a01:4f8:10a:3e12::2 | 6 | 1783199017 | 1783911812 | EU | DE | Falkenstein | 24940 |  |
 
