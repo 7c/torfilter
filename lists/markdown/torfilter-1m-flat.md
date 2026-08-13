@@ -2,9 +2,9 @@
 # TORFilter
 Last seen within 744 hours
 
-Count : 2783
+Count : 2782
 
-Generated: 2026-08-13T05:00:05.642Z
+Generated: 2026-08-13T06:00:03.777Z
 
 Those IPs are not guaranteed to be tor nodes, but they were seen as tor nodes within the last 744 hours. Use at your own risk, This is NOT a abuse feed, This feed is made for sitemasters to detect traffic from tor nodes, this is the only purpose of this feed
 
@@ -2793,5 +2793,4 @@ Those IPs are not guaranteed to be tor nodes, but they were seen as tor nodes wi
 | 185.191.239.49 | 4 | 1753290096 | 1783954930 | EU | CH |  | 264617 |  |
 | 31.44.238.25 | 4 | 1739869382 | 1783937093 | EU | SE | Vaxjo | 35100 |  |
 | 107.189.14.43 | 4 | 1698437978 | 1783933295 | EU | LU | Luxembourg | 53667 | tor-exit-node-46344-l.supermegaultra.xyz |
-| 191.83.138.205 | 4 | 1783468947 | 1783918874 | SA | AR | Las Heras | 22927 | 191-83-138-205.mrse.com.ar |
 
