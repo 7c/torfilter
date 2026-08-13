@@ -2,9 +2,9 @@
 # TORFilter
 Last seen within 744 hours
 
-Count : 2782
+Count : 2781
 
-Generated: 2026-08-13T09:00:05.483Z
+Generated: 2026-08-13T10:00:05.181Z
 
 Those IPs are not guaranteed to be tor nodes, but they were seen as tor nodes within the last 744 hours. Use at your own risk, This is NOT a abuse feed, This feed is made for sitemasters to detect traffic from tor nodes, this is the only purpose of this feed
 
@@ -2792,5 +2792,4 @@ Those IPs are not guaranteed to be tor nodes, but they were seen as tor nodes wi
 | 198.167.206.199 | 4 | 1741971735 | 1783958458 | EU | SE |  | 39287 | c6a7cec7.vpn.njalla.net |
 | 185.191.239.49 | 4 | 1753290096 | 1783954930 | EU | CH |  | 264617 |  |
 | 31.44.238.25 | 4 | 1739869382 | 1783937093 | EU | SE | Vaxjo | 35100 |  |
-| 107.189.14.43 | 4 | 1698437978 | 1783933295 | EU | LU | Luxembourg | 53667 | tor-exit-node-46344-l.supermegaultra.xyz |
 
