@@ -2,9 +2,9 @@
 # TORFilter
 Last seen within 3 hours
 
-Count : 2244
+Count : 2226
 
-Generated: 2026-08-13T20:00:06.616Z
+Generated: 2026-08-13T21:00:06.557Z
 
 Those IPs are not guaranteed to be tor nodes, but they were seen as tor nodes within the last 3 hours. Use at your own risk, This is NOT a abuse feed, This feed is made for sitemasters to detect traffic from tor nodes, this is the only purpose of this feed
 
@@ -2237,22 +2237,4 @@ Those IPs are not guaranteed to be tor nodes, but they were seen as tor nodes wi
 | 192.42.116.47 | 4 | 1771967051 | 1786644009 | EU | NL |  | 1101 |  |
 | 192.42.116.45 | 4 | 1771967050 | 1786644009 | EU | NL |  | 1101 |  |
 | 192.42.116.100 | 4 | 1772017353 | 1786644009 | EU | NL |  | 1101 |  |
-| 192.42.116.93 | 4 | 1771963493 | 1786644008 | EU | NL |  | 1101 |  |
-| 192.42.116.51 | 4 | 1771967051 | 1786644008 | EU | NL |  | 1101 |  |
-| 192.42.116.49 | 4 | 1771967051 | 1786644008 | EU | NL |  | 1101 |  |
-| 192.42.116.48 | 4 | 1771967051 | 1786644008 | EU | NL |  | 1101 |  |
-| 192.42.116.46 | 4 | 1771967051 | 1786644008 | EU | NL |  | 1101 |  |
-| 192.42.116.15 | 4 | 1698437950 | 1786644008 | EU | NL |  | 1101 | this-is-a-tor-exit-node-hviv115.hviv.nl |
-| 192.42.116.13 | 4 | 1698437985 | 1786644008 | EU | NL |  | 1101 | this-is-a-tor-exit-node-hviv113.hviv.nl |
-| 192.42.116.102 | 4 | 1771963488 | 1786644008 | EU | NL |  | 1101 |  |
-| 192.42.116.95 | 4 | 1771963493 | 1786644007 | EU | NL |  | 1101 |  |
-| 192.42.116.94 | 4 | 1771963493 | 1786644007 | EU | NL |  | 1101 |  |
-| 192.42.116.92 | 4 | 1771963493 | 1786644007 | EU | NL |  | 1101 |  |
-| 192.42.116.50 | 4 | 1771967051 | 1786644007 | EU | NL |  | 1101 |  |
-| 192.42.116.43 | 4 | 1771967050 | 1786644007 | EU | NL |  | 1101 |  |
-| 192.42.116.42 | 4 | 1771967050 | 1786644007 | EU | NL |  | 1101 |  |
-| 192.42.116.14 | 4 | 1698437977 | 1786644007 | EU | NL |  | 1101 | this-is-a-tor-exit-node-hviv114.hviv.nl |
-| 192.42.116.99 | 4 | 1771963494 | 1786644006 | EU | NL |  | 1101 |  |
-| 192.42.116.44 | 4 | 1771967050 | 1786644006 | EU | NL |  | 1101 |  |
-| 192.42.116.12 | 4 | 1771956250 | 1786644006 | EU | NL |  | 1101 | hviv-bare.as1101.net |
 
