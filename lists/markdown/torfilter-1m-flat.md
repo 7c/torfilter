@@ -2,9 +2,9 @@
 # TORFilter
 Last seen within 744 hours
 
-Count : 2790
+Count : 2788
 
-Generated: 2026-08-13T00:00:06.330Z
+Generated: 2026-08-13T01:00:04.567Z
 
 Those IPs are not guaranteed to be tor nodes, but they were seen as tor nodes within the last 744 hours. Use at your own risk, This is NOT a abuse feed, This feed is made for sitemasters to detect traffic from tor nodes, this is the only purpose of this feed
 
@@ -2799,6 +2799,4 @@ Those IPs are not guaranteed to be tor nodes, but they were seen as tor nodes wi
 | 185.220.101.167 | 4 | 1698438596 | 1783912074 | EU | DE | Brandenburg an der Havel | 60729 | tor-exit-167.relayon.org |
 | 185.220.101.138 | 4 | 1698438011 | 1783912053 | EU | DE | Brandenburg an der Havel | 60729 | tor-exit-138.relayon.org |
 | 2a01:4f8:10a:3e12::2 | 6 | 1783199017 | 1783911812 | EU | DE | Falkenstein | 24940 |  |
-| 2a03:94e0:ffff:194:32:107::231 | 6 | 1768493197 | 1783900853 | EU | NO | Sandefjord | 56655 |  |
-| 2a03:94e0:ffff:185:125:171::72 | 6 | 1764954206 | 1783900852 | EU | NO | Sandefjord | 56655 | fenris-torexit-01.norse.work |
 
