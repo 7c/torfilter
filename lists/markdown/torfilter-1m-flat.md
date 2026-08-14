@@ -2,9 +2,9 @@
 # TORFilter
 Last seen within 744 hours
 
-Count : 2789
+Count : 2788
 
-Generated: 2026-08-14T00:00:08.371Z
+Generated: 2026-08-14T01:00:04.864Z
 
 Those IPs are not guaranteed to be tor nodes, but they were seen as tor nodes within the last 744 hours. Use at your own risk, This is NOT a abuse feed, This feed is made for sitemasters to detect traffic from tor nodes, this is the only purpose of this feed
 
@@ -2799,5 +2799,4 @@ Those IPs are not guaranteed to be tor nodes, but they were seen as tor nodes wi
 | 180.149.44.109 | 4 | 1773936112 | 1784005281 | AS | AZ | Baku | 202422 | jegir72868.example.com |
 | 23.137.251.187 | 4 | 1776016970 | 1784005266 | EU | BG | Sofia | 210630 | rdns.23-137-251-187.isp.st |
 | 181.1.246.120 | 4 | 1783184524 | 1783998129 | SA | AR | Rosario | 7303 | host120.181-1-246.telecom.net.ar |
-| 2a0e:bfc7::461e:a1ff:fe60:d778 | 6 | 1783695836 | 1783987428 | EU | BG | Sofia | 211619 |  |
 
