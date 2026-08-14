@@ -2,9 +2,9 @@
 # TORFilter
 Last seen within 744 hours
 
-Count : 2787
+Count : 2785
 
-Generated: 2026-08-14T05:00:05.729Z
+Generated: 2026-08-14T06:00:05.992Z
 
 Those IPs are not guaranteed to be tor nodes, but they were seen as tor nodes within the last 744 hours. Use at your own risk, This is NOT a abuse feed, This feed is made for sitemasters to detect traffic from tor nodes, this is the only purpose of this feed
 
@@ -2796,6 +2796,4 @@ Those IPs are not guaranteed to be tor nodes, but they were seen as tor nodes wi
 | 2a0f:85c1:356:a2d8::1 | 6 | 1782111810 | 1784052231 | NA | US |  |  |  |
 | 23.137.255.45 | 4 | 1760115686 | 1784040734 | NA | US | Liberty Lake | 210630 |  |
 | 90.185.50.119 | 4 | 1783695858 | 1784026313 | EU | DK | Vanløse |  | x5ab93277.customers.hiper-net.dk |
-| 180.149.44.109 | 4 | 1773936112 | 1784005281 | AS | AZ | Baku | 202422 | jegir72868.example.com |
-| 23.137.251.187 | 4 | 1776016970 | 1784005266 | EU | BG | Sofia | 210630 | rdns.23-137-251-187.isp.st |
 
