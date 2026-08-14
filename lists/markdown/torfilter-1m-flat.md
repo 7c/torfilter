@@ -2,9 +2,9 @@
 # TORFilter
 Last seen within 744 hours
 
-Count : 2784
+Count : 2783
 
-Generated: 2026-08-14T14:00:05.270Z
+Generated: 2026-08-14T15:00:05.866Z
 
 Those IPs are not guaranteed to be tor nodes, but they were seen as tor nodes within the last 744 hours. Use at your own risk, This is NOT a abuse feed, This feed is made for sitemasters to detect traffic from tor nodes, this is the only purpose of this feed
 
@@ -2794,5 +2794,4 @@ Those IPs are not guaranteed to be tor nodes, but they were seen as tor nodes wi
 | 194.32.107.231 | 4 | 1768493081 | 1784070111 | EU | NO | Sandefjord | 56655 |  |
 | 2001:67c:e60:c0c:192:42:116:21 | 6 | 1777564959 | 1784062866 | EU | NL |  |  |  |
 | 2a0f:85c1:356:a2d8::1 | 6 | 1782111810 | 1784052231 | NA | US |  |  |  |
-| 23.137.255.45 | 4 | 1760115686 | 1784040734 | NA | US | Liberty Lake | 210630 |  |
 
