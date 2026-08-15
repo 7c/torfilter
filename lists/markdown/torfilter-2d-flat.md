@@ -2,9 +2,9 @@
 # TORFilter
 Last seen within 48 hours
 
-Count : 2294
+Count : 2278
 
-Generated: 2026-08-15T18:00:05.954Z
+Generated: 2026-08-15T19:00:03.802Z
 
 Those IPs are not guaranteed to be tor nodes, but they were seen as tor nodes within the last 48 hours. Use at your own risk, This is NOT a abuse feed, This feed is made for sitemasters to detect traffic from tor nodes, this is the only purpose of this feed
 
@@ -2289,20 +2289,4 @@ Those IPs are not guaranteed to be tor nodes, but they were seen as tor nodes wi
 | 192.42.116.12 | 4 | 1771956250 | 1786730408 | EU | NL |  | 1101 | hviv-bare.as1101.net |
 | 192.42.116.99 | 4 | 1771963494 | 1786730407 | EU | NL |  | 1101 |  |
 | 192.42.116.44 | 4 | 1771967050 | 1786730407 | EU | NL |  | 1101 |  |
-| 41.45.64.137 | 4 | 1786644226 | 1786644226 | AF | EG | Giza | 8452 |  |
-| 2620:18c:0:192::e0:193 | 6 | 1755435752 | 1786644195 | NA | US |  | 396507 |  |
-| 2620:18c:0:192::e0:175 | 6 | 1755435750 | 1786644194 | NA | US |  | 396507 |  |
-| 2620:18c:0:192::e0:149 | 6 | 1749949502 | 1786644193 | NA | US |  | 396507 |  |
-| 2600:3c00::f03c:91ff:fe73:f9ba | 6 | 1713830565 | 1786644175 | NA | US | Richardson | 63949 |  |
-| 2001:910:105b::447b:496b:9bbf:38f0 | 6 | 1786212155 | 1786644147 | EU | FR |  | 20766 |  |
-| 185.212.226.76 | 4 | 1763946265 | 1786644123 | EU | FR |  | 41652 |  |
-| 152.53.46.19 | 4 | 1786298504 | 1786644096 | EU | AT | Vienna |  | v2202508295164374528.bestsrv.de |
-| 67.219.109.141 | 4 | 1699403402 | 1786644092 | OC | AU | Melbourne | 20473 | tor-exit-au-42.project-privacy.com.au |
-| 23.129.64.138 | 4 | 1698437995 | 1786644080 | NA | US |  | 396507 |  |
-| 23.129.64.169 | 4 | 1755435737 | 1786644070 | NA | US |  | 396507 | emeraldonion.net |
-| 23.129.64.146 | 4 | 1698437941 | 1786644070 | NA | US |  | 396507 |  |
-| 23.129.64.172 | 4 | 1721980937 | 1786644069 | NA | US |  | 396507 |  |
-| 23.129.64.167 | 4 | 1755435737 | 1786644069 | NA | US |  | 396507 | emeraldonion.net |
-| 130.193.10.21 | 4 | 1698438005 | 1786644039 | EU | CZ | Prague | 29134 | smtp.crimsonpond.com |
-| 130.193.15.186 | 4 | 1698438000 | 1786644017 | EU | CZ |  | 29134 | vps1936.hosting90.net |
 

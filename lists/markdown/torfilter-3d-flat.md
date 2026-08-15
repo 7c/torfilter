@@ -2,9 +2,9 @@
 # TORFilter
 Last seen within 72 hours
 
-Count : 2316
+Count : 2294
 
-Generated: 2026-08-15T18:00:05.954Z
+Generated: 2026-08-15T19:00:03.802Z
 
 Those IPs are not guaranteed to be tor nodes, but they were seen as tor nodes within the last 72 hours. Use at your own risk, This is NOT a abuse feed, This feed is made for sitemasters to detect traffic from tor nodes, this is the only purpose of this feed
 
@@ -2305,26 +2305,4 @@ Those IPs are not guaranteed to be tor nodes, but they were seen as tor nodes wi
 | 23.129.64.167 | 4 | 1755435737 | 1786644069 | NA | US |  | 396507 | emeraldonion.net |
 | 130.193.10.21 | 4 | 1698438005 | 1786644039 | EU | CZ | Prague | 29134 | smtp.crimsonpond.com |
 | 130.193.15.186 | 4 | 1698438000 | 1786644017 | EU | CZ |  | 29134 | vps1936.hosting90.net |
-| 65.38.109.3 | 4 | 1777957459 | 1786557840 | NA | US |  |  |  |
-| 2620:18c:0:192::e0:218 | 6 | 1755511355 | 1786557799 | NA | US |  | 396507 |  |
-| 2620:18c:0:192::e0:216 | 6 | 1755511355 | 1786557799 | NA | US |  | 396507 |  |
-| 2620:18c:0:192::e0:214 | 6 | 1755511355 | 1786557799 | NA | US |  | 396507 |  |
-| 2620:18c:0:192::e0:201 | 6 | 1755511354 | 1786557798 | NA | US |  | 396507 |  |
-| 2620:18c:0:192::e0:138 | 6 | 1749949501 | 1786557796 | NA | US |  | 396507 |  |
-| 23.191.200.6 | 4 | 1739592141 | 1786557774 | NA | US |  |  |  |
-| 23.191.200.5 | 4 | 1739592141 | 1786557773 | NA | US |  |  |  |
-| 23.191.200.3 | 4 | 1739592141 | 1786557772 | NA | US |  |  |  |
-| 23.191.200.2 | 4 | 1739581486 | 1786557771 | NA | US |  |  |  |
-| 190.55.136.173 | 4 | 1771005762 | 1786557740 | SA | AR | Merlo | 27747 | cpe-190-55-136-173.telecentro-reversos.com.ar |
-| 185.100.87.136 | 4 | 1698437968 | 1786557698 | EU | RO | Bucharest | 200651 |  |
-| 72.61.8.41 | 4 | 1786298503 | 1786557697 | NA | US | Boston | 1239 | srv1880197.hstgr.cloud |
-| 153.75.246.107 | 4 | 1786298503 | 1786557697 | NA | US |  | 14962 | vps3545791.trouble-free.net |
-| 89.125.209.146 | 4 | 1785780107 | 1786557695 | EU | NL | Amsterdam | 25441 | 146.209.125.89.nl203.servers.guru |
-| 78.17.213.101 | 4 | 1785780107 | 1786557695 | EU | NL | Amsterdam | 2110 | 101.213.17.78.nl203.servers.guru |
-| 176.121.81.51 | 4 | 1698437996 | 1786557695 | EU | PL | Wroclaw | 59444 | host-176-121-81-51.amsnet.pl |
-| 23.129.64.199 | 4 | 1755514948 | 1786557688 | NA | US |  | 396507 | emeraldonion.net |
-| 125.212.241.131 | 4 | 1698437991 | 1786557684 | AS | VN | Ho Chi Minh City | 38731 | server.teetalk.vn |
-| 23.129.64.202 | 4 | 1755511339 | 1786557670 | NA | US |  | 396507 | emeraldonion.net |
-| 23.129.64.142 | 4 | 1698437988 | 1786557670 | NA | US |  | 396507 |  |
-| 88.80.20.86 | 4 | 1698437931 | 1786557635 | EU | SE |  | 33837 | host-88-80-20-86.cust.prq.se |
 
