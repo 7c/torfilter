@@ -2,9 +2,9 @@
 # TORFilter
 Last seen within 744 hours
 
-Count : 2820
+Count : 2819
 
-Generated: 2026-08-15T09:00:05.117Z
+Generated: 2026-08-15T10:00:04.958Z
 
 Those IPs are not guaranteed to be tor nodes, but they were seen as tor nodes within the last 744 hours. Use at your own risk, This is NOT a abuse feed, This feed is made for sitemasters to detect traffic from tor nodes, this is the only purpose of this feed
 
@@ -2830,5 +2830,4 @@ Those IPs are not guaranteed to be tor nodes, but they were seen as tor nodes wi
 | 45.9.156.89 | 4 | 1783695846 | 1784145730 | EU | BG | Sofia | 206003 | server36631.maxko-hosting.net |
 | 198.167.206.133 | 4 | 1742749331 | 1784145675 | EU | SE |  | 39287 | c6a7ce85.vpn.njalla.net |
 | 45.66.35.25 | 4 | 1763521442 | 1784138460 | EU | NL | Amsterdam | 47482 | ams05.torexit.nl |
-| 99.245.59.136 | 4 | 1784060451 | 1784106253 | NA | CA | Mississauga | 812 | pool-99-245-59-136.cpe.net.cable.rogers.com |
 
