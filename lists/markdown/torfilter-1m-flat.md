@@ -2,9 +2,9 @@
 # TORFilter
 Last seen within 744 hours
 
-Count : 2816
+Count : 2815
 
-Generated: 2026-08-15T21:00:04.516Z
+Generated: 2026-08-15T22:00:03.704Z
 
 Those IPs are not guaranteed to be tor nodes, but they were seen as tor nodes within the last 744 hours. Use at your own risk, This is NOT a abuse feed, This feed is made for sitemasters to detect traffic from tor nodes, this is the only purpose of this feed
 
@@ -2826,5 +2826,4 @@ Those IPs are not guaranteed to be tor nodes, but they were seen as tor nodes wi
 | 100.34.131.31 | 4 | 1770487316 | 1784167301 | NA | US | Levittown | 701 | pool-100-34-131-31.phlapa.fios.verizon.net |
 | 181.99.240.26 | 4 | 1784037731 | 1784152924 | SA | AR | Rosario | 7303 | host26.181-99-240.telecom.net.ar |
 | 181.162.227.33 | 4 | 1784070139 | 1784152924 | SA | CL | Concepción | 7418 | 181-162-227-33.fo.baf.movistar.cl |
-| 41.226.148.37 | 4 | 1784143769 | 1784149328 | AF | TN | Ben Arous | 37705 |  |
 
