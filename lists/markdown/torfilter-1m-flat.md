@@ -2,9 +2,9 @@
 # TORFilter
 Last seen within 744 hours
 
-Count : 2826
+Count : 2825
 
-Generated: 2026-08-15T02:00:05.761Z
+Generated: 2026-08-15T03:00:03.692Z
 
 Those IPs are not guaranteed to be tor nodes, but they were seen as tor nodes within the last 744 hours. Use at your own risk, This is NOT a abuse feed, This feed is made for sitemasters to detect traffic from tor nodes, this is the only purpose of this feed
 
@@ -2836,5 +2836,4 @@ Those IPs are not guaranteed to be tor nodes, but they were seen as tor nodes wi
 | 41.62.90.29 | 4 | 1784066546 | 1784095368 | AF | TN | Tunis | 37705 |  |
 | 2001:67c:e60:c0c:192:42:116:14 | 6 | 1771956274 | 1784091755 | EU | NL |  |  |  |
 | 2001:67c:e60:c0c:192:42:116:13 | 6 | 1771956273 | 1784091755 | EU | NL |  |  |  |
-| 88.99.213.29 | 4 | 1783199063 | 1784080896 | EU | DE | Falkenstein | 24940 | static.29.213.99.88.clients.your-server.de |
 
