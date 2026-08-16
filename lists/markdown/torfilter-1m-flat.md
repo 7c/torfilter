@@ -2,9 +2,9 @@
 # TORFilter
 Last seen within 744 hours
 
-Count : 2809
+Count : 2808
 
-Generated: 2026-08-16T10:00:05.354Z
+Generated: 2026-08-16T11:00:07.274Z
 
 Those IPs are not guaranteed to be tor nodes, but they were seen as tor nodes within the last 744 hours. Use at your own risk, This is NOT a abuse feed, This feed is made for sitemasters to detect traffic from tor nodes, this is the only purpose of this feed
 
@@ -2819,5 +2819,4 @@ Those IPs are not guaranteed to be tor nodes, but they were seen as tor nodes wi
 | 102.159.196.58 | 4 | 1784203308 | 1784208212 | AF | TN | Tunis | 37705 |  |
 | 198.167.206.163 | 4 | 1705759600 | 1784206864 | EU | SE |  | 39287 | c6a7cea3.vpn.njalla.net |
 | 66.78.40.35 | 4 | 1782111826 | 1784203286 | NA | US |  | 21769 | tor.dmt.observer |
-| 181.167.93.103 | 4 | 1775304117 | 1784196126 | SA | AR | Córdoba | 7303 | 103-93-167-181.fibertel.com.ar |
 
