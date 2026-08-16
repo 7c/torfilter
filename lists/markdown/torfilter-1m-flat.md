@@ -2,9 +2,9 @@
 # TORFilter
 Last seen within 744 hours
 
-Count : 2813
+Count : 2810
 
-Generated: 2026-08-16T02:00:05.281Z
+Generated: 2026-08-16T03:00:06.106Z
 
 Those IPs are not guaranteed to be tor nodes, but they were seen as tor nodes within the last 744 hours. Use at your own risk, This is NOT a abuse feed, This feed is made for sitemasters to detect traffic from tor nodes, this is the only purpose of this feed
 
@@ -2821,7 +2821,4 @@ Those IPs are not guaranteed to be tor nodes, but they were seen as tor nodes wi
 | 66.78.40.35 | 4 | 1782111826 | 1784203286 | NA | US |  | 21769 | tor.dmt.observer |
 | 181.167.93.103 | 4 | 1775304117 | 1784196126 | SA | AR | Córdoba | 7303 | 103-93-167-181.fibertel.com.ar |
 | 85.206.174.98 | 4 | 1783447457 | 1784181102 | EU | LT | Šiauliai | 61272 | 40153-67382.bacloud.info |
-| 187.21.222.222 | 4 | 1784160149 | 1784167340 | SA | BR | Mongaguá | 28573 | bb15dede.virtua.com.br |
-| 181.88.229.226 | 4 | 1784160131 | 1784167323 | SA | AR | Rosario | 7303 | host226.181-88-229.telecom.net.ar |
-| 100.34.131.31 | 4 | 1770487316 | 1784167301 | NA | US | Levittown | 701 | pool-100-34-131-31.phlapa.fios.verizon.net |
 
