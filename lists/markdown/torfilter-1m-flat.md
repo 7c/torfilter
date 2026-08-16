@@ -2,9 +2,9 @@
 # TORFilter
 Last seen within 744 hours
 
-Count : 2807
+Count : 2802
 
-Generated: 2026-08-16T13:00:04.160Z
+Generated: 2026-08-16T14:00:04.113Z
 
 Those IPs are not guaranteed to be tor nodes, but they were seen as tor nodes within the last 744 hours. Use at your own risk, This is NOT a abuse feed, This feed is made for sitemasters to detect traffic from tor nodes, this is the only purpose of this feed
 
@@ -2813,9 +2813,4 @@ Those IPs are not guaranteed to be tor nodes, but they were seen as tor nodes wi
 | 158.173.51.23 | 4 | 1784040811 | 1784224902 | EU | NL |  |  |  |
 | 194.156.89.134 | 4 | 1779739494 | 1784224900 | NA | US | Dallas | 397423 | teal-wombat-06217.zap.cloud |
 | 194.163.157.49 | 4 | 1698437982 | 1784224839 | EU | FR | Lauterbourg | 51167 | vmi1306862.contaboserver.net |
-| 2a00:6800:3:c4f::1 | 6 | 1771610594 | 1784208311 | EU | DE |  | 42730 |  |
-| 2001:b011:4006:9339::b | 6 | 1772733754 | 1784208264 | AS | TW | Taipei | 3462 | 2001-b011-4006-9339-0000-0000-0000-000b.dynamic-ip6.hinet.net |
-| 178.254.22.78 | 4 | 1771610521 | 1784208232 | EU | DE |  | 42730 | v45174.1blu.de |
-| 102.159.196.58 | 4 | 1784203308 | 1784208212 | AF | TN | Tunis | 37705 |  |
-| 198.167.206.163 | 4 | 1705759600 | 1784206864 | EU | SE |  | 39287 | c6a7cea3.vpn.njalla.net |
 
