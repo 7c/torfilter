@@ -4,7 +4,7 @@ Last seen within 48 hours
 
 Count : 2278
 
-Generated: 2026-08-16T06:00:04.228Z
+Generated: 2026-08-16T07:00:04.826Z
 
 Those IPs are not guaranteed to be tor nodes, but they were seen as tor nodes within the last 48 hours. Use at your own risk, This is NOT a abuse feed, This feed is made for sitemasters to detect traffic from tor nodes, this is the only purpose of this feed
 
@@ -29,10 +29,10 @@ Those IPs are not guaranteed to be tor nodes, but they were seen as tor nodes wi
 | 94.156.152.8 | 4 | 1759658634 | 1786730654 | EU | BG |  | 8100 |  |
 | 94.142.244.16 | 4 | 1698437973 | 1786730654 | EU | NL | Amsterdam | 8283 | tor-exit.vrij-heid.nl |
 | 94.142.241.194 | 4 | 1698437944 | 1786730654 | EU | NL | Amsterdam | 8283 | tor-exit.vrij-heid.nl |
-| 93.99.104.40 | 4 | 1725152598 | 1786730654 | EU | CZ | Kunovice | 16019 | 40.104.99.93.finalhosting.cz |
-| 93.99.104.194 | 4 | 1698437961 | 1786730654 | EU | CZ | Kunovice | 16019 | zarni.haribaned.com |
-| 93.99.104.18 | 4 | 1698437961 | 1786730654 | EU | CZ | Kunovice | 16019 | 18.104.99.93.finalhosting.cz |
-| 93.99.104.128 | 4 | 1698437971 | 1786730654 | EU | CZ | Kunovice | 16019 | 128.104.99.93.finalhosting.cz |
+| 93.99.104.40 | 4 | 1725152598 | 1786730654 | EU | CZ | Uherské Hradiště | 16019 | 40.104.99.93.finalhosting.cz |
+| 93.99.104.194 | 4 | 1698437961 | 1786730654 | EU | CZ | Uherské Hradiště | 16019 | zarni.haribaned.com |
+| 93.99.104.18 | 4 | 1698437961 | 1786730654 | EU | CZ | Uherské Hradiště | 16019 | 18.104.99.93.finalhosting.cz |
+| 93.99.104.128 | 4 | 1698437971 | 1786730654 | EU | CZ | Uherské Hradiště | 16019 | 128.104.99.93.finalhosting.cz |
 | 93.95.231.88 | 4 | 1704919841 | 1786730653 | EU | IS |  | 44925 | vps-93-95-231-88.1984.is |
 | 93.95.231.14 | 4 | 1705725623 | 1786730653 | EU | IS |  | 44925 | magic.torexit.syndicateguys.com |
 | 93.95.228.125 | 4 | 1705725610 | 1786730653 | EU | IS | Reykjavik | 44925 | manor.torexit.syndicateguys.com |
@@ -55,7 +55,7 @@ Those IPs are not guaranteed to be tor nodes, but they were seen as tor nodes wi
 | 91.203.145.116 | 4 | 1698437973 | 1786730652 | EU | UA | Boryspil | 45045 |  |
 | 91.203.144.194 | 4 | 1698437931 | 1786730652 | EU | UA | Boryspil | 45045 |  |
 | 91.132.144.59 | 4 | 1698437951 | 1786730652 | EU | DE | Nuremberg | 197540 | NurembergTor49.quetzalcoatl-relays.org |
-| 90.184.10.74 | 4 | 1783868666 | 1786730652 | EU | DK | Vallensbæk Strand |  | x5ab80a4a.customers.hiper-net.dk |
+| 90.184.10.74 | 4 | 1783868666 | 1786730652 | EU | DK | Brøndby |  | x5ab80a4a.customers.hiper-net.dk |
 | 89.58.41.156 | 4 | 1698437929 | 1786730652 | EU | DE | Nuremberg | 197540 | NurembergTor79.quetzalcoatl-relays.org |
 | 89.58.26.216 | 4 | 1698437927 | 1786730652 | EU | DE | Nuremberg | 197540 | NurembergTor78.quetzalcoatl-relays.org |
 | 89.234.157.254 | 4 | 1698437959 | 1786730652 | EU | FR | Toulouse | 197422 | marylou.nos-oignons.net |
@@ -104,7 +104,7 @@ Those IPs are not guaranteed to be tor nodes, but they were seen as tor nodes wi
 | 82.221.100.222 | 4 | 1772673408 | 1786730649 | EU | IS | Reykjavik | 50613 |  |
 | 82.221.100.134 | 4 | 1785175305 | 1786730649 | EU | IS | Reykjavik | 50613 |  |
 | 82.221.100.12 | 4 | 1763568250 | 1786730648 | EU | IS | Reykjavik | 50613 |  |
-| 82.197.182.161 | 4 | 1698437939 | 1786730648 | EU | CH | Hitzkirch | 13030 | 161-182-197-82.init7.net |
+| 82.197.182.161 | 4 | 1698437939 | 1786730648 | EU | CH | Egliswil | 13030 | 161-182-197-82.init7.net |
 | 82.153.138.57 | 4 | 1762722235 | 1786730648 | EU | RO | Orăştie | 206509 | tor-exit.truck.obzgs5tbmn4q.org |
 | 82.153.138.184 | 4 | 1741201302 | 1786730648 | EU | RO | Orăştie | 206509 |  |
 | 82.118.248.205 | 4 | 1740560604 | 1786730648 | EU | BG | Pernik | 45007 |  |
@@ -115,7 +115,7 @@ Those IPs are not guaranteed to be tor nodes, but they were seen as tor nodes wi
 | 81.16.33.42 | 4 | 1698437974 | 1786730648 | EU | AT |  | 13022 | www.tor-exitnode-read-this-html.epizy.com |
 | 80.94.92.99 | 4 | 1750737835 | 1786730648 | EU | RO |  | 47890 |  |
 | 80.94.92.92 | 4 | 1731391403 | 1786730648 | EU | RO |  | 47890 |  |
-| 80.67.172.162 | 4 | 1698437978 | 1786730648 | EU | FR | Paris | 20766 | algrothendieck.nos-oignons.net |
+| 80.67.172.162 | 4 | 1698437978 | 1786730648 | EU | FR |  | 20766 | algrothendieck.nos-oignons.net |
 | 80.67.167.81 | 4 | 1698437927 | 1786730648 | EU | FR | Paris | 2027 | nosoignons.cust.milkywan.net |
 | 80.241.60.207 | 4 | 1698437948 | 1786730648 | EU | DE | Berlin | 199118 | tor.mailbox.org |
 | 8.215.52.126 | 4 | 1762920241 | 1786730647 | AS | ID | Jakarta | 45102 |  |
@@ -317,7 +317,7 @@ Those IPs are not guaranteed to be tor nodes, but they were seen as tor nodes wi
 | 45.12.3.80 | 4 | 1701386380 | 1786730634 | EU | UA | Kyiv | 43180 | dedicated.vsys.host |
 | 45.118.133.44 | 4 | 1715810587 | 1786730634 | AS | SG | Singapore | 63949 | 45-118-133-44.ip.linodeusercontent.com |
 | 44.30.4.69 | 4 | 1757412241 | 1786730634 | EU | PL | Ciechanów | 7377 | test.sq5wep.pl |
-| 41.226.202.61 | 4 | 1786730633 | 1786730633 | AF | TN | Aryanah | 37705 |  |
+| 41.226.202.61 | 4 | 1786730633 | 1786730633 | AF | TN | Sfax | 37705 |  |
 | 38.58.179.138 | 4 | 1726938201 | 1786730633 | NA | US | Draper | 174 |  |
 | 37.77.56.238 | 4 | 1738303369 | 1786730633 | EU | EE | Tallinn | 210636 |  |
 | 37.48.70.156 | 4 | 1698437982 | 1786730633 | EU | NL | Amsterdam | 60781 |  |
@@ -722,7 +722,7 @@ Those IPs are not guaranteed to be tor nodes, but they were seen as tor nodes wi
 | 2a02:c207:2311:3811::1 | 6 | 1772251408 | 1786730605 | EU | FR | Lauterbourg | 51167 | vmi3113811.contaboserver.net |
 | 2a02:c204:2263:5153::1 | 6 | 1748743369 | 1786730605 | EU | GB | Portsmouth | 51167 |  |
 | 2a02:c204:2195:2012::1 | 6 | 1729983784 | 1786730605 | EU | GB | Portsmouth | 51167 |  |
-| 2a02:16d0:0:5::1 | 6 | 1698438301 | 1786730605 | EU | DE |  | 49855 |  |
+| 2a02:16d0:0:5::1 | 6 | 1698438301 | 1786730605 | EU | DE | Bremen | 49855 |  |
 | 2a02:ec0:209:10::4 | 6 | 1698438301 | 1786730605 | EU | FR |  | 41653 | exit-1.fr.tor.aquaray.com |
 | 2a02:898:169::2 | 6 | 1769101431 | 1786730605 | EU | NL | Amsterdam | 8283 | tor-exit.vrij-heid.nl |
 | 2a02:898:169::1 | 6 | 1769015035 | 1786730605 | EU | NL | Amsterdam | 8283 | tor-exit.vrij-heid.nl |
@@ -1271,7 +1271,7 @@ Those IPs are not guaranteed to be tor nodes, but they were seen as tor nodes wi
 | 217.12.221.131 | 4 | 1698437963 | 1786730567 | EU | UA | Kyiv | 15626 | tornode1.open-the-ip-in-a-browser.vds-114821.com |
 | 216.73.159.75 | 4 | 1698437933 | 1786730567 | SA | CL | Valdivia | 61138 |  |
 | 216.73.159.101 | 4 | 1698437977 | 1786730567 | SA | CL | Valdivia | 61138 |  |
-| 213.95.149.22 | 4 | 1698437968 | 1786730567 | EU | DE | Schwaig | 12337 | tor2.smurf.noris.de |
+| 213.95.149.22 | 4 | 1698437968 | 1786730567 | EU | DE | Erlangen | 12337 | tor2.smurf.noris.de |
 | 213.136.69.234 | 4 | 1786644098 | 1786730567 | EU | FR | Lauterbourg | 51167 | m27834.contaboserver.net |
 | 212.95.50.77 | 4 | 1698437978 | 1786730567 | EU | DE |  | 28753 | hosted-by.leaseweb.com |
 | 212.95.50.243 | 4 | 1782748944 | 1786730567 | EU | DE |  | 28753 |  |
@@ -1467,7 +1467,7 @@ Those IPs are not guaranteed to be tor nodes, but they were seen as tor nodes wi
 | 2001:bc8:6010:201:ae1f:6bff:fe27:3004 | 6 | 1767902607 | 1786730554 | EU | NL | Haarlem | 12876 |  |
 | 2001:bc8:1640:317d:dc00:ff:fe39:7bb3 | 6 | 1731931340 | 1786730553 | EU | NL | Haarlem | 12876 |  |
 | 2001:bc8:1600:1:208:a2ff:fe0c:8a4e | 6 | 1764630163 | 1786730553 | EU | NL | Haarlem | 12876 | ipv6.rev.poneytelecom.eu |
-| 2001:9b0:25e:f700::20e | 6 | 1782705743 | 1786730553 | EU | SE | Landvetter | 8473 |  |
+| 2001:9b0:25e:f700::20e | 6 | 1782705743 | 1786730553 | EU | SE | Gothenburg | 8473 |  |
 | 2001:780:107:b::85 | 6 | 1698438263 | 1786730553 | EU | DE | Munich | 12337 | tor2.smurf.noris.de |
 | 2001:67c:289c:4::132 | 6 | 1756843393 | 1786730553 | EU | SE |  | 198093 | tor-exit-read-me.dfri.se |
 | 2001:67c:289c:4::131 | 6 | 1747332154 | 1786730553 | EU | SE |  | 198093 | tor-exit-read-me.dfri.se |
@@ -1531,7 +1531,7 @@ Those IPs are not guaranteed to be tor nodes, but they were seen as tor nodes wi
 | 198.98.51.249 | 4 | 1709270153 | 1786730549 | NA | US | Staten Island | 53667 | tor-exit-http-readme.hackb.2mpd.com |
 | 198.98.51.189 | 4 | 1698437927 | 1786730549 | NA | US | Staten Island | 53667 | tor.teitel.net |
 | 198.98.50.199 | 4 | 1698437949 | 1786730549 | NA | US | Staten Island | 53667 | tor-exit.cyberjake.xyz |
-| 198.96.155.3 | 4 | 1698437939 | 1786730549 | NA | CA |  | 12093 | exit.tor.uwaterloo.ca |
+| 198.96.155.3 | 4 | 1698437939 | 1786730549 | NA | CA | Montreal | 12093 | exit.tor.uwaterloo.ca |
 | 198.58.107.53 | 4 | 1698437999 | 1786730549 | NA | US | Richardson | 63949 | tor.tyler.zone |
 | 198.46.168.17 | 4 | 1775783369 | 1786730549 | NA | US | Buffalo | 36352 | bigdatahospit06b.drogariafarmapan.sbs |
 | 198.46.166.157 | 4 | 1698437985 | 1786730549 | NA | US | Los Angeles | 36352 | tor03.mtak.nl |
@@ -2071,7 +2071,7 @@ Those IPs are not guaranteed to be tor nodes, but they were seen as tor nodes wi
 | 128.31.0.13 | 4 | 1698437936 | 1786730511 | NA | US | Cambridge | 3 | tor-exit.csail.mit.edu |
 | 123.253.35.32 | 4 | 1701325033 | 1786730511 | AS | MY | Cyberjaya | 55720 |  |
 | 119.28.139.55 | 4 | 1745820100 | 1786730511 | AS | HK | Hong Kong | 132203 |  |
-| 118.163.74.160 | 4 | 1698437999 | 1786730511 | AS | TW | New Taipei City | 3462 | 118-163-74-160.hinet-ip.hinet.net |
+| 118.163.74.160 | 4 | 1698437999 | 1786730511 | AS | TW | Nangang | 3462 | 118-163-74-160.hinet-ip.hinet.net |
 | 116.202.158.119 | 4 | 1781344901 | 1786730511 | EU | DE | Falkenstein | 24940 | static.119.158.202.116.clients.your-server.de |
 | 114.35.245.150 | 4 | 1698438493 | 1786730511 | AS | TW | Taipei | 3462 | 114-35-245-150.hinet-ip.hinet.net |
 | 109.71.252.97 | 4 | 1746925449 | 1786730511 | EU | DE |  | 213250 | 97.252.71.109.in-addr.arpa |
