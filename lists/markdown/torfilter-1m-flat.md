@@ -2,9 +2,9 @@
 # TORFilter
 Last seen within 744 hours
 
-Count : 3001
+Count : 2992
 
-Generated: 2026-08-17T18:00:04.865Z
+Generated: 2026-08-17T19:00:05.490Z
 
 Those IPs are not guaranteed to be tor nodes, but they were seen as tor nodes within the last 744 hours. Use at your own risk, This is NOT a abuse feed, This feed is made for sitemasters to detect traffic from tor nodes, this is the only purpose of this feed
 
@@ -3003,13 +3003,4 @@ Those IPs are not guaranteed to be tor nodes, but they were seen as tor nodes wi
 | 198.167.206.172 | 4 | 1699007027 | 1784397661 | EU | SE |  | 39287 | c6a7ceac.vpn.njalla.net |
 | 45.95.169.119 | 4 | 1768716277 | 1784397653 | EU | HR | Sisak | 211619 | tor-exit-croatia.bronk-ict.nl |
 | 72.5.43.62 | 4 | 1749114200 | 1784397629 | EU | RO |  |  |  |
-| 90.250.65.154 | 4 | 1783411455 | 1784311465 | EU | GB | Coventry | 5378 |  |
-| 2a0e:bfc0:0:f::4558:4954 | 6 | 1768716256 | 1784311441 | EU | HR | Sisak | 211619 | tor-exit-croatia.bronk-ict.nl |
-| 2a02:4780:6e:3f80::1 | 6 | 1784040897 | 1784311417 | SA | BR | Campinas |  |  |
-| 2001:678:9ec:2101:8b79:b0b4:ebf6:845e | 6 | 1784311357 | 1784311357 | EU | DK | Gelsted |  |  |
-| 186.134.220.252 | 4 | 1784311350 | 1784311350 | SA | AR | Moreno | 22927 | 186-134-220-252.mrse.com.ar |
-| 151.216.97.9 | 4 | 1784311322 | 1784311322 | EU | DK | Gelsted |  |  |
-| 90.255.234.132 | 4 | 1776733597 | 1784311299 | EU | GB | Barnet | 5378 |  |
-| 157.230.29.185 | 4 | 1783015314 | 1784311293 | EU | DE | Frankfurt am Main | 14061 | tor-exit.lightchan.online |
-| 198.167.206.193 | 4 | 1704542893 | 1784311262 | EU | SE |  | 39287 | c6a7cec1.vpn.njalla.net |
 
