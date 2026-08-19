@@ -2,9 +2,9 @@
 # TORFilter
 Last seen within 3 hours
 
-Count : 2531
+Count : 2515
 
-Generated: 2026-08-19T20:00:05.448Z
+Generated: 2026-08-19T21:00:05.938Z
 
 Those IPs are not guaranteed to be tor nodes, but they were seen as tor nodes within the last 3 hours. Use at your own risk, This is NOT a abuse feed, This feed is made for sitemasters to detect traffic from tor nodes, this is the only purpose of this feed
 
@@ -2526,20 +2526,4 @@ Those IPs are not guaranteed to be tor nodes, but they were seen as tor nodes wi
 | 192.42.116.13 | 4 | 1698437985 | 1787162409 | EU | NL |  | 1101 | this-is-a-tor-exit-node-hviv113.hviv.nl |
 | 192.42.116.102 | 4 | 1771963488 | 1787162409 | EU | NL |  | 1101 |  |
 | 139.99.172.11 | 4 | 1698437948 | 1787162409 | OC | AU | Sydney | 16276 | tor-exit-au-04.finlay.wattle.id.au |
-| 192.42.116.95 | 4 | 1771963493 | 1787162408 | EU | NL |  | 1101 |  |
-| 192.42.116.94 | 4 | 1771963493 | 1787162408 | EU | NL |  | 1101 |  |
-| 192.42.116.93 | 4 | 1771963493 | 1787162408 | EU | NL |  | 1101 |  |
-| 192.42.116.51 | 4 | 1771967051 | 1787162408 | EU | NL |  | 1101 |  |
-| 192.42.116.49 | 4 | 1771967051 | 1787162408 | EU | NL |  | 1101 |  |
-| 192.42.116.48 | 4 | 1771967051 | 1787162408 | EU | NL |  | 1101 |  |
-| 192.42.116.46 | 4 | 1771967051 | 1787162408 | EU | NL |  | 1101 |  |
-| 192.42.116.15 | 4 | 1698437950 | 1787162408 | EU | NL |  | 1101 | this-is-a-tor-exit-node-hviv115.hviv.nl |
-| 192.42.116.92 | 4 | 1771963493 | 1787162407 | EU | NL |  | 1101 |  |
-| 192.42.116.50 | 4 | 1771967051 | 1787162407 | EU | NL |  | 1101 |  |
-| 192.42.116.43 | 4 | 1771967050 | 1787162407 | EU | NL |  | 1101 |  |
-| 192.42.116.42 | 4 | 1771967050 | 1787162407 | EU | NL |  | 1101 |  |
-| 192.42.116.14 | 4 | 1698437977 | 1787162407 | EU | NL |  | 1101 | this-is-a-tor-exit-node-hviv114.hviv.nl |
-| 192.42.116.99 | 4 | 1771963494 | 1787162406 | EU | NL |  | 1101 |  |
-| 192.42.116.44 | 4 | 1771967050 | 1787162406 | EU | NL |  | 1101 |  |
-| 192.42.116.12 | 4 | 1771956250 | 1787162406 | EU | NL |  | 1101 | hviv-bare.as1101.net |
 
