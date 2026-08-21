@@ -2,9 +2,9 @@
 # TORFilter
 Last seen within 744 hours
 
-Count : 3061
+Count : 3054
 
-Generated: 2026-08-21T18:00:05.604Z
+Generated: 2026-08-21T19:00:05.559Z
 
 Those IPs are not guaranteed to be tor nodes, but they were seen as tor nodes within the last 744 hours. Use at your own risk, This is NOT a abuse feed, This feed is made for sitemasters to detect traffic from tor nodes, this is the only purpose of this feed
 
@@ -3065,11 +3065,4 @@ Those IPs are not guaranteed to be tor nodes, but they were seen as tor nodes wi
 | 149.202.79.101 | 4 | 1698437962 | 1784743254 | EU | FR |  | 16276 | ns3016085.ip-149-202-79.eu |
 | 5.255.123.158 | 4 | 1721588653 | 1784743251 | EU | NL | Dronten | 60404 |  |
 | 103.193.179.233 | 4 | 1707283127 | 1784743228 | AS | ID |  | 136052 | ip103-193-179-233.cloudhost.web.id |
-| 37.235.48.29 | 4 | 1698438322 | 1784657048 | EU | PL | Warsaw | 9009 | 29.48.235.37.in-addr.arpa |
-| 2a04:52c0:128:3335:50ef:cafe:babe:1337 | 6 | 1778598203 | 1784657024 | EU | NL | Dronten | 60404 |  |
-| 2a02:4780:41:a921::1 | 6 | 1760270579 | 1784657019 | EU | DE | Frankfurt am Main |  | srv756455.hstgr.cloud |
-| 181.97.146.134 | 4 | 1784656933 | 1784656933 | SA | AR | Rosario | 7303 | host134.181-97-146.telecom.net.ar |
-| 95.216.107.148 | 4 | 1698437985 | 1784656894 | EU | FI | Helsinki | 24940 | sexytiem.internationalconspiracy.org |
-| 45.138.16.125 | 4 | 1769357074 | 1784656884 | EU | PL | Warsaw | 210558 | tor-exit.pl.2cb.li |
-| 198.167.206.178 | 4 | 1700220303 | 1784656863 | EU | SE |  | 39287 | c6a7ceb2.vpn.njalla.net |
 

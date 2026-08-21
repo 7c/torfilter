@@ -2,9 +2,9 @@
 # TORFilter
 Last seen within 168 hours
 
-Count : 2689
+Count : 2670
 
-Generated: 2026-08-21T18:00:05.604Z
+Generated: 2026-08-21T19:00:05.559Z
 
 Those IPs are not guaranteed to be tor nodes, but they were seen as tor nodes within the last 168 hours. Use at your own risk, This is NOT a abuse feed, This feed is made for sitemasters to detect traffic from tor nodes, this is the only purpose of this feed
 
@@ -2681,23 +2681,4 @@ Those IPs are not guaranteed to be tor nodes, but they were seen as tor nodes wi
 | 172.81.131.139 | 4 | 1698437956 | 1786903290 | NA | US | Chicago | 27176 | bhsfm.bond |
 | 77.48.28.239 | 4 | 1698437943 | 1786903283 | EU | CZ | Krnov | 16019 | www.tor-exitnode-read-this-html.epizy.com |
 | 209.141.50.78 | 4 | 1780376550 | 1786903270 | NA | US | Las Vegas | 53667 | tor-exit.282305.xyz |
-| 41.226.202.61 | 4 | 1786730633 | 1786730633 | AF | TN | Sfax | 37705 |  |
-| 2605:6400:20:4f1:8dc2:e538:10c:a60c | 6 | 1780405376 | 1786730586 | NA | US | Las Vegas | 53667 | tor-exi.282305.xyz |
-| 201.177.66.93 | 4 | 1786730555 | 1786730555 | SA | AR | Libertad | 22927 | 201-177-66-93.mrse.com.ar |
-| 2001:b011:4006:7a8a::b | 6 | 1784570559 | 1786730555 | AS | TW | Taipei | 3462 | 2001-b011-4006-7a8a-0000-0000-0000-000b.dynamic-ip6.hinet.net |
-| 2001:41d0:303:f404:: | 6 | 1786730555 | 1786730555 | EU | FR |  | 16276 |  |
-| 2001:e42:102:1530:160:16:108:10 | 6 | 1786730554 | 1786730554 | AS | JP |  | 9370 | 160.16.108.10.v6.sakura.ne.jp |
-| 45.90.12.159 | 4 | 1786644098 | 1786730500 | NA | US | Secaucus | 212477 | hosted-by.royalehosting.net |
-| 185.11.136.232 | 4 | 1714870901 | 1786730499 | EU | DE |  | 48823 | www.rubbeldiekatz.info |
-| 104.167.242.116 | 4 | 1706430086 | 1786730499 | NA | US |  | 398355 |  |
-| 203.12.31.167 | 4 | 1783332155 | 1786730498 | EU | NL | Amsterdam | 7545 |  |
-| 195.123.4.231 | 4 | 1785261708 | 1786730498 | EU | DE |  |  |  |
-| 80.67.176.91 | 4 | 1786212105 | 1786730497 | EU | FR |  | 20766 | reverse-91.fdn.fr |
-| 78.17.213.22 | 4 | 1785780107 | 1786730496 | EU | NL | Amsterdam | 2110 | 22.213.17.78.nl203.servers.guru |
-| 89.126.230.40 | 4 | 1785780106 | 1786730495 | EU | NL |  | 25441 | vm23840.bit.hosting |
-| 89.126.230.34 | 4 | 1785780106 | 1786730495 | EU | NL |  | 25441 | vm23834.bit.hosting |
-| 201.3.225.66 | 4 | 1785607302 | 1786730494 | EU | PL |  | 8167 | vm23861.bit.hosting |
-| 23.145.40.108 | 4 | 1783897379 | 1786730484 | NA | US | Fremont | 400587 |  |
-| 107.189.30.69 | 4 | 1698437960 | 1786730458 | EU | LU |  | 53667 | torexit.107.189.30.69.com |
-| 104.244.73.14 | 4 | 1768612693 | 1786730450 | EU | CH |  | 53667 | away.twr.mib.mybluehost.me |
 

@@ -2,9 +2,9 @@
 # TORFilter
 Last seen within 72 hours
 
-Count : 2602
+Count : 2549
 
-Generated: 2026-08-21T18:00:05.604Z
+Generated: 2026-08-21T19:00:05.559Z
 
 Those IPs are not guaranteed to be tor nodes, but they were seen as tor nodes within the last 72 hours. Use at your own risk, This is NOT a abuse feed, This feed is made for sitemasters to detect traffic from tor nodes, this is the only purpose of this feed
 
@@ -2560,57 +2560,4 @@ Those IPs are not guaranteed to be tor nodes, but they were seen as tor nodes wi
 | 103.253.24.18 | 4 | 1698438000 | 1787162486 | AS | SG | Singapore | 6939 |  |
 | 192.3.140.104 | 4 | 1781280136 | 1787162470 | NA | US | Buffalo | 36352 | 192-3-140-104-host.colocrossing.com |
 | 51.15.59.15 | 4 | 1698437939 | 1787162448 | EU | NL | Haarlem | 12876 | 15-59-15-51.instances.scw.cloud |
-| 89.129.214.197 | 4 | 1781777027 | 1787076285 | EU | ES | Valencia | 12479 | 197.pool89-129-214.dynamic.orange.es |
-| 2a10:1fc0:3::4e38:5b2 | 6 | 1787076263 | 1787076263 | EU | ES | Madrid | 62005 |  |
-| 2a0f:cdc6:500:11e3::2 | 6 | 1743858199 | 1787076262 | EU | DE | Frankfurt am Main | 201671 | tezof.ru |
-| 2a06:9f80:a000::59:1 | 6 | 1787076243 | 1787076243 | OC | NZ | Auckland |  |  |
-| 2a06:1280:f02b::2 | 6 | 1786903425 | 1787076242 | OC | NZ | Auckland | 61138 |  |
-| 2a06:1280:ce02::2 | 6 | 1786903425 | 1787076242 | OC | NZ | Auckland | 61138 |  |
-| 2a04:dd00:26:9:216:3cff:fe9d:8df6 | 6 | 1786903425 | 1787076241 | AS | AE |  | 60117 |  |
-| 2a04:dd00:26:9:216:3cff:fe51:4fc8 | 6 | 1786903425 | 1787076241 | AS | AE |  | 60117 |  |
-| 2a04:dd00:26:9:216:3cff:fe35:3401 | 6 | 1786903425 | 1787076241 | AS | AE |  | 60117 |  |
-| 2a04:dd00:26:9:216:3cff:fe09:144b | 6 | 1786903425 | 1787076241 | AS | AE |  | 60117 |  |
-| 2a02:7a60:1::132 | 6 | 1786903420 | 1787076236 | EU | UA |  | 47674 | hosted-by.blazingfast.io |
-| 2a01:4a0:2002:2143::2 | 6 | 1786903418 | 1787076235 | EU | DE |  | 51191 | fidelia.reis.asia |
-| 2605:6400:20:939::a | 6 | 1781251376 | 1787076214 | NA | US | Las Vegas | 53667 |  |
-| 2602:fa59:9:e1f::1 | 6 | 1787076210 | 1787076210 | NA | US |  |  |  |
-| 201.221.214.12 | 4 | 1787076177 | 1787076177 | SA | CL | Concepción | 14117 |  |
-| 201.177.89.24 | 4 | 1787076177 | 1787076177 | SA | AR | Libertad | 22927 | 201-177-89-24.mrse.com.ar |
-| 2001:bc8:1da0:1:46a8:42ff:fe1b:471e | 6 | 1786903369 | 1787076175 | EU | PL | Warsaw | 12876 | ade97814-a1bb-4178-b4de-589458843d92.pl-waw-2.baremetal.scw.cloud |
-| 181.20.82.98 | 4 | 1787076145 | 1787076145 | SA | AR | San Miguel | 22927 | 181-20-82-98.mrse.com.ar |
-| 176.65.149.105 | 4 | 1745571705 | 1787076142 | EU | NL | Eygelshoven |  |  |
-| 174.3.245.98 | 4 | 1781766108 | 1787076142 | NA | CA | Edmonton | 6327 | s01063c2d9e59f23e.ed.shawcable.net |
-| 165.232.172.104 | 4 | 1786903331 | 1787076138 | AS | SG | Singapore | 14061 |  |
-| 157.245.57.10 | 4 | 1786903330 | 1787076137 | AS | SG | Singapore | 14061 |  |
-| 137.59.48.90 | 4 | 1771855312 | 1787076131 | AS | BD | Rangpur City | 24556 |  |
-| 45.9.148.122 | 4 | 1784311308 | 1787076111 | EU | NL | Amsterdam | 49447 |  |
-| 97.191.36.171 | 4 | 1786903313 | 1787076110 | NA | US | Elk Grove | 6167 | 171.sub-97-191-36.myvzw.com |
-| 198.23.160.154 | 4 | 1786903312 | 1787076109 | NA | US | Los Angeles | 36352 | 198-23-160-154-host.colocrossing.com |
-| 177.11.48.227 | 4 | 1786903311 | 1787076108 | SA | BR |  | 53243 | itsoluti.com.br |
-| 176.123.9.27 | 4 | 1786903311 | 1787076108 | EU | MD | Chisinau | 200019 |  |
-| 198.46.134.148 | 4 | 1786730502 | 1787076107 | NA | US | Buffalo | 36352 | srv1.itjaya.com |
-| 186.246.45.200 | 4 | 1786903309 | 1787076106 | EU | NL | Amsterdam-Zuidoost | 7738 |  |
-| 186.246.45.17 | 4 | 1786903309 | 1787076106 | EU | NL | Amsterdam-Zuidoost | 7738 |  |
-| 186.246.45.176 | 4 | 1786903309 | 1787076105 | EU | NL | Amsterdam-Zuidoost | 7738 |  |
-| 89.252.176.29 | 4 | 1786903307 | 1787076104 | AS | TR |  | 51559 | rpbdf.preparabic.com.de |
-| 86.111.188.99 | 4 | 1786903308 | 1787076104 | EU | GB |  | 33182 |  |
-| 45.12.114.156 | 4 | 1786903305 | 1787076101 | EU | RU | Moscow | 35913 | vm15713457.example.com |
-| 192.227.140.105 | 4 | 1786903304 | 1787076101 | NA | US | Elk Grove Village | 36352 | 192-227-140-105-host.colocrossing.com |
-| 176.65.131.192 | 4 | 1786903302 | 1787076101 | EU | DE |  |  |  |
-| 46.4.57.166 | 4 | 1786730502 | 1787076100 | EU | DE | Falkenstein | 24940 | static.166.57.4.46.clients.your-server.de |
-| 178.63.40.216 | 4 | 1786730501 | 1787076100 | EU | DE | Falkenstein | 24940 | static.216.40.63.178.clients.your-server.de |
-| 176.9.7.101 | 4 | 1786730502 | 1787076100 | EU | DE | Falkenstein | 24940 | static.101.7.9.176.clients.your-server.de |
-| 162.55.95.169 | 4 | 1786903302 | 1787076100 | EU | DE | Falkenstein | 24940 | static.169.95.55.162.clients.your-server.de |
-| 146.59.47.170 | 4 | 1786730501 | 1787076100 | EU | FR |  | 16276 | ns3201894.ip-146-59-47.eu |
-| 135.181.221.98 | 4 | 1786730501 | 1787076100 | EU | FI | Helsinki | 24940 | static.98.221.181.135.clients.your-server.de |
-| 102.129.200.117 | 4 | 1786903302 | 1787076100 | AF | ZA |  | 210531 |  |
-| 46.105.20.238 | 4 | 1780610608 | 1787076099 | EU | FR |  | 16276 | vps-d897c6cd.vps.ovh.net |
-| 147.161.3.31 | 4 | 1784208222 | 1787076098 | EU | GB | Telford | 61317 |  |
-| 89.126.230.37 | 4 | 1785780106 | 1787076096 | EU | NL |  | 25441 | vm23837.bit.hosting |
-| 89.126.230.33 | 4 | 1785780106 | 1787076095 | EU | NL |  | 25441 | vm23831.bit.hosting |
-| 201.3.225.23 | 4 | 1785175307 | 1787076091 | EU | PL |  | 8167 | vm23361.bit.hosting |
-| 107.174.146.5 | 4 | 1780880645 | 1787076085 | NA | US | Buffalo | 36352 | 107-174-146-5-host.colocrossing.com |
-| 45.9.168.96 | 4 | 1778789079 | 1787076070 | EU | HU | Nyíregyháza | 211619 | server26014.maxko-hosting.net |
-| 45.9.168.95 | 4 | 1778789079 | 1787076070 | EU | HU | Nyíregyháza | 211619 | server26007.maxko-hosting.net |
-| 51.15.18.73 | 4 | 1775257447 | 1787076059 | EU | NL | Haarlem | 12876 | 51-15-18-73.rev.poneytelecom.eu |
 
