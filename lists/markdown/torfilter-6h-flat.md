@@ -2,9 +2,9 @@
 # TORFilter
 Last seen within 6 hours
 
-Count : 2367
+Count : 2352
 
-Generated: 2026-08-22T23:00:05.942Z
+Generated: 2026-08-23T00:00:05.990Z
 
 Those IPs are not guaranteed to be tor nodes, but they were seen as tor nodes within the last 6 hours. Use at your own risk, This is NOT a abuse feed, This feed is made for sitemasters to detect traffic from tor nodes, this is the only purpose of this feed
 
@@ -2363,19 +2363,4 @@ Those IPs are not guaranteed to be tor nodes, but they were seen as tor nodes wi
 | 192.42.116.45 | 4 | 1771967050 | 1787421610 | EU | NL |  | 1101 |  |
 | 192.42.116.13 | 4 | 1698437985 | 1787421610 | EU | NL |  | 1101 | this-is-a-tor-exit-node-hviv113.hviv.nl |
 | 192.42.116.102 | 4 | 1771963488 | 1787421610 | EU | NL |  | 1101 |  |
-| 192.42.116.95 | 4 | 1771963493 | 1787421609 | EU | NL |  | 1101 |  |
-| 192.42.116.94 | 4 | 1771963493 | 1787421609 | EU | NL |  | 1101 |  |
-| 192.42.116.93 | 4 | 1771963493 | 1787421609 | EU | NL |  | 1101 |  |
-| 192.42.116.51 | 4 | 1771967051 | 1787421609 | EU | NL |  | 1101 |  |
-| 192.42.116.50 | 4 | 1771967051 | 1787421609 | EU | NL |  | 1101 |  |
-| 192.42.116.48 | 4 | 1771967051 | 1787421609 | EU | NL |  | 1101 |  |
-| 192.42.116.46 | 4 | 1771967051 | 1787421609 | EU | NL |  | 1101 |  |
-| 192.42.116.43 | 4 | 1771967050 | 1787421609 | EU | NL |  | 1101 |  |
-| 192.42.116.15 | 4 | 1698437950 | 1787421609 | EU | NL |  | 1101 | this-is-a-tor-exit-node-hviv115.hviv.nl |
-| 192.42.116.92 | 4 | 1771963493 | 1787421608 | EU | NL |  | 1101 |  |
-| 192.42.116.42 | 4 | 1771967050 | 1787421608 | EU | NL |  | 1101 |  |
-| 192.42.116.14 | 4 | 1698437977 | 1787421608 | EU | NL |  | 1101 | this-is-a-tor-exit-node-hviv114.hviv.nl |
-| 192.42.116.12 | 4 | 1771956250 | 1787421608 | EU | NL |  | 1101 | hviv-bare.as1101.net |
-| 192.42.116.99 | 4 | 1771963494 | 1787421607 | EU | NL |  | 1101 |  |
-| 192.42.116.44 | 4 | 1771967050 | 1787421607 | EU | NL |  | 1101 |  |
 
