@@ -4,13 +4,19 @@ Last seen within 24 hours
 
 Count : 2405
 
-Generated: 2026-08-25T17:00:05.648Z
+Generated: 2026-08-25T18:00:04.450Z
 
 Those IPs are not guaranteed to be tor nodes, but they were seen as tor nodes within the last 24 hours. Use at your own risk, This is NOT a abuse feed, This feed is made for sitemasters to detect traffic from tor nodes, this is the only purpose of this feed
 
 
 | ip | ipversion | firstseen | lastseen | continentcode | countrycode | city | ASN | rdns |
 |---|---|---|---|---|---|---|---|---|
+| 89.58.26.216 | 4 | 1698437927 | 1787680805 | EU | DE | Nuremberg | 197540 | NurembergTor78.quetzalcoatl-relays.org |
+| 5.45.102.93 | 4 | 1698437928 | 1787680805 | EU | DE | Nuremberg | 197540 | NurembergTor10.quetzalcoatl-relays.org |
+| 109.70.100.4 | 4 | 1698437928 | 1787680805 | EU | AT |  | 208323 | tor-exit-anonymizer.appliedprivacy.net |
+| 80.67.167.81 | 4 | 1698437927 | 1787680804 | EU | FR | Paris | 2027 | nosoignons.cust.milkywan.net |
+| 198.98.51.189 | 4 | 1698437927 | 1787680804 | NA | US | Staten Island | 53667 | tor.teitel.net |
+| 171.25.193.25 | 4 | 1698437927 | 1787680804 | EU | SE |  | 198093 | tor-exit-read-me.dfri.se |
 | 96.44.159.148 | 4 | 1780419826 | 1787594679 | NA | CA | Toronto | 8100 |  |
 | 96.44.154.224 | 4 | 1780193037 | 1787594679 | NA | CA | Toronto | 8100 |  |
 | 96.126.98.146 | 4 | 1715810607 | 1787594679 | NA | US | Fremont | 63949 | 96-126-98-146.ip.linodeusercontent.com |
@@ -66,7 +72,6 @@ Those IPs are not guaranteed to be tor nodes, but they were seen as tor nodes wi
 | 91.132.144.59 | 4 | 1698437951 | 1787594675 | EU | DE | Nuremberg | 197540 | NurembergTor49.quetzalcoatl-relays.org |
 | 90.184.10.74 | 4 | 1783868666 | 1787594675 | EU | DK |  |  | x5ab80a4a.customers.hiper-net.dk |
 | 89.58.41.156 | 4 | 1698437929 | 1787594675 | EU | DE | Nuremberg | 197540 | NurembergTor79.quetzalcoatl-relays.org |
-| 89.58.26.216 | 4 | 1698437927 | 1787594675 | EU | DE | Nuremberg | 197540 | NurembergTor78.quetzalcoatl-relays.org |
 | 89.35.131.253 | 4 | 1787508101 | 1787594675 | EU | NL | Amsterdam | 15731 | 253.131.35.89.nl101.servers.guru |
 | 89.234.157.254 | 4 | 1698437959 | 1787594675 | EU | FR | Toulouse | 197422 | marylou.nos-oignons.net |
 | 89.147.111.87 | 4 | 1709867578 | 1787594675 | EU | IS | Reykjavik | 44925 | vps-89-147-111-87.1984.is |
@@ -123,7 +128,6 @@ Those IPs are not guaranteed to be tor nodes, but they were seen as tor nodes wi
 | 80.94.92.99 | 4 | 1750737835 | 1787594671 | EU | RO |  | 47890 |  |
 | 80.94.92.92 | 4 | 1731391403 | 1787594671 | EU | RO |  | 47890 |  |
 | 80.67.172.162 | 4 | 1698437978 | 1787594671 | EU | FR |  | 20766 | algrothendieck.nos-oignons.net |
-| 80.67.167.81 | 4 | 1698437927 | 1787594671 | EU | FR | Paris | 2027 | nosoignons.cust.milkywan.net |
 | 80.241.60.207 | 4 | 1698437948 | 1787594671 | EU | DE | Berlin | 199118 | tor.mailbox.org |
 | 8.215.52.126 | 4 | 1762920241 | 1787594671 | AS | ID | Jakarta | 45102 |  |
 | 8.211.148.167 | 4 | 1762855441 | 1787594671 | AS | JP | Tokyo | 45102 |  |
@@ -190,7 +194,6 @@ Those IPs are not guaranteed to be tor nodes, but they were seen as tor nodes wi
 | 5.79.66.19 | 4 | 1698437933 | 1787594666 | EU | NL |  | 60781 |  |
 | 5.45.98.162 | 4 | 1698437993 | 1787594666 | EU | DE | Nuremberg | 197540 | NurembergTor13.quetzalcoatl-relays.org |
 | 5.45.104.176 | 4 | 1698437968 | 1787594666 | EU | DE | Nuremberg | 197540 | NurembergTor54.quetzalcoatl-relays.org |
-| 5.45.102.93 | 4 | 1698437928 | 1787594666 | EU | DE | Nuremberg | 197540 | NurembergTor10.quetzalcoatl-relays.org |
 | 5.44.252.164 | 4 | 1780841024 | 1787594666 | EU | UA |  | 3236 | mail.kars.zip |
 | 5.255.127.222 | 4 | 1698437989 | 1787594666 | EU | NL | Dronten | 60404 |  |
 | 5.255.127.212 | 4 | 1786903313 | 1787594666 | EU | NL | Dronten | 60404 |  |
@@ -1652,7 +1655,6 @@ Those IPs are not guaranteed to be tor nodes, but they were seen as tor nodes wi
 | 198.98.57.74 | 4 | 1737025385 | 1787594559 | NA | US | Staten Island | 53667 |  |
 | 198.98.57.151 | 4 | 1733767335 | 1787594559 | NA | US | Staten Island | 53667 |  |
 | 198.98.51.249 | 4 | 1709270153 | 1787594559 | NA | US | Staten Island | 53667 | tor-exit-http-readme.hackb.2mpd.com |
-| 198.98.51.189 | 4 | 1698437927 | 1787594559 | NA | US | Staten Island | 53667 | tor.teitel.net |
 | 198.98.50.199 | 4 | 1698437949 | 1787594559 | NA | US | Staten Island | 53667 | tor-exit.cyberjake.xyz |
 | 198.96.155.3 | 4 | 1698437939 | 1787594559 | NA | CA |  | 12093 | exit.tor.uwaterloo.ca |
 | 198.58.107.53 | 4 | 1698437999 | 1787594559 | NA | US | Richardson | 63949 | tor.tyler.zone |
@@ -2075,7 +2077,6 @@ Those IPs are not guaranteed to be tor nodes, but they were seen as tor nodes wi
 | 171.25.193.37 | 4 | 1752537709 | 1787594529 | EU | SE |  | 198093 | mesh11.dfri.se |
 | 171.25.193.36 | 4 | 1752541464 | 1787594529 | EU | SE |  | 198093 | mesh10.dfri.se |
 | 171.25.193.35 | 4 | 1752541464 | 1787594529 | EU | SE |  | 198093 | mesh10.dfri.se |
-| 171.25.193.25 | 4 | 1698437927 | 1787594529 | EU | SE |  | 198093 | tor-exit-read-me.dfri.se |
 | 171.25.193.235 | 4 | 1698437959 | 1787594529 | EU | SE |  | 198093 | tor-exit-read-me.dfri.se |
 | 171.25.193.234 | 4 | 1698437953 | 1787594528 | EU | SE |  | 198093 | tor-exit-read-me.dfri.se |
 | 171.25.193.20 | 4 | 1698437965 | 1787594528 | EU | SE |  | 198093 | tor-exit-read-me.dfri.se |
@@ -2212,7 +2213,6 @@ Those IPs are not guaranteed to be tor nodes, but they were seen as tor nodes wi
 | 109.70.100.7 | 4 | 1698507086 | 1787594519 | EU | AT |  | 208323 | tor-exit-anonymizer.appliedprivacy.net |
 | 109.70.100.6 | 4 | 1698437933 | 1787594519 | EU | AT |  | 208323 | tor-exit-anonymizer.appliedprivacy.net |
 | 109.70.100.5 | 4 | 1698437945 | 1787594519 | EU | AT |  | 208323 | tor-exit-anonymizer.appliedprivacy.net |
-| 109.70.100.4 | 4 | 1698437928 | 1787594519 | EU | AT |  | 208323 | tor-exit-anonymizer.appliedprivacy.net |
 | 109.70.100.3 | 4 | 1698437949 | 1787594519 | EU | AT |  | 208323 | tor-exit-anonymizer.appliedprivacy.net |
 | 109.70.100.2 | 4 | 1698437931 | 1787594519 | EU | AT |  | 208323 | tor-exit-anonymizer.appliedprivacy.net |
 | 109.70.100.15 | 4 | 1698507086 | 1787594518 | EU | AT |  | 208323 | tor-exit-anonymizer.appliedprivacy.net |
