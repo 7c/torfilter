@@ -2,15 +2,16 @@
 # TORFilter
 Last seen within 24 hours
 
-Count : 2402
+Count : 2403
 
-Generated: 2026-08-31T13:00:06.473Z
+Generated: 2026-08-31T14:00:07.926Z
 
 Those IPs are not guaranteed to be tor nodes, but they were seen as tor nodes within the last 24 hours. Use at your own risk, This is NOT a abuse feed, This feed is made for sitemasters to detect traffic from tor nodes, this is the only purpose of this feed
 
 
 | ip | ipversion | firstseen | lastseen | continentcode | countrycode | city | ASN | rdns |
 |---|---|---|---|---|---|---|---|---|
+| 185.77.218.129 | 4 | 1788181663 | 1788181663 | NA | US |  | 51765 | gliy129.fishbwxp.de.com |
 | 96.44.159.202 | 4 | 1788112908 | 1788113069 | NA | CA | Toronto | 8100 | 96-44-159-202-host.colocrossing.com |
 | 96.44.159.148 | 4 | 1780419826 | 1788113069 | NA | CA | Toronto | 8100 |  |
 | 96.44.154.224 | 4 | 1780193037 | 1788113069 | NA | CA | Toronto | 8100 |  |
