@@ -4,7 +4,7 @@ Last seen within 24 hours
 
 Count : 2249
 
-Generated: 2026-09-06T06:00:07.725Z
+Generated: 2026-09-06T07:00:07.701Z
 
 Those IPs are not guaranteed to be tor nodes, but they were seen as tor nodes within the last 24 hours. Use at your own risk, This is NOT a abuse feed, This feed is made for sitemasters to detect traffic from tor nodes, this is the only purpose of this feed
 
@@ -17,7 +17,7 @@ Those IPs are not guaranteed to be tor nodes, but they were seen as tor nodes wi
 | 95.211.244.28 | 4 | 1698437952 | 1788631457 | EU | NL |  | 60781 |  |
 | 95.211.239.220 | 4 | 1776877454 | 1788631457 | EU | NL |  | 60781 | hosted-by.euservr.com |
 | 95.155.151.200 | 4 | 1781575436 | 1788631457 | EU | NL | Kerkrade |  |  |
-| 95.143.193.125 | 4 | 1698437940 | 1788631456 | EU | SE | Gothenburg | 49770 |  |
+| 95.143.193.125 | 4 | 1698437940 | 1788631456 | EU | SE |  | 49770 |  |
 | 95.135.208.24 | 4 | 1769652291 | 1788631456 | EU | NL | Amsterdam | 6849 | static.95.135.208.24.deluxhost.net |
 | 95.133.166.239 | 4 | 1787162512 | 1788631456 | EU | IS |  | 6849 |  |
 | 95.128.43.164 | 4 | 1698437965 | 1788631456 | EU | FR | Paris | 41653 | exit-1.fr.tor.aquaray.com |
@@ -78,7 +78,7 @@ Those IPs are not guaranteed to be tor nodes, but they were seen as tor nodes wi
 | 84.19.182.20 | 4 | 1698492505 | 1788631452 | EU | DE |  | 31103 | km21001-02.keymachine.de |
 | 84.16.224.227 | 4 | 1700026403 | 1788631452 | EU | DE |  | 28753 |  |
 | 83.217.9.73 | 4 | 1709162131 | 1788631452 | AS | TR | Istanbul | 199669 | salsedo.osservatorionessuno.org |
-| 82.71.108.163 | 4 | 1788026665 | 1788631452 | EU | GB | Hayes | 13037 | tor-exit.cellarnet.co.uk |
+| 82.71.108.163 | 4 | 1788026665 | 1788631452 | EU | GB | Barnet | 13037 | tor-exit.cellarnet.co.uk |
 | 82.39.155.148 | 4 | 1782842622 | 1788631452 | EU | SE | Kista | 5089 |  |
 | 82.221.139.190 | 4 | 1698438009 | 1788631452 | EU | IS |  | 50613 | tor-and-gnunet-readme.ageinghacker.net |
 | 82.221.131.71 | 4 | 1698437971 | 1788631452 | EU | IS |  | 50613 |  |
@@ -109,7 +109,7 @@ Those IPs are not guaranteed to be tor nodes, but they were seen as tor nodes wi
 | 77.250.106.121 | 4 | 1787853714 | 1788631450 | EU | NL | Amsterdam | 33915 | 77-250-106-121.cable.dynamic.v4.ziggo.nl |
 | 77.239.97.46 | 4 | 1760392840 | 1788631450 | EU | DE | Frankfurt am Main | 6908 |  |
 | 74.208.77.132 | 4 | 1762301038 | 1788631450 | NA | US |  | 8560 | pikamon.net |
-| 72.211.49.235 | 4 | 1712955690 | 1788631450 | NA | US | San Diego | 22773 | wsip-72-211-49-235.sd.sd.cox.net |
+| 72.211.49.235 | 4 | 1712955690 | 1788631450 | NA | US | Chula Vista | 22773 | wsip-72-211-49-235.sd.sd.cox.net |
 | 69.163.77.166 | 4 | 1770613480 | 1788631450 | NA | US | Fairview | 36103 | tor-relay-1.toodenwable.net |
 | 69.12.83.6 | 4 | 1783281907 | 1788631450 | NA | US |  | 8100 |  |
 | 69.12.83.3 | 4 | 1782835422 | 1788631450 | NA | US |  | 8100 |  |
@@ -1471,7 +1471,7 @@ Those IPs are not guaranteed to be tor nodes, but they were seen as tor nodes wi
 | 204.8.96.102 | 4 | 1713211372 | 1788631355 | NA | US |  | 62744 |  |
 | 204.8.96.101 | 4 | 1713211372 | 1788631355 | NA | US |  | 62744 |  |
 | 204.8.96.100 | 4 | 1713211372 | 1788631355 | NA | US |  | 62744 |  |
-| 204.8.156.142 | 4 | 1698437939 | 1788631355 | NA | US | Boston | 10961 | cs-tor.bu.edu |
+| 204.8.156.142 | 4 | 1698437939 | 1788631355 | NA | US | Roxbury | 10961 | cs-tor.bu.edu |
 | 204.76.203.203 | 4 | 1757336553 | 1788631355 | EU | NL | Eygelshoven | 400328 | hosted-by.pfcloud.io |
 | 204.194.29.4 | 4 | 1698437964 | 1788631355 | NA | US |  | 9 | TOR-EXIT.CYLAB.CMU.EDU |
 | 204.137.14.92 | 4 | 1698438007 | 1788631355 | EU | NL | Eygelshoven | 399820 | ip.204-137-14-92.atomicnetworks.co |
@@ -1499,7 +1499,7 @@ Those IPs are not guaranteed to be tor nodes, but they were seen as tor nodes wi
 | 2001:1b60:3:221:701:102::1 | 6 | 1728482546 | 1788631354 | EU | DE |  | 31103 | tormachine.keymachine.de |
 | 2001:1b60:2:1:3935:104::1 | 6 | 1698438264 | 1788631353 | EU | DE |  | 31103 |  |
 | 2001:1af8:5301:140:1c00:e6ff:fe00:2759 | 6 | 1780016670 | 1788631353 | EU | NL |  | 60781 |  |
-| 2001:1620:51a1::101 | 6 | 1761411758 | 1788631353 | EU | CH | Menzingen | 13030 |  |
+| 2001:1620:51a1::101 | 6 | 1761411758 | 1788631353 | EU | CH | Altendorf | 13030 |  |
 | 2001:bf0:666::666 | 6 | 1698438264 | 1788631353 | EU | DE | Berlin | 12732 | tor-exit-4.all.de |
 | 2001:bc8:6010:206:ae1f:6bff:fe27:3176 | 6 | 1769731379 | 1788631353 | EU | NL | Haarlem | 12876 | ipv6.rev.poneytelecom.eu |
 | 2001:bc8:6010:204:ec4:7aff:fe86:8788 | 6 | 1775257358 | 1788631353 | EU | NL | Haarlem | 12876 |  |
@@ -1590,8 +1590,8 @@ Those IPs are not guaranteed to be tor nodes, but they were seen as tor nodes wi
 | 194.15.112.133 | 4 | 1698437942 | 1788631347 | EU | GB |  | 213354 |  |
 | 193.36.132.21 | 4 | 1730898136 | 1788631347 | EU | NL | Amsterdam | 211895 | tanja.tor-exit.mxmla.de |
 | 193.32.162.86 | 4 | 1777870945 | 1788631347 | EU | RO |  | 47890 |  |
-| 193.239.232.235 | 4 | 1759165334 | 1788631347 | NA | US |  | 41634 |  |
-| 193.239.232.102 | 4 | 1698437972 | 1788631347 | NA | US |  | 41634 |  |
+| 193.239.232.235 | 4 | 1759165334 | 1788631347 | EU | SE |  | 41634 |  |
+| 193.239.232.102 | 4 | 1698437972 | 1788631347 | EU | SE |  | 41634 |  |
 | 193.218.118.173 | 4 | 1718146918 | 1788631347 | EU | FR |  | 207656 | 173.118.218.193.urdn.com.ua |
 | 193.218.118.128 | 4 | 1705605418 | 1788631347 | EU | FR |  | 207656 | 128.118.218.193.urdn.com.ua |
 | 193.200.229.243 | 4 | 1766142165 | 1788631347 | EU | NO | Sandefjord |  |  |
@@ -1638,7 +1638,7 @@ Those IPs are not guaranteed to be tor nodes, but they were seen as tor nodes wi
 | 188.239.191.25 | 4 | 1730894529 | 1788631344 | EU | NL | Amsterdam | 211895 | bernd.tor-exit.mxmla.de |
 | 185.93.89.96 | 4 | 1769022286 | 1788631344 | AS | IR |  |  |  |
 | 185.82.219.109 | 4 | 1698437993 | 1788631344 | EU | BG | Sofia | 59729 | tornode2.vds-114833.com |
-| 185.67.82.114 | 4 | 1698437943 | 1788631343 | EU | FI | Espoo | 20904 | tor-ou.effi.org |
+| 185.67.82.114 | 4 | 1698437943 | 1788631343 | EU | FI | Helsinki | 20904 | tor-ou.effi.org |
 | 185.56.171.94 | 4 | 1698437988 | 1788631343 | EU | IT |  | 3242 | pengy.lsd.cat |
 | 185.42.170.203 | 4 | 1698437982 | 1788631343 | EU | NO | Oslo | 62248 | exit01.tor.anduin.net |
 | 185.39.207.83 | 4 | 1706313857 | 1788631343 | EU | GR |  | 207713 | vanzetti.osservatorionessuno.org |
