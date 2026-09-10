@@ -4,13 +4,17 @@ Last seen within 72 hours
 
 Count : 2278
 
-Generated: 2026-09-10T17:00:07.416Z
+Generated: 2026-09-10T18:00:07.222Z
 
 Those IPs are not guaranteed to be tor nodes, but they were seen as tor nodes within the last 72 hours. Use at your own risk, This is NOT a abuse feed, This feed is made for sitemasters to detect traffic from tor nodes, this is the only purpose of this feed
 
 
 | ip | ipversion | firstseen | lastseen | continentcode | countrycode | city | ASN | rdns |
 |---|---|---|---|---|---|---|---|---|
+| 89.58.26.216 | 4 | 1698437927 | 1789063207 | EU | DE | Nuremberg | 197540 | NurembergTor78.quetzalcoatl-relays.org |
+| 80.67.167.81 | 4 | 1698437927 | 1789063207 | EU | FR | Paris | 2027 | nosoignons.cust.milkywan.net |
+| 198.98.51.189 | 4 | 1698437927 | 1789063207 | NA | US | Staten Island | 53667 | tor.teitel.net |
+| 171.25.193.25 | 4 | 1698437927 | 1789063207 | EU | SE |  | 198093 | tor-exit-read-me.dfri.se |
 | 96.44.159.202 | 4 | 1788112908 | 1788977052 | NA | CA | Toronto | 8100 | 96-44-159-202-host.colocrossing.com |
 | 96.44.159.148 | 4 | 1780419826 | 1788977052 | NA | CA | Toronto | 8100 |  |
 | 96.44.154.224 | 4 | 1780193037 | 1788977052 | NA | CA | Toronto | 8100 |  |
@@ -55,7 +59,6 @@ Those IPs are not guaranteed to be tor nodes, but they were seen as tor nodes wi
 | 91.132.144.59 | 4 | 1698437951 | 1788977049 | EU | DE | Nuremberg | 197540 | NurembergTor49.quetzalcoatl-relays.org |
 | 90.184.10.74 | 4 | 1783868666 | 1788977049 | EU | DK |  |  | x5ab80a4a.customers.hiper-net.dk |
 | 89.58.41.156 | 4 | 1698437929 | 1788977049 | EU | DE | Nuremberg | 197540 | NurembergTor79.quetzalcoatl-relays.org |
-| 89.58.26.216 | 4 | 1698437927 | 1788977049 | EU | DE | Nuremberg | 197540 | NurembergTor78.quetzalcoatl-relays.org |
 | 89.234.157.254 | 4 | 1698437959 | 1788977049 | EU | FR | Toulouse | 197422 | marylou.nos-oignons.net |
 | 89.147.111.87 | 4 | 1709867578 | 1788977048 | EU | IS | Reykjavik | 44925 | vps-89-147-111-87.1984.is |
 | 89.147.110.82 | 4 | 1704589004 | 1788977048 | EU | IS | Reykjavik | 44925 | vps-89-147-110-82.1984.is |
@@ -102,7 +105,6 @@ Those IPs are not guaranteed to be tor nodes, but they were seen as tor nodes wi
 | 80.94.92.99 | 4 | 1750737835 | 1788977046 | EU | RO |  | 47890 |  |
 | 80.94.92.92 | 4 | 1731391403 | 1788977045 | EU | RO |  | 47890 |  |
 | 80.67.172.162 | 4 | 1698437978 | 1788977045 | EU | FR |  | 20766 | algrothendieck.nos-oignons.net |
-| 80.67.167.81 | 4 | 1698437927 | 1788977045 | EU | FR | Paris | 2027 | nosoignons.cust.milkywan.net |
 | 79.100.237.181 | 4 | 1787508100 | 1788977045 | EU | BG | Sofia | 8866 | 79-100-237-181.ip.btc-net.bg |
 | 77.90.185.93 | 4 | 1781139992 | 1788977045 | EU | DE |  | 198465 |  |
 | 77.48.28.237 | 4 | 1698437950 | 1788977045 | EU | CZ | Krnov | 16019 | arnov.intervocalically.com |
@@ -1556,7 +1558,6 @@ Those IPs are not guaranteed to be tor nodes, but they were seen as tor nodes wi
 | 198.98.61.60 | 4 | 1698437991 | 1788976944 | NA | US | Staten Island | 53667 |  |
 | 198.98.60.231 | 4 | 1784060343 | 1788976944 | NA | US | Staten Island | 53667 |  |
 | 198.98.51.249 | 4 | 1709270153 | 1788976943 | NA | US | Staten Island | 53667 | tor-exit-http-readme.hackb.2mpd.com |
-| 198.98.51.189 | 4 | 1698437927 | 1788976943 | NA | US | Staten Island | 53667 | tor.teitel.net |
 | 198.96.155.3 | 4 | 1698437939 | 1788976943 | NA | CA |  | 12093 | exit.tor.uwaterloo.ca |
 | 198.58.107.53 | 4 | 1698437999 | 1788976943 | NA | US | Richardson | 63949 | tor.tyler.zone |
 | 198.46.168.17 | 4 | 1775783369 | 1788976943 | NA | US | Buffalo | 36352 | bigdatahospit06b.drogariafarmapan.sbs |
@@ -1949,7 +1950,6 @@ Those IPs are not guaranteed to be tor nodes, but they were seen as tor nodes wi
 | 171.25.193.37 | 4 | 1752537709 | 1788976916 | EU | SE |  | 198093 | mesh11.dfri.se |
 | 171.25.193.36 | 4 | 1752541464 | 1788976916 | EU | SE |  | 198093 | mesh10.dfri.se |
 | 171.25.193.35 | 4 | 1752541464 | 1788976916 | EU | SE |  | 198093 | mesh10.dfri.se |
-| 171.25.193.25 | 4 | 1698437927 | 1788976916 | EU | SE |  | 198093 | tor-exit-read-me.dfri.se |
 | 171.25.193.235 | 4 | 1698437959 | 1788976915 | EU | SE |  | 198093 | tor-exit-read-me.dfri.se |
 | 171.25.193.234 | 4 | 1698437953 | 1788976915 | EU | SE |  | 198093 | tor-exit-read-me.dfri.se |
 | 171.25.193.20 | 4 | 1698437965 | 1788976915 | EU | SE |  | 198093 | tor-exit-read-me.dfri.se |
