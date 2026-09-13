@@ -4,7 +4,7 @@ Last seen within 48 hours
 
 Count : 2255
 
-Generated: 2026-09-13T06:00:06.174Z
+Generated: 2026-09-13T07:00:05.764Z
 
 Those IPs are not guaranteed to be tor nodes, but they were seen as tor nodes within the last 48 hours. Use at your own risk, This is NOT a abuse feed, This feed is made for sitemasters to detect traffic from tor nodes, this is the only purpose of this feed
 
@@ -80,7 +80,7 @@ Those IPs are not guaranteed to be tor nodes, but they were seen as tor nodes wi
 | 84.19.182.20 | 4 | 1698492505 | 1789236242 | EU | DE |  | 31103 | km21001-02.keymachine.de |
 | 84.16.224.227 | 4 | 1700026403 | 1789236242 | EU | DE |  | 28753 |  |
 | 83.217.9.73 | 4 | 1709162131 | 1789236242 | AS | TR | Istanbul | 199669 | salsedo.osservatorionessuno.org |
-| 82.71.108.163 | 4 | 1788026665 | 1789236242 | EU | GB | Barnet | 13037 | tor-exit.cellarnet.co.uk |
+| 82.71.108.163 | 4 | 1788026665 | 1789236242 | EU | GB | St Albans | 13037 | tor-exit.cellarnet.co.uk |
 | 82.39.155.148 | 4 | 1782842622 | 1789236241 | EU | SE | Kista | 5089 |  |
 | 82.221.139.190 | 4 | 1698438009 | 1789236241 | EU | IS |  | 50613 | tor-and-gnunet-readme.ageinghacker.net |
 | 82.221.131.71 | 4 | 1698437971 | 1789236241 | EU | IS |  | 50613 |  |
@@ -88,7 +88,7 @@ Those IPs are not guaranteed to be tor nodes, but they were seen as tor nodes wi
 | 82.221.128.191 | 4 | 1698437986 | 1789236241 | EU | IS |  | 50613 |  |
 | 82.221.100.222 | 4 | 1772673408 | 1789236241 | EU | IS | Reykjavik | 50613 |  |
 | 82.221.100.12 | 4 | 1763568250 | 1789236241 | EU | IS | Reykjavik | 50613 |  |
-| 82.197.182.161 | 4 | 1698437939 | 1789236241 | EU | CH | Egliswil | 13030 | 161-182-197-82.init7.net |
+| 82.197.182.161 | 4 | 1698437939 | 1789236241 | EU | CH | Zurich | 13030 | 161-182-197-82.init7.net |
 | 82.153.138.184 | 4 | 1741201302 | 1789236241 | EU | RO | Orăştie | 206509 |  |
 | 82.118.248.205 | 4 | 1740560604 | 1789236241 | EU | BG | Pernik | 45007 |  |
 | 81.181.104.22 | 4 | 1740528222 | 1789236241 | EU | PL | Warsaw | 9009 |  |
@@ -131,7 +131,7 @@ Those IPs are not guaranteed to be tor nodes, but they were seen as tor nodes wi
 | 64.190.76.10 | 4 | 1744455801 | 1789236238 | EU | IT | Turin | 11696 |  |
 | 64.188.93.178 | 4 | 1769303581 | 1789236238 | EU | FI | Helsinki | 46339 | vm719078.hosted-by.u1host.com |
 | 62.84.176.89 | 4 | 1784397708 | 1789236238 | EU | FR | Lauterbourg | 834 | vmi2981374.contaboserver.net |
-| 62.83.8.161 | 4 | 1789063444 | 1789236238 | EU | ES | Madrid | 12430 | v2202609365247517870.luckysrv.de |
+| 62.83.8.161 | 4 | 1789063444 | 1789236238 | EU | AT | Vienna | 12430 | v2202609365247517870.luckysrv.de |
 | 62.72.47.105 | 4 | 1746896616 | 1789236238 | AS | SG | Singapore |  | Singapore1Tor.quetzalcoatl-relays.org |
 | 62.182.84.146 | 4 | 1698437983 | 1789236238 | EU | UA | Kyiv | 30860 | ml148.spryraven.com |
 | 62.182.80.112 | 4 | 1782702228 | 1789236238 | EU | UA | Kyiv | 30860 | 62-182-80-112.hinet-ip.hinet.net |
@@ -182,7 +182,7 @@ Those IPs are not guaranteed to be tor nodes, but they were seen as tor nodes wi
 | 46.4.68.89 | 4 | 1789149700 | 1789236234 | EU | DE | Falkenstein | 24940 | static.89.68.4.46.clients.your-server.de |
 | 46.250.243.29 | 4 | 1746997417 | 1789236234 | EU | GB | London | 834 | Australia1Tor.quetzalcoatl-relays.org |
 | 46.232.251.191 | 4 | 1698437986 | 1789236234 | EU | DE | Nuremberg | 197540 | this-is-a-tor-node---8.artikel5ev.de |
-| 46.167.244.241 | 4 | 1787767381 | 1789236234 | EU | CZ | Zlonín | 16019 | 241.244.167.46.finalhosting.cz |
+| 46.167.244.241 | 4 | 1787767381 | 1789236234 | EU | CZ | Čakovičky | 16019 | 241.244.167.46.finalhosting.cz |
 | 46.165.243.36 | 4 | 1698437992 | 1789236234 | EU | DE |  | 28753 |  |
 | 45.95.169.32 | 4 | 1781651025 | 1789236234 | EU | HR | Sisak | 211619 | vps36596.maxko-hosting.net |
 | 45.95.169.119 | 4 | 1768716277 | 1789236234 | EU | HR | Sisak | 211619 | tor-exit-croatia.bronk-ict.nl |
@@ -1323,7 +1323,7 @@ Those IPs are not guaranteed to be tor nodes, but they were seen as tor nodes wi
 | 204.8.96.102 | 4 | 1713211372 | 1789236152 | NA | US |  | 62744 |  |
 | 204.8.96.101 | 4 | 1713211372 | 1789236152 | NA | US |  | 62744 |  |
 | 204.8.96.100 | 4 | 1713211372 | 1789236152 | NA | US |  | 62744 |  |
-| 204.8.156.142 | 4 | 1698437939 | 1789236152 | NA | US | Roxbury | 10961 | cs-tor.bu.edu |
+| 204.8.156.142 | 4 | 1698437939 | 1789236152 | NA | US | Boston | 10961 | cs-tor.bu.edu |
 | 204.76.203.203 | 4 | 1757336553 | 1789236152 | EU | NL | Eygelshoven | 400328 | hosted-by.pfcloud.io |
 | 204.194.29.4 | 4 | 1698437964 | 1789236152 | NA | US |  | 9 | TOR-EXIT.CYLAB.CMU.EDU |
 | 204.137.14.92 | 4 | 1698438007 | 1789236152 | EU | NL | Eygelshoven | 399820 | ip.204-137-14-92.atomicnetworks.co |
@@ -1351,7 +1351,7 @@ Those IPs are not guaranteed to be tor nodes, but they were seen as tor nodes wi
 | 2001:1b60:2:1:3935:104::1 | 6 | 1698438264 | 1789236150 | EU | DE |  | 31103 |  |
 | 2001:1af8:5301:140:1c00:e6ff:fe00:2759 | 6 | 1780016670 | 1789236150 | EU | NL |  | 60781 |  |
 | 2001:1620:51a1::101 | 6 | 1761411758 | 1789236150 | EU | CH | Altendorf | 13030 |  |
-| 2001:bf0:666::666 | 6 | 1698438264 | 1789236150 | EU | DE | Berlin | 12732 | tor-exit-4.all.de |
+| 2001:bf0:666::666 | 6 | 1698438264 | 1789236150 | EU | DE |  | 12732 | tor-exit-4.all.de |
 | 2001:bc8:6010:206:ae1f:6bff:fe27:3176 | 6 | 1769731379 | 1789236150 | EU | NL | Haarlem | 12876 | ipv6.rev.poneytelecom.eu |
 | 2001:bc8:6010:204:ec4:7aff:fe86:8788 | 6 | 1775257358 | 1789236150 | EU | NL | Haarlem | 12876 |  |
 | 2001:bc8:6010:202:ae1f:6bff:fe83:9eb8 | 6 | 1775257358 | 1789236150 | EU | NL | Haarlem | 12876 | ipv6.rev.poneytelecom.eu |
@@ -2251,7 +2251,7 @@ Those IPs are not guaranteed to be tor nodes, but they were seen as tor nodes wi
 | 2605:6400:30:ef7a:391a:8c71:a2f1:9506 | 6 | 1698438285 | 1789149786 | EU | CH | Bern | 53667 | onion-exit.stagingdomain.name |
 | 2600:3c00::f03c:95ff:fe5d:8f00 | 6 | 1726376546 | 1789149780 | NA | US | Richardson | 63949 | brutus.relaymagic.org |
 | 2001:2042:7970:6f00:9c5a:89d6:5960:d21c | 6 | 1782950552 | 1789149750 | EU | SE |  | 3301 |  |
-| 2001:9b0:25d:f700::20e | 6 | 1766847763 | 1789149749 | EU | SE | Landvetter | 8473 |  |
+| 2001:9b0:25d:f700::20e | 6 | 1766847763 | 1789149749 | EU | SE | Gothenburg | 8473 |  |
 | 173.199.90.74 | 4 | 1788890501 | 1789149700 | NA | US | Elk Grove Village | 20473 | 173.199.90.74.vultrusercontent.com |
 | 5.79.66.19 | 4 | 1698437933 | 1789149699 | EU | NL |  | 60781 |  |
 | 49.213.62.84 | 4 | 1783541097 | 1789149699 | AS | HK |  |  |  |
