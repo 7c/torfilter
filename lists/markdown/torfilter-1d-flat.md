@@ -4,13 +4,14 @@ Last seen within 24 hours
 
 Count : 2128
 
-Generated: 2026-09-15T17:00:07.789Z
+Generated: 2026-09-15T18:00:06.339Z
 
 Those IPs are not guaranteed to be tor nodes, but they were seen as tor nodes within the last 24 hours. Use at your own risk, This is NOT a abuse feed, This feed is made for sitemasters to detect traffic from tor nodes, this is the only purpose of this feed
 
 
 | ip | ipversion | firstseen | lastseen | continentcode | countrycode | city | ASN | rdns |
 |---|---|---|---|---|---|---|---|---|
+| 171.25.193.25 | 4 | 1698437927 | 1789495207 | EU | SE |  | 198093 | tor-exit-read-me.dfri.se |
 | 96.44.159.202 | 4 | 1788112908 | 1789409044 | NA | CA | Toronto | 8100 | 96-44-159-202-host.colocrossing.com |
 | 96.44.159.148 | 4 | 1780419826 | 1789409043 | NA | CA | Toronto | 8100 |  |
 | 96.44.154.224 | 4 | 1780193037 | 1789409043 | NA | CA | Toronto | 8100 |  |
@@ -1839,7 +1840,6 @@ Those IPs are not guaranteed to be tor nodes, but they were seen as tor nodes wi
 | 171.25.193.37 | 4 | 1752537709 | 1789408914 | EU | SE |  | 198093 | mesh11.dfri.se |
 | 171.25.193.36 | 4 | 1752541464 | 1789408914 | EU | SE |  | 198093 | mesh10.dfri.se |
 | 171.25.193.35 | 4 | 1752541464 | 1789408914 | EU | SE |  | 198093 | mesh10.dfri.se |
-| 171.25.193.25 | 4 | 1698437927 | 1789408914 | EU | SE |  | 198093 | tor-exit-read-me.dfri.se |
 | 171.25.193.235 | 4 | 1698437959 | 1789408914 | EU | SE |  | 198093 | tor-exit-read-me.dfri.se |
 | 171.25.193.234 | 4 | 1698437953 | 1789408914 | EU | SE |  | 198093 | tor-exit-read-me.dfri.se |
 | 171.25.193.20 | 4 | 1698437965 | 1789408914 | EU | SE |  | 198093 | tor-exit-read-me.dfri.se |
