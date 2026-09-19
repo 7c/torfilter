@@ -4,13 +4,15 @@ Last seen within 72 hours
 
 Count : 2310
 
-Generated: 2026-09-19T17:00:06.177Z
+Generated: 2026-09-19T18:00:06.532Z
 
 Those IPs are not guaranteed to be tor nodes, but they were seen as tor nodes within the last 72 hours. Use at your own risk, This is NOT a abuse feed, This feed is made for sitemasters to detect traffic from tor nodes, this is the only purpose of this feed
 
 
 | ip | ipversion | firstseen | lastseen | continentcode | countrycode | city | ASN | rdns |
 |---|---|---|---|---|---|---|---|---|
+| 80.67.167.81 | 4 | 1698437927 | 1789840808 | EU | FR | Paris | 2027 | nosoignons.cust.milkywan.net |
+| 171.25.193.25 | 4 | 1698437927 | 1789840808 | EU | SE |  | 198093 | tor-exit-read-me.dfri.se |
 | 96.44.159.202 | 4 | 1788112908 | 1789754679 | NA | CA | Toronto | 8100 | 96-44-159-202-host.colocrossing.com |
 | 96.44.159.148 | 4 | 1780419826 | 1789754679 | NA | CA | Toronto | 8100 |  |
 | 96.44.154.224 | 4 | 1780193037 | 1789754679 | NA | CA | Toronto | 8100 |  |
@@ -103,7 +105,6 @@ Those IPs are not guaranteed to be tor nodes, but they were seen as tor nodes wi
 | 80.94.92.99 | 4 | 1750737835 | 1789754673 | EU | RO |  | 47890 |  |
 | 80.94.92.92 | 4 | 1731391403 | 1789754673 | EU | RO |  | 47890 |  |
 | 80.67.172.162 | 4 | 1698437978 | 1789754673 | EU | FR |  | 20766 | algrothendieck.nos-oignons.net |
-| 80.67.167.81 | 4 | 1698437927 | 1789754672 | EU | FR | Paris | 2027 | nosoignons.cust.milkywan.net |
 | 79.100.237.181 | 4 | 1787508100 | 1789754672 | EU | BG | Sofia | 8866 | 79-100-237-181.ip.btc-net.bg |
 | 78.17.93.226 | 4 | 1789754522 | 1789754672 | NA | CA | Montreal | 2110 | 226.93.17.78.mtl3.servers.guru |
 | 78.17.93.170 | 4 | 1789754521 | 1789754672 | NA | CA | Montreal | 2110 | 170.93.17.78.mtl3.servers.guru |
@@ -1997,7 +1998,6 @@ Those IPs are not guaranteed to be tor nodes, but they were seen as tor nodes wi
 | 171.25.193.37 | 4 | 1752537709 | 1789754538 | EU | SE |  | 198093 | mesh11.dfri.se |
 | 171.25.193.36 | 4 | 1752541464 | 1789754537 | EU | SE |  | 198093 | mesh10.dfri.se |
 | 171.25.193.35 | 4 | 1752541464 | 1789754537 | EU | SE |  | 198093 | mesh10.dfri.se |
-| 171.25.193.25 | 4 | 1698437927 | 1789754537 | EU | SE |  | 198093 | tor-exit-read-me.dfri.se |
 | 171.25.193.235 | 4 | 1698437959 | 1789754537 | EU | SE |  | 198093 | tor-exit-read-me.dfri.se |
 | 171.25.193.234 | 4 | 1698437953 | 1789754537 | EU | SE |  | 198093 | tor-exit-read-me.dfri.se |
 | 171.25.193.20 | 4 | 1698437965 | 1789754537 | EU | SE |  | 198093 | tor-exit-read-me.dfri.se |

@@ -2,13 +2,15 @@
 # TORFilter
 Last seen within 3 hours
 
-Count : 0
+Count : 2
 
-Generated: 2026-09-19T17:00:06.177Z
+Generated: 2026-09-19T18:00:06.532Z
 
 Those IPs are not guaranteed to be tor nodes, but they were seen as tor nodes within the last 3 hours. Use at your own risk, This is NOT a abuse feed, This feed is made for sitemasters to detect traffic from tor nodes, this is the only purpose of this feed
 
 
-| ip | ipversion | firstseen | lastseen | continentcode | countrycode | city |
-|---|---|---|---|---|---|---|
+| ip | ipversion | firstseen | lastseen | continentcode | countrycode | city | ASN | rdns |
+|---|---|---|---|---|---|---|---|---|
+| 80.67.167.81 | 4 | 1698437927 | 1789840808 | EU | FR | Paris | 2027 | nosoignons.cust.milkywan.net |
+| 171.25.193.25 | 4 | 1698437927 | 1789840808 | EU | SE |  | 198093 | tor-exit-read-me.dfri.se |
 
