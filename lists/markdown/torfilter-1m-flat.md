@@ -2,9 +2,9 @@
 # TORFilter
 Last seen within 744 hours
 
-Count : 2752
+Count : 2751
 
-Generated: 2026-09-23T17:00:07.440Z
+Generated: 2026-09-23T18:00:09.884Z
 
 Those IPs are not guaranteed to be tor nodes, but they were seen as tor nodes within the last 744 hours. Use at your own risk, This is NOT a abuse feed, This feed is made for sitemasters to detect traffic from tor nodes, this is the only purpose of this feed
 
@@ -2762,5 +2762,4 @@ Those IPs are not guaranteed to be tor nodes, but they were seen as tor nodes wi
 | 104.171.114.22 | 4 | 1787421702 | 1787508098 | NA | US |  | 31863 | host22.addonline.net |
 | 192.227.183.149 | 4 | 1780934533 | 1787508068 | NA | US | Buffalo | 36352 | 192-227-183-149-host.colocrossing.com |
 | 213.95.149.22 | 4 | 1698437968 | 1787508043 | EU | DE | Nuremberg | 12337 | tor2.smurf.noris.de |
-| 135.148.121.124 | 4 | 1787505406 | 1787505406 | NA | US |  | 16276 | vps-bcd8f8fa.vps.ovh.us |
 
