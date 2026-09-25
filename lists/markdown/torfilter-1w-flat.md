@@ -2,15 +2,16 @@
 # TORFilter
 Last seen within 168 hours
 
-Count : 2388
+Count : 2389
 
-Generated: 2026-09-25T11:00:07.321Z
+Generated: 2026-09-25T12:00:08.828Z
 
 Those IPs are not guaranteed to be tor nodes, but they were seen as tor nodes within the last 168 hours. Use at your own risk, This is NOT a abuse feed, This feed is made for sitemasters to detect traffic from tor nodes, this is the only purpose of this feed
 
 
 | ip | ipversion | firstseen | lastseen | continentcode | countrycode | city | ASN | rdns |
 |---|---|---|---|---|---|---|---|---|
+| 146.70.142.42 | 4 | 1790336572 | 1790336572 | AS | IN | Mumbai | 9009 |  |
 | 96.44.159.202 | 4 | 1788112908 | 1790273175 | NA | CA | Toronto | 8100 | 96-44-159-202-host.colocrossing.com |
 | 96.44.159.148 | 4 | 1780419826 | 1790273175 | NA | CA | Toronto | 8100 |  |
 | 96.44.154.224 | 4 | 1780193037 | 1790273175 | NA | CA | Toronto | 8100 |  |
