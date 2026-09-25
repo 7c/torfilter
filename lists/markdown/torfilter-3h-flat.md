@@ -2,14 +2,13 @@
 # TORFilter
 Last seen within 3 hours
 
-Count : 1
+Count : 0
 
-Generated: 2026-09-25T14:00:08.821Z
+Generated: 2026-09-25T15:00:06.340Z
 
 Those IPs are not guaranteed to be tor nodes, but they were seen as tor nodes within the last 3 hours. Use at your own risk, This is NOT a abuse feed, This feed is made for sitemasters to detect traffic from tor nodes, this is the only purpose of this feed
 
 
-| ip | ipversion | firstseen | lastseen | continentcode | countrycode | city | ASN |
-|---|---|---|---|---|---|---|---|
-| 146.70.142.42 | 4 | 1790336572 | 1790336572 | AS | IN | Mumbai | 9009 |
+| ip | ipversion | firstseen | lastseen | continentcode | countrycode | city |
+|---|---|---|---|---|---|---|
 
