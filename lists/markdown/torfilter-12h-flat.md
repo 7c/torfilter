@@ -2,9 +2,9 @@
 # TORFilter
 Last seen within 12 hours
 
-Count : 2282
+Count : 2281
 
-Generated: 2026-09-25T23:00:06.125Z
+Generated: 2026-09-26T00:00:07.690Z
 
 Those IPs are not guaranteed to be tor nodes, but they were seen as tor nodes within the last 12 hours. Use at your own risk, This is NOT a abuse feed, This feed is made for sitemasters to detect traffic from tor nodes, this is the only purpose of this feed
 
@@ -2292,5 +2292,4 @@ Those IPs are not guaranteed to be tor nodes, but they were seen as tor nodes wi
 | 192.42.116.99 | 4 | 1771963494 | 1790359230 | EU | NL |  | 1101 |  |
 | 192.42.116.44 | 4 | 1771967050 | 1790359230 | EU | NL |  | 1101 |  |
 | 192.42.116.12 | 4 | 1771956250 | 1790359230 | EU | NL |  | 1101 | hviv-bare.as1101.net |
-| 146.70.142.42 | 4 | 1790336572 | 1790336572 | AS | IN | Mumbai | 9009 |  |
 
