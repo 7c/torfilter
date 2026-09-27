@@ -4,7 +4,7 @@ Last seen within 48 hours
 
 Count : 2315
 
-Generated: 2026-09-27T06:00:06.270Z
+Generated: 2026-09-27T07:00:07.245Z
 
 Those IPs are not guaranteed to be tor nodes, but they were seen as tor nodes within the last 48 hours. Use at your own risk, This is NOT a abuse feed, This feed is made for sitemasters to detect traffic from tor nodes, this is the only purpose of this feed
 
@@ -19,7 +19,7 @@ Those IPs are not guaranteed to be tor nodes, but they were seen as tor nodes wi
 | 95.179.214.255 | 4 | 1790445942 | 1790446105 | EU | FR | Aubervilliers | 20473 | 95.179.214.255.vultrusercontent.com |
 | 95.179.144.192 | 4 | 1790446105 | 1790446105 | EU | NL | Amsterdam | 20473 | 95.179.144.192.vultrusercontent.com |
 | 95.155.151.167 | 4 | 1789927325 | 1790446104 | EU | NL | Kerkrade |  |  |
-| 95.143.193.125 | 4 | 1698437940 | 1790446104 | EU | SE | Bollnäs | 49770 |  |
+| 95.143.193.125 | 4 | 1698437940 | 1790446104 | EU | SE |  | 49770 |  |
 | 95.135.208.24 | 4 | 1769652291 | 1790446104 | EU | NL | Amsterdam | 6849 | static.95.135.208.24.deluxhost.net |
 | 95.133.166.239 | 4 | 1787162512 | 1790446104 | EU | IS |  | 6849 |  |
 | 95.128.43.164 | 4 | 1698437965 | 1790446104 | EU | FR | Paris | 41653 | exit-1.fr.tor.aquaray.com |
@@ -32,16 +32,16 @@ Those IPs are not guaranteed to be tor nodes, but they were seen as tor nodes wi
 | 94.156.152.12 | 4 | 1787853715 | 1790446104 | EU | BG |  | 8100 | ro2.arrow-x.biz |
 | 94.142.244.16 | 4 | 1698437973 | 1790446104 | EU | NL | Amsterdam | 8283 | tor-exit.vrij-heid.nl |
 | 94.142.241.194 | 4 | 1698437944 | 1790446104 | EU | NL | Amsterdam | 8283 | tor-exit.vrij-heid.nl |
-| 93.99.104.40 | 4 | 1725152598 | 1790446103 | EU | CZ | Uherské Hradiště | 16019 | 40.104.99.93.finalhosting.cz |
-| 93.99.104.194 | 4 | 1698437961 | 1790446103 | EU | CZ | Uherské Hradiště | 16019 | zarni.haribaned.com |
-| 93.99.104.18 | 4 | 1698437961 | 1790446103 | EU | CZ | Uherské Hradiště | 16019 | 18.104.99.93.finalhosting.cz |
-| 93.99.104.128 | 4 | 1698437971 | 1790446103 | EU | CZ | Uherské Hradiště | 16019 | 128.104.99.93.finalhosting.cz |
+| 93.99.104.40 | 4 | 1725152598 | 1790446103 | EU | CZ | Kunovice | 16019 | 40.104.99.93.finalhosting.cz |
+| 93.99.104.194 | 4 | 1698437961 | 1790446103 | EU | CZ | Kunovice | 16019 | zarni.haribaned.com |
+| 93.99.104.18 | 4 | 1698437961 | 1790446103 | EU | CZ | Kunovice | 16019 | 18.104.99.93.finalhosting.cz |
+| 93.99.104.128 | 4 | 1698437971 | 1790446103 | EU | CZ | Kunovice | 16019 | 128.104.99.93.finalhosting.cz |
 | 93.95.231.88 | 4 | 1704919841 | 1790446103 | EU | IS |  | 44925 | vps-93-95-231-88.1984.is |
 | 93.95.227.37 | 4 | 1740013526 | 1790446103 | EU | IS |  | 44925 | vps-93-95-227-37.1984.is |
 | 93.123.12.112 | 4 | 1698437987 | 1790446103 | EU | BG |  | 34224 |  |
 | 93.113.25.109 | 4 | 1767816333 | 1790446103 | EU | RO | Orăştie | 9050 | tor-exit.ro.2cb.li |
 | 92.246.84.133 | 4 | 1698437956 | 1790446103 | EU | DE |  | 44592 |  |
-| 92.119.164.208 | 4 | 1766592274 | 1790446103 | AS | KZ |  | 3320 | lain.92.119.164.208.aluy.net |
+| 92.119.164.208 | 4 | 1766592274 | 1790446103 | EU | NL | Amsterdam | 3320 | lain.92.119.164.208.aluy.net |
 | 91.92.109.43 | 4 | 1698437965 | 1790446103 | EU | BG |  | 34224 |  |
 | 91.92.109.126 | 4 | 1698438339 | 1790446103 | EU | BG |  | 34224 |  |
 | 91.219.237.39 | 4 | 1715875399 | 1790446103 | EU | HU | Budapest | 56322 | 85976148-stellar.serverastra.com |
@@ -83,7 +83,7 @@ Those IPs are not guaranteed to be tor nodes, but they were seen as tor nodes wi
 | 84.19.182.20 | 4 | 1698492505 | 1790446100 | EU | DE |  | 31103 | km21001-02.keymachine.de |
 | 84.16.224.227 | 4 | 1700026403 | 1790446100 | EU | DE |  | 28753 |  |
 | 83.217.9.73 | 4 | 1709162131 | 1790446100 | AS | TR | Istanbul | 199669 | salsedo.osservatorionessuno.org |
-| 82.71.108.163 | 4 | 1788026665 | 1790446100 | EU | GB | St Albans | 13037 | tor-exit.cellarnet.co.uk |
+| 82.71.108.163 | 4 | 1788026665 | 1790446100 | EU | GB | Walthamstow | 13037 | tor-exit.cellarnet.co.uk |
 | 82.39.155.148 | 4 | 1782842622 | 1790446100 | EU | SE | Kista | 5089 |  |
 | 82.221.139.190 | 4 | 1698438009 | 1790446100 | EU | IS |  | 50613 | tor-and-gnunet-readme.ageinghacker.net |
 | 82.221.131.71 | 4 | 1698437971 | 1790446100 | EU | IS |  | 50613 |  |
@@ -262,8 +262,8 @@ Those IPs are not guaranteed to be tor nodes, but they were seen as tor nodes wi
 | 45.32.158.85 | 4 | 1790446087 | 1790446087 | EU | DE | Frankfurt am Main | 20473 | 45.32.158.85.vultrusercontent.com |
 | 45.32.137.108 | 4 | 1790445942 | 1790446087 | NA | US | Santa Clara | 20473 | 45.32.137.108.vultrusercontent.com |
 | 45.148.10.111 | 4 | 1720677782 | 1790446087 | EU | NL | Amsterdam | 48090 |  |
-| 45.141.119.80 | 4 | 1776308640 | 1790446087 | EU | CH | Bern | 135343 | tor-exit.ch3.2cb.li |
-| 45.141.119.233 | 4 | 1788026505 | 1790446087 | EU | CH | Bern | 135343 | lain.45.141.119.233.aluy.net |
+| 45.141.119.80 | 4 | 1776308640 | 1790446087 | EU | NL | Amsterdam | 135343 | tor-exit.ch3.2cb.li |
+| 45.141.119.233 | 4 | 1788026505 | 1790446087 | EU | NL | Amsterdam | 135343 | lain.45.141.119.233.aluy.net |
 | 45.137.69.9 | 4 | 1778879019 | 1790446087 | EU | DE |  | 44486 | tor-exit.fi.2cb.li |
 | 45.137.69.89 | 4 | 1779548620 | 1790446087 | EU | DE |  | 44486 | lain.45.137.69.89.aluy.net |
 | 45.137.69.48 | 4 | 1789408897 | 1790446087 | EU | DE |  | 44486 | lain.45.137.69.48.aluy.net |
@@ -315,8 +315,8 @@ Those IPs are not guaranteed to be tor nodes, but they were seen as tor nodes wi
 | 2a14:c380:d70:c:146:165:155:157 | 6 | 1786212237 | 1790446084 | AS | HK | Hong Kong |  |  |
 | 2a14:c380:d70:3::a | 6 | 1781129015 | 1790446084 | AS | HK | Hong Kong |  |  |
 | 2a14:c380:d70:2:102:117:109:111 | 6 | 1781035474 | 1790446084 | AS | HK | Hong Kong |  |  |
-| 2a14:c380:c70:70::a | 6 | 1788026646 | 1790446083 | EU | DE |  |  |  |
-| 2a14:c380:c70:3a::a | 6 | 1776308634 | 1790446083 | EU | DE |  |  |  |
+| 2a14:c380:c70:70::a | 6 | 1788026646 | 1790446083 | EU | NL | Amsterdam |  |  |
+| 2a14:c380:c70:3a::a | 6 | 1776308634 | 1790446083 | EU | NL | Amsterdam |  |  |
 | 2a14:c380:90:1a::a | 6 | 1776305032 | 1790446083 | EU | DE |  |  |  |
 | 2a14:c380:90:15:66:75:6d:6f | 6 | 1774605825 | 1790446083 | EU | DE |  |  |  |
 | 2a14:c380:90:6::a | 6 | 1789409022 | 1790446083 | EU | DE |  |  |  |
@@ -1507,7 +1507,7 @@ Those IPs are not guaranteed to be tor nodes, but they were seen as tor nodes wi
 | 2001:41d0:700:10a2:: | 6 | 1710968538 | 1790445992 | EU | FR |  | 16276 |  |
 | 2001:41d0:304:200::3ea4 | 6 | 1736290932 | 1790445992 | EU | FR |  | 16276 | vps-4e8e6ed2.vps.ovh.net |
 | 2001:41d0:a:5c0::1 | 6 | 1698438264 | 1790445992 | EU | FR |  | 16276 |  |
-| 2001:2042:7970:6f00:9c5a:89d6:5960:d21c | 6 | 1782950552 | 1790445992 | EU | SE |  | 3301 |  |
+| 2001:2042:7970:6f00:9c5a:89d6:5960:d21c | 6 | 1782950552 | 1790445992 | EU | SE | Gothenburg | 3301 |  |
 | 2001:1b60:3:239:1003:106::1 | 6 | 1698438264 | 1790445992 | EU | DE |  | 31103 | this-is-a-tor-exit-node---keywebtor3.artikel5ev.de |
 | 2001:1b60:3:239:1003:103::1 | 6 | 1698438264 | 1790445992 | EU | DE |  | 31103 | this-is-a-tor-exit-node---keywebtor2.artikel5ev.de |
 | 2001:1b60:3:221:4134:101::1 | 6 | 1698438264 | 1790445992 | EU | DE |  | 31103 | tor-exit-4.artikel5ev.de |
@@ -1518,7 +1518,7 @@ Those IPs are not guaranteed to be tor nodes, but they were seen as tor nodes wi
 | 2001:19f0:7400:8c4e:5400:6ff:febd:840b | 6 | 1790445991 | 1790445991 | EU | GB | Canary Wharf | 20473 |  |
 | 2001:19f0:6801:924:5400:6ff:febd:8392 | 6 | 1790445991 | 1790445991 | EU | FR | Aubervilliers | 20473 |  |
 | 2001:19f0:6001:ff:5400:4ff:fe31:8700 | 6 | 1789927375 | 1790445991 | NA | US | Los Angeles | 20473 |  |
-| 2001:1620:51a1::101 | 6 | 1761411758 | 1790445991 | EU | CH | Altendorf | 13030 |  |
+| 2001:1620:51a1::101 | 6 | 1761411758 | 1790445991 | EU | CH | Mühlau | 13030 |  |
 | 2001:bf0:666::666 | 6 | 1698438264 | 1790445991 | EU | DE |  | 12732 | tor-exit-4.all.de |
 | 2001:bc8:6010:206:ae1f:6bff:fe27:3176 | 6 | 1769731379 | 1790445991 | EU | NL | Haarlem | 12876 | ipv6.rev.poneytelecom.eu |
 | 2001:bc8:6010:204:ec4:7aff:fe86:8788 | 6 | 1775257358 | 1790445991 | EU | NL | Haarlem | 12876 |  |
@@ -1595,7 +1595,7 @@ Those IPs are not guaranteed to be tor nodes, but they were seen as tor nodes wi
 | 198.251.84.163 | 4 | 1706404970 | 1790445986 | EU | LU | Luxembourg | 53667 | polyphemus2-i.brandonkuschel.com |
 | 198.167.206.133 | 4 | 1742749331 | 1790445986 | EU | SE |  | 39287 | c6a7ce85.vpn.njalla.net |
 | 195.88.74.206 | 4 | 1698437962 | 1790445986 | EU | BG |  | 48900 |  |
-| 195.47.238.50 | 4 | 1766206960 | 1790445986 | EU | SE |  | 30893 |  |
+| 195.47.238.50 | 4 | 1766206960 | 1790445986 | EU | SE | Stockholm | 30893 |  |
 | 195.176.3.24 | 4 | 1698437941 | 1790445985 | EU | CH | Zurich | 559 | tor5e3.digitale-gesellschaft.ch |
 | 195.176.3.23 | 4 | 1698437933 | 1790445985 | EU | CH | Zurich | 559 | tor5e1.digitale-gesellschaft.ch |
 | 194.55.167.14 | 4 | 1758456137 | 1790445985 | EU | CY | Limassol | 48430 |  |
@@ -1614,8 +1614,8 @@ Those IPs are not guaranteed to be tor nodes, but they were seen as tor nodes wi
 | 193.239.232.102 | 4 | 1698437972 | 1790445984 | EU | SE |  | 41634 |  |
 | 193.218.118.173 | 4 | 1718146918 | 1790445984 | EU | FR |  | 207656 | 173.118.218.193.urdn.com.ua |
 | 193.218.118.128 | 4 | 1705605418 | 1790445984 | EU | FR |  | 207656 | 128.118.218.193.urdn.com.ua |
-| 193.200.229.243 | 4 | 1766142165 | 1790445984 | EU | NO |  |  |  |
-| 193.200.229.15 | 4 | 1779278542 | 1790445984 | EU | NO |  |  |  |
+| 193.200.229.243 | 4 | 1766142165 | 1790445984 | EU | NO | Sandefjord |  |  |
+| 193.200.229.15 | 4 | 1779278542 | 1790445984 | EU | NO | Sandefjord |  |  |
 | 193.189.100.206 | 4 | 1698437997 | 1790445984 | EU | SE |  | 41281 | tor-exit-13 |
 | 193.189.100.205 | 4 | 1698437976 | 1790445984 | EU | SE |  | 41281 | tor-exit-12 |
 | 193.189.100.204 | 4 | 1698437984 | 1790445984 | EU | SE |  | 41281 | tor-exit-11 |
@@ -2223,7 +2223,7 @@ Those IPs are not guaranteed to be tor nodes, but they were seen as tor nodes wi
 | 198.167.206.192 | 4 | 1703235979 | 1790445920 | EU | SE |  | 39287 | c6a7cec0.vpn.njalla.net |
 | 205.185.121.164 | 4 | 1783051360 | 1790445912 | NA | US | Las Vegas | 53667 | tor-exit.cubicchaos.net |
 | 178.170.25.112 | 4 | 1784397708 | 1790445907 | EU | FR |  | 21409 | torwaffleexit.rathhansen.com |
-| 81.232.160.94 | 4 | 1783299914 | 1790445903 | EU | SE |  | 3301 | 81-232-160-94-no600.tbcn.telia.com |
+| 81.232.160.94 | 4 | 1783299914 | 1790445903 | EU | SE | Gothenburg | 3301 | 81-232-160-94-no600.tbcn.telia.com |
 | 192.42.116.68 | 4 | 1776427299 | 1790445888 | EU | NL |  | 1101 |  |
 | 192.42.116.67 | 4 | 1776427299 | 1790445888 | EU | NL |  | 1101 |  |
 | 192.42.116.66 | 4 | 1776427299 | 1790445888 | EU | NL |  | 1101 |  |
