@@ -2,9 +2,9 @@
 # TORFilter
 Last seen within 48 hours
 
-Count : 2315
+Count : 2314
 
-Generated: 2026-09-27T11:00:08.444Z
+Generated: 2026-09-27T12:00:07.988Z
 
 Those IPs are not guaranteed to be tor nodes, but they were seen as tor nodes within the last 48 hours. Use at your own risk, This is NOT a abuse feed, This feed is made for sitemasters to detect traffic from tor nodes, this is the only purpose of this feed
 
@@ -2325,5 +2325,4 @@ Those IPs are not guaranteed to be tor nodes, but they were seen as tor nodes wi
 | 185.246.191.53 | 4 | 1766016158 | 1790359310 | EU | FI | Helsinki |  |  |
 | 198.167.206.232 | 4 | 1699878301 | 1790359306 | EU | SE |  | 39287 | c6a7cee8.vpn.njalla.net |
 | 198.167.206.164 | 4 | 1704110934 | 1790359306 | EU | SE |  | 39287 | c6a7cea4.vpn.njalla.net |
-| 146.70.142.42 | 4 | 1790336572 | 1790336572 | AS | IN | Mumbai | 9009 |  |
 
