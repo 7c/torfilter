@@ -4,7 +4,7 @@ Last seen within 24 hours
 
 Count : 2309
 
-Generated: 2026-10-04T06:00:07.554Z
+Generated: 2026-10-04T07:00:09.079Z
 
 Those IPs are not guaranteed to be tor nodes, but they were seen as tor nodes within the last 24 hours. Use at your own risk, This is NOT a abuse feed, This feed is made for sitemasters to detect traffic from tor nodes, this is the only purpose of this feed
 
@@ -686,7 +686,7 @@ Those IPs are not guaranteed to be tor nodes, but they were seen as tor nodes wi
 | 2a00:1b88:4::2 | 6 | 1698438299 | 1791050643 | EU | FR |  | 29075 | marcuse.nos-oignons.net |
 | 2a00:16b0:1:243::7012:e817 | 6 | 1729468988 | 1791050642 | EU | SE |  | 33837 |  |
 | 2a00:16b0:1:243::7012:a500 | 6 | 1729486967 | 1791050642 | EU | SE |  | 33837 |  |
-| 2a00:11c0:47:1e7e:: | 6 | 1762311788 | 1791050642 | EU | DE | Munich | 47147 |  |
+| 2a00:11c0:47:1e7e:: | 6 | 1762311788 | 1791050642 | EU | AT | Vienna | 47147 |  |
 | 2a00:c70:1:185:246:84:179:1 | 6 | 1733515402 | 1791050642 | EU | FR |  | 21409 |  |
 | 2803:29e0:10:953::1 | 6 | 1771794198 | 1791050642 | SA | CL | Santiago | 270013 |  |
 | 2800:ba0:6:c1::9367:0 | 6 | 1790359434 | 1791050642 | NA | MX |  | 263812 |  |
@@ -1685,7 +1685,7 @@ Those IPs are not guaranteed to be tor nodes, but they were seen as tor nodes wi
 | 185.243.218.229 | 4 | 1765706545 | 1791050572 | EU | NO | Sandefjord | 56655 | tor-exit-info.middelstaedt.com |
 | 185.243.218.226 | 4 | 1765623744 | 1791050572 | EU | NO | Sandefjord | 56655 | tor-exit.lokodlare.com |
 | 185.243.218.225 | 4 | 1765620028 | 1791050572 | EU | NO | Sandefjord | 56655 | tor-exit.lokodlare.com |
-| 185.235.146.29 | 4 | 1698437952 | 1791050572 | EU | FR | Toulouse | 39405 |  |
+| 185.235.146.29 | 4 | 1698437952 | 1791050572 | EU | FR |  | 39405 |  |
 | 185.233.100.23 | 4 | 1698437957 | 1791050572 | EU | FR |  | 198985 | elenagb.nos-oignons.net |
 | 185.231.33.82 | 4 | 1788372106 | 1791050572 | AF | SC |  |  | spotty-fog-clam |
 | 185.231.33.38 | 4 | 1757844129 | 1791050571 | AF | SC |  |  |  |
@@ -1969,7 +1969,7 @@ Those IPs are not guaranteed to be tor nodes, but they were seen as tor nodes wi
 | 168.222.75.171 | 4 | 1789063301 | 1791050551 | AS | SA | Jeddah |  |  |
 | 168.222.241.36 | 4 | 1789408897 | 1791050551 | EU | SE | Stockholm |  | static.168-222-241-36.isp.st |
 | 167.179.117.50 | 4 | 1772776904 | 1791050551 | AS | JP | Minamishinagawa | 20473 | io6b.com |
-| 166.70.207.2 | 4 | 1698437977 | 1791050551 | NA | US | Spanish Fork | 6315 | this.is.a.tor.node.xmission.com |
+| 166.70.207.2 | 4 | 1698437977 | 1791050551 | NA | US | Orem | 6315 | this.is.a.tor.node.xmission.com |
 | 165.73.242.163 | 4 | 1698437993 | 1791050551 | AF | ZA |  | 40676 |  |
 | 163.172.84.90 | 4 | 1770555732 | 1791050551 | EU | FR | Paris | 12876 | 163-172-84-90.tor-exit-node.cig.sh |
 | 162.35.242.250 | 4 | 1790618541 | 1791050551 | EU | NL | Amsterdam | 11363 | 250.242.35.162.nl202.servers.guru |
@@ -2007,7 +2007,7 @@ Those IPs are not guaranteed to be tor nodes, but they were seen as tor nodes wi
 | 150.40.126.134 | 4 | 1787508100 | 1791050549 | EU | RS | Belgrade |  | vps36782.maxko-hosting.net |
 | 150.40.126.115 | 4 | 1784397708 | 1791050549 | EU | RS | Belgrade |  | tor-exit.beacon-tor.com |
 | 150.40.126.103 | 4 | 1784397708 | 1791050549 | EU | RS | Belgrade |  | vps36679.maxko-hosting.net |
-| 150.251.32.142 | 4 | 1791050549 | 1791050549 | EU | NL | Haarlem |  | exit-relay.contact-necrofantasia.cock.li |
+| 150.251.32.142 | 4 | 1791050549 | 1791050549 | EU | NL | Eygelshoven |  | exit-relay.contact-necrofantasia.cock.li |
 | 149.56.44.47 | 4 | 1698437929 | 1791050548 | NA | CA | Montreal | 16276 | 47.ip-149-56-44.net |
 | 149.28.202.88 | 4 | 1791050531 | 1791050548 | NA | US | Santa Clara | 20473 | 149.28.202.88.vultrusercontent.com |
 | 149.248.5.194 | 4 | 1791050531 | 1791050548 | NA | US | Los Angeles | 20473 | 149.248.5.194.vultrusercontent.com |
