@@ -2,9 +2,9 @@
 # TORFilter
 Last seen within 48 hours
 
-Count : 2145
+Count : 2144
 
-Generated: 2026-10-17T08:00:07.406Z
+Generated: 2026-10-17T09:00:09.674Z
 
 Those IPs are not guaranteed to be tor nodes, but they were seen as tor nodes within the last 48 hours. Use at your own risk, This is NOT a abuse feed, This feed is made for sitemasters to detect traffic from tor nodes, this is the only purpose of this feed
 
@@ -2155,5 +2155,4 @@ Those IPs are not guaranteed to be tor nodes, but they were seen as tor nodes wi
 | 80.94.92.99 | 4 | 1750737835 | 1792087248 | EU | RO |  | 47890 |  |
 | 45.148.10.111 | 4 | 1720677782 | 1792087246 | EU | NL | Amsterdam | 48090 |  |
 | 80.94.92.92 | 4 | 1731391403 | 1792087243 | EU | RO |  | 47890 |  |
-| 2602:f7d8:0:1337::109 | 6 | 1792052566 | 1792052566 | NA | US |  |  |  |
 
