@@ -4,7 +4,7 @@ Last seen within 744 hours
 
 Count : 2922
 
-Generated: 2026-10-18T06:00:07.249Z
+Generated: 2026-10-18T07:00:06.772Z
 
 Those IPs are not guaranteed to be tor nodes, but they were seen as tor nodes within the last 744 hours. Use at your own risk, This is NOT a abuse feed, This feed is made for sitemasters to detect traffic from tor nodes, this is the only purpose of this feed
 
@@ -12,7 +12,7 @@ Those IPs are not guaranteed to be tor nodes, but they were seen as tor nodes wi
 | ip | ipversion | firstseen | lastseen | continentcode | countrycode | city | ASN | rdns |
 |---|---|---|---|---|---|---|---|---|
 | 95.211.239.220 | 4 | 1776877454 | 1792260282 | EU | NL |  | 60781 | hosted-by.euservr.com |
-| 95.143.193.125 | 4 | 1698437940 | 1792260281 | EU | SE | Hudiksvall | 49770 |  |
+| 95.143.193.125 | 4 | 1698437940 | 1792260281 | EU | SE |  | 49770 |  |
 | 95.135.208.24 | 4 | 1769652291 | 1792260281 | EU | NL | Amsterdam | 6849 | static.95.135.208.24.deluxhost.net |
 | 95.133.166.239 | 4 | 1787162512 | 1792260281 | EU | IS |  | 6849 |  |
 | 95.128.43.164 | 4 | 1698437965 | 1792260281 | EU | FR | Paris | 41653 | exit-1.fr.tor.aquaray.com |
@@ -25,10 +25,10 @@ Those IPs are not guaranteed to be tor nodes, but they were seen as tor nodes wi
 | 94.156.152.2 | 4 | 1792173718 | 1792260281 | EU | BG |  | 8100 |  |
 | 94.142.244.16 | 4 | 1698437973 | 1792260281 | EU | NL | Amsterdam | 8283 | tor-exit.vrij-heid.nl |
 | 94.142.241.194 | 4 | 1698437944 | 1792260281 | EU | NL | Amsterdam | 8283 | tor-exit.vrij-heid.nl |
-| 93.99.104.40 | 4 | 1725152598 | 1792260281 | EU | CZ | Uherské Hradiště | 16019 | 40.104.99.93.finalhosting.cz |
-| 93.99.104.194 | 4 | 1698437961 | 1792260280 | EU | CZ | Uherské Hradiště | 16019 | zarni.haribaned.com |
-| 93.99.104.18 | 4 | 1698437961 | 1792260280 | EU | CZ | Uherské Hradiště | 16019 | 18.104.99.93.finalhosting.cz |
-| 93.99.104.128 | 4 | 1698437971 | 1792260280 | EU | CZ | Uherské Hradiště | 16019 | 128.104.99.93.finalhosting.cz |
+| 93.99.104.40 | 4 | 1725152598 | 1792260281 | EU | CZ | Kunovice | 16019 | 40.104.99.93.finalhosting.cz |
+| 93.99.104.194 | 4 | 1698437961 | 1792260280 | EU | CZ | Kunovice | 16019 | zarni.haribaned.com |
+| 93.99.104.18 | 4 | 1698437961 | 1792260280 | EU | CZ | Kunovice | 16019 | 18.104.99.93.finalhosting.cz |
+| 93.99.104.128 | 4 | 1698437971 | 1792260280 | EU | CZ | Kunovice | 16019 | 128.104.99.93.finalhosting.cz |
 | 93.95.231.88 | 4 | 1704919841 | 1792260280 | EU | IS |  | 44925 | vps-93-95-231-88.1984.is |
 | 93.95.231.14 | 4 | 1705725623 | 1792260280 | EU | IS |  | 44925 | magic.torexit.syndicateguys.com |
 | 93.95.228.125 | 4 | 1705725610 | 1792260280 | EU | IS | Reykjavik | 44925 | manor.torexit.syndicateguys.com |
@@ -96,9 +96,9 @@ Those IPs are not guaranteed to be tor nodes, but they were seen as tor nodes wi
 | 80.67.167.81 | 4 | 1698437927 | 1792260275 | EU | FR | Paris | 2027 | nosoignons.cust.milkywan.net |
 | 78.159.121.136 | 4 | 1791914717 | 1792260275 | EU | DE |  | 28753 |  |
 | 77.90.185.93 | 4 | 1781139992 | 1792260275 | EU | DE |  | 198465 |  |
-| 77.48.28.237 | 4 | 1698437950 | 1792260275 | EU | CZ | Třebenice | 16019 | arnov.intervocalically.com |
-| 77.48.28.204 | 4 | 1698437945 | 1792260275 | EU | CZ | Třebenice | 16019 | 204.28.48.77.finalhosting.cz |
-| 77.48.28.193 | 4 | 1698438003 | 1792260275 | EU | CZ | Třebenice | 16019 | 193.28.48.77.finalhosting.cz |
+| 77.48.28.237 | 4 | 1698437950 | 1792260275 | EU | CZ | Krnov | 16019 | arnov.intervocalically.com |
+| 77.48.28.204 | 4 | 1698437945 | 1792260275 | EU | CZ | Krnov | 16019 | 204.28.48.77.finalhosting.cz |
+| 77.48.28.193 | 4 | 1698438003 | 1792260275 | EU | CZ | Krnov | 16019 | 193.28.48.77.finalhosting.cz |
 | 77.239.97.46 | 4 | 1760392840 | 1792260275 | EU | DE | Frankfurt am Main | 6908 |  |
 | 74.208.77.132 | 4 | 1762301038 | 1792260275 | NA | US |  | 8560 | pikamon.net |
 | 69.163.77.166 | 4 | 1770613480 | 1792260275 | NA | US | Fairview | 36103 | tor-relay-1.toodenwable.net |
@@ -1786,9 +1786,9 @@ Those IPs are not guaranteed to be tor nodes, but they were seen as tor nodes wi
 | 185.181.60.204 | 4 | 1766070034 | 1792260149 | EU | NO | Sandefjord | 56655 |  |
 | 185.170.114.25 | 4 | 1698438005 | 1792260149 | EU | DE | Nuremberg | 197540 | this-is-a-tor-node---10.artikel5ev.de |
 | 185.165.171.84 | 4 | 1698437990 | 1792260149 | EU | IS |  | 200651 |  |
-| 185.154.110.17 | 4 | 1698437996 | 1792260149 | EU | SE |  | 49770 | static-17-110-154-185.internetport.com |
-| 185.154.110.16 | 4 | 1780005729 | 1792260149 | EU | SE |  | 49770 | deb12om10tbbw |
-| 185.154.110.142 | 4 | 1698437992 | 1792260149 | EU | SE |  | 49770 | fearwakes.com |
+| 185.154.110.17 | 4 | 1698437996 | 1792260149 | EU | SE | Eskilstuna | 49770 | static-17-110-154-185.internetport.com |
+| 185.154.110.16 | 4 | 1780005729 | 1792260149 | EU | SE | Eskilstuna | 49770 | deb12om10tbbw |
+| 185.154.110.142 | 4 | 1698437992 | 1792260149 | EU | SE | Eskilstuna | 49770 | fearwakes.com |
 | 185.150.28.13 | 4 | 1739444503 | 1792260149 | EU | CH |  | 59891 |  |
 | 185.132.53.58 | 4 | 1769695340 | 1792260149 | EU | DE |  |  | lain.185.132.53.58.aluy.net |
 | 185.132.53.47 | 4 | 1734058909 | 1792260149 | EU | DE |  |  |  |
@@ -1965,7 +1965,7 @@ Those IPs are not guaranteed to be tor nodes, but they were seen as tor nodes wi
 | 141.98.11.62 | 4 | 1698437958 | 1792260136 | EU | LT | Vilnius | 209605 | srv-141-98-11-62.serveroffer.net |
 | 141.76.72.140 | 4 | 1787076112 | 1792260136 | EU | DE | Dresden | 680 | tor1.ps.cs.tu-dresden.de |
 | 141.239.158.222 | 4 | 1773525707 | 1792260136 | NA | US | Honolulu | 36149 | dhcp-141-239-158-222.hawaiiantel.net |
-| 140.233.190.47 | 4 | 1790100143 | 1792260136 | NA | US |  |  | mail.georgyauwerx.be |
+| 140.233.190.47 | 4 | 1790100143 | 1792260136 | EU | RO | Bucharest |  | mail.georgyauwerx.be |
 | 139.99.8.57 | 4 | 1698437947 | 1792260136 | AS | SG | Singapore | 16276 | ns536014.ip-139-99-8.net |
 | 139.99.172.11 | 4 | 1698437948 | 1792260136 | OC | AU | Sydney | 16276 | tor-exit-au-04.finlay.wattle.id.au |
 | 138.59.18.110 | 4 | 1698437958 | 1792260135 | NA | CR |  | 52423 |  |
@@ -2038,7 +2038,7 @@ Those IPs are not guaranteed to be tor nodes, but they were seen as tor nodes wi
 | 102.130.127.117 | 4 | 1698437989 | 1792260130 | AF | ZA |  | 328364 |  |
 | 102.130.117.167 | 4 | 1713301294 | 1792260130 | AF | ZA |  | 328364 |  |
 | 102.130.113.9 | 4 | 1698437965 | 1792260130 | AF | ZA |  | 328364 |  |
-| 82.65.141.110 | 4 | 1792260128 | 1792260128 | EU | FR | Paris | 12322 |  |
+| 82.65.141.110 | 4 | 1792260128 | 1792260128 | EU | FR |  | 12322 |  |
 | 185.132.53.11 | 4 | 1769608943 | 1792260126 | EU | DE |  |  | lain.185.132.53.11.aluy.net |
 | 158.94.211.57 | 4 | 1791741899 | 1792260125 | EU | NL | Rotterdam | 786 |  |
 | 202.181.177.92 | 4 | 1790964130 | 1792260122 | NA | BZ |  | 7540 |  |
@@ -2185,7 +2185,7 @@ Those IPs are not guaranteed to be tor nodes, but they were seen as tor nodes wi
 | 217.60.196.85 | 4 | 1789581718 | 1791828384 | EU | DE | Frankfurt am Main | 43212 |  |
 | 217.60.196.7 | 4 | 1789581718 | 1791828384 | EU | DE | Frankfurt am Main | 43212 |  |
 | 188.226.192.107 | 4 | 1791741899 | 1791828328 | EU | NL | Amsterdam | 14061 |  |
-| 207.104.193.107 | 4 | 1791396117 | 1791828326 | NA | US | Worcester | 7018 |  |
+| 207.104.193.107 | 4 | 1791396117 | 1791828326 | NA | US |  | 7018 |  |
 | 198.167.206.151 | 4 | 1704370197 | 1791828308 | EU | SE |  | 39287 | c6a7ce97.vpn.njalla.net |
 | 178.218.144.64 | 4 | 1710108622 | 1791828285 | EU | IT | Milan | 212508 | 178.218.144.64.lowhosting.org |
 | 2a09:be40:28ff:50:c4c9:3dff:fea3:f4fa | 6 | 1762506196 | 1791742004 | EU | SE | Stockholm | 199950 |  |
@@ -2825,7 +2825,7 @@ Those IPs are not guaranteed to be tor nodes, but they were seen as tor nodes wi
 | 168.100.9.40 | 4 | 1790273010 | 1790445939 | EU | NL | Amsterdam | 399629 |  |
 | 162.33.177.223 | 4 | 1790273010 | 1790445939 | NA | US | Chicago | 399629 |  |
 | 140.82.54.142 | 4 | 1790273010 | 1790445939 | EU | FR | Aubervilliers | 20473 | 140.82.54.142.vultrusercontent.com |
-| 103.77.227.159 | 4 | 1790273010 | 1790445939 | AS | ID |  | 64298 |  |
+| 103.77.227.159 | 4 | 1790273010 | 1790445939 | AS | ID | Surabaya | 64298 |  |
 | 201.3.225.118 | 4 | 1789927326 | 1790445937 | EU | PL |  | 8167 | vm28285.bit.hosting |
 | 201.3.225.117 | 4 | 1789927326 | 1790445937 | EU | PL |  | 8167 | vm28282.bit.hosting |
 | 201.3.225.116 | 4 | 1789927325 | 1790445937 | EU | PL |  | 8167 | vm28279.bit.hosting |
@@ -2904,7 +2904,7 @@ Those IPs are not guaranteed to be tor nodes, but they were seen as tor nodes wi
 | 89.125.120.229 | 4 | 1788804100 | 1790013787 | EU | DE | Frankfurt am Main | 25441 | zanet.baby |
 | 46.4.68.89 | 4 | 1789149700 | 1790013786 | EU | DE | Falkenstein | 24940 | static.89.68.4.46.clients.your-server.de |
 | 198.167.206.137 | 4 | 1759507338 | 1790013782 | EU | SE |  | 39287 | c6a7ce89.vpn.njalla.net |
-| 93.99.105.37 | 4 | 1787162510 | 1790013780 | EU | CZ | Uherské Hradiště | 16019 | tor-exit.hofmistr.cz |
+| 93.99.105.37 | 4 | 1787162510 | 1790013780 | EU | CZ | Kunovice | 16019 | tor-exit.hofmistr.cz |
 | 45.9.168.107 | 4 | 1787076111 | 1790013775 | EU | HU | Nyíregyháza | 211619 | vps36756.maxko-hosting.net |
 | 45.9.168.100 | 4 | 1787076111 | 1790013775 | EU | HU | Nyíregyháza | 211619 | vps36756.maxko-hosting.net |
 | 37.114.50.124 | 4 | 1747090892 | 1790013722 | EU | DE |  | 60461 | 124.50.114.37.in-addr.arpa |
@@ -2913,7 +2913,7 @@ Those IPs are not guaranteed to be tor nodes, but they were seen as tor nodes wi
 | 103.146.203.11 | 4 | 1740704624 | 1789927308 | AS | ID |  | 136052 |  |
 | 2a03:b0c0:1:e0::1:bdad:c001 | 6 | 1789754632 | 1789841017 | EU | GB | Slough | 14061 |  |
 | 2a01:5e0:36:c050::1 | 6 | 1787162627 | 1789841013 | EU | CZ | Holešov | 16019 |  |
-| 2a01:4f8:10b:3cda::2 | 6 | 1781344985 | 1789841013 | EU | DE |  | 24940 |  |
+| 2a01:4f8:10b:3cda::2 | 6 | 1781344985 | 1789841013 | EU | DE | Falkenstein | 24940 |  |
 | 2604:a880:400:d1::4:ffb4:5001 | 6 | 1789754606 | 1789840990 | NA | US | North Bergen | 14061 |  |
 | 116.202.158.119 | 4 | 1781344901 | 1789840914 | EU | DE | Falkenstein | 24940 | static.119.158.202.116.clients.your-server.de |
 | 45.77.50.60 | 4 | 1789408898 | 1789754510 | OC | AU | Sydney | 20473 | 45.77.50.60.vultrusercontent.com |
