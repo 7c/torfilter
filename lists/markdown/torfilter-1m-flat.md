@@ -4,7 +4,7 @@ Last seen within 744 hours
 
 Count : 2937
 
-Generated: 2026-10-25T06:00:07.161Z
+Generated: 2026-10-25T07:00:06.372Z
 
 Those IPs are not guaranteed to be tor nodes, but they were seen as tor nodes within the last 744 hours. Use at your own risk, This is NOT a abuse feed, This feed is made for sitemasters to detect traffic from tor nodes, this is the only purpose of this feed
 
@@ -12,7 +12,7 @@ Those IPs are not guaranteed to be tor nodes, but they were seen as tor nodes wi
 | ip | ipversion | firstseen | lastseen | continentcode | countrycode | city | ASN | rdns |
 |---|---|---|---|---|---|---|---|---|
 | 95.211.239.220 | 4 | 1776877454 | 1792865069 | EU | NL |  | 60781 | hosted-by.euservr.com |
-| 95.143.193.125 | 4 | 1698437940 | 1792865069 | EU | SE |  | 49770 |  |
+| 95.143.193.125 | 4 | 1698437940 | 1792865069 | EU | SE | Stockholm | 49770 |  |
 | 95.135.208.24 | 4 | 1769652291 | 1792865069 | EU | NL | Amsterdam | 6849 | static.95.135.208.24.deluxhost.net |
 | 95.128.43.164 | 4 | 1698437965 | 1792865069 | EU | FR | Paris | 41653 | exit-1.fr.tor.aquaray.com |
 | 94.72.103.33 | 4 | 1729983829 | 1792865069 | EU | GB | Portsmouth | 41314 | sortie-tor.a-n-o-n-y-m-e.net |
@@ -89,9 +89,9 @@ Those IPs are not guaranteed to be tor nodes, but they were seen as tor nodes wi
 | 82.221.128.191 | 4 | 1698437986 | 1792865064 | EU | IS |  | 50613 |  |
 | 82.221.100.134 | 4 | 1785175305 | 1792865064 | EU | IS | Reykjavik | 50613 |  |
 | 82.221.100.12 | 4 | 1763568250 | 1792865064 | EU | IS | Reykjavik | 50613 |  |
-| 82.197.182.161 | 4 | 1698437939 | 1792865064 | EU | CH | Wallenwil | 13030 | 161-182-197-82.init7.net |
+| 82.197.182.161 | 4 | 1698437939 | 1792865064 | EU | CH | Zurich | 13030 | 161-182-197-82.init7.net |
 | 82.153.138.184 | 4 | 1741201302 | 1792865064 | EU | RO | Orăştie | 206509 |  |
-| 82.118.248.205 | 4 | 1740560604 | 1792865064 | EU | BG | Pernik | 45007 |  |
+| 82.118.248.205 | 4 | 1740560604 | 1792865064 | EU | BG | Kladnitsa | 45007 |  |
 | 81.181.104.22 | 4 | 1740528222 | 1792865063 | EU | PL | Warsaw | 9009 |  |
 | 81.17.30.247 | 4 | 1785866506 | 1792865063 | EU | CH | Zurich | 51852 | hosted-by.privateweb.is |
 | 81.17.28.95 | 4 | 1705042903 | 1792865063 | EU | CH | Zurich | 51852 | hostedby.privatelayer.com |
@@ -119,12 +119,12 @@ Those IPs are not guaranteed to be tor nodes, but they were seen as tor nodes wi
 | 64.188.93.178 | 4 | 1769303581 | 1792865062 | EU | FI | Helsinki | 46339 | vm719078.hosted-by.u1host.com |
 | 64.176.82.63 | 4 | 1792605729 | 1792865062 | AS | SG | Singapore | 20473 | 64.176.82.63.vultrusercontent.com |
 | 62.182.84.146 | 4 | 1698437983 | 1792865062 | EU | UA | Kyiv | 30860 | ml148.spryraven.com |
-| 62.144.62.15 | 4 | 1792778518 | 1792865061 | EU | PL |  | 12312 | torexit.eu |
-| 62.144.62.14 | 4 | 1792778519 | 1792865061 | EU | PL |  | 12312 | torexit.eu |
-| 62.144.62.13 | 4 | 1792778518 | 1792865061 | EU | PL |  | 12312 | torexit.eu |
-| 62.144.62.12 | 4 | 1792778519 | 1792865061 | EU | PL |  | 12312 | torexit.eu |
-| 62.144.62.11 | 4 | 1792778518 | 1792865061 | EU | PL |  | 12312 | torexit.eu |
-| 62.144.62.10 | 4 | 1792778519 | 1792865061 | EU | PL |  | 12312 | torexit.eu |
+| 62.144.62.15 | 4 | 1792778518 | 1792865061 | EU | DE | Frankfurt am Main | 12312 | torexit.eu |
+| 62.144.62.14 | 4 | 1792778519 | 1792865061 | EU | DE | Frankfurt am Main | 12312 | torexit.eu |
+| 62.144.62.13 | 4 | 1792778518 | 1792865061 | EU | DE | Frankfurt am Main | 12312 | torexit.eu |
+| 62.144.62.12 | 4 | 1792778519 | 1792865061 | EU | DE | Frankfurt am Main | 12312 | torexit.eu |
+| 62.144.62.11 | 4 | 1792778518 | 1792865061 | EU | DE | Frankfurt am Main | 12312 | torexit.eu |
+| 62.144.62.10 | 4 | 1792778519 | 1792865061 | EU | DE | Frankfurt am Main | 12312 | torexit.eu |
 | 62.133.45.2 | 4 | 1698437972 | 1792865061 | EU | RO | Bucharest | 9009 |  |
 | 61.220.100.193 | 4 | 1780329827 | 1792865061 | AS | TW | Zhubei | 3462 | 61-220-100-193.hinet-ip.hinet.net |
 | 57.129.91.235 | 4 | 1748898206 | 1792865061 | EU | DE | Frankfurt am Main | 16276 | exit1.mit-security.at |
@@ -287,20 +287,20 @@ Those IPs are not guaranteed to be tor nodes, but they were seen as tor nodes wi
 | 2a14:c380:50:4e::b | 6 | 1768946667 | 1792865049 | EU | DE |  |  |  |
 | 2a14:c380:50:12::a | 6 | 1789409022 | 1792865049 | EU | DE |  |  |  |
 | 2a14:c380:26:10:: | 6 | 1774908235 | 1792865049 | EU | NL | Amsterdam |  |  |
-| 2a14:7581:5080::2000 | 6 | 1792778661 | 1792865049 | NA | US |  |  |  |
-| 2a14:7581:5080::1900 | 6 | 1792778661 | 1792865049 | NA | US |  |  |  |
-| 2a14:7581:5080::1800 | 6 | 1792778661 | 1792865049 | NA | US |  |  |  |
-| 2a14:7581:5080::1700 | 6 | 1792778661 | 1792865049 | NA | US |  |  |  |
-| 2a14:7581:5080::1600 | 6 | 1792778661 | 1792865049 | NA | US |  |  |  |
-| 2a14:7581:5080::1500 | 6 | 1792778661 | 1792865049 | NA | US |  |  |  |
-| 2a14:7581:5080::1100 | 6 | 1792692256 | 1792865049 | NA | US |  |  |  |
+| 2a14:7581:5080::2000 | 6 | 1792778661 | 1792865049 | EU | DE | Frankfurt am Main |  |  |
+| 2a14:7581:5080::1900 | 6 | 1792778661 | 1792865049 | EU | DE | Frankfurt am Main |  |  |
+| 2a14:7581:5080::1800 | 6 | 1792778661 | 1792865049 | EU | DE | Frankfurt am Main |  |  |
+| 2a14:7581:5080::1700 | 6 | 1792778661 | 1792865049 | EU | DE | Frankfurt am Main |  |  |
+| 2a14:7581:5080::1600 | 6 | 1792778661 | 1792865049 | EU | DE | Frankfurt am Main |  |  |
+| 2a14:7581:5080::1500 | 6 | 1792778661 | 1792865049 | EU | DE | Frankfurt am Main |  |  |
+| 2a14:7581:5080::1100 | 6 | 1792692256 | 1792865049 | EU | DE | Frankfurt am Main |  |  |
 | 2a14:6781:300:43::1 | 6 | 1782853409 | 1792865049 | EU | DE |  |  |  |
 | 2a14:1ec7:f740:7::a | 6 | 1786125847 | 1792865049 | NA | US | Secaucus |  | tor-exit.nj.us.3k33.pl |
 | 2a14:1ec7:f710:eb44::1 | 6 | 1792778660 | 1792865049 | EU | NL |  |  | tor-exit.gda.pl.3k33.pl |
 | 2a13:9500:145:abcd:be24:11ff:fed5:ac9f | 6 | 1787594653 | 1792865049 | EU | GB |  |  |  |
 | 2a13:9500:145:abcd:be24:11ff:fe8e:7722 | 6 | 1787508240 | 1792865048 | EU | GB |  |  |  |
 | 2a12:bec4:1821:631::a | 6 | 1769652263 | 1792865048 | EU | NL | Amsterdam |  |  |
-| 2a12:bec4:150:fc::2 | 6 | 1792346641 | 1792865048 | EU | EE | Tallinn |  | vm219286.hosted-by.qwins.co |
+| 2a12:bec4:150:fc::2 | 6 | 1792346641 | 1792865048 | NA | US | Wilmington |  | vm219286.hosted-by.qwins.co |
 | 2a11:6100:0:1912:: | 6 | 1787162655 | 1792865048 | EU | PL |  | 43641 | caloyannis.xyz |
 | 2a11:6100:0:184f:: | 6 | 1790446082 | 1792865048 | EU | PL |  | 43641 |  |
 | 2a11:6100::72:4b6a:aa47:bd54:1d82 | 6 | 1792778660 | 1792865048 | EU | PL |  | 43641 |  |
@@ -377,126 +377,126 @@ Those IPs are not guaranteed to be tor nodes, but they were seen as tor nodes wi
 | 2a0b:f4c2:4::98 | 6 | 1706118577 | 1792865043 | EU | DE |  | 60729 |  |
 | 2a0b:f4c2:4::97 | 6 | 1706118577 | 1792865043 | EU | DE |  | 60729 |  |
 | 2a0b:f4c2:4::96 | 6 | 1706118577 | 1792865043 | EU | DE |  | 60729 |  |
-| 2a0b:f4c2:2::63 | 6 | 1698438318 | 1792865043 | NA | US |  | 60729 | tor-exit-63.for-privacy.net |
-| 2a0b:f4c2:2::62 | 6 | 1698438318 | 1792865043 | NA | US |  | 60729 | tor-exit-62.for-privacy.net |
-| 2a0b:f4c2:2::61 | 6 | 1698438318 | 1792865043 | NA | US |  | 60729 | tor-exit-61.for-privacy.net |
-| 2a0b:f4c2:2::60 | 6 | 1698438318 | 1792865043 | NA | US |  | 60729 | tor-exit-60.for-privacy.net |
-| 2a0b:f4c2:2::59 | 6 | 1698438318 | 1792865042 | NA | US |  | 60729 | tor-exit-59.for-privacy.net |
-| 2a0b:f4c2:2::58 | 6 | 1698438318 | 1792865042 | NA | US |  | 60729 | tor-exit-58.for-privacy.net |
-| 2a0b:f4c2:2::57 | 6 | 1698438318 | 1792865042 | NA | US |  | 60729 | tor-exit-57.for-privacy.net |
-| 2a0b:f4c2:2::56 | 6 | 1698438318 | 1792865042 | NA | US |  | 60729 | tor-exit-56.for-privacy.net |
-| 2a0b:f4c2:2::55 | 6 | 1698438318 | 1792865042 | NA | US |  | 60729 | tor-exit-55.for-privacy.net |
-| 2a0b:f4c2:2::54 | 6 | 1698438318 | 1792865042 | NA | US |  | 60729 | tor-exit-54.for-privacy.net |
-| 2a0b:f4c2:2::53 | 6 | 1698438317 | 1792865042 | NA | US |  | 60729 | tor-exit-53.for-privacy.net |
-| 2a0b:f4c2:2::52 | 6 | 1698438317 | 1792865042 | NA | US |  | 60729 | tor-exit-52.for-privacy.net |
-| 2a0b:f4c2:2::51 | 6 | 1698438317 | 1792865042 | NA | US |  | 60729 | tor-exit-51.for-privacy.net |
-| 2a0b:f4c2:2::50 | 6 | 1698438317 | 1792865042 | NA | US |  | 60729 | tor-exit-50.for-privacy.net |
-| 2a0b:f4c2:2::49 | 6 | 1698438317 | 1792865042 | NA | US |  | 60729 | tor-exit-49.for-privacy.net |
-| 2a0b:f4c2:2::48 | 6 | 1698438317 | 1792865042 | NA | US |  | 60729 | tor-exit-48.for-privacy.net |
-| 2a0b:f4c2:2::47 | 6 | 1698438317 | 1792865042 | NA | US |  | 60729 | tor-exit-47.for-privacy.net |
-| 2a0b:f4c2:2::46 | 6 | 1698438317 | 1792865041 | NA | US |  | 60729 | tor-exit-46.for-privacy.net |
-| 2a0b:f4c2:2::45 | 6 | 1698438317 | 1792865041 | NA | US |  | 60729 | tor-exit-45.for-privacy.net |
-| 2a0b:f4c2:2::44 | 6 | 1698438317 | 1792865041 | NA | US |  | 60729 | tor-exit-44.for-privacy.net |
-| 2a0b:f4c2:2::43 | 6 | 1698438317 | 1792865041 | NA | US |  | 60729 | tor-exit-43.for-privacy.net |
-| 2a0b:f4c2:2::42 | 6 | 1698438317 | 1792865041 | NA | US |  | 60729 | tor-exit-42.for-privacy.net |
-| 2a0b:f4c2:2::41 | 6 | 1698438317 | 1792865041 | NA | US |  | 60729 | tor-exit-41.for-privacy.net |
-| 2a0b:f4c2:2::40 | 6 | 1698438317 | 1792865041 | NA | US |  | 60729 | tor-exit-40.for-privacy.net |
-| 2a0b:f4c2:2::39 | 6 | 1698438317 | 1792865041 | NA | US |  | 60729 | tor-exit-39.for-privacy.net |
-| 2a0b:f4c2:2::38 | 6 | 1698438316 | 1792865041 | NA | US |  | 60729 | tor-exit-38.for-privacy.net |
-| 2a0b:f4c2:2::37 | 6 | 1698438316 | 1792865041 | NA | US |  | 60729 | tor-exit-37.for-privacy.net |
-| 2a0b:f4c2:2::36 | 6 | 1698438316 | 1792865041 | NA | US |  | 60729 | tor-exit-36.for-privacy.net |
-| 2a0b:f4c2:2::35 | 6 | 1698438316 | 1792865041 | NA | US |  | 60729 | tor-exit-35.for-privacy.net |
-| 2a0b:f4c2:2::34 | 6 | 1698438316 | 1792865041 | NA | US |  | 60729 | tor-exit-34.for-privacy.net |
-| 2a0b:f4c2:2::33 | 6 | 1698438316 | 1792865041 | NA | US |  | 60729 | tor-exit-33.for-privacy.net |
-| 2a0b:f4c2:2::32 | 6 | 1698438316 | 1792865040 | NA | US |  | 60729 | tor-exit-32.for-privacy.net |
-| 2a0b:f4c2:1::191 | 6 | 1698438316 | 1792865040 | NA | US |  | 60729 | tor-exit-191.relayon.org |
-| 2a0b:f4c2:1::190 | 6 | 1698438863 | 1792865040 | NA | US |  | 60729 | tor-exit-190.relayon.org |
-| 2a0b:f4c2:1::189 | 6 | 1698507187 | 1792865040 | NA | US |  | 60729 | tor-exit-189.relayon.org |
-| 2a0b:f4c2:1::188 | 6 | 1698438863 | 1792865040 | NA | US |  | 60729 | tor-exit-188.relayon.org |
-| 2a0b:f4c2:1::187 | 6 | 1698438863 | 1792865040 | NA | US |  | 60729 | tor-exit-187.relayon.org |
-| 2a0b:f4c2:1::186 | 6 | 1698507187 | 1792865040 | NA | US |  | 60729 | tor-exit-186.relayon.org |
-| 2a0b:f4c2:1::185 | 6 | 1698507186 | 1792865040 | NA | US |  | 60729 | tor-exit-185.relayon.org |
-| 2a0b:f4c2:1::184 | 6 | 1698438863 | 1792865040 | NA | US |  | 60729 | tor-exit-184.relayon.org |
-| 2a0b:f4c2:1::183 | 6 | 1698438863 | 1792865040 | NA | US |  | 60729 | tor-exit-183.relayon.org |
-| 2a0b:f4c2:1::182 | 6 | 1698438863 | 1792865040 | NA | US |  | 60729 | tor-exit-182.relayon.org |
-| 2a0b:f4c2:1::181 | 6 | 1698438316 | 1792865040 | NA | US |  | 60729 | tor-exit-181.relayon.org |
-| 2a0b:f4c2:1::180 | 6 | 1698438863 | 1792865040 | NA | US |  | 60729 | tor-exit-180.relayon.org |
-| 2a0b:f4c2:1::179 | 6 | 1698438862 | 1792865040 | NA | US |  | 60729 | tor-exit-179.relayon.org |
-| 2a0b:f4c2:1::178 | 6 | 1698438862 | 1792865039 | NA | US |  | 60729 | tor-exit-178.relayon.org |
-| 2a0b:f4c2:1::177 | 6 | 1698507186 | 1792865039 | NA | US |  | 60729 | tor-exit-177.relayon.org |
-| 2a0b:f4c2:1::176 | 6 | 1698438862 | 1792865039 | NA | US |  | 60729 | tor-exit-176.relayon.org |
-| 2a0b:f4c2:1::175 | 6 | 1698438862 | 1792865039 | NA | US |  | 60729 | tor-exit-175.relayon.org |
-| 2a0b:f4c2:1::174 | 6 | 1698438316 | 1792865039 | NA | US |  | 60729 | tor-exit-174.relayon.org |
-| 2a0b:f4c2:1::173 | 6 | 1698438316 | 1792865039 | NA | US |  | 60729 | tor-exit-173.relayon.org |
-| 2a0b:f4c2:1::172 | 6 | 1698507186 | 1792865039 | NA | US |  | 60729 | tor-exit-172.relayon.org |
-| 2a0b:f4c2:1::171 | 6 | 1698438862 | 1792865039 | NA | US |  | 60729 | tor-exit-171.relayon.org |
-| 2a0b:f4c2:1::170 | 6 | 1698438862 | 1792865039 | NA | US |  | 60729 | tor-exit-170.relayon.org |
-| 2a0b:f4c2:1::169 | 6 | 1698438862 | 1792865039 | NA | US |  | 60729 | tor-exit-169.relayon.org |
-| 2a0b:f4c2:1::168 | 6 | 1698507185 | 1792865039 | NA | US |  | 60729 | tor-exit-168.relayon.org |
-| 2a0b:f4c2:1::166 | 6 | 1698438862 | 1792865039 | NA | US |  | 60729 | tor-exit-166.relayon.org |
-| 2a0b:f4c2:1::165 | 6 | 1698438862 | 1792865039 | NA | US |  | 60729 | tor-exit-165.relayon.org |
-| 2a0b:f4c2:1::164 | 6 | 1698507185 | 1792865039 | NA | US |  | 60729 | tor-exit-164.relayon.org |
-| 2a0b:f4c2:1::163 | 6 | 1698438862 | 1792865038 | NA | US |  | 60729 | tor-exit-163.relayon.org |
-| 2a0b:f4c2:1::162 | 6 | 1698438862 | 1792865038 | NA | US |  | 60729 | tor-exit-162.relayon.org |
-| 2a0b:f4c2:1::161 | 6 | 1698438862 | 1792865038 | NA | US |  | 60729 | tor-exit-161.relayon.org |
-| 2a0b:f4c2:1::160 | 6 | 1698438316 | 1792865038 | NA | US |  | 60729 | tor-exit-160.relayon.org |
-| 2a0b:f4c2:1::159 | 6 | 1698438316 | 1792865038 | NA | US |  | 60729 | tor-exit-159.relayon.org |
-| 2a0b:f4c2:1::158 | 6 | 1698438316 | 1792865038 | NA | US |  | 60729 | tor-exit-158.relayon.org |
-| 2a0b:f4c2:1::157 | 6 | 1698438316 | 1792865038 | NA | US |  | 60729 | tor-exit-157.relayon.org |
-| 2a0b:f4c2:1::156 | 6 | 1698438316 | 1792865038 | NA | US |  | 60729 | tor-exit-156.relayon.org |
-| 2a0b:f4c2:1::155 | 6 | 1698438861 | 1792865038 | NA | US |  | 60729 | tor-exit-155.relayon.org |
-| 2a0b:f4c2:1::154 | 6 | 1698438315 | 1792865038 | NA | US |  | 60729 | tor-exit-154.relayon.org |
-| 2a0b:f4c2:1::153 | 6 | 1698438315 | 1792865038 | NA | US |  | 60729 | tor-exit-153.relayon.org |
-| 2a0b:f4c2:1::152 | 6 | 1698438315 | 1792865038 | NA | US |  | 60729 | tor-exit-152.relayon.org |
-| 2a0b:f4c2:1::151 | 6 | 1698438315 | 1792865038 | NA | US |  | 60729 | tor-exit-151.relayon.org |
-| 2a0b:f4c2:1::150 | 6 | 1698438315 | 1792865038 | NA | US |  | 60729 | tor-exit-150.relayon.org |
-| 2a0b:f4c2:1::149 | 6 | 1698438315 | 1792865037 | NA | US |  | 60729 | tor-exit-149.relayon.org |
-| 2a0b:f4c2:1::148 | 6 | 1698438315 | 1792865037 | NA | US |  | 60729 | tor-exit-148.relayon.org |
-| 2a0b:f4c2:1::147 | 6 | 1698438315 | 1792865037 | NA | US |  | 60729 | tor-exit-147.relayon.org |
-| 2a0b:f4c2:1::146 | 6 | 1698438315 | 1792865037 | NA | US |  | 60729 | tor-exit-146.relayon.org |
-| 2a0b:f4c2:1::145 | 6 | 1698438315 | 1792865037 | NA | US |  | 60729 | tor-exit-145.relayon.org |
-| 2a0b:f4c2:1::144 | 6 | 1698438315 | 1792865037 | NA | US |  | 60729 | tor-exit-144.relayon.org |
-| 2a0b:f4c2:1::143 | 6 | 1698438315 | 1792865037 | NA | US |  | 60729 | tor-exit-143.relayon.org |
-| 2a0b:f4c2:1::142 | 6 | 1698438860 | 1792865037 | NA | US |  | 60729 | tor-exit-142.relayon.org |
-| 2a0b:f4c2:1::141 | 6 | 1698438315 | 1792865037 | NA | US |  | 60729 | tor-exit-141.relayon.org |
-| 2a0b:f4c2:1::140 | 6 | 1698438315 | 1792865037 | NA | US |  | 60729 | tor-exit-140.relayon.org |
-| 2a0b:f4c2:1::137 | 6 | 1698438314 | 1792865037 | NA | US |  | 60729 | tor-exit-137.relayon.org |
-| 2a0b:f4c2:1::135 | 6 | 1698438314 | 1792865037 | NA | US |  | 60729 | tor-exit-135.relayon.org |
-| 2a0b:f4c2:1::134 | 6 | 1698438314 | 1792865037 | NA | US |  | 60729 | tor-exit-134.relayon.org |
-| 2a0b:f4c2:1::133 | 6 | 1698438314 | 1792865036 | NA | US |  | 60729 | tor-exit-133.relayon.org |
-| 2a0b:f4c2:1::129 | 6 | 1698438314 | 1792865036 | NA | US |  | 60729 | tor-exit-129.relayon.org |
-| 2a0b:f4c2::31 | 6 | 1698438314 | 1792865036 | NA | US |  | 60729 | berlin01.tor-exit.artikel10.org |
-| 2a0b:f4c2::30 | 6 | 1698438314 | 1792865036 | NA | US |  | 60729 | berlin01.tor-exit.artikel10.org |
-| 2a0b:f4c2::29 | 6 | 1698438314 | 1792865036 | NA | US |  | 60729 | berlin01.tor-exit.artikel10.org |
-| 2a0b:f4c2::28 | 6 | 1698438314 | 1792865036 | NA | US |  | 60729 | berlin01.tor-exit.artikel10.org |
-| 2a0b:f4c2::27 | 6 | 1698438314 | 1792865036 | NA | US |  | 60729 | berlin01.tor-exit.artikel10.org |
-| 2a0b:f4c2::26 | 6 | 1698438314 | 1792865036 | NA | US |  | 60729 | berlin01.tor-exit.artikel10.org |
-| 2a0b:f4c2::25 | 6 | 1698438314 | 1792865036 | NA | US |  | 60729 | berlin01.tor-exit.artikel10.org |
-| 2a0b:f4c2::24 | 6 | 1698438313 | 1792865036 | NA | US |  | 60729 | berlin01.tor-exit.artikel10.org |
-| 2a0b:f4c2::23 | 6 | 1698438313 | 1792865036 | NA | US |  | 60729 | berlin01.tor-exit.artikel10.org |
-| 2a0b:f4c2::22 | 6 | 1698438313 | 1792865036 | NA | US |  | 60729 | berlin01.tor-exit.artikel10.org |
-| 2a0b:f4c2::21 | 6 | 1698438313 | 1792865036 | NA | US |  | 60729 | berlin01.tor-exit.artikel10.org |
-| 2a0b:f4c2::20 | 6 | 1698438313 | 1792865036 | NA | US |  | 60729 | berlin01.tor-exit.artikel10.org |
-| 2a0b:f4c2::19 | 6 | 1698438313 | 1792865035 | NA | US |  | 60729 | berlin01.tor-exit.artikel10.org |
-| 2a0b:f4c2::18 | 6 | 1698438313 | 1792865035 | NA | US |  | 60729 | berlin01.tor-exit.artikel10.org |
-| 2a0b:f4c2::17 | 6 | 1698438313 | 1792865035 | NA | US |  | 60729 | berlin01.tor-exit.artikel10.org |
-| 2a0b:f4c2::16 | 6 | 1698438313 | 1792865035 | NA | US |  | 60729 | berlin01.tor-exit.artikel10.org |
-| 2a0b:f4c2::15 | 6 | 1698438313 | 1792865035 | NA | US |  | 60729 | berlin01.tor-exit.artikel10.org |
-| 2a0b:f4c2::14 | 6 | 1698438313 | 1792865035 | NA | US |  | 60729 | berlin01.tor-exit.artikel10.org |
-| 2a0b:f4c2::13 | 6 | 1698438313 | 1792865035 | NA | US |  | 60729 | berlin01.tor-exit.artikel10.org |
-| 2a0b:f4c2::12 | 6 | 1698438313 | 1792865035 | NA | US |  | 60729 | berlin01.tor-exit.artikel10.org |
-| 2a0b:f4c2::11 | 6 | 1698438313 | 1792865035 | NA | US |  | 60729 | berlin01.tor-exit.artikel10.org |
-| 2a0b:f4c2::10 | 6 | 1698438313 | 1792865035 | NA | US |  | 60729 | berlin01.tor-exit.artikel10.org |
-| 2a0b:f4c2::9 | 6 | 1698438312 | 1792865035 | NA | US |  | 60729 | berlin01.tor-exit.artikel10.org |
-| 2a0b:f4c2::8 | 6 | 1698438312 | 1792865035 | NA | US |  | 60729 | berlin01.tor-exit.artikel10.org |
-| 2a0b:f4c2::7 | 6 | 1698438312 | 1792865035 | NA | US |  | 60729 | berlin01.tor-exit.artikel10.org |
-| 2a0b:f4c2::6 | 6 | 1698438312 | 1792865035 | NA | US |  | 60729 | berlin01.tor-exit.artikel10.org |
-| 2a0b:f4c2::5 | 6 | 1698438312 | 1792865034 | NA | US |  | 60729 | berlin01.tor-exit.artikel10.org |
-| 2a0b:f4c2::4 | 6 | 1698438312 | 1792865034 | NA | US |  | 60729 | berlin01.tor-exit.artikel10.org |
-| 2a0b:f4c2::3 | 6 | 1698438312 | 1792865034 | NA | US |  | 60729 | berlin01.tor-exit.artikel10.org |
-| 2a0b:f4c2::2 | 6 | 1698438312 | 1792865034 | NA | US |  | 60729 | berlin01.tor-exit.artikel10.org |
-| 2a0b:f4c2::1 | 6 | 1698438312 | 1792865034 | NA | US |  | 60729 | berlin01.tor-exit.artikel10.org |
-| 2a0b:f4c2:: | 6 | 1698438312 | 1792865034 | NA | US |  | 60729 | berlin01.tor-exit.artikel10.org |
+| 2a0b:f4c2:2::63 | 6 | 1698438318 | 1792865043 | EU | DE |  | 60729 | tor-exit-63.for-privacy.net |
+| 2a0b:f4c2:2::62 | 6 | 1698438318 | 1792865043 | EU | DE |  | 60729 | tor-exit-62.for-privacy.net |
+| 2a0b:f4c2:2::61 | 6 | 1698438318 | 1792865043 | EU | DE |  | 60729 | tor-exit-61.for-privacy.net |
+| 2a0b:f4c2:2::60 | 6 | 1698438318 | 1792865043 | EU | DE |  | 60729 | tor-exit-60.for-privacy.net |
+| 2a0b:f4c2:2::59 | 6 | 1698438318 | 1792865042 | EU | DE |  | 60729 | tor-exit-59.for-privacy.net |
+| 2a0b:f4c2:2::58 | 6 | 1698438318 | 1792865042 | EU | DE |  | 60729 | tor-exit-58.for-privacy.net |
+| 2a0b:f4c2:2::57 | 6 | 1698438318 | 1792865042 | EU | DE |  | 60729 | tor-exit-57.for-privacy.net |
+| 2a0b:f4c2:2::56 | 6 | 1698438318 | 1792865042 | EU | DE |  | 60729 | tor-exit-56.for-privacy.net |
+| 2a0b:f4c2:2::55 | 6 | 1698438318 | 1792865042 | EU | DE |  | 60729 | tor-exit-55.for-privacy.net |
+| 2a0b:f4c2:2::54 | 6 | 1698438318 | 1792865042 | EU | DE |  | 60729 | tor-exit-54.for-privacy.net |
+| 2a0b:f4c2:2::53 | 6 | 1698438317 | 1792865042 | EU | DE |  | 60729 | tor-exit-53.for-privacy.net |
+| 2a0b:f4c2:2::52 | 6 | 1698438317 | 1792865042 | EU | DE |  | 60729 | tor-exit-52.for-privacy.net |
+| 2a0b:f4c2:2::51 | 6 | 1698438317 | 1792865042 | EU | DE |  | 60729 | tor-exit-51.for-privacy.net |
+| 2a0b:f4c2:2::50 | 6 | 1698438317 | 1792865042 | EU | DE |  | 60729 | tor-exit-50.for-privacy.net |
+| 2a0b:f4c2:2::49 | 6 | 1698438317 | 1792865042 | EU | DE |  | 60729 | tor-exit-49.for-privacy.net |
+| 2a0b:f4c2:2::48 | 6 | 1698438317 | 1792865042 | EU | DE |  | 60729 | tor-exit-48.for-privacy.net |
+| 2a0b:f4c2:2::47 | 6 | 1698438317 | 1792865042 | EU | DE |  | 60729 | tor-exit-47.for-privacy.net |
+| 2a0b:f4c2:2::46 | 6 | 1698438317 | 1792865041 | EU | DE |  | 60729 | tor-exit-46.for-privacy.net |
+| 2a0b:f4c2:2::45 | 6 | 1698438317 | 1792865041 | EU | DE |  | 60729 | tor-exit-45.for-privacy.net |
+| 2a0b:f4c2:2::44 | 6 | 1698438317 | 1792865041 | EU | DE |  | 60729 | tor-exit-44.for-privacy.net |
+| 2a0b:f4c2:2::43 | 6 | 1698438317 | 1792865041 | EU | DE |  | 60729 | tor-exit-43.for-privacy.net |
+| 2a0b:f4c2:2::42 | 6 | 1698438317 | 1792865041 | EU | DE |  | 60729 | tor-exit-42.for-privacy.net |
+| 2a0b:f4c2:2::41 | 6 | 1698438317 | 1792865041 | EU | DE |  | 60729 | tor-exit-41.for-privacy.net |
+| 2a0b:f4c2:2::40 | 6 | 1698438317 | 1792865041 | EU | DE |  | 60729 | tor-exit-40.for-privacy.net |
+| 2a0b:f4c2:2::39 | 6 | 1698438317 | 1792865041 | EU | DE |  | 60729 | tor-exit-39.for-privacy.net |
+| 2a0b:f4c2:2::38 | 6 | 1698438316 | 1792865041 | EU | DE |  | 60729 | tor-exit-38.for-privacy.net |
+| 2a0b:f4c2:2::37 | 6 | 1698438316 | 1792865041 | EU | DE |  | 60729 | tor-exit-37.for-privacy.net |
+| 2a0b:f4c2:2::36 | 6 | 1698438316 | 1792865041 | EU | DE |  | 60729 | tor-exit-36.for-privacy.net |
+| 2a0b:f4c2:2::35 | 6 | 1698438316 | 1792865041 | EU | DE |  | 60729 | tor-exit-35.for-privacy.net |
+| 2a0b:f4c2:2::34 | 6 | 1698438316 | 1792865041 | EU | DE |  | 60729 | tor-exit-34.for-privacy.net |
+| 2a0b:f4c2:2::33 | 6 | 1698438316 | 1792865041 | EU | DE |  | 60729 | tor-exit-33.for-privacy.net |
+| 2a0b:f4c2:2::32 | 6 | 1698438316 | 1792865040 | EU | DE |  | 60729 | tor-exit-32.for-privacy.net |
+| 2a0b:f4c2:1::191 | 6 | 1698438316 | 1792865040 | EU | DE |  | 60729 | tor-exit-191.relayon.org |
+| 2a0b:f4c2:1::190 | 6 | 1698438863 | 1792865040 | EU | DE |  | 60729 | tor-exit-190.relayon.org |
+| 2a0b:f4c2:1::189 | 6 | 1698507187 | 1792865040 | EU | DE |  | 60729 | tor-exit-189.relayon.org |
+| 2a0b:f4c2:1::188 | 6 | 1698438863 | 1792865040 | EU | DE |  | 60729 | tor-exit-188.relayon.org |
+| 2a0b:f4c2:1::187 | 6 | 1698438863 | 1792865040 | EU | DE |  | 60729 | tor-exit-187.relayon.org |
+| 2a0b:f4c2:1::186 | 6 | 1698507187 | 1792865040 | EU | DE |  | 60729 | tor-exit-186.relayon.org |
+| 2a0b:f4c2:1::185 | 6 | 1698507186 | 1792865040 | EU | DE |  | 60729 | tor-exit-185.relayon.org |
+| 2a0b:f4c2:1::184 | 6 | 1698438863 | 1792865040 | EU | DE |  | 60729 | tor-exit-184.relayon.org |
+| 2a0b:f4c2:1::183 | 6 | 1698438863 | 1792865040 | EU | DE |  | 60729 | tor-exit-183.relayon.org |
+| 2a0b:f4c2:1::182 | 6 | 1698438863 | 1792865040 | EU | DE |  | 60729 | tor-exit-182.relayon.org |
+| 2a0b:f4c2:1::181 | 6 | 1698438316 | 1792865040 | EU | DE |  | 60729 | tor-exit-181.relayon.org |
+| 2a0b:f4c2:1::180 | 6 | 1698438863 | 1792865040 | EU | DE |  | 60729 | tor-exit-180.relayon.org |
+| 2a0b:f4c2:1::179 | 6 | 1698438862 | 1792865040 | EU | DE |  | 60729 | tor-exit-179.relayon.org |
+| 2a0b:f4c2:1::178 | 6 | 1698438862 | 1792865039 | EU | DE |  | 60729 | tor-exit-178.relayon.org |
+| 2a0b:f4c2:1::177 | 6 | 1698507186 | 1792865039 | EU | DE |  | 60729 | tor-exit-177.relayon.org |
+| 2a0b:f4c2:1::176 | 6 | 1698438862 | 1792865039 | EU | DE |  | 60729 | tor-exit-176.relayon.org |
+| 2a0b:f4c2:1::175 | 6 | 1698438862 | 1792865039 | EU | DE |  | 60729 | tor-exit-175.relayon.org |
+| 2a0b:f4c2:1::174 | 6 | 1698438316 | 1792865039 | EU | DE |  | 60729 | tor-exit-174.relayon.org |
+| 2a0b:f4c2:1::173 | 6 | 1698438316 | 1792865039 | EU | DE |  | 60729 | tor-exit-173.relayon.org |
+| 2a0b:f4c2:1::172 | 6 | 1698507186 | 1792865039 | EU | DE |  | 60729 | tor-exit-172.relayon.org |
+| 2a0b:f4c2:1::171 | 6 | 1698438862 | 1792865039 | EU | DE |  | 60729 | tor-exit-171.relayon.org |
+| 2a0b:f4c2:1::170 | 6 | 1698438862 | 1792865039 | EU | DE |  | 60729 | tor-exit-170.relayon.org |
+| 2a0b:f4c2:1::169 | 6 | 1698438862 | 1792865039 | EU | DE |  | 60729 | tor-exit-169.relayon.org |
+| 2a0b:f4c2:1::168 | 6 | 1698507185 | 1792865039 | EU | DE |  | 60729 | tor-exit-168.relayon.org |
+| 2a0b:f4c2:1::166 | 6 | 1698438862 | 1792865039 | EU | DE |  | 60729 | tor-exit-166.relayon.org |
+| 2a0b:f4c2:1::165 | 6 | 1698438862 | 1792865039 | EU | DE |  | 60729 | tor-exit-165.relayon.org |
+| 2a0b:f4c2:1::164 | 6 | 1698507185 | 1792865039 | EU | DE |  | 60729 | tor-exit-164.relayon.org |
+| 2a0b:f4c2:1::163 | 6 | 1698438862 | 1792865038 | EU | DE |  | 60729 | tor-exit-163.relayon.org |
+| 2a0b:f4c2:1::162 | 6 | 1698438862 | 1792865038 | EU | DE |  | 60729 | tor-exit-162.relayon.org |
+| 2a0b:f4c2:1::161 | 6 | 1698438862 | 1792865038 | EU | DE |  | 60729 | tor-exit-161.relayon.org |
+| 2a0b:f4c2:1::160 | 6 | 1698438316 | 1792865038 | EU | DE |  | 60729 | tor-exit-160.relayon.org |
+| 2a0b:f4c2:1::159 | 6 | 1698438316 | 1792865038 | EU | DE |  | 60729 | tor-exit-159.relayon.org |
+| 2a0b:f4c2:1::158 | 6 | 1698438316 | 1792865038 | EU | DE |  | 60729 | tor-exit-158.relayon.org |
+| 2a0b:f4c2:1::157 | 6 | 1698438316 | 1792865038 | EU | DE |  | 60729 | tor-exit-157.relayon.org |
+| 2a0b:f4c2:1::156 | 6 | 1698438316 | 1792865038 | EU | DE |  | 60729 | tor-exit-156.relayon.org |
+| 2a0b:f4c2:1::155 | 6 | 1698438861 | 1792865038 | EU | DE |  | 60729 | tor-exit-155.relayon.org |
+| 2a0b:f4c2:1::154 | 6 | 1698438315 | 1792865038 | EU | DE |  | 60729 | tor-exit-154.relayon.org |
+| 2a0b:f4c2:1::153 | 6 | 1698438315 | 1792865038 | EU | DE |  | 60729 | tor-exit-153.relayon.org |
+| 2a0b:f4c2:1::152 | 6 | 1698438315 | 1792865038 | EU | DE |  | 60729 | tor-exit-152.relayon.org |
+| 2a0b:f4c2:1::151 | 6 | 1698438315 | 1792865038 | EU | DE |  | 60729 | tor-exit-151.relayon.org |
+| 2a0b:f4c2:1::150 | 6 | 1698438315 | 1792865038 | EU | DE |  | 60729 | tor-exit-150.relayon.org |
+| 2a0b:f4c2:1::149 | 6 | 1698438315 | 1792865037 | EU | DE |  | 60729 | tor-exit-149.relayon.org |
+| 2a0b:f4c2:1::148 | 6 | 1698438315 | 1792865037 | EU | DE |  | 60729 | tor-exit-148.relayon.org |
+| 2a0b:f4c2:1::147 | 6 | 1698438315 | 1792865037 | EU | DE |  | 60729 | tor-exit-147.relayon.org |
+| 2a0b:f4c2:1::146 | 6 | 1698438315 | 1792865037 | EU | DE |  | 60729 | tor-exit-146.relayon.org |
+| 2a0b:f4c2:1::145 | 6 | 1698438315 | 1792865037 | EU | DE |  | 60729 | tor-exit-145.relayon.org |
+| 2a0b:f4c2:1::144 | 6 | 1698438315 | 1792865037 | EU | DE |  | 60729 | tor-exit-144.relayon.org |
+| 2a0b:f4c2:1::143 | 6 | 1698438315 | 1792865037 | EU | DE |  | 60729 | tor-exit-143.relayon.org |
+| 2a0b:f4c2:1::142 | 6 | 1698438860 | 1792865037 | EU | DE |  | 60729 | tor-exit-142.relayon.org |
+| 2a0b:f4c2:1::141 | 6 | 1698438315 | 1792865037 | EU | DE |  | 60729 | tor-exit-141.relayon.org |
+| 2a0b:f4c2:1::140 | 6 | 1698438315 | 1792865037 | EU | DE |  | 60729 | tor-exit-140.relayon.org |
+| 2a0b:f4c2:1::137 | 6 | 1698438314 | 1792865037 | EU | DE |  | 60729 | tor-exit-137.relayon.org |
+| 2a0b:f4c2:1::135 | 6 | 1698438314 | 1792865037 | EU | DE |  | 60729 | tor-exit-135.relayon.org |
+| 2a0b:f4c2:1::134 | 6 | 1698438314 | 1792865037 | EU | DE |  | 60729 | tor-exit-134.relayon.org |
+| 2a0b:f4c2:1::133 | 6 | 1698438314 | 1792865036 | EU | DE |  | 60729 | tor-exit-133.relayon.org |
+| 2a0b:f4c2:1::129 | 6 | 1698438314 | 1792865036 | EU | DE |  | 60729 | tor-exit-129.relayon.org |
+| 2a0b:f4c2::31 | 6 | 1698438314 | 1792865036 | EU | DE |  | 60729 | berlin01.tor-exit.artikel10.org |
+| 2a0b:f4c2::30 | 6 | 1698438314 | 1792865036 | EU | DE |  | 60729 | berlin01.tor-exit.artikel10.org |
+| 2a0b:f4c2::29 | 6 | 1698438314 | 1792865036 | EU | DE |  | 60729 | berlin01.tor-exit.artikel10.org |
+| 2a0b:f4c2::28 | 6 | 1698438314 | 1792865036 | EU | DE |  | 60729 | berlin01.tor-exit.artikel10.org |
+| 2a0b:f4c2::27 | 6 | 1698438314 | 1792865036 | EU | DE |  | 60729 | berlin01.tor-exit.artikel10.org |
+| 2a0b:f4c2::26 | 6 | 1698438314 | 1792865036 | EU | DE |  | 60729 | berlin01.tor-exit.artikel10.org |
+| 2a0b:f4c2::25 | 6 | 1698438314 | 1792865036 | EU | DE |  | 60729 | berlin01.tor-exit.artikel10.org |
+| 2a0b:f4c2::24 | 6 | 1698438313 | 1792865036 | EU | DE |  | 60729 | berlin01.tor-exit.artikel10.org |
+| 2a0b:f4c2::23 | 6 | 1698438313 | 1792865036 | EU | DE |  | 60729 | berlin01.tor-exit.artikel10.org |
+| 2a0b:f4c2::22 | 6 | 1698438313 | 1792865036 | EU | DE |  | 60729 | berlin01.tor-exit.artikel10.org |
+| 2a0b:f4c2::21 | 6 | 1698438313 | 1792865036 | EU | DE |  | 60729 | berlin01.tor-exit.artikel10.org |
+| 2a0b:f4c2::20 | 6 | 1698438313 | 1792865036 | EU | DE |  | 60729 | berlin01.tor-exit.artikel10.org |
+| 2a0b:f4c2::19 | 6 | 1698438313 | 1792865035 | EU | DE |  | 60729 | berlin01.tor-exit.artikel10.org |
+| 2a0b:f4c2::18 | 6 | 1698438313 | 1792865035 | EU | DE |  | 60729 | berlin01.tor-exit.artikel10.org |
+| 2a0b:f4c2::17 | 6 | 1698438313 | 1792865035 | EU | DE |  | 60729 | berlin01.tor-exit.artikel10.org |
+| 2a0b:f4c2::16 | 6 | 1698438313 | 1792865035 | EU | DE |  | 60729 | berlin01.tor-exit.artikel10.org |
+| 2a0b:f4c2::15 | 6 | 1698438313 | 1792865035 | EU | DE |  | 60729 | berlin01.tor-exit.artikel10.org |
+| 2a0b:f4c2::14 | 6 | 1698438313 | 1792865035 | EU | DE |  | 60729 | berlin01.tor-exit.artikel10.org |
+| 2a0b:f4c2::13 | 6 | 1698438313 | 1792865035 | EU | DE |  | 60729 | berlin01.tor-exit.artikel10.org |
+| 2a0b:f4c2::12 | 6 | 1698438313 | 1792865035 | EU | DE |  | 60729 | berlin01.tor-exit.artikel10.org |
+| 2a0b:f4c2::11 | 6 | 1698438313 | 1792865035 | EU | DE |  | 60729 | berlin01.tor-exit.artikel10.org |
+| 2a0b:f4c2::10 | 6 | 1698438313 | 1792865035 | EU | DE |  | 60729 | berlin01.tor-exit.artikel10.org |
+| 2a0b:f4c2::9 | 6 | 1698438312 | 1792865035 | EU | DE |  | 60729 | berlin01.tor-exit.artikel10.org |
+| 2a0b:f4c2::8 | 6 | 1698438312 | 1792865035 | EU | DE |  | 60729 | berlin01.tor-exit.artikel10.org |
+| 2a0b:f4c2::7 | 6 | 1698438312 | 1792865035 | EU | DE |  | 60729 | berlin01.tor-exit.artikel10.org |
+| 2a0b:f4c2::6 | 6 | 1698438312 | 1792865035 | EU | DE |  | 60729 | berlin01.tor-exit.artikel10.org |
+| 2a0b:f4c2::5 | 6 | 1698438312 | 1792865034 | EU | DE |  | 60729 | berlin01.tor-exit.artikel10.org |
+| 2a0b:f4c2::4 | 6 | 1698438312 | 1792865034 | EU | DE |  | 60729 | berlin01.tor-exit.artikel10.org |
+| 2a0b:f4c2::3 | 6 | 1698438312 | 1792865034 | EU | DE |  | 60729 | berlin01.tor-exit.artikel10.org |
+| 2a0b:f4c2::2 | 6 | 1698438312 | 1792865034 | EU | DE |  | 60729 | berlin01.tor-exit.artikel10.org |
+| 2a0b:f4c2::1 | 6 | 1698438312 | 1792865034 | EU | DE |  | 60729 | berlin01.tor-exit.artikel10.org |
+| 2a0b:f4c2:: | 6 | 1698438312 | 1792865034 | EU | DE |  | 60729 | berlin01.tor-exit.artikel10.org |
 | 2a0b:f4c0:16c:16::1 | 6 | 1698438311 | 1792865034 | EU | DE |  | 205100 | tor-exit-16.zbau.f3netze.de |
 | 2a0b:f4c0:16c:15::1 | 6 | 1698438311 | 1792865034 | EU | DE |  | 205100 | tor-exit-15.zbau.f3netze.de |
 | 2a0b:f4c0:16c:14::1 | 6 | 1698438311 | 1792865034 | EU | DE |  | 205100 | tor-exit-14.zbau.f3netze.de |
@@ -509,7 +509,7 @@ Those IPs are not guaranteed to be tor nodes, but they were seen as tor nodes wi
 | 2a0b:f4c0:16c:7::1 | 6 | 1698438310 | 1792865033 | EU | DE |  | 205100 | tor-exit-7.zbau.f3netze.de |
 | 2a0b:f4c0:16c:6::1 | 6 | 1698438310 | 1792865033 | EU | DE |  | 205100 | tor-exit-6.zbau.f3netze.de |
 | 2a0b:f4c0:16c:5::1 | 6 | 1698438310 | 1792865033 | EU | DE |  | 205100 | tor-exit-5.zbau.f3netze.de |
-| 2a0b:c040:2:5ffa::1 | 6 | 1767931435 | 1792865033 | EU | GB |  | 42237 |  |
+| 2a0b:c040:2:5ffa::1 | 6 | 1767931435 | 1792865033 | EU | UA |  | 42237 |  |
 | 2a0b:4142:218::2 | 6 | 1762704192 | 1792865033 | EU | DE | Frankfurt am Main |  |  |
 | 2a0a:51c1:a:5f::1 | 6 | 1758326593 | 1792865033 | EU | DE |  | 48314 |  |
 | 2a0a:4cc0:2000:cd4c::12 | 6 | 1756112595 | 1792865033 | NA | US | Manassas |  | us.okade.pro |
@@ -1336,7 +1336,7 @@ Those IPs are not guaranteed to be tor nodes, but they were seen as tor nodes wi
 | 216.73.159.75 | 4 | 1698437933 | 1792864973 | SA | CL | Valdivia | 61138 |  |
 | 216.73.159.101 | 4 | 1698437977 | 1792864973 | SA | CL | Valdivia | 61138 |  |
 | 216.239.90.19 | 4 | 1698437954 | 1792864973 | NA | CA |  | 10996 | tor-gateway.vif.com |
-| 213.95.55.63 | 4 | 1787421703 | 1792864973 | EU | DE |  | 12337 |  |
+| 213.95.55.63 | 4 | 1787421703 | 1792864973 | EU | DE | Hückelhoven | 12337 |  |
 | 212.95.50.77 | 4 | 1698437978 | 1792864973 | EU | DE |  | 28753 | hosted-by.leaseweb.com |
 | 212.95.50.243 | 4 | 1782748944 | 1792864973 | EU | DE |  | 28753 |  |
 | 212.86.125.110 | 4 | 1787162512 | 1792864973 | EU | NL | Haarlem | 57960 | caloyannis.xyz |
@@ -1549,9 +1549,9 @@ Those IPs are not guaranteed to be tor nodes, but they were seen as tor nodes wi
 | 198.46.166.157 | 4 | 1698437985 | 1792864958 | NA | US | Los Angeles | 36352 | tor03.mtak.nl |
 | 198.167.206.171 | 4 | 1700777065 | 1792864958 | EU | SE |  | 39287 | c6a7ceab.vpn.njalla.net |
 | 195.88.74.206 | 4 | 1698437962 | 1792864958 | EU | BG |  | 48900 |  |
-| 195.47.238.50 | 4 | 1766206960 | 1792864958 | EU | SE | Stockholm | 30893 |  |
-| 195.176.3.24 | 4 | 1698437941 | 1792864957 | EU | CH | Zurich | 559 | tor5e3.digitale-gesellschaft.ch |
-| 195.176.3.23 | 4 | 1698437933 | 1792864957 | EU | CH | Zurich | 559 | tor5e1.digitale-gesellschaft.ch |
+| 195.47.238.50 | 4 | 1766206960 | 1792864958 | EU | SE |  | 30893 |  |
+| 195.176.3.24 | 4 | 1698437941 | 1792864957 | EU | CH | Adliswil | 559 | tor5e3.digitale-gesellschaft.ch |
+| 195.176.3.23 | 4 | 1698437933 | 1792864957 | EU | CH | Adliswil | 559 | tor5e1.digitale-gesellschaft.ch |
 | 194.55.167.14 | 4 | 1758456137 | 1792864957 | EU | CY | Limassol | 48430 |  |
 | 194.53.137.42 | 4 | 1769130732 | 1792864957 | EU | ES | Madrid | 9009 |  |
 | 194.53.137.156 | 4 | 1740528139 | 1792864957 | EU | ES | Madrid | 9009 |  |
@@ -2045,7 +2045,7 @@ Those IPs are not guaranteed to be tor nodes, but they were seen as tor nodes wi
 | 109.70.100.10 | 4 | 1698507085 | 1792864922 | EU | AT |  | 208323 | tor-exit-anonymizer.appliedprivacy.net |
 | 109.70.100.1 | 4 | 1698437930 | 1792864921 | EU | AT |  | 208323 | tor-exit-anonymizer.appliedprivacy.net |
 | 109.237.27.11 | 4 | 1753718493 | 1792864921 | EU | GB | London | 63949 | 109-237-27-11.ip.linodeusercontent.com |
-| 109.228.160.190 | 4 | 1741111295 | 1792864921 | EU | SE | Mölnlycke | 8473 | h-109-228-160-190.A444.priv.bahnhof.se |
+| 109.228.160.190 | 4 | 1741111295 | 1792864921 | EU | SE | Älvängen | 8473 | h-109-228-160-190.A444.priv.bahnhof.se |
 | 109.169.33.163 | 4 | 1698437997 | 1792864921 | EU | GB |  | 20860 | tor-exit-readme.hands.com |
 | 108.61.189.136 | 4 | 1698437968 | 1792864921 | EU | NL | Amsterdam | 20473 | 108.61.189.136.vultrusercontent.com |
 | 107.189.8.181 | 4 | 1698437934 | 1792864921 | EU | LU | Luxembourg | 53667 | tor-exit-2.aa78i2efsewr0neeknk.xyz |
@@ -2281,7 +2281,7 @@ Those IPs are not guaranteed to be tor nodes, but they were seen as tor nodes wi
 | 162.244.95.11 | 4 | 1791050532 | 1792000916 | NA | US |  | 53667 | uk-shared01.dapanel.net |
 | 209.127.122.140 | 4 | 1763348561 | 1792000915 | NA | US | Buffalo | 55286 | null.hpwh.net |
 | 198.167.206.205 | 4 | 1699093442 | 1792000899 | EU | SE |  | 39287 | c6a7cecd.vpn.njalla.net |
-| 35.0.127.52 | 4 | 1698437947 | 1792000845 | NA | US | New Baltimore | 36375 | tor-exit.eecs.umich.edu |
+| 35.0.127.52 | 4 | 1698437947 | 1792000845 | NA | US | Novi | 36375 | tor-exit.eecs.umich.edu |
 | 67.219.109.141 | 4 | 1699403402 | 1791914711 | OC | AU | Melbourne | 20473 | tor-exit-au-42.project-privacy.com.au |
 | 198.167.206.251 | 4 | 1785175260 | 1791914695 | EU | SE |  | 39287 | c6a7cefb.vpn.njalla.net |
 | 185.225.69.214 | 4 | 1786212105 | 1791914688 | EU | HU | Budapest | 30836 |  |
