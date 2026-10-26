@@ -2,9 +2,9 @@
 # TORFilter
 Last seen within 744 hours
 
-Count : 2929
+Count : 2928
 
-Generated: 2026-10-26T11:00:10.052Z
+Generated: 2026-10-26T12:00:07.023Z
 
 Those IPs are not guaranteed to be tor nodes, but they were seen as tor nodes within the last 744 hours. Use at your own risk, This is NOT a abuse feed, This feed is made for sitemasters to detect traffic from tor nodes, this is the only purpose of this feed
 
@@ -2939,5 +2939,4 @@ Those IPs are not guaranteed to be tor nodes, but they were seen as tor nodes wi
 | 201.3.225.115 | 4 | 1789927326 | 1790359323 | EU | PL |  | 8167 | vm28276.bit.hosting |
 | 78.17.93.124 | 4 | 1789754522 | 1790359322 | NA | CA | Montreal | 2110 | 124.93.17.78.mtl3.servers.guru |
 | 198.167.206.164 | 4 | 1704110934 | 1790359306 | EU | SE |  | 39287 | c6a7cea4.vpn.njalla.net |
-| 146.70.142.42 | 4 | 1790336572 | 1790336572 | AS | IN | Mumbai | 9009 |  |
 
