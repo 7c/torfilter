@@ -4,7 +4,7 @@ Last seen within 168 hours
 
 Count : 2248
 
-Generated: 2026-10-29T06:00:06.610Z
+Generated: 2026-10-29T07:00:08.911Z
 
 Those IPs are not guaranteed to be tor nodes, but they were seen as tor nodes within the last 168 hours. Use at your own risk, This is NOT a abuse feed, This feed is made for sitemasters to detect traffic from tor nodes, this is the only purpose of this feed
 
@@ -12,7 +12,7 @@ Those IPs are not guaranteed to be tor nodes, but they were seen as tor nodes wi
 | ip | ipversion | firstseen | lastseen | continentcode | countrycode | city | ASN | rdns |
 |---|---|---|---|---|---|---|---|---|
 | 95.211.239.220 | 4 | 1776877454 | 1793211240 | EU | NL |  | 60781 | hosted-by.euservr.com |
-| 95.143.193.125 | 4 | 1698437940 | 1793211240 | EU | SE | Stockholm | 49770 |  |
+| 95.143.193.125 | 4 | 1698437940 | 1793211240 | EU | SE |  | 49770 |  |
 | 95.135.208.24 | 4 | 1769652291 | 1793211240 | EU | NL | Amsterdam | 6849 | static.95.135.208.24.deluxhost.net |
 | 95.128.43.164 | 4 | 1698437965 | 1793211240 | EU | FR | Paris | 41653 | exit-1.fr.tor.aquaray.com |
 | 94.230.208.148 | 4 | 1698437965 | 1793211240 | EU | CH | Zurich | 29691 | tor3e3.digitale-gesellschaft.ch |
@@ -75,7 +75,7 @@ Those IPs are not guaranteed to be tor nodes, but they were seen as tor nodes wi
 | 84.19.182.20 | 4 | 1698492505 | 1793211236 | EU | DE |  | 31103 | km21001-02.keymachine.de |
 | 84.16.224.227 | 4 | 1700026403 | 1793211236 | EU | DE |  | 28753 |  |
 | 83.217.9.73 | 4 | 1709162131 | 1793211236 | AS | TR | Istanbul | 199669 | salsedo.osservatorionessuno.org |
-| 82.71.108.163 | 4 | 1788026665 | 1793211235 | EU | GB | Walthamstow | 13037 | tor-exit.cellarnet.co.uk |
+| 82.71.108.163 | 4 | 1788026665 | 1793211235 | EU | GB | Hitchin | 13037 | tor-exit.cellarnet.co.uk |
 | 82.47.0.200 | 4 | 1792087319 | 1793211235 | EU | GB |  | 5089 |  |
 | 82.39.155.148 | 4 | 1782842622 | 1793211235 | EU | SE | Kista | 5089 |  |
 | 82.221.139.190 | 4 | 1698438009 | 1793211235 | EU | IS |  | 50613 | tor-and-gnunet-readme.ageinghacker.net |
@@ -164,7 +164,7 @@ Those IPs are not guaranteed to be tor nodes, but they were seen as tor nodes wi
 | 5.2.69.83 | 4 | 1792605877 | 1793211229 | EU | NL |  | 60404 |  |
 | 5.2.69.82 | 4 | 1792605651 | 1793211229 | EU | NL |  | 60404 |  |
 | 5.2.67.226 | 4 | 1698437997 | 1793211229 | EU | NL |  | 60404 | tor-exit.NL-DRN-KVMNVME-3.liteserver.nl |
-| 5.180.40.109 | 4 | 1793037867 | 1793211229 | AS | KZ | Astana | 18978 |  |
+| 5.180.40.109 | 4 | 1793037867 | 1793211229 | AS | KZ | Almaty | 18978 |  |
 | 46.247.108.163 | 4 | 1793037718 | 1793211229 | EU | DE |  | 39545 | tor2.noelle.ee |
 | 46.232.251.191 | 4 | 1698437986 | 1793211229 | EU | DE | Nuremberg | 197540 | this-is-a-tor-node---8.artikel5ev.de |
 | 46.167.244.241 | 4 | 1787767381 | 1793211229 | EU | CZ | Měšice | 16019 | 241.244.167.46.finalhosting.cz |
@@ -296,7 +296,7 @@ Those IPs are not guaranteed to be tor nodes, but they were seen as tor nodes wi
 | 2a13:9500:145:abcd:be24:11ff:fed5:ac9f | 6 | 1787594653 | 1793211219 | EU | GB |  |  |  |
 | 2a13:9500:145:abcd:be24:11ff:fe8e:7722 | 6 | 1787508240 | 1793211219 | EU | GB |  |  |  |
 | 2a12:bec4:1821:631::a | 6 | 1769652263 | 1793211219 | EU | NL | Amsterdam |  |  |
-| 2a12:bec4:150:fc::2 | 6 | 1792346641 | 1793211219 | NA | US | Wilmington |  | vm219286.hosted-by.qwins.co |
+| 2a12:bec4:150:fc::2 | 6 | 1792346641 | 1793211219 | NA | US |  |  | vm219286.hosted-by.qwins.co |
 | 2a12:bec0:68f:73a:: | 6 | 1792951453 | 1793211219 | NA | US | Salt Lake City |  |  |
 | 2a12:bec0:162:48a:: | 6 | 1792951452 | 1793211219 | AS | TW | Taipei | 199707 |  |
 | 2a11:6100:0:1912:: | 6 | 1787162655 | 1793211219 | EU | PL |  | 43641 | caloyannis.xyz |
@@ -1467,7 +1467,7 @@ Those IPs are not guaranteed to be tor nodes, but they were seen as tor nodes wi
 | 203.202.232.123 | 4 | 1788544901 | 1793211133 | AS | TR | Istanbul | 18229 |  |
 | 2001:b030:2422::7234 | 6 | 1698438266 | 1793211133 | AS | TW | Taipei | 3462 | 2001-b030-2422-0000-0000-0000-0000-7234.hinet-ip6.hinet.net |
 | 2001:b011:4006:d615::b | 6 | 1787076177 | 1793211133 | AS | TW | Taipei | 3462 | 2001-b011-4006-d615-0000-0000-0000-000b.dynamic-ip6.hinet.net |
-| 2001:41d0:701:1000::5196 | 6 | 1748898137 | 1793211133 | EU | FR |  | 16276 |  |
+| 2001:41d0:701:1000::5196 | 6 | 1748898137 | 1793211133 | EU | DE | Frankfurt am Main | 16276 |  |
 | 2001:41d0:700:1148::1 | 6 | 1756422151 | 1793211133 | EU | FR |  | 16276 |  |
 | 2001:41d0:305:2100::89e | 6 | 1780610546 | 1793211133 | EU | FR |  | 16276 | vps-d897c6cd.vps.ovh.net |
 | 2001:41d0:304:200::3ea4 | 6 | 1736290932 | 1793211132 | EU | FR |  | 16276 | vps-4e8e6ed2.vps.ovh.net |
@@ -1532,8 +1532,8 @@ Those IPs are not guaranteed to be tor nodes, but they were seen as tor nodes wi
 | 2001:67c:89c:702:1ce:1ce:babe:2 | 6 | 1698438262 | 1793211128 | EU | DK |  | 210731 | tor-project-exit2.dotsrc.org |
 | 2001:67c:89c:702:1ce:1ce:babe:1 | 6 | 1698438262 | 1793211128 | EU | DK |  | 210731 | tor-project-exit1.dotsrc.org |
 | 2001:67c:89c:666::1 | 6 | 1698438262 | 1793211128 | EU | DK |  | 210731 | relay-02.torproject.net |
-| 2001:620:20d0::24 | 6 | 1698438258 | 1793211128 | EU | CH | Chavannes | 559 | tor5e3.digitale-gesellschaft.ch |
-| 2001:620:20d0::23 | 6 | 1698438258 | 1793211128 | EU | CH | Chavannes | 559 | tor5e1.digitale-gesellschaft.ch |
+| 2001:620:20d0::24 | 6 | 1698438258 | 1793211128 | EU | CH | Lausanne | 559 | tor5e3.digitale-gesellschaft.ch |
+| 2001:620:20d0::23 | 6 | 1698438258 | 1793211128 | EU | CH | Lausanne | 559 | tor5e1.digitale-gesellschaft.ch |
 | 200.122.181.2 | 4 | 1698437975 | 1793211128 | NA | CR | San José | 3790 |  |
 | 2.56.10.36 | 4 | 1725174125 | 1793211128 | EU | NL |  | 213373 |  |
 | 199.19.77.18 | 4 | 1792778563 | 1793211128 | EU | PL | Gdansk | 53340 | tor-exit.gda.pl.3k33.pl |
@@ -1611,7 +1611,7 @@ Those IPs are not guaranteed to be tor nodes, but they were seen as tor nodes wi
 | 185.56.83.10 | 4 | 1791568953 | 1793211122 | AF | SC |  | 211720 | green-venom |
 | 185.56.171.94 | 4 | 1698437988 | 1793211122 | EU | IT |  | 3242 | pengy.lsd.cat |
 | 185.42.170.203 | 4 | 1698437982 | 1793211122 | EU | NO | Oslo | 62248 | exit01.tor.anduin.net |
-| 185.35.202.222 | 4 | 1698437935 | 1793211122 | EU | NO | Oslo | 50304 | tor-proxy-readme.hackeriet.no |
+| 185.35.202.222 | 4 | 1698437935 | 1793211122 | EU | NO |  | 50304 | tor-proxy-readme.hackeriet.no |
 | 185.34.33.2 | 4 | 1698437981 | 1793211122 | EU | FR |  | 28855 | tor.laquadrature.net |
 | 185.254.196.141 | 4 | 1698437942 | 1793211122 | EU | UA | Kyiv | 30860 | dedicated.vsys.host |
 | 185.252.232.218 | 4 | 1698437972 | 1793211122 | EU | FR | Lauterbourg | 51167 | vmi1347637.contaboserver.net |
@@ -2005,7 +2005,7 @@ Those IPs are not guaranteed to be tor nodes, but they were seen as tor nodes wi
 | 146.59.231.4 | 4 | 1736251282 | 1793211092 | EU | FR |  | 16276 | vps-4e8e6ed2.vps.ovh.net |
 | 146.185.253.130 | 4 | 1698438214 | 1793211092 | EU | NL |  | 50673 | wauderieve.info |
 | 144.76.187.208 | 4 | 1792605729 | 1793211092 | EU | DE | Falkenstein | 24940 | static.208.187.76.144.clients.your-server.de |
-| 144.6.236.131 | 4 | 1782097305 | 1793211092 | OC | AU | West Wiangaree | 4764 |  |
+| 144.6.236.131 | 4 | 1782097305 | 1793211092 | OC | AU | Wollongong | 4764 |  |
 | 144.124.234.199 | 4 | 1792951315 | 1793211092 | EU | NL | Amsterdam | 786 | v1111609.hosted-by-vdsina.com |
 | 143.20.185.77 | 4 | 1785175306 | 1793211092 | NA | US |  | 11003 | exitnode.dk |
 | 143.20.166.14 | 4 | 1774537308 | 1793211092 | AS | MY | Kuala Lumpur | 11003 |  |
@@ -2067,8 +2067,8 @@ Those IPs are not guaranteed to be tor nodes, but they were seen as tor nodes wi
 | 104.167.242.118 | 4 | 1706430090 | 1793211088 | NA | US |  | 398355 |  |
 | 104.167.242.117 | 4 | 1706430086 | 1793211088 | NA | US |  | 398355 |  |
 | 104.167.242.116 | 4 | 1706430086 | 1793211088 | NA | US |  | 398355 |  |
-| 104.167.241.4 | 4 | 1753588892 | 1793211088 | NA | US | Spring | 398355 |  |
-| 104.167.241.224 | 4 | 1791223324 | 1793211087 | NA | US | Spring | 398355 |  |
+| 104.167.241.4 | 4 | 1753588892 | 1793211088 | NA | US | Conroe | 398355 |  |
+| 104.167.241.224 | 4 | 1791223324 | 1793211087 | NA | US | Conroe | 398355 |  |
 | 103.91.65.44 | 4 | 1757332894 | 1793211087 | AS | MY | Cyberjaya | 55720 |  |
 | 103.83.87.103 | 4 | 1788544901 | 1793211087 | AS | TR | Istanbul |  |  |
 | 103.28.52.93 | 4 | 1698438206 | 1793211087 | AS | ID |  | 136052 | ip93.52.28.103.in-addr.arpa.unknwn.cloudhost.asia |
@@ -2147,7 +2147,7 @@ Those IPs are not guaranteed to be tor nodes, but they were seen as tor nodes wi
 | 192.42.116.104 | 4 | 1774908097 | 1793211025 | EU | NL |  | 1101 |  |
 | 192.42.116.103 | 4 | 1775044898 | 1793211025 | EU | NL |  | 1101 |  |
 | 23.151.8.10 | 4 | 1782673273 | 1793211024 | NA | US |  | 11721 | 10.8.151.23.in-addr.arpa |
-| 109.228.160.190 | 4 | 1741111295 | 1793211017 | EU | SE | Älvängen | 8473 | h-109-228-160-190.A444.priv.bahnhof.se |
+| 109.228.160.190 | 4 | 1741111295 | 1793211017 | EU | SE | Mölnlycke | 8473 | h-109-228-160-190.A444.priv.bahnhof.se |
 | 5.104.86.6 | 4 | 1721509712 | 1793211003 | AS | JP | Tokyo | 141995 | sortie-tor.a-n-o-n-y-m-e.net |
 | 192.42.116.96 | 4 | 1771967052 | 1793210997 | EU | NL |  | 1101 |  |
 | 192.42.116.52 | 4 | 1771967051 | 1793210996 | EU | NL |  | 1101 |  |
@@ -2229,7 +2229,7 @@ Those IPs are not guaranteed to be tor nodes, but they were seen as tor nodes wi
 | 198.167.206.171 | 4 | 1700777065 | 1792951290 | EU | SE |  | 39287 | c6a7ceab.vpn.njalla.net |
 | 198.167.206.135 | 4 | 1713528128 | 1792951290 | EU | SE |  | 39287 | c6a7ce87.vpn.njalla.net |
 | 62.84.176.89 | 4 | 1784397708 | 1792951279 | EU | FR | Lauterbourg | 834 | vmi2981374.contaboserver.net |
-| 94.159.98.53 | 4 | 1762704239 | 1792865069 | EU | DE | Frankfurt am Main | 49531 | 128197.h2.nexus |
+| 94.159.98.53 | 4 | 1762704239 | 1792865069 | EU | DE | Airport Frankfurt Main | 49531 | 128197.h2.nexus |
 | 2a14:7581:5080::2000 | 6 | 1792778661 | 1792865049 | EU | DE | Frankfurt am Main |  |  |
 | 2a14:7581:5080::1900 | 6 | 1792778661 | 1792865049 | EU | DE | Frankfurt am Main |  |  |
 | 2a14:7581:5080::1800 | 6 | 1792778661 | 1792865049 | EU | DE | Frankfurt am Main |  |  |

@@ -4,7 +4,7 @@ Last seen within 744 hours
 
 Count : 2892
 
-Generated: 2026-10-29T06:00:06.610Z
+Generated: 2026-10-29T07:00:08.911Z
 
 Those IPs are not guaranteed to be tor nodes, but they were seen as tor nodes within the last 744 hours. Use at your own risk, This is NOT a abuse feed, This feed is made for sitemasters to detect traffic from tor nodes, this is the only purpose of this feed
 
@@ -12,7 +12,7 @@ Those IPs are not guaranteed to be tor nodes, but they were seen as tor nodes wi
 | ip | ipversion | firstseen | lastseen | continentcode | countrycode | city | ASN | rdns |
 |---|---|---|---|---|---|---|---|---|
 | 95.211.239.220 | 4 | 1776877454 | 1793211240 | EU | NL |  | 60781 | hosted-by.euservr.com |
-| 95.143.193.125 | 4 | 1698437940 | 1793211240 | EU | SE | Stockholm | 49770 |  |
+| 95.143.193.125 | 4 | 1698437940 | 1793211240 | EU | SE |  | 49770 |  |
 | 95.135.208.24 | 4 | 1769652291 | 1793211240 | EU | NL | Amsterdam | 6849 | static.95.135.208.24.deluxhost.net |
 | 95.128.43.164 | 4 | 1698437965 | 1793211240 | EU | FR | Paris | 41653 | exit-1.fr.tor.aquaray.com |
 | 94.230.208.148 | 4 | 1698437965 | 1793211240 | EU | CH | Zurich | 29691 | tor3e3.digitale-gesellschaft.ch |
@@ -75,7 +75,7 @@ Those IPs are not guaranteed to be tor nodes, but they were seen as tor nodes wi
 | 84.19.182.20 | 4 | 1698492505 | 1793211236 | EU | DE |  | 31103 | km21001-02.keymachine.de |
 | 84.16.224.227 | 4 | 1700026403 | 1793211236 | EU | DE |  | 28753 |  |
 | 83.217.9.73 | 4 | 1709162131 | 1793211236 | AS | TR | Istanbul | 199669 | salsedo.osservatorionessuno.org |
-| 82.71.108.163 | 4 | 1788026665 | 1793211235 | EU | GB | Walthamstow | 13037 | tor-exit.cellarnet.co.uk |
+| 82.71.108.163 | 4 | 1788026665 | 1793211235 | EU | GB | Hitchin | 13037 | tor-exit.cellarnet.co.uk |
 | 82.47.0.200 | 4 | 1792087319 | 1793211235 | EU | GB |  | 5089 |  |
 | 82.39.155.148 | 4 | 1782842622 | 1793211235 | EU | SE | Kista | 5089 |  |
 | 82.221.139.190 | 4 | 1698438009 | 1793211235 | EU | IS |  | 50613 | tor-and-gnunet-readme.ageinghacker.net |
@@ -164,7 +164,7 @@ Those IPs are not guaranteed to be tor nodes, but they were seen as tor nodes wi
 | 5.2.69.83 | 4 | 1792605877 | 1793211229 | EU | NL |  | 60404 |  |
 | 5.2.69.82 | 4 | 1792605651 | 1793211229 | EU | NL |  | 60404 |  |
 | 5.2.67.226 | 4 | 1698437997 | 1793211229 | EU | NL |  | 60404 | tor-exit.NL-DRN-KVMNVME-3.liteserver.nl |
-| 5.180.40.109 | 4 | 1793037867 | 1793211229 | AS | KZ | Astana | 18978 |  |
+| 5.180.40.109 | 4 | 1793037867 | 1793211229 | AS | KZ | Almaty | 18978 |  |
 | 46.247.108.163 | 4 | 1793037718 | 1793211229 | EU | DE |  | 39545 | tor2.noelle.ee |
 | 46.232.251.191 | 4 | 1698437986 | 1793211229 | EU | DE | Nuremberg | 197540 | this-is-a-tor-node---8.artikel5ev.de |
 | 46.167.244.241 | 4 | 1787767381 | 1793211229 | EU | CZ | Měšice | 16019 | 241.244.167.46.finalhosting.cz |
@@ -296,7 +296,7 @@ Those IPs are not guaranteed to be tor nodes, but they were seen as tor nodes wi
 | 2a13:9500:145:abcd:be24:11ff:fed5:ac9f | 6 | 1787594653 | 1793211219 | EU | GB |  |  |  |
 | 2a13:9500:145:abcd:be24:11ff:fe8e:7722 | 6 | 1787508240 | 1793211219 | EU | GB |  |  |  |
 | 2a12:bec4:1821:631::a | 6 | 1769652263 | 1793211219 | EU | NL | Amsterdam |  |  |
-| 2a12:bec4:150:fc::2 | 6 | 1792346641 | 1793211219 | NA | US | Wilmington |  | vm219286.hosted-by.qwins.co |
+| 2a12:bec4:150:fc::2 | 6 | 1792346641 | 1793211219 | NA | US |  |  | vm219286.hosted-by.qwins.co |
 | 2a12:bec0:68f:73a:: | 6 | 1792951453 | 1793211219 | NA | US | Salt Lake City |  |  |
 | 2a12:bec0:162:48a:: | 6 | 1792951452 | 1793211219 | AS | TW | Taipei | 199707 |  |
 | 2a11:6100:0:1912:: | 6 | 1787162655 | 1793211219 | EU | PL |  | 43641 | caloyannis.xyz |
@@ -1467,7 +1467,7 @@ Those IPs are not guaranteed to be tor nodes, but they were seen as tor nodes wi
 | 203.202.232.123 | 4 | 1788544901 | 1793211133 | AS | TR | Istanbul | 18229 |  |
 | 2001:b030:2422::7234 | 6 | 1698438266 | 1793211133 | AS | TW | Taipei | 3462 | 2001-b030-2422-0000-0000-0000-0000-7234.hinet-ip6.hinet.net |
 | 2001:b011:4006:d615::b | 6 | 1787076177 | 1793211133 | AS | TW | Taipei | 3462 | 2001-b011-4006-d615-0000-0000-0000-000b.dynamic-ip6.hinet.net |
-| 2001:41d0:701:1000::5196 | 6 | 1748898137 | 1793211133 | EU | FR |  | 16276 |  |
+| 2001:41d0:701:1000::5196 | 6 | 1748898137 | 1793211133 | EU | DE | Frankfurt am Main | 16276 |  |
 | 2001:41d0:700:1148::1 | 6 | 1756422151 | 1793211133 | EU | FR |  | 16276 |  |
 | 2001:41d0:305:2100::89e | 6 | 1780610546 | 1793211133 | EU | FR |  | 16276 | vps-d897c6cd.vps.ovh.net |
 | 2001:41d0:304:200::3ea4 | 6 | 1736290932 | 1793211132 | EU | FR |  | 16276 | vps-4e8e6ed2.vps.ovh.net |
@@ -1532,8 +1532,8 @@ Those IPs are not guaranteed to be tor nodes, but they were seen as tor nodes wi
 | 2001:67c:89c:702:1ce:1ce:babe:2 | 6 | 1698438262 | 1793211128 | EU | DK |  | 210731 | tor-project-exit2.dotsrc.org |
 | 2001:67c:89c:702:1ce:1ce:babe:1 | 6 | 1698438262 | 1793211128 | EU | DK |  | 210731 | tor-project-exit1.dotsrc.org |
 | 2001:67c:89c:666::1 | 6 | 1698438262 | 1793211128 | EU | DK |  | 210731 | relay-02.torproject.net |
-| 2001:620:20d0::24 | 6 | 1698438258 | 1793211128 | EU | CH | Chavannes | 559 | tor5e3.digitale-gesellschaft.ch |
-| 2001:620:20d0::23 | 6 | 1698438258 | 1793211128 | EU | CH | Chavannes | 559 | tor5e1.digitale-gesellschaft.ch |
+| 2001:620:20d0::24 | 6 | 1698438258 | 1793211128 | EU | CH | Lausanne | 559 | tor5e3.digitale-gesellschaft.ch |
+| 2001:620:20d0::23 | 6 | 1698438258 | 1793211128 | EU | CH | Lausanne | 559 | tor5e1.digitale-gesellschaft.ch |
 | 200.122.181.2 | 4 | 1698437975 | 1793211128 | NA | CR | San José | 3790 |  |
 | 2.56.10.36 | 4 | 1725174125 | 1793211128 | EU | NL |  | 213373 |  |
 | 199.19.77.18 | 4 | 1792778563 | 1793211128 | EU | PL | Gdansk | 53340 | tor-exit.gda.pl.3k33.pl |
@@ -1611,7 +1611,7 @@ Those IPs are not guaranteed to be tor nodes, but they were seen as tor nodes wi
 | 185.56.83.10 | 4 | 1791568953 | 1793211122 | AF | SC |  | 211720 | green-venom |
 | 185.56.171.94 | 4 | 1698437988 | 1793211122 | EU | IT |  | 3242 | pengy.lsd.cat |
 | 185.42.170.203 | 4 | 1698437982 | 1793211122 | EU | NO | Oslo | 62248 | exit01.tor.anduin.net |
-| 185.35.202.222 | 4 | 1698437935 | 1793211122 | EU | NO | Oslo | 50304 | tor-proxy-readme.hackeriet.no |
+| 185.35.202.222 | 4 | 1698437935 | 1793211122 | EU | NO |  | 50304 | tor-proxy-readme.hackeriet.no |
 | 185.34.33.2 | 4 | 1698437981 | 1793211122 | EU | FR |  | 28855 | tor.laquadrature.net |
 | 185.254.196.141 | 4 | 1698437942 | 1793211122 | EU | UA | Kyiv | 30860 | dedicated.vsys.host |
 | 185.252.232.218 | 4 | 1698437972 | 1793211122 | EU | FR | Lauterbourg | 51167 | vmi1347637.contaboserver.net |
@@ -2005,7 +2005,7 @@ Those IPs are not guaranteed to be tor nodes, but they were seen as tor nodes wi
 | 146.59.231.4 | 4 | 1736251282 | 1793211092 | EU | FR |  | 16276 | vps-4e8e6ed2.vps.ovh.net |
 | 146.185.253.130 | 4 | 1698438214 | 1793211092 | EU | NL |  | 50673 | wauderieve.info |
 | 144.76.187.208 | 4 | 1792605729 | 1793211092 | EU | DE | Falkenstein | 24940 | static.208.187.76.144.clients.your-server.de |
-| 144.6.236.131 | 4 | 1782097305 | 1793211092 | OC | AU | West Wiangaree | 4764 |  |
+| 144.6.236.131 | 4 | 1782097305 | 1793211092 | OC | AU | Wollongong | 4764 |  |
 | 144.124.234.199 | 4 | 1792951315 | 1793211092 | EU | NL | Amsterdam | 786 | v1111609.hosted-by-vdsina.com |
 | 143.20.185.77 | 4 | 1785175306 | 1793211092 | NA | US |  | 11003 | exitnode.dk |
 | 143.20.166.14 | 4 | 1774537308 | 1793211092 | AS | MY | Kuala Lumpur | 11003 |  |
@@ -2067,8 +2067,8 @@ Those IPs are not guaranteed to be tor nodes, but they were seen as tor nodes wi
 | 104.167.242.118 | 4 | 1706430090 | 1793211088 | NA | US |  | 398355 |  |
 | 104.167.242.117 | 4 | 1706430086 | 1793211088 | NA | US |  | 398355 |  |
 | 104.167.242.116 | 4 | 1706430086 | 1793211088 | NA | US |  | 398355 |  |
-| 104.167.241.4 | 4 | 1753588892 | 1793211088 | NA | US | Spring | 398355 |  |
-| 104.167.241.224 | 4 | 1791223324 | 1793211087 | NA | US | Spring | 398355 |  |
+| 104.167.241.4 | 4 | 1753588892 | 1793211088 | NA | US | Conroe | 398355 |  |
+| 104.167.241.224 | 4 | 1791223324 | 1793211087 | NA | US | Conroe | 398355 |  |
 | 103.91.65.44 | 4 | 1757332894 | 1793211087 | AS | MY | Cyberjaya | 55720 |  |
 | 103.83.87.103 | 4 | 1788544901 | 1793211087 | AS | TR | Istanbul |  |  |
 | 103.28.52.93 | 4 | 1698438206 | 1793211087 | AS | ID |  | 136052 | ip93.52.28.103.in-addr.arpa.unknwn.cloudhost.asia |
@@ -2147,7 +2147,7 @@ Those IPs are not guaranteed to be tor nodes, but they were seen as tor nodes wi
 | 192.42.116.104 | 4 | 1774908097 | 1793211025 | EU | NL |  | 1101 |  |
 | 192.42.116.103 | 4 | 1775044898 | 1793211025 | EU | NL |  | 1101 |  |
 | 23.151.8.10 | 4 | 1782673273 | 1793211024 | NA | US |  | 11721 | 10.8.151.23.in-addr.arpa |
-| 109.228.160.190 | 4 | 1741111295 | 1793211017 | EU | SE | Älvängen | 8473 | h-109-228-160-190.A444.priv.bahnhof.se |
+| 109.228.160.190 | 4 | 1741111295 | 1793211017 | EU | SE | Mölnlycke | 8473 | h-109-228-160-190.A444.priv.bahnhof.se |
 | 5.104.86.6 | 4 | 1721509712 | 1793211003 | AS | JP | Tokyo | 141995 | sortie-tor.a-n-o-n-y-m-e.net |
 | 192.42.116.96 | 4 | 1771967052 | 1793210997 | EU | NL |  | 1101 |  |
 | 192.42.116.52 | 4 | 1771967051 | 1793210996 | EU | NL |  | 1101 |  |
@@ -2229,7 +2229,7 @@ Those IPs are not guaranteed to be tor nodes, but they were seen as tor nodes wi
 | 198.167.206.171 | 4 | 1700777065 | 1792951290 | EU | SE |  | 39287 | c6a7ceab.vpn.njalla.net |
 | 198.167.206.135 | 4 | 1713528128 | 1792951290 | EU | SE |  | 39287 | c6a7ce87.vpn.njalla.net |
 | 62.84.176.89 | 4 | 1784397708 | 1792951279 | EU | FR | Lauterbourg | 834 | vmi2981374.contaboserver.net |
-| 94.159.98.53 | 4 | 1762704239 | 1792865069 | EU | DE | Frankfurt am Main | 49531 | 128197.h2.nexus |
+| 94.159.98.53 | 4 | 1762704239 | 1792865069 | EU | DE | Airport Frankfurt Main | 49531 | 128197.h2.nexus |
 | 2a14:7581:5080::2000 | 6 | 1792778661 | 1792865049 | EU | DE | Frankfurt am Main |  |  |
 | 2a14:7581:5080::1900 | 6 | 1792778661 | 1792865049 | EU | DE | Frankfurt am Main |  |  |
 | 2a14:7581:5080::1800 | 6 | 1792778661 | 1792865049 | EU | DE | Frankfurt am Main |  |  |
@@ -2328,7 +2328,7 @@ Those IPs are not guaranteed to be tor nodes, but they were seen as tor nodes wi
 | 162.244.95.11 | 4 | 1791050532 | 1792000916 | NA | US |  | 53667 | uk-shared01.dapanel.net |
 | 209.127.122.140 | 4 | 1763348561 | 1792000915 | NA | US | Buffalo | 55286 | null.hpwh.net |
 | 198.167.206.205 | 4 | 1699093442 | 1792000899 | EU | SE |  | 39287 | c6a7cecd.vpn.njalla.net |
-| 35.0.127.52 | 4 | 1698437947 | 1792000845 | NA | US | Novi | 36375 | tor-exit.eecs.umich.edu |
+| 35.0.127.52 | 4 | 1698437947 | 1792000845 | NA | US | Ann Arbor | 36375 | tor-exit.eecs.umich.edu |
 | 67.219.109.141 | 4 | 1699403402 | 1791914711 | OC | AU | Melbourne | 20473 | tor-exit-au-42.project-privacy.com.au |
 | 198.167.206.251 | 4 | 1785175260 | 1791914695 | EU | SE |  | 39287 | c6a7cefb.vpn.njalla.net |
 | 192.121.44.33 | 4 | 1763024547 | 1791914687 | EU | SE |  | 29518 | tor-relay03.playstar.se |
@@ -2376,7 +2376,7 @@ Those IPs are not guaranteed to be tor nodes, but they were seen as tor nodes wi
 | 149.28.93.184 | 4 | 1791396117 | 1791482515 | NA | US | Los Angeles | 20473 | 149.28.93.184.vultrusercontent.com |
 | 149.28.13.235 | 4 | 1791396117 | 1791482515 | NA | US | Kent | 20473 | 149.28.13.235.vultrusercontent.com |
 | 149.28.104.255 | 4 | 1791396117 | 1791482515 | NA | US | Miami | 20473 | 149.28.104.255.vultrusercontent.com |
-| 95.179.239.54 | 4 | 1791396116 | 1791482514 | EU | GB | Canary Wharf | 20473 | 95.179.239.54.vultrusercontent.com |
+| 95.179.239.54 | 4 | 1791396116 | 1791482514 | EU | GB | Poplar | 20473 | 95.179.239.54.vultrusercontent.com |
 | 69.67.173.77 | 4 | 1791396117 | 1791482514 | NA | US |  | 30295 |  |
 | 66.42.112.124 | 4 | 1791396116 | 1791482514 | NA | US | Elk Grove Village | 20473 | 66.42.112.124.vultrusercontent.com |
 | 193.149.180.122 | 4 | 1791309732 | 1791482514 | EU | GB | London | 399629 |  |
@@ -2427,7 +2427,7 @@ Those IPs are not guaranteed to be tor nodes, but they were seen as tor nodes wi
 | 2001:19f0:6001:7c0:5400:6ff:fed0:919e | 6 | 1791309776 | 1791309776 | NA | US | Los Angeles | 20473 |  |
 | 72.5.42.156 | 4 | 1791136945 | 1791309728 | EU | RO |  |  |  |
 | 64.95.12.13 | 4 | 1791136945 | 1791309728 | NA | US | Dallas |  |  |
-| 209.250.228.226 | 4 | 1791136945 | 1791309728 | EU | GB | Canary Wharf | 20473 | 209.250.228.226.vultrusercontent.com |
+| 209.250.228.226 | 4 | 1791136945 | 1791309728 | EU | GB | Poplar | 20473 | 209.250.228.226.vultrusercontent.com |
 | 206.71.149.10 | 4 | 1791136945 | 1791309728 | EU | GB | London | 399629 |  |
 | 185.56.83.6 | 4 | 1791136945 | 1791309728 | AF | SC |  | 211720 | green-venom |
 | 143.198.175.211 | 4 | 1791136946 | 1791309728 | NA | US | North Bergen | 14061 |  |
@@ -2567,7 +2567,7 @@ Those IPs are not guaranteed to be tor nodes, but they were seen as tor nodes wi
 | 2001:19f0:ac02:948:5400:6ff:feca:a482 | 6 | 1791050585 | 1791223368 | NA | US | Santa Clara | 20473 |  |
 | 2001:19f0:9000:24a3:5400:6ff:feca:4055 | 6 | 1791050585 | 1791223368 | NA | US | Miami | 20473 |  |
 | 2001:19f0:9000:21e5:5400:6ff:fecb:cdd5 | 6 | 1791050585 | 1791223368 | NA | US | Miami | 20473 |  |
-| 2001:19f0:7401:84a7:5400:6ff:fecc:4d23 | 6 | 1791136999 | 1791223368 | EU | GB | Canary Wharf | 20473 |  |
+| 2001:19f0:7401:84a7:5400:6ff:fecc:4d23 | 6 | 1791136999 | 1791223368 | EU | GB | Poplar | 20473 |  |
 | 2001:19f0:6801:83e:5400:6ff:fecb:a159 | 6 | 1791050585 | 1791223368 | EU | FR | Aubervilliers | 20473 |  |
 | 2001:19f0:6400:25fd:5400:6ff:fecb:f584 | 6 | 1791136999 | 1791223368 | NA | US | Dallas | 20473 |  |
 | 2001:19f0:6400:24aa:5400:6ff:feca:68f7 | 6 | 1791050585 | 1791223368 | NA | US | Dallas | 20473 |  |
@@ -2703,7 +2703,7 @@ Those IPs are not guaranteed to be tor nodes, but they were seen as tor nodes wi
 | 144.202.36.187 | 4 | 1790964129 | 1791136940 | NA | US | Miami | 20473 | 144.202.36.187.vultrusercontent.com |
 | 136.244.82.118 | 4 | 1790964128 | 1791136940 | EU | DE | Frankfurt am Main | 20473 | 136.244.82.118.vultrusercontent.com |
 | 108.160.130.71 | 4 | 1790964128 | 1791136940 | AS | JP | Minamishinagawa | 20473 | 108.160.130.71.vultrusercontent.com |
-| 104.238.174.114 | 4 | 1790964128 | 1791136940 | EU | GB | Canary Wharf | 20473 | 104.238.174.114.vultrusercontent.com |
+| 104.238.174.114 | 4 | 1790964128 | 1791136940 | EU | GB | Poplar | 20473 | 104.238.174.114.vultrusercontent.com |
 | 45.63.110.87 | 4 | 1790877875 | 1791136939 | NA | US | Miami | 20473 | 45.63.110.87.vultrusercontent.com |
 | 207.148.2.114 | 4 | 1790964128 | 1791136939 | NA | US | Dallas | 20473 | 207.148.2.114.vultrusercontent.com |
 | 193.149.176.75 | 4 | 1790877775 | 1791136939 | NA | US | Chicago | 399629 |  |
@@ -2753,7 +2753,7 @@ Those IPs are not guaranteed to be tor nodes, but they were seen as tor nodes wi
 | 2001:19f0:ac00:3318:5400:6ff:fec9:4655 | 6 | 1790964182 | 1790964182 | NA | US | Santa Clara | 20473 |  |
 | 2001:19f0:9002:1001:5400:6ff:fec8:b95a | 6 | 1790964182 | 1790964182 | NA | US | Miami | 20473 |  |
 | 2001:19f0:9002:411:5400:6ff:fec7:cacf | 6 | 1790877784 | 1790964182 | NA | US | Miami | 20473 |  |
-| 2001:19f0:7402:1af:5400:6ff:fec8:3995 | 6 | 1790964182 | 1790964182 | EU | GB | Canary Wharf | 20473 |  |
+| 2001:19f0:7402:1af:5400:6ff:fec8:3995 | 6 | 1790964182 | 1790964182 | EU | GB | Poplar | 20473 |  |
 | 2001:19f0:7002:a8:5400:6ff:fec8:9286 | 6 | 1790964182 | 1790964182 | AS | JP | Minamishinagawa | 20473 |  |
 | 2001:19f0:6400:23ac:5400:6ff:fec8:e7c7 | 6 | 1790964181 | 1790964181 | NA | US | Dallas | 20473 |  |
 | 2001:19f0:6400:23a2:5400:6ff:fec7:efc6 | 6 | 1790964181 | 1790964181 | NA | US | Dallas | 20473 |  |
@@ -2829,7 +2829,7 @@ Those IPs are not guaranteed to be tor nodes, but they were seen as tor nodes wi
 | 162.33.178.221 | 4 | 1790618525 | 1790791330 | NA | US | Chicago | 399629 |  |
 | 149.28.220.86 | 4 | 1790618525 | 1790791330 | NA | US | Santa Clara | 20473 | 149.28.220.86.vultrusercontent.com |
 | 144.202.24.178 | 4 | 1790618526 | 1790791330 | NA | US | Atlanta | 20473 | 144.202.24.178.vultrusercontent.com |
-| 136.244.65.243 | 4 | 1790618525 | 1790791330 | EU | GB | Canary Wharf | 20473 | 136.244.65.243.vultrusercontent.com |
+| 136.244.65.243 | 4 | 1790618525 | 1790791330 | EU | GB | Poplar | 20473 | 136.244.65.243.vultrusercontent.com |
 | 5.230.254.90 | 4 | 1790186540 | 1790791327 | EU | DE |  | 12586 |  |
 | 45.135.194.25 | 4 | 1790273011 | 1790791327 | EU | DE |  |  | exit03.tor-exit.org |
 | 217.60.237.75 | 4 | 1790186541 | 1790791327 | EU | NL | Amsterdam | 58224 | exit02.tor-exit.org |
@@ -2867,7 +2867,7 @@ Those IPs are not guaranteed to be tor nodes, but they were seen as tor nodes wi
 | 95.179.214.255 | 4 | 1790445942 | 1790704938 | EU | FR | Aubervilliers | 20473 | 95.179.214.255.vultrusercontent.com |
 | 69.67.172.31 | 4 | 1790445942 | 1790704938 | NA | US |  | 30295 |  |
 | 66.179.31.152 | 4 | 1790445943 | 1790704938 | AS | SG |  | 1828 |  |
-| 45.76.141.41 | 4 | 1790445942 | 1790704938 | EU | GB | Canary Wharf | 20473 | 45.76.141.41.vultrusercontent.com |
+| 45.76.141.41 | 4 | 1790445942 | 1790704938 | EU | GB | Poplar | 20473 | 45.76.141.41.vultrusercontent.com |
 | 45.32.137.108 | 4 | 1790445942 | 1790704938 | NA | US | Santa Clara | 20473 | 45.32.137.108.vultrusercontent.com |
 | 202.182.119.30 | 4 | 1790445942 | 1790704938 | AS | JP | Minamishinagawa | 20473 | 202.182.119.30.vultrusercontent.com |
 | 199.217.99.189 | 4 | 1790445943 | 1790704938 | NA | US | Dublin | 54455 |  |
@@ -2895,7 +2895,7 @@ Those IPs are not guaranteed to be tor nodes, but they were seen as tor nodes wi
 | 2607:f130:0:1e7:210::beef | 6 | 1790618619 | 1790618619 | NA | US | Los Angeles | 35916 | asylum.corewars.net |
 | 2401:c080:1000:32ba:5400:6ff:fec1:804b | 6 | 1790618607 | 1790618607 | AS | JP | Minamishinagawa | 20473 |  |
 | 2001:19f0:ac01:f44:5400:6ff:fec1:8024 | 6 | 1790618577 | 1790618577 | NA | US | Santa Clara | 20473 |  |
-| 2001:19f0:7402:1bf0:5400:6ff:fec1:7ffa | 6 | 1790618577 | 1790618577 | EU | GB | Canary Wharf | 20473 |  |
+| 2001:19f0:7402:1bf0:5400:6ff:fec1:7ffa | 6 | 1790618577 | 1790618577 | EU | GB | Poplar | 20473 |  |
 | 2001:19f0:6001:56d2:5400:6ff:fec1:8005 | 6 | 1790618576 | 1790618576 | NA | US | Los Angeles | 20473 |  |
 | 2001:19f0:6001:ff:5400:4ff:fe31:8700 | 6 | 1789927375 | 1790618576 | NA | US | Los Angeles | 20473 |  |
 | 2001:19f0:5c00:35ab:5400:6ff:fec1:800e | 6 | 1790618576 | 1790618576 | NA | US | Elk Grove Village | 20473 |  |
