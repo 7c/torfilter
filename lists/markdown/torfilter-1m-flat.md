@@ -4,7 +4,7 @@ Last seen within 744 hours
 
 Count : 2852
 
-Generated: 2026-10-31T06:00:09.518Z
+Generated: 2026-10-31T07:00:06.317Z
 
 Those IPs are not guaranteed to be tor nodes, but they were seen as tor nodes within the last 744 hours. Use at your own risk, This is NOT a abuse feed, This feed is made for sitemasters to detect traffic from tor nodes, this is the only purpose of this feed
 
@@ -857,7 +857,7 @@ Those IPs are not guaranteed to be tor nodes, but they were seen as tor nodes wi
 | 2620:7:6003::103 | 6 | 1785434596 | 1793383407 | NA | US |  |  |  |
 | 2620:7:6003::102 | 6 | 1785434596 | 1793383407 | NA | US |  |  |  |
 | 2620:7:6003::101 | 6 | 1785434596 | 1793383407 | NA | US |  |  |  |
-| 2607:fa18:3:beef:f001:c0de:feed:ba5e | 6 | 1742112163 | 1793383407 | NA | US |  | 6315 | this.is.a.tor.node.xmission.com |
+| 2607:fa18:3:beef:f001:c0de:feed:ba5e | 6 | 1742112163 | 1793383407 | NA | US | Providence | 6315 | this.is.a.tor.node.xmission.com |
 | 2607:f530:9002::19 | 6 | 1754348549 | 1793383407 | NA | CA |  | 10996 |  |
 | 2607:f130:0:1e8:210::beef | 6 | 1790705044 | 1793383407 | NA | US | Los Angeles | 35916 | asylum.corewars.net |
 | 2605:6f02:2000:54::4290:b66c | 6 | 1790100239 | 1793383407 | NA | US | Dallas |  |  |
@@ -1601,7 +1601,7 @@ Those IPs are not guaranteed to be tor nodes, but they were seen as tor nodes wi
 | 188.239.191.25 | 4 | 1730894529 | 1793383352 | EU | NL | Amsterdam | 211895 | bernd.tor-exit.mxmla.de |
 | 185.93.89.96 | 4 | 1769022286 | 1793383352 | AS | IR |  |  |  |
 | 185.82.219.109 | 4 | 1698437993 | 1793383352 | EU | BG | Sofia | 59729 | tornode2.vds-114833.com |
-| 185.67.82.114 | 4 | 1698437943 | 1793383352 | EU | FI | Espoo | 20904 | tor-ou.effi.org |
+| 185.67.82.114 | 4 | 1698437943 | 1793383352 | EU | FI |  | 20904 | tor-ou.effi.org |
 | 185.56.83.9 | 4 | 1791568953 | 1793383352 | AF | SC |  | 211720 | green-venom |
 | 185.56.83.8 | 4 | 1791568953 | 1793383352 | AF | SC |  | 211720 | green-venom |
 | 185.56.83.7 | 4 | 1791568953 | 1793383352 | AF | SC |  | 211720 | green-venom |
@@ -2313,7 +2313,7 @@ Those IPs are not guaranteed to be tor nodes, but they were seen as tor nodes wi
 | 217.60.196.70 | 4 | 1789581718 | 1792346570 | EU | DE | Frankfurt am Main | 43212 |  |
 | 217.60.196.51 | 4 | 1789581718 | 1792346569 | EU | DE | Frankfurt am Main | 43212 |  |
 | 2001:df0:27b::1:e28a | 6 | 1792346559 | 1792346559 | AS | ID |  | 58487 |  |
-| 82.65.141.110 | 4 | 1792260128 | 1792346515 | EU | FR |  | 12322 |  |
+| 82.65.141.110 | 4 | 1792260128 | 1792346515 | EU | FR | Paris | 12322 |  |
 | 186.240.149.160 | 4 | 1788804100 | 1792346509 | EU | DE | Frankfurt am Main | 7738 | srv1881256.hstgr.cloud |
 | 198.167.206.235 | 4 | 1700654714 | 1792346493 | EU | SE |  | 39287 | c6a7ceeb.vpn.njalla.net |
 | 2a0e:4001:900::101 | 6 | 1789927487 | 1792260258 | EU | RU |  |  |  |
