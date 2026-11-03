@@ -4,7 +4,7 @@ Last seen within 168 hours
 
 Count : 2257
 
-Generated: 2026-11-03T06:00:06.197Z
+Generated: 2026-11-03T07:00:06.177Z
 
 Those IPs are not guaranteed to be tor nodes, but they were seen as tor nodes within the last 168 hours. Use at your own risk, This is NOT a abuse feed, This feed is made for sitemasters to detect traffic from tor nodes, this is the only purpose of this feed
 
@@ -49,7 +49,7 @@ Those IPs are not guaranteed to be tor nodes, but they were seen as tor nodes wi
 | 89.58.7.15 | 4 | 1790532124 | 1793642683 | EU | DE | Nuremberg | 197540 | exit04.tor-exit.org |
 | 89.58.41.156 | 4 | 1698437929 | 1793642682 | EU | DE | Nuremberg | 197540 | NurembergTor79.quetzalcoatl-relays.org |
 | 89.58.26.216 | 4 | 1698437927 | 1793642682 | EU | DE | Nuremberg | 197540 | NurembergTor78.quetzalcoatl-relays.org |
-| 89.234.157.254 | 4 | 1698437959 | 1793642682 | EU | FR | Cazères | 197422 | marylou.nos-oignons.net |
+| 89.234.157.254 | 4 | 1698437959 | 1793642682 | EU | FR | Castanet-Tolosan | 197422 | marylou.nos-oignons.net |
 | 89.147.111.87 | 4 | 1709867578 | 1793642682 | EU | IS | Reykjavik | 44925 | vps-89-147-111-87.1984.is |
 | 89.147.110.82 | 4 | 1704589004 | 1793642682 | EU | IS | Reykjavik | 44925 | vps-89-147-110-82.1984.is |
 | 89.147.110.251 | 4 | 1774235033 | 1793642682 | EU | IS | Reykjavik | 44925 | vps-89-147-110-251.1984.is |
@@ -89,7 +89,7 @@ Those IPs are not guaranteed to be tor nodes, but they were seen as tor nodes wi
 | 82.21.4.173 | 4 | 1793642527 | 1793642679 | EU | CH | Gland | 5089 | mail.earthinfohub.org |
 | 82.197.182.161 | 4 | 1698437939 | 1793642679 | EU | CH | Zurich | 13030 | 161-182-197-82.init7.net |
 | 82.153.138.184 | 4 | 1741201302 | 1793642679 | EU | RO | Orăştie | 206509 |  |
-| 82.118.248.205 | 4 | 1740560604 | 1793642679 | EU | BG | Kladnitsa | 45007 |  |
+| 82.118.248.205 | 4 | 1740560604 | 1793642679 | EU | BG | Pernik | 45007 |  |
 | 81.90.116.201 | 4 | 1793296925 | 1793642679 | EU | EE | Tartu | 2586 | 81-90-116-201.ip.elisa.ee |
 | 81.181.104.22 | 4 | 1740528222 | 1793642679 | EU | PL | Warsaw | 9009 |  |
 | 81.17.28.95 | 4 | 1705042903 | 1793642679 | EU | CH | Zurich | 51852 | hostedby.privatelayer.com |
@@ -881,7 +881,7 @@ Those IPs are not guaranteed to be tor nodes, but they were seen as tor nodes wi
 | 2620:7:6003::103 | 6 | 1785434596 | 1793642621 | NA | US |  |  |  |
 | 2620:7:6003::102 | 6 | 1785434596 | 1793642621 | NA | US |  |  |  |
 | 2620:7:6003::101 | 6 | 1785434596 | 1793642621 | NA | US |  |  |  |
-| 2607:fa18:3:beef:f001:c0de:feed:ba5e | 6 | 1742112163 | 1793642621 | NA | US | Providence | 6315 | this.is.a.tor.node.xmission.com |
+| 2607:fa18:3:beef:f001:c0de:feed:ba5e | 6 | 1742112163 | 1793642621 | NA | US |  | 6315 | this.is.a.tor.node.xmission.com |
 | 2607:f530:9002::19 | 6 | 1754348549 | 1793642621 | NA | CA |  | 10996 |  |
 | 2607:f130:0:1e8:210::beef | 6 | 1790705044 | 1793642621 | NA | US | Los Angeles | 35916 | asylum.corewars.net |
 | 2605:6f02:2000:54::4290:b66c | 6 | 1790100239 | 1793642621 | NA | US | Dallas |  |  |
