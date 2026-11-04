@@ -4,7 +4,7 @@ Last seen within 72 hours
 
 Count : 2208
 
-Generated: 2026-11-04T06:00:07.903Z
+Generated: 2026-11-04T07:00:07.833Z
 
 Those IPs are not guaranteed to be tor nodes, but they were seen as tor nodes within the last 72 hours. Use at your own risk, This is NOT a abuse feed, This feed is made for sitemasters to detect traffic from tor nodes, this is the only purpose of this feed
 
@@ -307,7 +307,7 @@ Those IPs are not guaranteed to be tor nodes, but they were seen as tor nodes wi
 | 2a12:bec4:19a4:e92:: | 6 | 1793729102 | 1793729102 | EU | AT | Langenzersdorf |  | customer.evolusfibre.com |
 | 2a12:bec4:19a4:d92:: | 6 | 1793556263 | 1793729102 | EU | AT | Langenzersdorf |  | customer.evolusfibre.com |
 | 2a12:bec4:1821:631::a | 6 | 1769652263 | 1793729102 | EU | NL | Amsterdam |  |  |
-| 2a12:bec4:150:fc::2 | 6 | 1792346641 | 1793729102 | NA | US |  |  | vm219286.hosted-by.qwins.co |
+| 2a12:bec4:150:fc::2 | 6 | 1792346641 | 1793729102 | EU | GB |  |  | vm219286.hosted-by.qwins.co |
 | 2a11:6100:0:1912:: | 6 | 1787162655 | 1793729102 | EU | PL |  | 43641 | caloyannis.xyz |
 | 2a11:6100:0:184f:: | 6 | 1790446082 | 1793729102 | EU | PL |  | 43641 |  |
 | 2a10:c800:1:9cc6::1 | 6 | 1706836429 | 1793729102 | EU | HU | Budapest | 56322 |  |
