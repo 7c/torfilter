@@ -4,7 +4,7 @@ Last seen within 48 hours
 
 Count : 2215
 
-Generated: 2026-11-06T06:00:16.312Z
+Generated: 2026-11-06T07:00:08.710Z
 
 Those IPs are not guaranteed to be tor nodes, but they were seen as tor nodes within the last 48 hours. Use at your own risk, This is NOT a abuse feed, This feed is made for sitemasters to detect traffic from tor nodes, this is the only purpose of this feed
 
@@ -45,7 +45,7 @@ Those IPs are not guaranteed to be tor nodes, but they were seen as tor nodes wi
 | 91.208.75.156 | 4 | 1698437991 | 1793901891 | EU | RO |  | 6718 |  |
 | 91.208.75.153 | 4 | 1698437969 | 1793901891 | EU | RO |  | 6718 |  |
 | 91.206.26.26 | 4 | 1698437992 | 1793901891 | EU | PL |  | 51290 | tor.httpx.pl |
-| 91.203.144.194 | 4 | 1698437931 | 1793901891 | EU | UA | Kryvyi Rih | 45045 |  |
+| 91.203.144.194 | 4 | 1698437931 | 1793901891 | EU | UA |  | 45045 |  |
 | 91.132.144.59 | 4 | 1698437951 | 1793901891 | EU | DE | Nuremberg | 197540 | NurembergTor49.quetzalcoatl-relays.org |
 | 90.184.10.74 | 4 | 1783868666 | 1793901891 | EU | DK |  |  | x5ab80a4a.customers.hiper-net.dk |
 | 89.58.7.15 | 4 | 1790532124 | 1793901891 | EU | DE | Nuremberg | 197540 | exit04.tor-exit.org |

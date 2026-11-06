@@ -4,7 +4,7 @@ Last seen within 744 hours
 
 Count : 2612
 
-Generated: 2026-11-06T06:00:16.312Z
+Generated: 2026-11-06T07:00:08.710Z
 
 Those IPs are not guaranteed to be tor nodes, but they were seen as tor nodes within the last 744 hours. Use at your own risk, This is NOT a abuse feed, This feed is made for sitemasters to detect traffic from tor nodes, this is the only purpose of this feed
 
@@ -45,7 +45,7 @@ Those IPs are not guaranteed to be tor nodes, but they were seen as tor nodes wi
 | 91.208.75.156 | 4 | 1698437991 | 1793901891 | EU | RO |  | 6718 |  |
 | 91.208.75.153 | 4 | 1698437969 | 1793901891 | EU | RO |  | 6718 |  |
 | 91.206.26.26 | 4 | 1698437992 | 1793901891 | EU | PL |  | 51290 | tor.httpx.pl |
-| 91.203.144.194 | 4 | 1698437931 | 1793901891 | EU | UA | Kryvyi Rih | 45045 |  |
+| 91.203.144.194 | 4 | 1698437931 | 1793901891 | EU | UA |  | 45045 |  |
 | 91.132.144.59 | 4 | 1698437951 | 1793901891 | EU | DE | Nuremberg | 197540 | NurembergTor49.quetzalcoatl-relays.org |
 | 90.184.10.74 | 4 | 1783868666 | 1793901891 | EU | DK |  |  | x5ab80a4a.customers.hiper-net.dk |
 | 89.58.7.15 | 4 | 1790532124 | 1793901891 | EU | DE | Nuremberg | 197540 | exit04.tor-exit.org |
@@ -2280,7 +2280,7 @@ Those IPs are not guaranteed to be tor nodes, but they were seen as tor nodes wi
 | 2a02:898:169::2 | 6 | 1769101431 | 1793211194 | EU | NL | Amsterdam | 8283 | tor-exit.vrij-heid.nl |
 | 2a02:898:169::1 | 6 | 1769015035 | 1793211194 | EU | NL | Amsterdam | 8283 | tor-exit.vrij-heid.nl |
 | 2607:5300:203:97ea::3 | 6 | 1793211177 | 1793211177 | NA | CA |  | 16276 |  |
-| 2407:8b00:116d:e800::20 | 6 | 1793211162 | 1793211162 | OC | NZ | Wellington | 64073 |  |
+| 2407:8b00:116d:e800::20 | 6 | 1793211162 | 1793211162 | OC | NZ | Auckland | 64073 |  |
 | 141.11.139.101 | 4 | 1792951315 | 1793211082 | AS | JP | Tokyo | 51847 |  |
 | 167.88.175.160 | 4 | 1792778519 | 1793211081 | NA | US |  | 46261 | 160.175.88.167.static.cloudzy.com |
 | 138.226.243.224 | 4 | 1792778519 | 1793211081 | EU | NL | Haarlem |  | dedicated.sollutium.com |
@@ -2290,7 +2290,7 @@ Those IPs are not guaranteed to be tor nodes, but they were seen as tor nodes wi
 | 85.253.177.118 | 4 | 1790532124 | 1793124868 | EU | EE | Tartu | 2586 | 85-253-177-118.ip.elisa.ee |
 | 2a03:94e0:ffff:193:200:229::15 | 6 | 1779278595 | 1793124831 | EU | NO | Sandefjord | 56655 |  |
 | 2a02:6f8:2020:206:b::161 | 6 | 1793124828 | 1793124828 | EU | GB |  | 39287 | c6a7cea1.vpn.njalla.net |
-| 2407:8b00:116d:e800:be24:11ff:fe01:c271 | 6 | 1793124798 | 1793124798 | OC | NZ | Wellington | 64073 |  |
+| 2407:8b00:116d:e800:be24:11ff:fe01:c271 | 6 | 1793124798 | 1793124798 | OC | NZ | Auckland | 64073 |  |
 | 2001:9b0:25f:d800::20e | 6 | 1793037767 | 1793124768 | EU | SE | Mölnlycke | 8473 |  |
 | 193.200.229.15 | 4 | 1779278542 | 1793124762 | EU | NO | Sandefjord |  |  |
 | 93.113.25.109 | 4 | 1767816333 | 1793124681 | EU | RO | Orăştie | 9050 | tor-exit.ro.2cb.li |
@@ -2379,7 +2379,7 @@ Those IPs are not guaranteed to be tor nodes, but they were seen as tor nodes wi
 | 217.60.196.70 | 4 | 1789581718 | 1792346570 | EU | DE | Frankfurt am Main | 43212 |  |
 | 217.60.196.51 | 4 | 1789581718 | 1792346569 | EU | DE | Frankfurt am Main | 43212 |  |
 | 2001:df0:27b::1:e28a | 6 | 1792346559 | 1792346559 | AS | ID |  | 58487 |  |
-| 82.65.141.110 | 4 | 1792260128 | 1792346515 | EU | FR | Paris | 12322 |  |
+| 82.65.141.110 | 4 | 1792260128 | 1792346515 | EU | FR |  | 12322 |  |
 | 186.240.149.160 | 4 | 1788804100 | 1792346509 | EU | DE | Frankfurt am Main | 7738 | srv1881256.hstgr.cloud |
 | 198.167.206.235 | 4 | 1700654714 | 1792346493 | EU | SE |  | 39287 | c6a7ceeb.vpn.njalla.net |
 | 2a0e:4001:900::101 | 6 | 1789927487 | 1792260258 | EU | RU |  |  |  |
