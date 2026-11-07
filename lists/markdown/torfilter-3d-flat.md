@@ -4,7 +4,7 @@ Last seen within 72 hours
 
 Count : 2229
 
-Generated: 2026-11-07T06:00:07.157Z
+Generated: 2026-11-07T07:00:05.947Z
 
 Those IPs are not guaranteed to be tor nodes, but they were seen as tor nodes within the last 72 hours. Use at your own risk, This is NOT a abuse feed, This feed is made for sitemasters to detect traffic from tor nodes, this is the only purpose of this feed
 
@@ -1576,13 +1576,13 @@ Those IPs are not guaranteed to be tor nodes, but they were seen as tor nodes wi
 | 194.48.248.57 | 4 | 1788631305 | 1793988166 | EU | BG |  | 207279 |  |
 | 194.36.190.112 | 4 | 1791655323 | 1793988166 | EU | NL | Naaldwijk | 60117 |  |
 | 194.32.107.172 | 4 | 1767657771 | 1793988166 | EU | NO | Sandefjord | 56655 | static.194.32.107.172.terrahost.com |
-| 194.15.115.238 | 4 | 1788890501 | 1793988166 | EU | GB |  | 6939 | sc3537238.server1.com.de |
-| 194.15.115.212 | 4 | 1698437977 | 1793988166 | EU | GB |  | 6939 |  |
+| 194.15.115.238 | 4 | 1788890501 | 1793988166 | EU | UA |  | 6939 | sc3537238.server1.com.de |
+| 194.15.115.212 | 4 | 1698437977 | 1793988166 | EU | UA |  | 6939 |  |
 | 194.15.113.186 | 4 | 1791914717 | 1793988166 | EU | CZ | Brno | 213354 | us-mta11.reaganhoang.com |
 | 194.15.113.171 | 4 | 1791914717 | 1793988166 | EU | CZ | Brno | 213354 | ip-194-15-113-171.mail.ready2gostreet.com |
 | 194.15.113.118 | 4 | 1698437982 | 1793988165 | EU | CZ | Brno | 213354 | smtp.exempleasavoir.fr |
 | 194.15.113.102 | 4 | 1791914717 | 1793988165 | EU | CZ | Brno | 213354 | preora.top |
-| 194.15.112.133 | 4 | 1698437942 | 1793988165 | EU | GB |  | 213354 |  |
+| 194.15.112.133 | 4 | 1698437942 | 1793988165 | EU | UA |  | 213354 |  |
 | 193.36.132.21 | 4 | 1730898136 | 1793988165 | EU | NL | Amsterdam | 211895 | tanja.tor-exit.mxmla.de |
 | 193.32.162.86 | 4 | 1777870945 | 1793988165 | EU | RO |  | 47890 |  |
 | 193.26.115.44 | 4 | 1793815336 | 1793988165 | EU | RO | Bucharest | 23470 | 193.26.115.44.powered.by.rdp.sh |
@@ -1841,9 +1841,9 @@ Those IPs are not guaranteed to be tor nodes, but they were seen as tor nodes wi
 | 185.181.60.204 | 4 | 1766070034 | 1793988146 | EU | NO | Sandefjord | 56655 |  |
 | 185.170.114.25 | 4 | 1698438005 | 1793988146 | EU | DE | Nuremberg | 197540 | this-is-a-tor-node---10.artikel5ev.de |
 | 185.165.171.84 | 4 | 1698437990 | 1793988146 | EU | IS |  | 200651 |  |
-| 185.154.110.17 | 4 | 1698437996 | 1793988145 | EU | SE | Eskilstuna | 49770 | static-17-110-154-185.internetport.com |
-| 185.154.110.16 | 4 | 1780005729 | 1793988145 | EU | SE | Eskilstuna | 49770 | deb12om10tbbw |
-| 185.154.110.142 | 4 | 1698437992 | 1793988145 | EU | SE | Eskilstuna | 49770 | fearwakes.com |
+| 185.154.110.17 | 4 | 1698437996 | 1793988145 | EU | SE |  | 49770 | static-17-110-154-185.internetport.com |
+| 185.154.110.16 | 4 | 1780005729 | 1793988145 | EU | SE |  | 49770 | deb12om10tbbw |
+| 185.154.110.142 | 4 | 1698437992 | 1793988145 | EU | SE |  | 49770 | fearwakes.com |
 | 185.150.28.13 | 4 | 1739444503 | 1793988145 | EU | CH |  | 59891 |  |
 | 185.132.53.58 | 4 | 1769695340 | 1793988145 | EU | DE |  |  | lain.185.132.53.58.aluy.net |
 | 185.132.53.47 | 4 | 1734058909 | 1793988145 | EU | DE |  |  |  |
@@ -2075,7 +2075,7 @@ Those IPs are not guaranteed to be tor nodes, but they were seen as tor nodes wi
 | 109.70.100.10 | 4 | 1698507085 | 1793988128 | EU | AT |  | 208323 | tor-exit-anonymizer.appliedprivacy.net |
 | 109.70.100.1 | 4 | 1698437930 | 1793988128 | EU | AT |  | 208323 | tor-exit-anonymizer.appliedprivacy.net |
 | 109.237.27.11 | 4 | 1753718493 | 1793988128 | EU | GB | London | 63949 | 109-237-27-11.ip.linodeusercontent.com |
-| 109.228.160.190 | 4 | 1741111295 | 1793988128 | EU | SE | Mölnlycke | 8473 | h-109-228-160-190.A444.priv.bahnhof.se |
+| 109.228.160.190 | 4 | 1741111295 | 1793988128 | EU | SE | Älvängen | 8473 | h-109-228-160-190.A444.priv.bahnhof.se |
 | 109.169.33.163 | 4 | 1698437997 | 1793988128 | EU | GB |  | 20860 | tor-exit-readme.hands.com |
 | 108.61.189.136 | 4 | 1698437968 | 1793988128 | EU | NL | Amsterdam | 20473 | 108.61.189.136.vultrusercontent.com |
 | 107.189.8.181 | 4 | 1698437934 | 1793988127 | EU | LU | Luxembourg | 53667 | tor-exit-2.aa78i2efsewr0neeknk.xyz |
