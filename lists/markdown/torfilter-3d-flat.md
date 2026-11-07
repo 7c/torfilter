@@ -2,15 +2,16 @@
 # TORFilter
 Last seen within 72 hours
 
-Count : 2229
+Count : 2230
 
-Generated: 2026-11-07T14:00:08.339Z
+Generated: 2026-11-07T15:00:06.097Z
 
 Those IPs are not guaranteed to be tor nodes, but they were seen as tor nodes within the last 72 hours. Use at your own risk, This is NOT a abuse feed, This feed is made for sitemasters to detect traffic from tor nodes, this is the only purpose of this feed
 
 
 | ip | ipversion | firstseen | lastseen | continentcode | countrycode | city | ASN | rdns |
 |---|---|---|---|---|---|---|---|---|
+| 2a03:4000:6:102b:c457:f3ff:feb0:a6d0 | 6 | 1794063339 | 1794063339 | EU | DE | Nuremberg | 197540 |  |
 | 95.211.239.220 | 4 | 1776877454 | 1793988285 | EU | NL |  | 60781 | hosted-by.euservr.com |
 | 95.179.161.253 | 4 | 1793728957 | 1793988285 | EU | DE | Frankfurt am Main | 20473 | 95.179.161.253.vultrusercontent.com |
 | 95.143.193.125 | 4 | 1698437940 | 1793988285 | EU | SE |  | 49770 |  |
