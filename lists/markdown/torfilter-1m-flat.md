@@ -4,7 +4,7 @@ Last seen within 744 hours
 
 Count : 2483
 
-Generated: 2026-11-10T11:00:11.270Z
+Generated: 2026-11-10T12:00:06.403Z
 
 Those IPs are not guaranteed to be tor nodes, but they were seen as tor nodes within the last 744 hours. Use at your own risk, This is NOT a abuse feed, This feed is made for sitemasters to detect traffic from tor nodes, this is the only purpose of this feed
 
