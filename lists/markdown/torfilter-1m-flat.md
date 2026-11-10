@@ -4,7 +4,7 @@ Last seen within 744 hours
 
 Count : 2483
 
-Generated: 2026-11-10T06:00:08.745Z
+Generated: 2026-11-10T07:00:08.324Z
 
 Those IPs are not guaranteed to be tor nodes, but they were seen as tor nodes within the last 744 hours. Use at your own risk, This is NOT a abuse feed, This feed is made for sitemasters to detect traffic from tor nodes, this is the only purpose of this feed
 
@@ -12,7 +12,7 @@ Those IPs are not guaranteed to be tor nodes, but they were seen as tor nodes wi
 | ip | ipversion | firstseen | lastseen | continentcode | countrycode | city | ASN | rdns |
 |---|---|---|---|---|---|---|---|---|
 | 95.211.239.220 | 4 | 1776877454 | 1794247485 | EU | NL |  | 60781 | hosted-by.euservr.com |
-| 95.143.193.125 | 4 | 1698437940 | 1794247485 | EU | SE |  | 49770 |  |
+| 95.143.193.125 | 4 | 1698437940 | 1794247485 | EU | SE | Stockholm | 49770 |  |
 | 95.135.208.24 | 4 | 1769652291 | 1794247485 | EU | NL | Amsterdam | 6849 | static.95.135.208.24.deluxhost.net |
 | 95.128.43.164 | 4 | 1698437965 | 1794247485 | EU | FR | Paris | 41653 | exit-1.fr.tor.aquaray.com |
 | 94.72.103.33 | 4 | 1729983829 | 1794247485 | EU | GB | Portsmouth | 41314 | sortie-tor.a-n-o-n-y-m-e.net |
@@ -47,7 +47,7 @@ Those IPs are not guaranteed to be tor nodes, but they were seen as tor nodes wi
 | 91.206.26.26 | 4 | 1698437992 | 1794247483 | EU | PL |  | 51290 | tor.httpx.pl |
 | 91.203.144.194 | 4 | 1698437931 | 1794247483 | EU | UA |  | 45045 |  |
 | 91.132.144.59 | 4 | 1698437951 | 1794247483 | EU | DE | Nuremberg | 197540 | NurembergTor49.quetzalcoatl-relays.org |
-| 90.184.10.74 | 4 | 1783868666 | 1794247482 | EU | DK |  |  | x5ab80a4a.customers.hiper-net.dk |
+| 90.184.10.74 | 4 | 1783868666 | 1794247482 | EU | DK | Aarhus |  | x5ab80a4a.customers.hiper-net.dk |
 | 89.58.7.15 | 4 | 1790532124 | 1794247482 | EU | DE | Nuremberg | 197540 | exit04.tor-exit.org |
 | 89.58.41.156 | 4 | 1698437929 | 1794247482 | EU | DE | Nuremberg | 197540 | NurembergTor79.quetzalcoatl-relays.org |
 | 89.58.26.216 | 4 | 1698437927 | 1794247482 | EU | DE | Nuremberg | 197540 | NurembergTor78.quetzalcoatl-relays.org |
@@ -1587,8 +1587,8 @@ Those IPs are not guaranteed to be tor nodes, but they were seen as tor nodes wi
 | 194.15.112.133 | 4 | 1698437942 | 1794247367 | EU | UA |  | 213354 |  |
 | 193.36.132.21 | 4 | 1730898136 | 1794247367 | EU | NL | Amsterdam | 211895 | tanja.tor-exit.mxmla.de |
 | 193.32.162.86 | 4 | 1777870945 | 1794247367 | EU | RO |  | 47890 |  |
-| 193.239.232.235 | 4 | 1759165334 | 1794247367 | EU | SE |  | 41634 |  |
-| 193.239.232.102 | 4 | 1698437972 | 1794247367 | EU | SE |  | 41634 |  |
+| 193.239.232.235 | 4 | 1759165334 | 1794247367 | NA | US |  | 41634 |  |
+| 193.239.232.102 | 4 | 1698437972 | 1794247367 | NA | US |  | 41634 |  |
 | 193.238.152.133 | 4 | 1790791380 | 1794247367 | EU | UA | Kyiv | 15626 | tornode1.open-the-ip-in-a-browser.vds-114821.com |
 | 193.218.118.89 | 4 | 1698438004 | 1794247367 | EU | FR |  | 207656 | 89.118.218.193.urdn.com.ua |
 | 193.218.118.173 | 4 | 1718146918 | 1794247367 | EU | FR |  | 207656 | 173.118.218.193.urdn.com.ua |
@@ -2081,7 +2081,7 @@ Those IPs are not guaranteed to be tor nodes, but they were seen as tor nodes wi
 | 109.70.100.10 | 4 | 1698507085 | 1794247330 | EU | AT |  | 208323 | tor-exit-anonymizer.appliedprivacy.net |
 | 109.70.100.1 | 4 | 1698437930 | 1794247330 | EU | AT |  | 208323 | tor-exit-anonymizer.appliedprivacy.net |
 | 109.237.27.11 | 4 | 1753718493 | 1794247330 | EU | GB | London | 63949 | 109-237-27-11.ip.linodeusercontent.com |
-| 109.228.160.190 | 4 | 1741111295 | 1794247330 | EU | SE | Älvängen | 8473 | h-109-228-160-190.A444.priv.bahnhof.se |
+| 109.228.160.190 | 4 | 1741111295 | 1794247330 | EU | SE | Mölnlycke | 8473 | h-109-228-160-190.A444.priv.bahnhof.se |
 | 109.169.33.163 | 4 | 1698437997 | 1794247330 | EU | GB |  | 20860 | tor-exit-readme.hands.com |
 | 108.61.189.136 | 4 | 1698437968 | 1794247330 | EU | NL | Amsterdam | 20473 | 108.61.189.136.vultrusercontent.com |
 | 107.189.8.181 | 4 | 1698437934 | 1794247330 | EU | LU | Luxembourg | 53667 | tor-exit-2.aa78i2efsewr0neeknk.xyz |
@@ -2343,7 +2343,7 @@ Those IPs are not guaranteed to be tor nodes, but they were seen as tor nodes wi
 | 2a02:898:169::2 | 6 | 1769101431 | 1793211194 | EU | NL | Amsterdam | 8283 | tor-exit.vrij-heid.nl |
 | 2a02:898:169::1 | 6 | 1769015035 | 1793211194 | EU | NL | Amsterdam | 8283 | tor-exit.vrij-heid.nl |
 | 2607:5300:203:97ea::3 | 6 | 1793211177 | 1793211177 | NA | CA |  | 16276 |  |
-| 2407:8b00:116d:e800::20 | 6 | 1793211162 | 1793211162 | OC | NZ | Auckland | 64073 |  |
+| 2407:8b00:116d:e800::20 | 6 | 1793211162 | 1793211162 | OC | NZ | Wellington | 64073 |  |
 | 141.11.139.101 | 4 | 1792951315 | 1793211082 | AS | JP | Tokyo | 51847 |  |
 | 167.88.175.160 | 4 | 1792778519 | 1793211081 | NA | US |  | 46261 | 160.175.88.167.static.cloudzy.com |
 | 138.226.243.224 | 4 | 1792778519 | 1793211081 | EU | NL | Haarlem |  | dedicated.sollutium.com |
@@ -2353,7 +2353,7 @@ Those IPs are not guaranteed to be tor nodes, but they were seen as tor nodes wi
 | 85.253.177.118 | 4 | 1790532124 | 1793124868 | EU | EE | Tartu | 2586 | 85-253-177-118.ip.elisa.ee |
 | 2a03:94e0:ffff:193:200:229::15 | 6 | 1779278595 | 1793124831 | EU | NO | Sandefjord | 56655 |  |
 | 2a02:6f8:2020:206:b::161 | 6 | 1793124828 | 1793124828 | EU | GB |  | 39287 | c6a7cea1.vpn.njalla.net |
-| 2407:8b00:116d:e800:be24:11ff:fe01:c271 | 6 | 1793124798 | 1793124798 | OC | NZ | Auckland | 64073 |  |
+| 2407:8b00:116d:e800:be24:11ff:fe01:c271 | 6 | 1793124798 | 1793124798 | OC | NZ | Wellington | 64073 |  |
 | 2001:9b0:25f:d800::20e | 6 | 1793037767 | 1793124768 | EU | SE | Mölnlycke | 8473 |  |
 | 193.200.229.15 | 4 | 1779278542 | 1793124762 | EU | NO | Sandefjord |  |  |
 | 93.113.25.109 | 4 | 1767816333 | 1793124681 | EU | RO | Orăştie | 9050 | tor-exit.ro.2cb.li |
@@ -2363,7 +2363,7 @@ Those IPs are not guaranteed to be tor nodes, but they were seen as tor nodes wi
 | 2a12:bec0:164:1027:: | 6 | 1792951452 | 1793037857 | AS | JP | Tokyo |  |  |
 | 2a11:6100::72:4b6a:aa47:bd54:1d82 | 6 | 1792778660 | 1793037857 | EU | PL |  | 43641 |  |
 | 2a10:c800:1:f7f8::1ce:1ce:babe | 6 | 1715875380 | 1793037857 | EU | HU | Budapest | 56322 |  |
-| 2407:8b00:1180:1500:be24:11ff:fe01:c271 | 6 | 1792432988 | 1793037799 | OC | NZ | Auckland | 64073 |  |
+| 2407:8b00:1180:1500:be24:11ff:fe01:c271 | 6 | 1792432988 | 1793037799 | OC | NZ | Wellington | 64073 |  |
 | 172.86.80.83 | 4 | 1792519316 | 1793037736 | AS | SG | Singapore | 46261 | 83.80.86.172.static.cloudzy.com |
 | 159.69.90.30 | 4 | 1792692122 | 1793037733 | EU | DE | Nuremberg | 24940 | static.30.90.69.159.clients.your-server.de |
 | 158.94.208.82 | 4 | 1792605729 | 1793037733 | EU | DE | Frankfurt am Main | 786 |  |
@@ -2444,7 +2444,7 @@ Those IPs are not guaranteed to be tor nodes, but they were seen as tor nodes wi
 | 82.65.141.110 | 4 | 1792260128 | 1792346515 | EU | FR | Paris | 12322 |  |
 | 186.240.149.160 | 4 | 1788804100 | 1792346509 | EU | DE | Frankfurt am Main | 7738 | srv1881256.hstgr.cloud |
 | 198.167.206.235 | 4 | 1700654714 | 1792346493 | EU | SE |  | 39287 | c6a7ceeb.vpn.njalla.net |
-| 2a0e:4001:900::101 | 6 | 1789927487 | 1792260258 | EU | GB |  |  |  |
+| 2a0e:4001:900::101 | 6 | 1789927487 | 1792260258 | EU | RU |  |  |  |
 | 2a06:1700:2:274::76cd:c516 | 6 | 1772673360 | 1792260242 | EU | IS | Reykjavik | 200651 |  |
 | 2a06:1700:1:108::b829:eee2 | 6 | 1756404187 | 1792260242 | EU | FI | Helsinki | 200651 |  |
 | 158.94.211.57 | 4 | 1791741899 | 1792260125 | EU | NL | Rotterdam | 786 |  |
@@ -2457,7 +2457,7 @@ Those IPs are not guaranteed to be tor nodes, but they were seen as tor nodes wi
 | 45.9.168.102 | 4 | 1780369428 | 1792173670 | EU | HU | Nyíregyháza | 211619 | tor-exit.hu.2cb.li |
 | 2400:8901::f03c:95ff:fe89:4a88 | 6 | 1733079772 | 1792087393 | AS | SG | Singapore | 63949 |  |
 | 192.36.176.245 | 4 | 1791309729 | 1792087313 | EU | SE | Stockholm | 206170 | stats.weforum.org |
-| 107.148.223.17 | 4 | 1790877732 | 1792087313 | NA | US |  | 54600 |  |
+| 107.148.223.17 | 4 | 1790877732 | 1792087313 | NA | US | Edison | 54600 |  |
 | 198.167.206.193 | 4 | 1704542893 | 1792087296 | EU | SE |  | 39287 | c6a7cec1.vpn.njalla.net |
 | 80.94.92.99 | 4 | 1750737835 | 1792087248 | EU | RO |  | 47890 |  |
 | 45.148.10.111 | 4 | 1720677782 | 1792087246 | EU | NL | Amsterdam | 48090 |  |
