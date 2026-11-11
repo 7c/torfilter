@@ -4,7 +4,7 @@ Last seen within 744 hours
 
 Count : 2491
 
-Generated: 2026-11-11T06:00:07.713Z
+Generated: 2026-11-11T07:00:10.342Z
 
 Those IPs are not guaranteed to be tor nodes, but they were seen as tor nodes within the last 744 hours. Use at your own risk, This is NOT a abuse feed, This feed is made for sitemasters to detect traffic from tor nodes, this is the only purpose of this feed
 
@@ -2375,7 +2375,7 @@ Those IPs are not guaranteed to be tor nodes, but they were seen as tor nodes wi
 | 2a12:bec0:164:1027:: | 6 | 1792951452 | 1793037857 | AS | JP | Tokyo |  |  |
 | 2a11:6100::72:4b6a:aa47:bd54:1d82 | 6 | 1792778660 | 1793037857 | EU | PL |  | 43641 |  |
 | 2a10:c800:1:f7f8::1ce:1ce:babe | 6 | 1715875380 | 1793037857 | EU | HU | Budapest | 56322 |  |
-| 2407:8b00:1180:1500:be24:11ff:fe01:c271 | 6 | 1792432988 | 1793037799 | OC | NZ | Wellington | 64073 |  |
+| 2407:8b00:1180:1500:be24:11ff:fe01:c271 | 6 | 1792432988 | 1793037799 | OC | NZ | Auckland | 64073 |  |
 | 172.86.80.83 | 4 | 1792519316 | 1793037736 | AS | SG | Singapore | 46261 | 83.80.86.172.static.cloudzy.com |
 | 159.69.90.30 | 4 | 1792692122 | 1793037733 | EU | DE | Nuremberg | 24940 | static.30.90.69.159.clients.your-server.de |
 | 158.94.208.82 | 4 | 1792605729 | 1793037733 | EU | DE | Frankfurt am Main | 786 |  |
@@ -2453,7 +2453,7 @@ Those IPs are not guaranteed to be tor nodes, but they were seen as tor nodes wi
 | 217.60.196.70 | 4 | 1789581718 | 1792346570 | EU | DE | Frankfurt am Main | 43212 |  |
 | 217.60.196.51 | 4 | 1789581718 | 1792346569 | EU | DE | Frankfurt am Main | 43212 |  |
 | 2001:df0:27b::1:e28a | 6 | 1792346559 | 1792346559 | AS | ID |  | 58487 |  |
-| 82.65.141.110 | 4 | 1792260128 | 1792346515 | EU | FR | Paris | 12322 |  |
+| 82.65.141.110 | 4 | 1792260128 | 1792346515 | EU | FR |  | 12322 |  |
 | 186.240.149.160 | 4 | 1788804100 | 1792346509 | EU | DE | Frankfurt am Main | 7738 | srv1881256.hstgr.cloud |
 | 198.167.206.235 | 4 | 1700654714 | 1792346493 | EU | SE |  | 39287 | c6a7ceeb.vpn.njalla.net |
 | 2a0e:4001:900::101 | 6 | 1789927487 | 1792260258 | EU | RU |  |  |  |
