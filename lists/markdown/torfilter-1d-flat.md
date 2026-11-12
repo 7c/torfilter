@@ -4,7 +4,7 @@ Last seen within 24 hours
 
 Count : 2265
 
-Generated: 2026-11-12T06:00:07.693Z
+Generated: 2026-11-12T07:00:05.703Z
 
 Those IPs are not guaranteed to be tor nodes, but they were seen as tor nodes within the last 24 hours. Use at your own risk, This is NOT a abuse feed, This feed is made for sitemasters to detect traffic from tor nodes, this is the only purpose of this feed
 
@@ -50,7 +50,7 @@ Those IPs are not guaranteed to be tor nodes, but they were seen as tor nodes wi
 | 91.208.75.156 | 4 | 1698437991 | 1794421875 | EU | RO |  | 6718 |  |
 | 91.208.75.153 | 4 | 1698437969 | 1794421875 | EU | RO |  | 6718 |  |
 | 91.206.26.26 | 4 | 1698437992 | 1794421875 | EU | PL |  | 51290 | tor.httpx.pl |
-| 91.203.144.194 | 4 | 1698437931 | 1794421875 | EU | UA |  | 45045 |  |
+| 91.203.144.194 | 4 | 1698437931 | 1794421875 | EU | UA | Kryvyi Rih | 45045 |  |
 | 91.132.144.59 | 4 | 1698437951 | 1794421875 | EU | DE | Nuremberg | 197540 | NurembergTor49.quetzalcoatl-relays.org |
 | 90.184.10.74 | 4 | 1783868666 | 1794421875 | EU | DK | Aarhus |  | x5ab80a4a.customers.hiper-net.dk |
 | 89.58.7.15 | 4 | 1790532124 | 1794421875 | EU | DE | Nuremberg | 197540 | exit04.tor-exit.org |
@@ -292,7 +292,7 @@ Those IPs are not guaranteed to be tor nodes, but they were seen as tor nodes wi
 | 2a14:c380:d70:2:102:117:109:111 | 6 | 1781035474 | 1794421858 | AS | HK | Hong Kong |  |  |
 | 2a14:c380:c70:70::a | 6 | 1788026646 | 1794421858 | EU | NL | Amsterdam |  |  |
 | 2a14:c380:c70:3a::a | 6 | 1776308634 | 1794421857 | EU | NL | Amsterdam |  |  |
-| 2a14:c380:691:226f::1 | 6 | 1793642665 | 1794421857 | EU | DE |  |  | tor-exit1.secretdrop.to |
+| 2a14:c380:691:226f::1 | 6 | 1793642665 | 1794421857 | EU | NL | Amsterdam |  | tor-exit1.secretdrop.to |
 | 2a14:c380:90:15:66:75:6d:6f | 6 | 1774605825 | 1794421857 | EU | DE |  |  |  |
 | 2a14:c380:90:6::a | 6 | 1789409022 | 1794421857 | EU | DE |  |  |  |
 | 2a14:c380:50:12::a | 6 | 1789409022 | 1794421857 | EU | DE |  |  |  |
@@ -1704,7 +1704,7 @@ Those IPs are not guaranteed to be tor nodes, but they were seen as tor nodes wi
 | 185.56.83.10 | 4 | 1791568953 | 1794421754 | AF | SC |  | 211720 | green-venom |
 | 185.56.171.94 | 4 | 1698437988 | 1794421754 | EU | IT |  | 3242 | pengy.lsd.cat |
 | 185.42.170.203 | 4 | 1698437982 | 1794421754 | EU | NO | Oslo | 62248 | exit01.tor.anduin.net |
-| 185.35.202.222 | 4 | 1698437935 | 1794421754 | EU | NO |  | 50304 | tor-proxy-readme.hackeriet.no |
+| 185.35.202.222 | 4 | 1698437935 | 1794421754 | EU | NO | Oslo | 50304 | tor-proxy-readme.hackeriet.no |
 | 185.34.33.2 | 4 | 1698437981 | 1794421754 | EU | FR |  | 28855 | tor.laquadrature.net |
 | 185.254.196.141 | 4 | 1698437942 | 1794421754 | EU | UA | Kyiv | 30860 | dedicated.vsys.host |
 | 185.252.232.218 | 4 | 1698437972 | 1794421753 | EU | FR | Lauterbourg | 51167 | vmi1347637.contaboserver.net |
