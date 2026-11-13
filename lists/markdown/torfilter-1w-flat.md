@@ -4,7 +4,7 @@ Last seen within 168 hours
 
 Count : 2340
 
-Generated: 2026-11-13T06:00:06.241Z
+Generated: 2026-11-13T07:00:07.714Z
 
 Those IPs are not guaranteed to be tor nodes, but they were seen as tor nodes within the last 168 hours. Use at your own risk, This is NOT a abuse feed, This feed is made for sitemasters to detect traffic from tor nodes, this is the only purpose of this feed
 
@@ -78,7 +78,7 @@ Those IPs are not guaranteed to be tor nodes, but they were seen as tor nodes wi
 | 84.3.219.251 | 4 | 1794333733 | 1794506679 | EU | HU | Hódmezővásárhely | 5483 | 5403dbfb.catv.pool.telekom.hu |
 | 84.19.182.20 | 4 | 1698492505 | 1794506679 | EU | DE |  | 31103 | km21001-02.keymachine.de |
 | 84.16.224.227 | 4 | 1700026403 | 1794506678 | EU | DE |  | 28753 |  |
-| 82.71.108.163 | 4 | 1788026665 | 1794506678 | EU | GB | Hitchin | 13037 | tor-exit.cellarnet.co.uk |
+| 82.71.108.163 | 4 | 1788026665 | 1794506678 | EU | GB | Fulham | 13037 | tor-exit.cellarnet.co.uk |
 | 82.47.0.200 | 4 | 1792087319 | 1794506678 | EU | GB |  | 5089 |  |
 | 82.39.155.148 | 4 | 1782842622 | 1794506678 | EU | SE | Kista | 5089 |  |
 | 82.39.155.146 | 4 | 1793988121 | 1794506678 | EU | SE | Kista | 5089 | 82.39.155.146.se.akhtar.tech |
@@ -1557,7 +1557,7 @@ Those IPs are not guaranteed to be tor nodes, but they were seen as tor nodes wi
 | 2001:1b60:3:221:701:102::1 | 6 | 1728482546 | 1794506574 | EU | DE |  | 31103 | tormachine.keymachine.de |
 | 2001:1b60:2:1:3935:104::1 | 6 | 1698438264 | 1794506573 | EU | DE |  | 31103 |  |
 | 2001:19f0:6001:5f20:5400:6ff:fe1d:f57c | 6 | 1793124769 | 1794506573 | NA | US | Los Angeles | 20473 |  |
-| 2001:1620:51a1::101 | 6 | 1761411758 | 1794506573 | EU | CH | Menzingen | 13030 |  |
+| 2001:1620:51a1::101 | 6 | 1761411758 | 1794506573 | EU | CH | Mühlau | 13030 |  |
 | 2001:bf0:666::666 | 6 | 1698438264 | 1794506573 | EU | DE |  | 12732 | tor-exit-4.all.de |
 | 2001:bc8:6010:206:ae1f:6bff:fe27:3176 | 6 | 1769731379 | 1794506573 | EU | NL | Haarlem | 12876 | ipv6.rev.poneytelecom.eu |
 | 2001:bc8:6010:204:ec4:7aff:fe86:8788 | 6 | 1775257358 | 1794506573 | EU | NL | Haarlem | 12876 |  |
@@ -2103,7 +2103,7 @@ Those IPs are not guaranteed to be tor nodes, but they were seen as tor nodes wi
 | 146.59.231.4 | 4 | 1736251282 | 1794506534 | EU | FR |  | 16276 | vps-4e8e6ed2.vps.ovh.net |
 | 146.185.253.130 | 4 | 1698438214 | 1794506534 | EU | NL |  | 50673 | wauderieve.info |
 | 144.76.187.208 | 4 | 1792605729 | 1794506534 | EU | DE | Falkenstein | 24940 | static.208.187.76.144.clients.your-server.de |
-| 144.6.236.131 | 4 | 1782097305 | 1794506534 | OC | AU | Wollongong | 4764 |  |
+| 144.6.236.131 | 4 | 1782097305 | 1794506534 | OC | AU | Sydney | 4764 |  |
 | 143.20.185.77 | 4 | 1785175306 | 1794506534 | NA | US |  | 11003 | exitnode.dk |
 | 143.20.166.14 | 4 | 1774537308 | 1794506534 | AS | MY | Kuala Lumpur | 11003 |  |
 | 142.249.174.14 | 4 | 1794247316 | 1794506534 | EU | NL | Amsterdam |  | tor1.ams.as205941.org |
