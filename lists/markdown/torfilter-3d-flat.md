@@ -4,7 +4,7 @@ Last seen within 72 hours
 
 Count : 2305
 
-Generated: 2026-11-14T06:00:06.561Z
+Generated: 2026-11-14T07:00:06.828Z
 
 Those IPs are not guaranteed to be tor nodes, but they were seen as tor nodes within the last 72 hours. Use at your own risk, This is NOT a abuse feed, This feed is made for sitemasters to detect traffic from tor nodes, this is the only purpose of this feed
 
@@ -132,7 +132,7 @@ Those IPs are not guaranteed to be tor nodes, but they were seen as tor nodes wi
 | 64.188.93.178 | 4 | 1769303581 | 1794593080 | EU | FI | Helsinki | 46339 | vm719078.hosted-by.u1host.com |
 | 62.182.84.146 | 4 | 1698437983 | 1794593080 | EU | UA | Kyiv | 30860 | ml148.spryraven.com |
 | 62.133.45.2 | 4 | 1698437972 | 1794593080 | EU | RO | Bucharest | 9009 |  |
-| 61.220.100.193 | 4 | 1780329827 | 1794593080 | AS | TW | Zhubei | 3462 | 61-220-100-193.hinet-ip.hinet.net |
+| 61.220.100.193 | 4 | 1780329827 | 1794593080 | AS | TW | Hsinchu | 3462 | 61-220-100-193.hinet-ip.hinet.net |
 | 57.129.91.235 | 4 | 1748898206 | 1794593080 | EU | DE | Frankfurt am Main | 16276 | exit1.mit-security.at |
 | 54.36.111.72 | 4 | 1756422227 | 1794593080 | EU | DE | Frankfurt am Main | 16276 | ns3112187.ip-54-36-111.eu |
 | 51.91.18.151 | 4 | 1698437987 | 1794593079 | EU | FR |  | 16276 | ns3151228.ip-51-91-18.eu |
@@ -927,7 +927,7 @@ Those IPs are not guaranteed to be tor nodes, but they were seen as tor nodes wi
 | 2620:7:6003::103 | 6 | 1785434596 | 1794593023 | NA | US |  |  |  |
 | 2620:7:6003::102 | 6 | 1785434596 | 1794593023 | NA | US |  |  |  |
 | 2620:7:6003::101 | 6 | 1785434596 | 1794593023 | NA | US |  |  |  |
-| 2607:fa18:3:beef:f001:c0de:feed:ba5e | 6 | 1742112163 | 1794593023 | NA | US |  | 6315 | this.is.a.tor.node.xmission.com |
+| 2607:fa18:3:beef:f001:c0de:feed:ba5e | 6 | 1742112163 | 1794593023 | NA | US | Providence | 6315 | this.is.a.tor.node.xmission.com |
 | 2607:f530:9002::19 | 6 | 1754348549 | 1794593023 | NA | CA |  | 10996 |  |
 | 2607:f130:0:1e8:210::beef | 6 | 1790705044 | 1794593023 | NA | US | Los Angeles | 35916 | asylum.corewars.net |
 | 2607:9d00:2000:eb::5242:b687 | 6 | 1789322587 | 1794593023 | NA | US |  |  |  |
@@ -1975,7 +1975,7 @@ Those IPs are not guaranteed to be tor nodes, but they were seen as tor nodes wi
 | 179.43.133.50 | 4 | 1761508943 | 1794592946 | EU | CH | Rümlang | 51852 | kisstracks.net |
 | 179.43.128.16 | 4 | 1698438007 | 1794592946 | EU | CH | Rümlang | 51852 | tellhonk.com |
 | 178.79.154.219 | 4 | 1706907777 | 1794592946 | EU | GB | London | 63949 | 178-79-154-219.ip.linodeusercontent.com |
-| 178.254.18.25 | 4 | 1698438219 | 1794592946 | EU | DE |  | 42730 | v45016.1blu.de |
+| 178.254.18.25 | 4 | 1698438219 | 1794592946 | EU | DE | Lichtenberg | 42730 | v45016.1blu.de |
 | 178.218.144.96 | 4 | 1710364272 | 1794592946 | EU | IT | Milan | 212508 | 178.218.144.96.lowhosting.org |
 | 178.218.144.64 | 4 | 1710108622 | 1794592946 | EU | IT | Milan | 212508 | 178.218.144.64.lowhosting.org |
 | 178.218.144.18 | 4 | 1698437980 | 1794592946 | EU | IT | Milan | 212508 | 178.218.144.18.lowhosting.org |

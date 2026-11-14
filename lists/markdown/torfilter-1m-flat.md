@@ -4,7 +4,7 @@ Last seen within 744 hours
 
 Count : 2558
 
-Generated: 2026-11-14T06:00:06.561Z
+Generated: 2026-11-14T07:00:06.828Z
 
 Those IPs are not guaranteed to be tor nodes, but they were seen as tor nodes within the last 744 hours. Use at your own risk, This is NOT a abuse feed, This feed is made for sitemasters to detect traffic from tor nodes, this is the only purpose of this feed
 
@@ -132,7 +132,7 @@ Those IPs are not guaranteed to be tor nodes, but they were seen as tor nodes wi
 | 64.188.93.178 | 4 | 1769303581 | 1794593080 | EU | FI | Helsinki | 46339 | vm719078.hosted-by.u1host.com |
 | 62.182.84.146 | 4 | 1698437983 | 1794593080 | EU | UA | Kyiv | 30860 | ml148.spryraven.com |
 | 62.133.45.2 | 4 | 1698437972 | 1794593080 | EU | RO | Bucharest | 9009 |  |
-| 61.220.100.193 | 4 | 1780329827 | 1794593080 | AS | TW | Zhubei | 3462 | 61-220-100-193.hinet-ip.hinet.net |
+| 61.220.100.193 | 4 | 1780329827 | 1794593080 | AS | TW | Hsinchu | 3462 | 61-220-100-193.hinet-ip.hinet.net |
 | 57.129.91.235 | 4 | 1748898206 | 1794593080 | EU | DE | Frankfurt am Main | 16276 | exit1.mit-security.at |
 | 54.36.111.72 | 4 | 1756422227 | 1794593080 | EU | DE | Frankfurt am Main | 16276 | ns3112187.ip-54-36-111.eu |
 | 51.91.18.151 | 4 | 1698437987 | 1794593079 | EU | FR |  | 16276 | ns3151228.ip-51-91-18.eu |
@@ -927,7 +927,7 @@ Those IPs are not guaranteed to be tor nodes, but they were seen as tor nodes wi
 | 2620:7:6003::103 | 6 | 1785434596 | 1794593023 | NA | US |  |  |  |
 | 2620:7:6003::102 | 6 | 1785434596 | 1794593023 | NA | US |  |  |  |
 | 2620:7:6003::101 | 6 | 1785434596 | 1794593023 | NA | US |  |  |  |
-| 2607:fa18:3:beef:f001:c0de:feed:ba5e | 6 | 1742112163 | 1794593023 | NA | US |  | 6315 | this.is.a.tor.node.xmission.com |
+| 2607:fa18:3:beef:f001:c0de:feed:ba5e | 6 | 1742112163 | 1794593023 | NA | US | Providence | 6315 | this.is.a.tor.node.xmission.com |
 | 2607:f530:9002::19 | 6 | 1754348549 | 1794593023 | NA | CA |  | 10996 |  |
 | 2607:f130:0:1e8:210::beef | 6 | 1790705044 | 1794593023 | NA | US | Los Angeles | 35916 | asylum.corewars.net |
 | 2607:9d00:2000:eb::5242:b687 | 6 | 1789322587 | 1794593023 | NA | US |  |  |  |
@@ -1975,7 +1975,7 @@ Those IPs are not guaranteed to be tor nodes, but they were seen as tor nodes wi
 | 179.43.133.50 | 4 | 1761508943 | 1794592946 | EU | CH | Rümlang | 51852 | kisstracks.net |
 | 179.43.128.16 | 4 | 1698438007 | 1794592946 | EU | CH | Rümlang | 51852 | tellhonk.com |
 | 178.79.154.219 | 4 | 1706907777 | 1794592946 | EU | GB | London | 63949 | 178-79-154-219.ip.linodeusercontent.com |
-| 178.254.18.25 | 4 | 1698438219 | 1794592946 | EU | DE |  | 42730 | v45016.1blu.de |
+| 178.254.18.25 | 4 | 1698438219 | 1794592946 | EU | DE | Lichtenberg | 42730 | v45016.1blu.de |
 | 178.218.144.96 | 4 | 1710364272 | 1794592946 | EU | IT | Milan | 212508 | 178.218.144.96.lowhosting.org |
 | 178.218.144.64 | 4 | 1710108622 | 1794592946 | EU | IT | Milan | 212508 | 178.218.144.64.lowhosting.org |
 | 178.218.144.18 | 4 | 1698437980 | 1794592946 | EU | IT | Milan | 212508 | 178.218.144.18.lowhosting.org |
@@ -2416,7 +2416,7 @@ Those IPs are not guaranteed to be tor nodes, but they were seen as tor nodes wi
 | 15.235.9.234 | 4 | 1793211085 | 1793383314 | NA | CA |  | 16276 | proxmoxovh.iia.cl |
 | 79.99.78.99 | 4 | 1792951315 | 1793383312 | NA | US | Salt Lake City | 8851 |  |
 | 118.67.198.54 | 4 | 1792432913 | 1793383308 | OC | NZ | Auckland | 141226 | 118-67-198-54.rdns-d.quic.net.nz |
-| 118.67.196.83 | 4 | 1793124717 | 1793383308 | OC | NZ | Wellington | 141226 | 118-67-196-83.rdns-d.quic.net.nz |
+| 118.67.196.83 | 4 | 1793124717 | 1793383308 | OC | NZ | Auckland | 141226 | 118-67-196-83.rdns-d.quic.net.nz |
 | 172.81.131.139 | 4 | 1698437956 | 1793383291 | NA | US | Chicago | 27176 | bhsfm.bond |
 | 198.167.206.192 | 4 | 1703235979 | 1793383289 | EU | SE |  | 39287 | c6a7cec0.vpn.njalla.net |
 | 185.132.53.121 | 4 | 1768575740 | 1793383282 | EU | DE |  |  | tor-exit.nl.2cb.li |
@@ -2542,7 +2542,7 @@ Those IPs are not guaranteed to be tor nodes, but they were seen as tor nodes wi
 | 217.60.196.70 | 4 | 1789581718 | 1792346570 | EU | DE | Frankfurt am Main | 43212 |  |
 | 217.60.196.51 | 4 | 1789581718 | 1792346569 | EU | DE | Frankfurt am Main | 43212 |  |
 | 2001:df0:27b::1:e28a | 6 | 1792346559 | 1792346559 | AS | ID |  | 58487 |  |
-| 82.65.141.110 | 4 | 1792260128 | 1792346515 | EU | FR | Paris | 12322 |  |
+| 82.65.141.110 | 4 | 1792260128 | 1792346515 | EU | FR |  | 12322 |  |
 | 186.240.149.160 | 4 | 1788804100 | 1792346509 | EU | DE | Frankfurt am Main | 7738 | srv1881256.hstgr.cloud |
 | 198.167.206.235 | 4 | 1700654714 | 1792346493 | EU | SE |  | 39287 | c6a7ceeb.vpn.njalla.net |
 | 2a0e:4001:900::101 | 6 | 1789927487 | 1792260258 | EU | RU |  |  |  |
