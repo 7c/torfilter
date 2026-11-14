@@ -2,9 +2,9 @@
 # TORFilter
 Last seen within 168 hours
 
-Count : 2348
+Count : 2347
 
-Generated: 2026-11-14T14:00:06.393Z
+Generated: 2026-11-14T15:00:08.361Z
 
 Those IPs are not guaranteed to be tor nodes, but they were seen as tor nodes within the last 168 hours. Use at your own risk, This is NOT a abuse feed, This feed is made for sitemasters to detect traffic from tor nodes, this is the only purpose of this feed
 
@@ -2358,5 +2358,4 @@ Those IPs are not guaranteed to be tor nodes, but they were seen as tor nodes wi
 | 45.95.169.119 | 4 | 1768716277 | 1794074490 | EU | HR | Sisak | 211619 | tor-exit-croatia.bronk-ict.nl |
 | 212.86.125.110 | 4 | 1787162512 | 1794074490 | EU | NL | Haarlem | 57960 | caloyannis.xyz |
 | 83.217.9.73 | 4 | 1709162131 | 1794074443 | AS | TR | Istanbul | 199669 | salsedo.osservatorionessuno.org |
-| 2a03:4000:6:102b:c457:f3ff:feb0:a6d0 | 6 | 1794063339 | 1794063339 | EU | DE | Nuremberg | 197540 |  |
 
