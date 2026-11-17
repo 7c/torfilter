@@ -4,7 +4,7 @@ Last seen within 48 hours
 
 Count : 2244
 
-Generated: 2026-11-17T06:00:06.989Z
+Generated: 2026-11-17T07:00:05.762Z
 
 Those IPs are not guaranteed to be tor nodes, but they were seen as tor nodes within the last 48 hours. Use at your own risk, This is NOT a abuse feed, This feed is made for sitemasters to detect traffic from tor nodes, this is the only purpose of this feed
 
@@ -15,7 +15,7 @@ Those IPs are not guaranteed to be tor nodes, but they were seen as tor nodes wi
 | 96.44.167.209 | 4 | 1794333733 | 1794852300 | NA | CA | Toronto | 8100 | 96-44-167-209-host.colocrossing.com |
 | 96.44.159.142 | 4 | 1794421712 | 1794852300 | NA | CA | Toronto | 8100 |  |
 | 95.211.239.220 | 4 | 1776877454 | 1794852300 | EU | NL |  | 60781 | hosted-by.euservr.com |
-| 95.143.193.125 | 4 | 1698437940 | 1794852299 | EU | SE | Stockholm | 49770 |  |
+| 95.143.193.125 | 4 | 1698437940 | 1794852299 | EU | SE |  | 49770 |  |
 | 95.135.208.24 | 4 | 1769652291 | 1794852299 | EU | NL | Amsterdam | 6849 | static.95.135.208.24.deluxhost.net |
 | 95.128.43.164 | 4 | 1698437965 | 1794852299 | EU | FR | Paris | 41653 | exit-1.fr.tor.aquaray.com |
 | 94.72.103.33 | 4 | 1729983829 | 1794852299 | EU | GB | Portsmouth | 41314 | sortie-tor.a-n-o-n-y-m-e.net |
@@ -899,7 +899,7 @@ Those IPs are not guaranteed to be tor nodes, but they were seen as tor nodes wi
 | 2605:6400:10:1008:1111:1111:1111:1111 | 6 | 1700249216 | 1794852235 | NA | US | Staten Island | 53667 | tor-exit.cyberjake.xyz |
 | 2605:6400:10:1ab:2605:6400:10:1ab | 6 | 1709270183 | 1794852235 | NA | US | Staten Island | 53667 | tor-exit-http-readme.hackb.2mpd.com |
 | 2604:e580:ffff:ff00::85 | 6 | 1786039398 | 1794852234 | NA | US |  | 2900 |  |
-| 2604:b480:3:6::2 | 6 | 1698438282 | 1794852234 | NA | US |  | 46841 | ghatanothoa.unzane.com |
+| 2604:b480:3:6::2 | 6 | 1698438282 | 1794852234 | NA | US | Springfield | 46841 | ghatanothoa.unzane.com |
 | 2604:2dc0:202:300::ed3 | 6 | 1698438282 | 1794852234 | NA | US |  | 16276 | tor2.teitel.net |
 | 2604:2280:dead:beef::1:27 | 6 | 1792951408 | 1794852234 | NA | US |  |  |  |
 | 2602:ff16:3::1:3c0:0:1 | 6 | 1737547343 | 1794852234 | NA | US |  | 29802 |  |
@@ -1349,7 +1349,7 @@ Those IPs are not guaranteed to be tor nodes, but they were seen as tor nodes wi
 | 216.73.159.75 | 4 | 1698437933 | 1794852202 | SA | CL | Valdivia | 61138 |  |
 | 216.73.159.101 | 4 | 1698437977 | 1794852201 | SA | CL | Valdivia | 61138 |  |
 | 216.239.90.19 | 4 | 1698437954 | 1794852201 | NA | CA |  | 10996 | tor-gateway.vif.com |
-| 213.95.55.63 | 4 | 1787421703 | 1794852201 | EU | DE | Hückelhoven | 12337 |  |
+| 213.95.55.63 | 4 | 1787421703 | 1794852201 | EU | DE | Düsseldorf | 12337 |  |
 | 213.210.4.3 | 4 | 1792951315 | 1794852201 | AS | TW | Taipei | 8851 |  |
 | 212.95.50.243 | 4 | 1782748944 | 1794852201 | EU | DE |  | 28753 |  |
 | 212.73.134.204 | 4 | 1698437952 | 1794852201 | EU | BG |  | 34224 |  |
@@ -1497,7 +1497,7 @@ Those IPs are not guaranteed to be tor nodes, but they were seen as tor nodes wi
 | 2001:1b60:3:221:701:102::1 | 6 | 1728482546 | 1794852191 | EU | DE |  | 31103 | tormachine.keymachine.de |
 | 2001:1b60:2:1:3935:104::1 | 6 | 1698438264 | 1794852190 | EU | DE |  | 31103 |  |
 | 2001:19f0:6001:5f20:5400:6ff:fe1d:f57c | 6 | 1793124769 | 1794852190 | NA | US | Los Angeles | 20473 |  |
-| 2001:1620:51a1::101 | 6 | 1761411758 | 1794852190 | EU | CH | Mühlau | 13030 |  |
+| 2001:1620:51a1::101 | 6 | 1761411758 | 1794852190 | EU | CH | Menzingen | 13030 |  |
 | 2001:bf0:666::666 | 6 | 1698438264 | 1794852190 | EU | DE |  | 12732 | tor-exit-4.all.de |
 | 2001:bc8:6010:206:ae1f:6bff:fe27:3176 | 6 | 1769731379 | 1794852190 | EU | NL | Haarlem | 12876 | ipv6.rev.poneytelecom.eu |
 | 2001:bc8:6010:204:ec4:7aff:fe86:8788 | 6 | 1775257358 | 1794852190 | EU | NL | Haarlem | 12876 |  |
@@ -1643,7 +1643,7 @@ Those IPs are not guaranteed to be tor nodes, but they were seen as tor nodes wi
 | 187.77.27.242 | 4 | 1794852140 | 1794852179 | NA | US | Boston | 7738 | srv1686219.hstgr.cloud |
 | 185.93.89.96 | 4 | 1769022286 | 1794852179 | AS | IR |  |  |  |
 | 185.82.219.109 | 4 | 1698437993 | 1794852178 | EU | BG | Sofia | 59729 | tornode2.vds-114833.com |
-| 185.67.82.114 | 4 | 1698437943 | 1794852178 | EU | FI |  | 20904 | tor-ou.effi.org |
+| 185.67.82.114 | 4 | 1698437943 | 1794852178 | EU | FI | Espoo | 20904 | tor-ou.effi.org |
 | 185.56.83.9 | 4 | 1791568953 | 1794852178 | AF | SC |  | 211720 | green-venom |
 | 185.56.83.8 | 4 | 1791568953 | 1794852178 | AF | SC |  | 211720 | green-venom |
 | 185.56.83.7 | 4 | 1791568953 | 1794852178 | AF | SC |  | 211720 | green-venom |
@@ -2050,7 +2050,7 @@ Those IPs are not guaranteed to be tor nodes, but they were seen as tor nodes wi
 | 109.70.100.10 | 4 | 1698507085 | 1794852147 | EU | AT |  | 208323 | tor-exit-anonymizer.appliedprivacy.net |
 | 109.70.100.1 | 4 | 1698437930 | 1794852147 | EU | AT |  | 208323 | tor-exit-anonymizer.appliedprivacy.net |
 | 109.237.27.11 | 4 | 1753718493 | 1794852147 | EU | GB | London | 63949 | 109-237-27-11.ip.linodeusercontent.com |
-| 109.228.160.190 | 4 | 1741111295 | 1794852147 | EU | SE | Mölnlycke | 8473 | h-109-228-160-190.A444.priv.bahnhof.se |
+| 109.228.160.190 | 4 | 1741111295 | 1794852147 | EU | SE | Lilla Edet | 8473 | h-109-228-160-190.A444.priv.bahnhof.se |
 | 109.169.33.163 | 4 | 1698437997 | 1794852147 | EU | GB |  | 20860 | tor-exit-readme.hands.com |
 | 108.61.189.136 | 4 | 1698437968 | 1794852147 | EU | NL | Amsterdam | 20473 | 108.61.189.136.vultrusercontent.com |
 | 107.189.8.181 | 4 | 1698437934 | 1794852147 | EU | LU | Luxembourg | 53667 | tor-exit-2.aa78i2efsewr0neeknk.xyz |
