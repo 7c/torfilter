@@ -4,7 +4,7 @@ Last seen within 72 hours
 
 Count : 2267
 
-Generated: 2026-11-18T06:00:06.357Z
+Generated: 2026-11-18T07:00:07.757Z
 
 Those IPs are not guaranteed to be tor nodes, but they were seen as tor nodes within the last 72 hours. Use at your own risk, This is NOT a abuse feed, This feed is made for sitemasters to detect traffic from tor nodes, this is the only purpose of this feed
 
@@ -27,10 +27,10 @@ Those IPs are not guaranteed to be tor nodes, but they were seen as tor nodes wi
 | 94.16.115.121 | 4 | 1725235399 | 1794939281 | EU | DE | Nuremberg | 197540 | tor-exit.okade.pro |
 | 94.156.152.8 | 4 | 1759658634 | 1794939281 | EU | BG |  | 8100 |  |
 | 94.156.152.2 | 4 | 1792173718 | 1794939281 | EU | BG |  | 8100 |  |
-| 93.99.104.40 | 4 | 1725152598 | 1794939281 | EU | CZ | Kunovice | 16019 | 40.104.99.93.finalhosting.cz |
-| 93.99.104.194 | 4 | 1698437961 | 1794939281 | EU | CZ | Kunovice | 16019 | zarni.haribaned.com |
-| 93.99.104.18 | 4 | 1698437961 | 1794939281 | EU | CZ | Kunovice | 16019 | 18.104.99.93.finalhosting.cz |
-| 93.99.104.128 | 4 | 1698437971 | 1794939281 | EU | CZ | Kunovice | 16019 | 128.104.99.93.finalhosting.cz |
+| 93.99.104.40 | 4 | 1725152598 | 1794939281 | EU | CZ | Nedakonice | 16019 | 40.104.99.93.finalhosting.cz |
+| 93.99.104.194 | 4 | 1698437961 | 1794939281 | EU | CZ | Nedakonice | 16019 | zarni.haribaned.com |
+| 93.99.104.18 | 4 | 1698437961 | 1794939281 | EU | CZ | Nedakonice | 16019 | 18.104.99.93.finalhosting.cz |
+| 93.99.104.128 | 4 | 1698437971 | 1794939281 | EU | CZ | Nedakonice | 16019 | 128.104.99.93.finalhosting.cz |
 | 93.95.231.14 | 4 | 1705725623 | 1794939281 | EU | IS |  | 44925 | magic.torexit.syndicateguys.com |
 | 93.95.228.125 | 4 | 1705725610 | 1794939281 | EU | IS | Reykjavik | 44925 | manor.torexit.syndicateguys.com |
 | 93.95.227.37 | 4 | 1740013526 | 1794939281 | EU | IS |  | 44925 | vps-93-95-227-37.1984.is |
@@ -941,7 +941,7 @@ Those IPs are not guaranteed to be tor nodes, but they were seen as tor nodes wi
 | 2605:6400:10:1008:1111:1111:1111:1111 | 6 | 1700249216 | 1794939213 | NA | US | Staten Island | 53667 | tor-exit.cyberjake.xyz |
 | 2605:6400:10:1ab:2605:6400:10:1ab | 6 | 1709270183 | 1794939213 | NA | US | Staten Island | 53667 | tor-exit-http-readme.hackb.2mpd.com |
 | 2604:e580:ffff:ff00::85 | 6 | 1786039398 | 1794939213 | NA | US |  | 2900 |  |
-| 2604:b480:3:6::2 | 6 | 1698438282 | 1794939213 | NA | US | Springfield | 46841 | ghatanothoa.unzane.com |
+| 2604:b480:3:6::2 | 6 | 1698438282 | 1794939213 | NA | US |  | 46841 | ghatanothoa.unzane.com |
 | 2604:2dc0:202:300::ed3 | 6 | 1698438282 | 1794939212 | NA | US |  | 16276 | tor2.teitel.net |
 | 2604:2280:dead:beef::1:27 | 6 | 1792951408 | 1794939212 | NA | US |  |  |  |
 | 2602:ff16:3::1:3c0:0:1 | 6 | 1737547343 | 1794939212 | NA | US |  | 29802 |  |
@@ -1596,8 +1596,8 @@ Those IPs are not guaranteed to be tor nodes, but they were seen as tor nodes wi
 | 2001:67c:89c:702:1ce:1ce:babe:1 | 6 | 1698438262 | 1794939163 | EU | DK |  | 210731 | tor-project-exit1.dotsrc.org |
 | 2001:67c:89c:666::1 | 6 | 1698438262 | 1794939163 | EU | DK |  | 210731 | relay-02.torproject.net |
 | 2001:638:301:f732::150 | 6 | 1700589919 | 1794939163 | EU | DE | Fulda | 680 | tor.rz.hs-fulda.de |
-| 2001:620:20d0::24 | 6 | 1698438258 | 1794939163 | EU | CH | Lausanne | 559 | tor5e3.digitale-gesellschaft.ch |
-| 2001:620:20d0::23 | 6 | 1698438258 | 1794939163 | EU | CH | Lausanne | 559 | tor5e1.digitale-gesellschaft.ch |
+| 2001:620:20d0::24 | 6 | 1698438258 | 1794939163 | EU | CH | Chavannes | 559 | tor5e3.digitale-gesellschaft.ch |
+| 2001:620:20d0::23 | 6 | 1698438258 | 1794939163 | EU | CH | Chavannes | 559 | tor5e1.digitale-gesellschaft.ch |
 | 200.122.181.2 | 4 | 1698437975 | 1794939163 | NA | CR | San José | 3790 |  |
 | 2.57.122.210 | 4 | 1794852140 | 1794939163 | EU | RO |  | 47890 |  |
 | 2.56.10.36 | 4 | 1725174125 | 1794939163 | EU | NL |  | 213373 |  |
