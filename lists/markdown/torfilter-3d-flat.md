@@ -4,7 +4,7 @@ Last seen within 72 hours
 
 Count : 2283
 
-Generated: 2026-11-19T06:00:09.475Z
+Generated: 2026-11-19T07:00:09.420Z
 
 Those IPs are not guaranteed to be tor nodes, but they were seen as tor nodes within the last 72 hours. Use at your own risk, This is NOT a abuse feed, This feed is made for sitemasters to detect traffic from tor nodes, this is the only purpose of this feed
 
@@ -27,10 +27,10 @@ Those IPs are not guaranteed to be tor nodes, but they were seen as tor nodes wi
 | 94.16.115.121 | 4 | 1725235399 | 1795025743 | EU | DE | Nuremberg | 197540 | tor-exit.okade.pro |
 | 94.156.152.8 | 4 | 1759658634 | 1795025742 | EU | BG |  | 8100 |  |
 | 94.156.152.2 | 4 | 1792173718 | 1795025742 | EU | BG |  | 8100 |  |
-| 93.99.104.40 | 4 | 1725152598 | 1795025742 | EU | CZ | Nedakonice | 16019 | 40.104.99.93.finalhosting.cz |
-| 93.99.104.194 | 4 | 1698437961 | 1795025742 | EU | CZ | Nedakonice | 16019 | zarni.haribaned.com |
-| 93.99.104.18 | 4 | 1698437961 | 1795025742 | EU | CZ | Nedakonice | 16019 | 18.104.99.93.finalhosting.cz |
-| 93.99.104.128 | 4 | 1698437971 | 1795025742 | EU | CZ | Nedakonice | 16019 | 128.104.99.93.finalhosting.cz |
+| 93.99.104.40 | 4 | 1725152598 | 1795025742 | EU | CZ | Uherský Ostroh | 16019 | 40.104.99.93.finalhosting.cz |
+| 93.99.104.194 | 4 | 1698437961 | 1795025742 | EU | CZ | Uherský Ostroh | 16019 | zarni.haribaned.com |
+| 93.99.104.18 | 4 | 1698437961 | 1795025742 | EU | CZ | Uherský Ostroh | 16019 | 18.104.99.93.finalhosting.cz |
+| 93.99.104.128 | 4 | 1698437971 | 1795025742 | EU | CZ | Uherský Ostroh | 16019 | 128.104.99.93.finalhosting.cz |
 | 93.95.231.14 | 4 | 1705725623 | 1795025742 | EU | IS |  | 44925 | magic.torexit.syndicateguys.com |
 | 93.95.228.125 | 4 | 1705725610 | 1795025742 | EU | IS | Reykjavik | 44925 | manor.torexit.syndicateguys.com |
 | 93.95.227.37 | 4 | 1740013526 | 1795025742 | EU | IS |  | 44925 | vps-93-95-227-37.1984.is |
@@ -92,7 +92,7 @@ Those IPs are not guaranteed to be tor nodes, but they were seen as tor nodes wi
 | 82.221.128.191 | 4 | 1698437986 | 1795025738 | EU | IS |  | 50613 |  |
 | 82.221.100.134 | 4 | 1785175305 | 1795025738 | EU | IS | Reykjavik | 50613 |  |
 | 82.221.100.12 | 4 | 1763568250 | 1795025738 | EU | IS | Reykjavik | 50613 |  |
-| 82.197.182.161 | 4 | 1698437939 | 1795025737 | EU | CH | Zurich | 13030 | 161-182-197-82.init7.net |
+| 82.197.182.161 | 4 | 1698437939 | 1795025737 | EU | CH | Unterägeri | 13030 | 161-182-197-82.init7.net |
 | 82.163.7.223 | 4 | 1794247323 | 1795025737 | EU | CH | Gland | 8851 |  |
 | 82.163.7.222 | 4 | 1794247323 | 1795025737 | EU | CH | Gland | 8851 |  |
 | 82.163.7.221 | 4 | 1794247324 | 1795025737 | EU | CH | Gland | 8851 |  |
@@ -381,141 +381,141 @@ Those IPs are not guaranteed to be tor nodes, but they were seen as tor nodes wi
 | 2a0c:5700:3133:507:9e7b:4fff:fe4d:4813 | 6 | 1766207036 | 1795025716 | EU | SE | Stockholm | 30893 |  |
 | 2a0c:5700:dc2:111:f21f:afff:fecf:d183 | 6 | 1785780236 | 1795025716 | EU | SE | Stockholm | 30893 |  |
 | 2a0c:4d00:2:8::2 | 6 | 1757854999 | 1795025716 | AF | SC |  |  | onion.xor.sc |
-| 2a0b:f4c2:4::110 | 6 | 1706118588 | 1795025716 | EU | DE | Birken-Honigsessen | 60729 |  |
-| 2a0b:f4c2:4::109 | 6 | 1706118586 | 1795025716 | EU | DE | Birken-Honigsessen | 60729 |  |
-| 2a0b:f4c2:4::108 | 6 | 1706118586 | 1795025716 | EU | DE | Birken-Honigsessen | 60729 |  |
-| 2a0b:f4c2:4::107 | 6 | 1706118585 | 1795025716 | EU | DE | Birken-Honigsessen | 60729 |  |
-| 2a0b:f4c2:4::106 | 6 | 1706118578 | 1795025716 | EU | DE | Birken-Honigsessen | 60729 |  |
-| 2a0b:f4c2:4::105 | 6 | 1706118578 | 1795025716 | EU | DE | Birken-Honigsessen | 60729 |  |
-| 2a0b:f4c2:4::104 | 6 | 1706118578 | 1795025716 | EU | DE | Birken-Honigsessen | 60729 |  |
-| 2a0b:f4c2:4::103 | 6 | 1706118578 | 1795025715 | EU | DE | Birken-Honigsessen | 60729 |  |
-| 2a0b:f4c2:4::102 | 6 | 1706118577 | 1795025715 | EU | DE | Birken-Honigsessen | 60729 |  |
-| 2a0b:f4c2:4::101 | 6 | 1706118577 | 1795025715 | EU | DE | Birken-Honigsessen | 60729 |  |
-| 2a0b:f4c2:4::100 | 6 | 1706118577 | 1795025715 | EU | DE | Birken-Honigsessen | 60729 |  |
-| 2a0b:f4c2:4::99 | 6 | 1706118577 | 1795025715 | EU | DE | Birken-Honigsessen | 60729 |  |
-| 2a0b:f4c2:4::98 | 6 | 1706118577 | 1795025715 | EU | DE | Birken-Honigsessen | 60729 |  |
-| 2a0b:f4c2:4::97 | 6 | 1706118577 | 1795025715 | EU | DE | Birken-Honigsessen | 60729 |  |
-| 2a0b:f4c2:4::96 | 6 | 1706118577 | 1795025715 | EU | DE | Birken-Honigsessen | 60729 |  |
-| 2a0b:f4c2:2::63 | 6 | 1698438318 | 1795025715 | EU | DE | Birken-Honigsessen | 60729 | tor-exit-63.for-privacy.net |
-| 2a0b:f4c2:2::62 | 6 | 1698438318 | 1795025715 | EU | DE | Birken-Honigsessen | 60729 | tor-exit-62.for-privacy.net |
-| 2a0b:f4c2:2::61 | 6 | 1698438318 | 1795025715 | EU | DE | Birken-Honigsessen | 60729 | tor-exit-61.for-privacy.net |
-| 2a0b:f4c2:2::60 | 6 | 1698438318 | 1795025714 | EU | DE | Birken-Honigsessen | 60729 | tor-exit-60.for-privacy.net |
-| 2a0b:f4c2:2::59 | 6 | 1698438318 | 1795025714 | EU | DE | Birken-Honigsessen | 60729 | tor-exit-59.for-privacy.net |
-| 2a0b:f4c2:2::58 | 6 | 1698438318 | 1795025714 | EU | DE | Birken-Honigsessen | 60729 | tor-exit-58.for-privacy.net |
-| 2a0b:f4c2:2::57 | 6 | 1698438318 | 1795025714 | EU | DE | Birken-Honigsessen | 60729 | tor-exit-57.for-privacy.net |
-| 2a0b:f4c2:2::56 | 6 | 1698438318 | 1795025714 | EU | DE | Birken-Honigsessen | 60729 | tor-exit-56.for-privacy.net |
-| 2a0b:f4c2:2::55 | 6 | 1698438318 | 1795025714 | EU | DE | Birken-Honigsessen | 60729 | tor-exit-55.for-privacy.net |
-| 2a0b:f4c2:2::54 | 6 | 1698438318 | 1795025714 | EU | DE | Birken-Honigsessen | 60729 | tor-exit-54.for-privacy.net |
-| 2a0b:f4c2:2::53 | 6 | 1698438317 | 1795025714 | EU | DE | Birken-Honigsessen | 60729 | tor-exit-53.for-privacy.net |
-| 2a0b:f4c2:2::52 | 6 | 1698438317 | 1795025714 | EU | DE | Birken-Honigsessen | 60729 | tor-exit-52.for-privacy.net |
-| 2a0b:f4c2:2::51 | 6 | 1698438317 | 1795025714 | EU | DE | Birken-Honigsessen | 60729 | tor-exit-51.for-privacy.net |
-| 2a0b:f4c2:2::50 | 6 | 1698438317 | 1795025714 | EU | DE | Birken-Honigsessen | 60729 | tor-exit-50.for-privacy.net |
-| 2a0b:f4c2:2::49 | 6 | 1698438317 | 1795025714 | EU | DE | Birken-Honigsessen | 60729 | tor-exit-49.for-privacy.net |
-| 2a0b:f4c2:2::48 | 6 | 1698438317 | 1795025714 | EU | DE | Birken-Honigsessen | 60729 | tor-exit-48.for-privacy.net |
-| 2a0b:f4c2:2::47 | 6 | 1698438317 | 1795025714 | EU | DE | Birken-Honigsessen | 60729 | tor-exit-47.for-privacy.net |
-| 2a0b:f4c2:2::46 | 6 | 1698438317 | 1795025713 | EU | DE | Birken-Honigsessen | 60729 | tor-exit-46.for-privacy.net |
-| 2a0b:f4c2:2::45 | 6 | 1698438317 | 1795025713 | EU | DE | Birken-Honigsessen | 60729 | tor-exit-45.for-privacy.net |
-| 2a0b:f4c2:2::44 | 6 | 1698438317 | 1795025713 | EU | DE | Birken-Honigsessen | 60729 | tor-exit-44.for-privacy.net |
-| 2a0b:f4c2:2::43 | 6 | 1698438317 | 1795025713 | EU | DE | Birken-Honigsessen | 60729 | tor-exit-43.for-privacy.net |
-| 2a0b:f4c2:2::42 | 6 | 1698438317 | 1795025713 | EU | DE | Birken-Honigsessen | 60729 | tor-exit-42.for-privacy.net |
-| 2a0b:f4c2:2::41 | 6 | 1698438317 | 1795025713 | EU | DE | Birken-Honigsessen | 60729 | tor-exit-41.for-privacy.net |
-| 2a0b:f4c2:2::40 | 6 | 1698438317 | 1795025713 | EU | DE | Birken-Honigsessen | 60729 | tor-exit-40.for-privacy.net |
-| 2a0b:f4c2:2::39 | 6 | 1698438317 | 1795025713 | EU | DE | Birken-Honigsessen | 60729 | tor-exit-39.for-privacy.net |
-| 2a0b:f4c2:2::38 | 6 | 1698438316 | 1795025713 | EU | DE | Birken-Honigsessen | 60729 | tor-exit-38.for-privacy.net |
-| 2a0b:f4c2:2::37 | 6 | 1698438316 | 1795025713 | EU | DE | Birken-Honigsessen | 60729 | tor-exit-37.for-privacy.net |
-| 2a0b:f4c2:2::36 | 6 | 1698438316 | 1795025713 | EU | DE | Birken-Honigsessen | 60729 | tor-exit-36.for-privacy.net |
-| 2a0b:f4c2:2::35 | 6 | 1698438316 | 1795025713 | EU | DE | Birken-Honigsessen | 60729 | tor-exit-35.for-privacy.net |
-| 2a0b:f4c2:2::34 | 6 | 1698438316 | 1795025713 | EU | DE | Birken-Honigsessen | 60729 | tor-exit-34.for-privacy.net |
-| 2a0b:f4c2:2::33 | 6 | 1698438316 | 1795025712 | EU | DE | Birken-Honigsessen | 60729 | tor-exit-33.for-privacy.net |
-| 2a0b:f4c2:2::32 | 6 | 1698438316 | 1795025712 | EU | DE | Birken-Honigsessen | 60729 | tor-exit-32.for-privacy.net |
-| 2a0b:f4c2:1::191 | 6 | 1698438316 | 1795025712 | EU | DE | Birken-Honigsessen | 60729 | tor-exit-191.relayon.org |
-| 2a0b:f4c2:1::190 | 6 | 1698438863 | 1795025712 | EU | DE | Birken-Honigsessen | 60729 | tor-exit-190.relayon.org |
-| 2a0b:f4c2:1::189 | 6 | 1698507187 | 1795025712 | EU | DE | Birken-Honigsessen | 60729 | tor-exit-189.relayon.org |
-| 2a0b:f4c2:1::188 | 6 | 1698438863 | 1795025712 | EU | DE | Birken-Honigsessen | 60729 | tor-exit-188.relayon.org |
-| 2a0b:f4c2:1::187 | 6 | 1698438863 | 1795025712 | EU | DE | Birken-Honigsessen | 60729 | tor-exit-187.relayon.org |
-| 2a0b:f4c2:1::186 | 6 | 1698507187 | 1795025712 | EU | DE | Birken-Honigsessen | 60729 | tor-exit-186.relayon.org |
-| 2a0b:f4c2:1::185 | 6 | 1698507186 | 1795025712 | EU | DE | Birken-Honigsessen | 60729 | tor-exit-185.relayon.org |
-| 2a0b:f4c2:1::184 | 6 | 1698438863 | 1795025712 | EU | DE | Birken-Honigsessen | 60729 | tor-exit-184.relayon.org |
-| 2a0b:f4c2:1::183 | 6 | 1698438863 | 1795025712 | EU | DE | Birken-Honigsessen | 60729 | tor-exit-183.relayon.org |
-| 2a0b:f4c2:1::182 | 6 | 1698438863 | 1795025712 | EU | DE | Birken-Honigsessen | 60729 | tor-exit-182.relayon.org |
-| 2a0b:f4c2:1::181 | 6 | 1698438316 | 1795025712 | EU | DE | Birken-Honigsessen | 60729 | tor-exit-181.relayon.org |
-| 2a0b:f4c2:1::180 | 6 | 1698438863 | 1795025711 | EU | DE | Birken-Honigsessen | 60729 | tor-exit-180.relayon.org |
-| 2a0b:f4c2:1::179 | 6 | 1698438862 | 1795025711 | EU | DE | Birken-Honigsessen | 60729 | tor-exit-179.relayon.org |
-| 2a0b:f4c2:1::178 | 6 | 1698438862 | 1795025711 | EU | DE | Birken-Honigsessen | 60729 | tor-exit-178.relayon.org |
-| 2a0b:f4c2:1::177 | 6 | 1698507186 | 1795025711 | EU | DE | Birken-Honigsessen | 60729 | tor-exit-177.relayon.org |
-| 2a0b:f4c2:1::176 | 6 | 1698438862 | 1795025711 | EU | DE | Birken-Honigsessen | 60729 | tor-exit-176.relayon.org |
-| 2a0b:f4c2:1::175 | 6 | 1698438862 | 1795025711 | EU | DE | Birken-Honigsessen | 60729 | tor-exit-175.relayon.org |
-| 2a0b:f4c2:1::174 | 6 | 1698438316 | 1795025711 | EU | DE | Birken-Honigsessen | 60729 | tor-exit-174.relayon.org |
-| 2a0b:f4c2:1::173 | 6 | 1698438316 | 1795025711 | EU | DE | Birken-Honigsessen | 60729 | tor-exit-173.relayon.org |
-| 2a0b:f4c2:1::172 | 6 | 1698507186 | 1795025711 | EU | DE | Birken-Honigsessen | 60729 | tor-exit-172.relayon.org |
-| 2a0b:f4c2:1::171 | 6 | 1698438862 | 1795025711 | EU | DE | Birken-Honigsessen | 60729 | tor-exit-171.relayon.org |
-| 2a0b:f4c2:1::170 | 6 | 1698438862 | 1795025711 | EU | DE | Birken-Honigsessen | 60729 | tor-exit-170.relayon.org |
-| 2a0b:f4c2:1::169 | 6 | 1698438862 | 1795025711 | EU | DE | Birken-Honigsessen | 60729 | tor-exit-169.relayon.org |
-| 2a0b:f4c2:1::168 | 6 | 1698507185 | 1795025711 | EU | DE | Birken-Honigsessen | 60729 | tor-exit-168.relayon.org |
-| 2a0b:f4c2:1::166 | 6 | 1698438862 | 1795025710 | EU | DE | Birken-Honigsessen | 60729 | tor-exit-166.relayon.org |
-| 2a0b:f4c2:1::165 | 6 | 1698438862 | 1795025710 | EU | DE | Birken-Honigsessen | 60729 | tor-exit-165.relayon.org |
-| 2a0b:f4c2:1::164 | 6 | 1698507185 | 1795025710 | EU | DE | Birken-Honigsessen | 60729 | tor-exit-164.relayon.org |
-| 2a0b:f4c2:1::163 | 6 | 1698438862 | 1795025710 | EU | DE | Birken-Honigsessen | 60729 | tor-exit-163.relayon.org |
-| 2a0b:f4c2:1::162 | 6 | 1698438862 | 1795025710 | EU | DE | Birken-Honigsessen | 60729 | tor-exit-162.relayon.org |
-| 2a0b:f4c2:1::161 | 6 | 1698438862 | 1795025710 | EU | DE | Birken-Honigsessen | 60729 | tor-exit-161.relayon.org |
-| 2a0b:f4c2:1::160 | 6 | 1698438316 | 1795025710 | EU | DE | Birken-Honigsessen | 60729 | tor-exit-160.relayon.org |
-| 2a0b:f4c2:1::159 | 6 | 1698438316 | 1795025710 | EU | DE | Birken-Honigsessen | 60729 | tor-exit-159.relayon.org |
-| 2a0b:f4c2:1::158 | 6 | 1698438316 | 1795025710 | EU | DE | Birken-Honigsessen | 60729 | tor-exit-158.relayon.org |
-| 2a0b:f4c2:1::157 | 6 | 1698438316 | 1795025710 | EU | DE | Birken-Honigsessen | 60729 | tor-exit-157.relayon.org |
-| 2a0b:f4c2:1::156 | 6 | 1698438316 | 1795025710 | EU | DE | Birken-Honigsessen | 60729 | tor-exit-156.relayon.org |
-| 2a0b:f4c2:1::155 | 6 | 1698438861 | 1795025710 | EU | DE | Birken-Honigsessen | 60729 | tor-exit-155.relayon.org |
-| 2a0b:f4c2:1::154 | 6 | 1698438315 | 1795025710 | EU | DE | Birken-Honigsessen | 60729 | tor-exit-154.relayon.org |
-| 2a0b:f4c2:1::153 | 6 | 1698438315 | 1795025710 | EU | DE | Birken-Honigsessen | 60729 | tor-exit-153.relayon.org |
-| 2a0b:f4c2:1::152 | 6 | 1698438315 | 1795025709 | EU | DE | Birken-Honigsessen | 60729 | tor-exit-152.relayon.org |
-| 2a0b:f4c2:1::151 | 6 | 1698438315 | 1795025709 | EU | DE | Birken-Honigsessen | 60729 | tor-exit-151.relayon.org |
-| 2a0b:f4c2:1::150 | 6 | 1698438315 | 1795025709 | EU | DE | Birken-Honigsessen | 60729 | tor-exit-150.relayon.org |
-| 2a0b:f4c2:1::149 | 6 | 1698438315 | 1795025709 | EU | DE | Birken-Honigsessen | 60729 | tor-exit-149.relayon.org |
-| 2a0b:f4c2:1::148 | 6 | 1698438315 | 1795025709 | EU | DE | Birken-Honigsessen | 60729 | tor-exit-148.relayon.org |
-| 2a0b:f4c2:1::147 | 6 | 1698438315 | 1795025709 | EU | DE | Birken-Honigsessen | 60729 | tor-exit-147.relayon.org |
-| 2a0b:f4c2:1::146 | 6 | 1698438315 | 1795025709 | EU | DE | Birken-Honigsessen | 60729 | tor-exit-146.relayon.org |
-| 2a0b:f4c2:1::145 | 6 | 1698438315 | 1795025709 | EU | DE | Birken-Honigsessen | 60729 | tor-exit-145.relayon.org |
-| 2a0b:f4c2:1::144 | 6 | 1698438315 | 1795025709 | EU | DE | Birken-Honigsessen | 60729 | tor-exit-144.relayon.org |
-| 2a0b:f4c2:1::143 | 6 | 1698438315 | 1795025709 | EU | DE | Birken-Honigsessen | 60729 | tor-exit-143.relayon.org |
-| 2a0b:f4c2:1::142 | 6 | 1698438860 | 1795025709 | EU | DE | Birken-Honigsessen | 60729 | tor-exit-142.relayon.org |
-| 2a0b:f4c2:1::141 | 6 | 1698438315 | 1795025709 | EU | DE | Birken-Honigsessen | 60729 | tor-exit-141.relayon.org |
-| 2a0b:f4c2:1::140 | 6 | 1698438315 | 1795025709 | EU | DE | Birken-Honigsessen | 60729 | tor-exit-140.relayon.org |
-| 2a0b:f4c2:1::137 | 6 | 1698438314 | 1795025708 | EU | DE | Birken-Honigsessen | 60729 | tor-exit-137.relayon.org |
-| 2a0b:f4c2:1::135 | 6 | 1698438314 | 1795025708 | EU | DE | Birken-Honigsessen | 60729 | tor-exit-135.relayon.org |
-| 2a0b:f4c2:1::134 | 6 | 1698438314 | 1795025708 | EU | DE | Birken-Honigsessen | 60729 | tor-exit-134.relayon.org |
-| 2a0b:f4c2:1::133 | 6 | 1698438314 | 1795025708 | EU | DE | Birken-Honigsessen | 60729 | tor-exit-133.relayon.org |
-| 2a0b:f4c2:1::129 | 6 | 1698438314 | 1795025708 | EU | DE | Birken-Honigsessen | 60729 | tor-exit-129.relayon.org |
-| 2a0b:f4c2::31 | 6 | 1698438314 | 1795025708 | EU | DE | Birken-Honigsessen | 60729 | berlin01.tor-exit.artikel10.org |
-| 2a0b:f4c2::30 | 6 | 1698438314 | 1795025708 | EU | DE | Birken-Honigsessen | 60729 | berlin01.tor-exit.artikel10.org |
-| 2a0b:f4c2::29 | 6 | 1698438314 | 1795025708 | EU | DE | Birken-Honigsessen | 60729 | berlin01.tor-exit.artikel10.org |
-| 2a0b:f4c2::28 | 6 | 1698438314 | 1795025708 | EU | DE | Birken-Honigsessen | 60729 | berlin01.tor-exit.artikel10.org |
-| 2a0b:f4c2::27 | 6 | 1698438314 | 1795025708 | EU | DE | Birken-Honigsessen | 60729 | berlin01.tor-exit.artikel10.org |
-| 2a0b:f4c2::26 | 6 | 1698438314 | 1795025708 | EU | DE | Birken-Honigsessen | 60729 | berlin01.tor-exit.artikel10.org |
-| 2a0b:f4c2::25 | 6 | 1698438314 | 1795025708 | EU | DE | Birken-Honigsessen | 60729 | berlin01.tor-exit.artikel10.org |
-| 2a0b:f4c2::24 | 6 | 1698438313 | 1795025708 | EU | DE | Birken-Honigsessen | 60729 | berlin01.tor-exit.artikel10.org |
-| 2a0b:f4c2::23 | 6 | 1698438313 | 1795025707 | EU | DE | Birken-Honigsessen | 60729 | berlin01.tor-exit.artikel10.org |
-| 2a0b:f4c2::22 | 6 | 1698438313 | 1795025707 | EU | DE | Birken-Honigsessen | 60729 | berlin01.tor-exit.artikel10.org |
-| 2a0b:f4c2::21 | 6 | 1698438313 | 1795025707 | EU | DE | Birken-Honigsessen | 60729 | berlin01.tor-exit.artikel10.org |
-| 2a0b:f4c2::20 | 6 | 1698438313 | 1795025707 | EU | DE | Birken-Honigsessen | 60729 | berlin01.tor-exit.artikel10.org |
-| 2a0b:f4c2::19 | 6 | 1698438313 | 1795025707 | EU | DE | Birken-Honigsessen | 60729 | berlin01.tor-exit.artikel10.org |
-| 2a0b:f4c2::18 | 6 | 1698438313 | 1795025707 | EU | DE | Birken-Honigsessen | 60729 | berlin01.tor-exit.artikel10.org |
-| 2a0b:f4c2::17 | 6 | 1698438313 | 1795025707 | EU | DE | Birken-Honigsessen | 60729 | berlin01.tor-exit.artikel10.org |
-| 2a0b:f4c2::16 | 6 | 1698438313 | 1795025707 | EU | DE | Birken-Honigsessen | 60729 | berlin01.tor-exit.artikel10.org |
-| 2a0b:f4c2::15 | 6 | 1698438313 | 1795025707 | EU | DE | Birken-Honigsessen | 60729 | berlin01.tor-exit.artikel10.org |
-| 2a0b:f4c2::14 | 6 | 1698438313 | 1795025707 | EU | DE | Birken-Honigsessen | 60729 | berlin01.tor-exit.artikel10.org |
-| 2a0b:f4c2::13 | 6 | 1698438313 | 1795025707 | EU | DE | Birken-Honigsessen | 60729 | berlin01.tor-exit.artikel10.org |
-| 2a0b:f4c2::12 | 6 | 1698438313 | 1795025707 | EU | DE | Birken-Honigsessen | 60729 | berlin01.tor-exit.artikel10.org |
-| 2a0b:f4c2::11 | 6 | 1698438313 | 1795025707 | EU | DE | Birken-Honigsessen | 60729 | berlin01.tor-exit.artikel10.org |
-| 2a0b:f4c2::10 | 6 | 1698438313 | 1795025707 | EU | DE | Birken-Honigsessen | 60729 | berlin01.tor-exit.artikel10.org |
-| 2a0b:f4c2::9 | 6 | 1698438312 | 1795025706 | EU | DE | Birken-Honigsessen | 60729 | berlin01.tor-exit.artikel10.org |
-| 2a0b:f4c2::8 | 6 | 1698438312 | 1795025706 | EU | DE | Birken-Honigsessen | 60729 | berlin01.tor-exit.artikel10.org |
-| 2a0b:f4c2::7 | 6 | 1698438312 | 1795025706 | EU | DE | Birken-Honigsessen | 60729 | berlin01.tor-exit.artikel10.org |
-| 2a0b:f4c2::6 | 6 | 1698438312 | 1795025706 | EU | DE | Birken-Honigsessen | 60729 | berlin01.tor-exit.artikel10.org |
-| 2a0b:f4c2::5 | 6 | 1698438312 | 1795025706 | EU | DE | Birken-Honigsessen | 60729 | berlin01.tor-exit.artikel10.org |
-| 2a0b:f4c2::4 | 6 | 1698438312 | 1795025706 | EU | DE | Birken-Honigsessen | 60729 | berlin01.tor-exit.artikel10.org |
-| 2a0b:f4c2::3 | 6 | 1698438312 | 1795025706 | EU | DE | Birken-Honigsessen | 60729 | berlin01.tor-exit.artikel10.org |
-| 2a0b:f4c2::2 | 6 | 1698438312 | 1795025706 | EU | DE | Birken-Honigsessen | 60729 | berlin01.tor-exit.artikel10.org |
-| 2a0b:f4c2::1 | 6 | 1698438312 | 1795025706 | EU | DE | Birken-Honigsessen | 60729 | berlin01.tor-exit.artikel10.org |
-| 2a0b:f4c2:: | 6 | 1698438312 | 1795025706 | EU | DE | Birken-Honigsessen | 60729 | berlin01.tor-exit.artikel10.org |
+| 2a0b:f4c2:4::110 | 6 | 1706118588 | 1795025716 | EU | DE | Bonn | 60729 |  |
+| 2a0b:f4c2:4::109 | 6 | 1706118586 | 1795025716 | EU | DE | Bonn | 60729 |  |
+| 2a0b:f4c2:4::108 | 6 | 1706118586 | 1795025716 | EU | DE | Bonn | 60729 |  |
+| 2a0b:f4c2:4::107 | 6 | 1706118585 | 1795025716 | EU | DE | Bonn | 60729 |  |
+| 2a0b:f4c2:4::106 | 6 | 1706118578 | 1795025716 | EU | DE | Bonn | 60729 |  |
+| 2a0b:f4c2:4::105 | 6 | 1706118578 | 1795025716 | EU | DE | Bonn | 60729 |  |
+| 2a0b:f4c2:4::104 | 6 | 1706118578 | 1795025716 | EU | DE | Bonn | 60729 |  |
+| 2a0b:f4c2:4::103 | 6 | 1706118578 | 1795025715 | EU | DE | Bonn | 60729 |  |
+| 2a0b:f4c2:4::102 | 6 | 1706118577 | 1795025715 | EU | DE | Bonn | 60729 |  |
+| 2a0b:f4c2:4::101 | 6 | 1706118577 | 1795025715 | EU | DE | Bonn | 60729 |  |
+| 2a0b:f4c2:4::100 | 6 | 1706118577 | 1795025715 | EU | DE | Bonn | 60729 |  |
+| 2a0b:f4c2:4::99 | 6 | 1706118577 | 1795025715 | EU | DE | Bonn | 60729 |  |
+| 2a0b:f4c2:4::98 | 6 | 1706118577 | 1795025715 | EU | DE | Bonn | 60729 |  |
+| 2a0b:f4c2:4::97 | 6 | 1706118577 | 1795025715 | EU | DE | Bonn | 60729 |  |
+| 2a0b:f4c2:4::96 | 6 | 1706118577 | 1795025715 | EU | DE | Bonn | 60729 |  |
+| 2a0b:f4c2:2::63 | 6 | 1698438318 | 1795025715 | EU | DE | Bonn | 60729 | tor-exit-63.for-privacy.net |
+| 2a0b:f4c2:2::62 | 6 | 1698438318 | 1795025715 | EU | DE | Bonn | 60729 | tor-exit-62.for-privacy.net |
+| 2a0b:f4c2:2::61 | 6 | 1698438318 | 1795025715 | EU | DE | Bonn | 60729 | tor-exit-61.for-privacy.net |
+| 2a0b:f4c2:2::60 | 6 | 1698438318 | 1795025714 | EU | DE | Bonn | 60729 | tor-exit-60.for-privacy.net |
+| 2a0b:f4c2:2::59 | 6 | 1698438318 | 1795025714 | EU | DE | Bonn | 60729 | tor-exit-59.for-privacy.net |
+| 2a0b:f4c2:2::58 | 6 | 1698438318 | 1795025714 | EU | DE | Bonn | 60729 | tor-exit-58.for-privacy.net |
+| 2a0b:f4c2:2::57 | 6 | 1698438318 | 1795025714 | EU | DE | Bonn | 60729 | tor-exit-57.for-privacy.net |
+| 2a0b:f4c2:2::56 | 6 | 1698438318 | 1795025714 | EU | DE | Bonn | 60729 | tor-exit-56.for-privacy.net |
+| 2a0b:f4c2:2::55 | 6 | 1698438318 | 1795025714 | EU | DE | Bonn | 60729 | tor-exit-55.for-privacy.net |
+| 2a0b:f4c2:2::54 | 6 | 1698438318 | 1795025714 | EU | DE | Bonn | 60729 | tor-exit-54.for-privacy.net |
+| 2a0b:f4c2:2::53 | 6 | 1698438317 | 1795025714 | EU | DE | Bonn | 60729 | tor-exit-53.for-privacy.net |
+| 2a0b:f4c2:2::52 | 6 | 1698438317 | 1795025714 | EU | DE | Bonn | 60729 | tor-exit-52.for-privacy.net |
+| 2a0b:f4c2:2::51 | 6 | 1698438317 | 1795025714 | EU | DE | Bonn | 60729 | tor-exit-51.for-privacy.net |
+| 2a0b:f4c2:2::50 | 6 | 1698438317 | 1795025714 | EU | DE | Bonn | 60729 | tor-exit-50.for-privacy.net |
+| 2a0b:f4c2:2::49 | 6 | 1698438317 | 1795025714 | EU | DE | Bonn | 60729 | tor-exit-49.for-privacy.net |
+| 2a0b:f4c2:2::48 | 6 | 1698438317 | 1795025714 | EU | DE | Bonn | 60729 | tor-exit-48.for-privacy.net |
+| 2a0b:f4c2:2::47 | 6 | 1698438317 | 1795025714 | EU | DE | Bonn | 60729 | tor-exit-47.for-privacy.net |
+| 2a0b:f4c2:2::46 | 6 | 1698438317 | 1795025713 | EU | DE | Bonn | 60729 | tor-exit-46.for-privacy.net |
+| 2a0b:f4c2:2::45 | 6 | 1698438317 | 1795025713 | EU | DE | Bonn | 60729 | tor-exit-45.for-privacy.net |
+| 2a0b:f4c2:2::44 | 6 | 1698438317 | 1795025713 | EU | DE | Bonn | 60729 | tor-exit-44.for-privacy.net |
+| 2a0b:f4c2:2::43 | 6 | 1698438317 | 1795025713 | EU | DE | Bonn | 60729 | tor-exit-43.for-privacy.net |
+| 2a0b:f4c2:2::42 | 6 | 1698438317 | 1795025713 | EU | DE | Bonn | 60729 | tor-exit-42.for-privacy.net |
+| 2a0b:f4c2:2::41 | 6 | 1698438317 | 1795025713 | EU | DE | Bonn | 60729 | tor-exit-41.for-privacy.net |
+| 2a0b:f4c2:2::40 | 6 | 1698438317 | 1795025713 | EU | DE | Bonn | 60729 | tor-exit-40.for-privacy.net |
+| 2a0b:f4c2:2::39 | 6 | 1698438317 | 1795025713 | EU | DE | Bonn | 60729 | tor-exit-39.for-privacy.net |
+| 2a0b:f4c2:2::38 | 6 | 1698438316 | 1795025713 | EU | DE | Bonn | 60729 | tor-exit-38.for-privacy.net |
+| 2a0b:f4c2:2::37 | 6 | 1698438316 | 1795025713 | EU | DE | Bonn | 60729 | tor-exit-37.for-privacy.net |
+| 2a0b:f4c2:2::36 | 6 | 1698438316 | 1795025713 | EU | DE | Bonn | 60729 | tor-exit-36.for-privacy.net |
+| 2a0b:f4c2:2::35 | 6 | 1698438316 | 1795025713 | EU | DE | Bonn | 60729 | tor-exit-35.for-privacy.net |
+| 2a0b:f4c2:2::34 | 6 | 1698438316 | 1795025713 | EU | DE | Bonn | 60729 | tor-exit-34.for-privacy.net |
+| 2a0b:f4c2:2::33 | 6 | 1698438316 | 1795025712 | EU | DE | Bonn | 60729 | tor-exit-33.for-privacy.net |
+| 2a0b:f4c2:2::32 | 6 | 1698438316 | 1795025712 | EU | DE | Bonn | 60729 | tor-exit-32.for-privacy.net |
+| 2a0b:f4c2:1::191 | 6 | 1698438316 | 1795025712 | EU | DE | Bonn | 60729 | tor-exit-191.relayon.org |
+| 2a0b:f4c2:1::190 | 6 | 1698438863 | 1795025712 | EU | DE | Bonn | 60729 | tor-exit-190.relayon.org |
+| 2a0b:f4c2:1::189 | 6 | 1698507187 | 1795025712 | EU | DE | Bonn | 60729 | tor-exit-189.relayon.org |
+| 2a0b:f4c2:1::188 | 6 | 1698438863 | 1795025712 | EU | DE | Bonn | 60729 | tor-exit-188.relayon.org |
+| 2a0b:f4c2:1::187 | 6 | 1698438863 | 1795025712 | EU | DE | Bonn | 60729 | tor-exit-187.relayon.org |
+| 2a0b:f4c2:1::186 | 6 | 1698507187 | 1795025712 | EU | DE | Bonn | 60729 | tor-exit-186.relayon.org |
+| 2a0b:f4c2:1::185 | 6 | 1698507186 | 1795025712 | EU | DE | Bonn | 60729 | tor-exit-185.relayon.org |
+| 2a0b:f4c2:1::184 | 6 | 1698438863 | 1795025712 | EU | DE | Bonn | 60729 | tor-exit-184.relayon.org |
+| 2a0b:f4c2:1::183 | 6 | 1698438863 | 1795025712 | EU | DE | Bonn | 60729 | tor-exit-183.relayon.org |
+| 2a0b:f4c2:1::182 | 6 | 1698438863 | 1795025712 | EU | DE | Bonn | 60729 | tor-exit-182.relayon.org |
+| 2a0b:f4c2:1::181 | 6 | 1698438316 | 1795025712 | EU | DE | Bonn | 60729 | tor-exit-181.relayon.org |
+| 2a0b:f4c2:1::180 | 6 | 1698438863 | 1795025711 | EU | DE | Bonn | 60729 | tor-exit-180.relayon.org |
+| 2a0b:f4c2:1::179 | 6 | 1698438862 | 1795025711 | EU | DE | Bonn | 60729 | tor-exit-179.relayon.org |
+| 2a0b:f4c2:1::178 | 6 | 1698438862 | 1795025711 | EU | DE | Bonn | 60729 | tor-exit-178.relayon.org |
+| 2a0b:f4c2:1::177 | 6 | 1698507186 | 1795025711 | EU | DE | Bonn | 60729 | tor-exit-177.relayon.org |
+| 2a0b:f4c2:1::176 | 6 | 1698438862 | 1795025711 | EU | DE | Bonn | 60729 | tor-exit-176.relayon.org |
+| 2a0b:f4c2:1::175 | 6 | 1698438862 | 1795025711 | EU | DE | Bonn | 60729 | tor-exit-175.relayon.org |
+| 2a0b:f4c2:1::174 | 6 | 1698438316 | 1795025711 | EU | DE | Bonn | 60729 | tor-exit-174.relayon.org |
+| 2a0b:f4c2:1::173 | 6 | 1698438316 | 1795025711 | EU | DE | Bonn | 60729 | tor-exit-173.relayon.org |
+| 2a0b:f4c2:1::172 | 6 | 1698507186 | 1795025711 | EU | DE | Bonn | 60729 | tor-exit-172.relayon.org |
+| 2a0b:f4c2:1::171 | 6 | 1698438862 | 1795025711 | EU | DE | Bonn | 60729 | tor-exit-171.relayon.org |
+| 2a0b:f4c2:1::170 | 6 | 1698438862 | 1795025711 | EU | DE | Bonn | 60729 | tor-exit-170.relayon.org |
+| 2a0b:f4c2:1::169 | 6 | 1698438862 | 1795025711 | EU | DE | Bonn | 60729 | tor-exit-169.relayon.org |
+| 2a0b:f4c2:1::168 | 6 | 1698507185 | 1795025711 | EU | DE | Bonn | 60729 | tor-exit-168.relayon.org |
+| 2a0b:f4c2:1::166 | 6 | 1698438862 | 1795025710 | EU | DE | Bonn | 60729 | tor-exit-166.relayon.org |
+| 2a0b:f4c2:1::165 | 6 | 1698438862 | 1795025710 | EU | DE | Bonn | 60729 | tor-exit-165.relayon.org |
+| 2a0b:f4c2:1::164 | 6 | 1698507185 | 1795025710 | EU | DE | Bonn | 60729 | tor-exit-164.relayon.org |
+| 2a0b:f4c2:1::163 | 6 | 1698438862 | 1795025710 | EU | DE | Bonn | 60729 | tor-exit-163.relayon.org |
+| 2a0b:f4c2:1::162 | 6 | 1698438862 | 1795025710 | EU | DE | Bonn | 60729 | tor-exit-162.relayon.org |
+| 2a0b:f4c2:1::161 | 6 | 1698438862 | 1795025710 | EU | DE | Bonn | 60729 | tor-exit-161.relayon.org |
+| 2a0b:f4c2:1::160 | 6 | 1698438316 | 1795025710 | EU | DE | Bonn | 60729 | tor-exit-160.relayon.org |
+| 2a0b:f4c2:1::159 | 6 | 1698438316 | 1795025710 | EU | DE | Bonn | 60729 | tor-exit-159.relayon.org |
+| 2a0b:f4c2:1::158 | 6 | 1698438316 | 1795025710 | EU | DE | Bonn | 60729 | tor-exit-158.relayon.org |
+| 2a0b:f4c2:1::157 | 6 | 1698438316 | 1795025710 | EU | DE | Bonn | 60729 | tor-exit-157.relayon.org |
+| 2a0b:f4c2:1::156 | 6 | 1698438316 | 1795025710 | EU | DE | Bonn | 60729 | tor-exit-156.relayon.org |
+| 2a0b:f4c2:1::155 | 6 | 1698438861 | 1795025710 | EU | DE | Bonn | 60729 | tor-exit-155.relayon.org |
+| 2a0b:f4c2:1::154 | 6 | 1698438315 | 1795025710 | EU | DE | Bonn | 60729 | tor-exit-154.relayon.org |
+| 2a0b:f4c2:1::153 | 6 | 1698438315 | 1795025710 | EU | DE | Bonn | 60729 | tor-exit-153.relayon.org |
+| 2a0b:f4c2:1::152 | 6 | 1698438315 | 1795025709 | EU | DE | Bonn | 60729 | tor-exit-152.relayon.org |
+| 2a0b:f4c2:1::151 | 6 | 1698438315 | 1795025709 | EU | DE | Bonn | 60729 | tor-exit-151.relayon.org |
+| 2a0b:f4c2:1::150 | 6 | 1698438315 | 1795025709 | EU | DE | Bonn | 60729 | tor-exit-150.relayon.org |
+| 2a0b:f4c2:1::149 | 6 | 1698438315 | 1795025709 | EU | DE | Bonn | 60729 | tor-exit-149.relayon.org |
+| 2a0b:f4c2:1::148 | 6 | 1698438315 | 1795025709 | EU | DE | Bonn | 60729 | tor-exit-148.relayon.org |
+| 2a0b:f4c2:1::147 | 6 | 1698438315 | 1795025709 | EU | DE | Bonn | 60729 | tor-exit-147.relayon.org |
+| 2a0b:f4c2:1::146 | 6 | 1698438315 | 1795025709 | EU | DE | Bonn | 60729 | tor-exit-146.relayon.org |
+| 2a0b:f4c2:1::145 | 6 | 1698438315 | 1795025709 | EU | DE | Bonn | 60729 | tor-exit-145.relayon.org |
+| 2a0b:f4c2:1::144 | 6 | 1698438315 | 1795025709 | EU | DE | Bonn | 60729 | tor-exit-144.relayon.org |
+| 2a0b:f4c2:1::143 | 6 | 1698438315 | 1795025709 | EU | DE | Bonn | 60729 | tor-exit-143.relayon.org |
+| 2a0b:f4c2:1::142 | 6 | 1698438860 | 1795025709 | EU | DE | Bonn | 60729 | tor-exit-142.relayon.org |
+| 2a0b:f4c2:1::141 | 6 | 1698438315 | 1795025709 | EU | DE | Bonn | 60729 | tor-exit-141.relayon.org |
+| 2a0b:f4c2:1::140 | 6 | 1698438315 | 1795025709 | EU | DE | Bonn | 60729 | tor-exit-140.relayon.org |
+| 2a0b:f4c2:1::137 | 6 | 1698438314 | 1795025708 | EU | DE | Bonn | 60729 | tor-exit-137.relayon.org |
+| 2a0b:f4c2:1::135 | 6 | 1698438314 | 1795025708 | EU | DE | Bonn | 60729 | tor-exit-135.relayon.org |
+| 2a0b:f4c2:1::134 | 6 | 1698438314 | 1795025708 | EU | DE | Bonn | 60729 | tor-exit-134.relayon.org |
+| 2a0b:f4c2:1::133 | 6 | 1698438314 | 1795025708 | EU | DE | Bonn | 60729 | tor-exit-133.relayon.org |
+| 2a0b:f4c2:1::129 | 6 | 1698438314 | 1795025708 | EU | DE | Bonn | 60729 | tor-exit-129.relayon.org |
+| 2a0b:f4c2::31 | 6 | 1698438314 | 1795025708 | EU | DE | Bonn | 60729 | berlin01.tor-exit.artikel10.org |
+| 2a0b:f4c2::30 | 6 | 1698438314 | 1795025708 | EU | DE | Bonn | 60729 | berlin01.tor-exit.artikel10.org |
+| 2a0b:f4c2::29 | 6 | 1698438314 | 1795025708 | EU | DE | Bonn | 60729 | berlin01.tor-exit.artikel10.org |
+| 2a0b:f4c2::28 | 6 | 1698438314 | 1795025708 | EU | DE | Bonn | 60729 | berlin01.tor-exit.artikel10.org |
+| 2a0b:f4c2::27 | 6 | 1698438314 | 1795025708 | EU | DE | Bonn | 60729 | berlin01.tor-exit.artikel10.org |
+| 2a0b:f4c2::26 | 6 | 1698438314 | 1795025708 | EU | DE | Bonn | 60729 | berlin01.tor-exit.artikel10.org |
+| 2a0b:f4c2::25 | 6 | 1698438314 | 1795025708 | EU | DE | Bonn | 60729 | berlin01.tor-exit.artikel10.org |
+| 2a0b:f4c2::24 | 6 | 1698438313 | 1795025708 | EU | DE | Bonn | 60729 | berlin01.tor-exit.artikel10.org |
+| 2a0b:f4c2::23 | 6 | 1698438313 | 1795025707 | EU | DE | Bonn | 60729 | berlin01.tor-exit.artikel10.org |
+| 2a0b:f4c2::22 | 6 | 1698438313 | 1795025707 | EU | DE | Bonn | 60729 | berlin01.tor-exit.artikel10.org |
+| 2a0b:f4c2::21 | 6 | 1698438313 | 1795025707 | EU | DE | Bonn | 60729 | berlin01.tor-exit.artikel10.org |
+| 2a0b:f4c2::20 | 6 | 1698438313 | 1795025707 | EU | DE | Bonn | 60729 | berlin01.tor-exit.artikel10.org |
+| 2a0b:f4c2::19 | 6 | 1698438313 | 1795025707 | EU | DE | Bonn | 60729 | berlin01.tor-exit.artikel10.org |
+| 2a0b:f4c2::18 | 6 | 1698438313 | 1795025707 | EU | DE | Bonn | 60729 | berlin01.tor-exit.artikel10.org |
+| 2a0b:f4c2::17 | 6 | 1698438313 | 1795025707 | EU | DE | Bonn | 60729 | berlin01.tor-exit.artikel10.org |
+| 2a0b:f4c2::16 | 6 | 1698438313 | 1795025707 | EU | DE | Bonn | 60729 | berlin01.tor-exit.artikel10.org |
+| 2a0b:f4c2::15 | 6 | 1698438313 | 1795025707 | EU | DE | Bonn | 60729 | berlin01.tor-exit.artikel10.org |
+| 2a0b:f4c2::14 | 6 | 1698438313 | 1795025707 | EU | DE | Bonn | 60729 | berlin01.tor-exit.artikel10.org |
+| 2a0b:f4c2::13 | 6 | 1698438313 | 1795025707 | EU | DE | Bonn | 60729 | berlin01.tor-exit.artikel10.org |
+| 2a0b:f4c2::12 | 6 | 1698438313 | 1795025707 | EU | DE | Bonn | 60729 | berlin01.tor-exit.artikel10.org |
+| 2a0b:f4c2::11 | 6 | 1698438313 | 1795025707 | EU | DE | Bonn | 60729 | berlin01.tor-exit.artikel10.org |
+| 2a0b:f4c2::10 | 6 | 1698438313 | 1795025707 | EU | DE | Bonn | 60729 | berlin01.tor-exit.artikel10.org |
+| 2a0b:f4c2::9 | 6 | 1698438312 | 1795025706 | EU | DE | Bonn | 60729 | berlin01.tor-exit.artikel10.org |
+| 2a0b:f4c2::8 | 6 | 1698438312 | 1795025706 | EU | DE | Bonn | 60729 | berlin01.tor-exit.artikel10.org |
+| 2a0b:f4c2::7 | 6 | 1698438312 | 1795025706 | EU | DE | Bonn | 60729 | berlin01.tor-exit.artikel10.org |
+| 2a0b:f4c2::6 | 6 | 1698438312 | 1795025706 | EU | DE | Bonn | 60729 | berlin01.tor-exit.artikel10.org |
+| 2a0b:f4c2::5 | 6 | 1698438312 | 1795025706 | EU | DE | Bonn | 60729 | berlin01.tor-exit.artikel10.org |
+| 2a0b:f4c2::4 | 6 | 1698438312 | 1795025706 | EU | DE | Bonn | 60729 | berlin01.tor-exit.artikel10.org |
+| 2a0b:f4c2::3 | 6 | 1698438312 | 1795025706 | EU | DE | Bonn | 60729 | berlin01.tor-exit.artikel10.org |
+| 2a0b:f4c2::2 | 6 | 1698438312 | 1795025706 | EU | DE | Bonn | 60729 | berlin01.tor-exit.artikel10.org |
+| 2a0b:f4c2::1 | 6 | 1698438312 | 1795025706 | EU | DE | Bonn | 60729 | berlin01.tor-exit.artikel10.org |
+| 2a0b:f4c2:: | 6 | 1698438312 | 1795025706 | EU | DE | Bonn | 60729 | berlin01.tor-exit.artikel10.org |
 | 2a0b:f4c0:16c:16::1 | 6 | 1698438311 | 1795025706 | EU | DE |  | 205100 | tor-exit-16.zbau.f3netze.de |
 | 2a0b:f4c0:16c:15::1 | 6 | 1698438311 | 1795025706 | EU | DE |  | 205100 | tor-exit-15.zbau.f3netze.de |
 | 2a0b:f4c0:16c:14::1 | 6 | 1698438311 | 1795025706 | EU | DE |  | 205100 | tor-exit-14.zbau.f3netze.de |
@@ -654,7 +654,7 @@ Those IPs are not guaranteed to be tor nodes, but they were seen as tor nodes wi
 | 2a03:4000:6:102b:c457:f3ff:feb0:a6d0 | 6 | 1698438302 | 1795025695 | EU | DE | Nuremberg | 197540 |  |
 | 2a03:4000:6:614::1 | 6 | 1792173830 | 1795025695 | EU | DE | Nuremberg | 197540 |  |
 | 2a03:4000:5:65b:388a:15ff:fedc:30d6 | 6 | 1698438302 | 1795025695 | EU | DE | Nuremberg | 197540 |  |
-| 2a02:ed06::222 | 6 | 1698438302 | 1795025695 | EU | NO | Oslo | 50304 |  |
+| 2a02:ed06::222 | 6 | 1698438302 | 1795025695 | EU | NO |  | 50304 |  |
 | 2a02:c207:2322:2757::1 | 6 | 1775991792 | 1795025695 | EU | FR | Lauterbourg | 51167 | vps7.fibraservi.eu |
 | 2a02:c204:2195:2012::1 | 6 | 1729983784 | 1795025695 | EU | GB | Portsmouth | 51167 |  |
 | 2a02:8010:677e:f9d0:215:5dff:fe01:210c | 6 | 1709522267 | 1795025695 | EU | GB | Sutton | 13037 |  |
@@ -945,7 +945,7 @@ Those IPs are not guaranteed to be tor nodes, but they were seen as tor nodes wi
 | 2605:6400:10:1008:1111:1111:1111:1111 | 6 | 1700249216 | 1795025674 | NA | US | Staten Island | 53667 | tor-exit.cyberjake.xyz |
 | 2605:6400:10:1ab:2605:6400:10:1ab | 6 | 1709270183 | 1795025674 | NA | US | Staten Island | 53667 | tor-exit-http-readme.hackb.2mpd.com |
 | 2604:e580:ffff:ff00::85 | 6 | 1786039398 | 1795025674 | NA | US |  | 2900 |  |
-| 2604:b480:3:6::2 | 6 | 1698438282 | 1795025674 | NA | US |  | 46841 | ghatanothoa.unzane.com |
+| 2604:b480:3:6::2 | 6 | 1698438282 | 1795025674 | NA | US | Springfield | 46841 | ghatanothoa.unzane.com |
 | 2604:2dc0:202:300::ed3 | 6 | 1698438282 | 1795025674 | NA | US |  | 16276 | tor2.teitel.net |
 | 2604:2280:dead:beef::1:27 | 6 | 1792951408 | 1795025674 | NA | US |  |  |  |
 | 2602:ff16:3::1:3c0:0:1 | 6 | 1737547343 | 1795025674 | NA | US |  | 29802 |  |
@@ -2020,7 +2020,7 @@ Those IPs are not guaranteed to be tor nodes, but they were seen as tor nodes wi
 | 168.222.241.36 | 4 | 1789408897 | 1795025595 | EU | SE | Stockholm |  | static.168-222-241-36.isp.st |
 | 167.179.117.50 | 4 | 1772776904 | 1795025594 | AS | JP | Minamishinagawa | 20473 | io6b.com |
 | 167.160.177.122 | 4 | 1794506525 | 1795025594 | NA | US |  | 8100 |  |
-| 166.70.207.2 | 4 | 1698437977 | 1795025594 | NA | US | Orem | 6315 | this.is.a.tor.node.xmission.com |
+| 166.70.207.2 | 4 | 1698437977 | 1795025594 | NA | US | Salt Lake City | 6315 | this.is.a.tor.node.xmission.com |
 | 165.73.242.163 | 4 | 1698437993 | 1795025594 | AF | ZA |  | 40676 |  |
 | 162.251.5.152 | 4 | 1698437945 | 1795025594 | NA | US | Portland | 46841 | ghatanothoa.unzane.com |
 | 162.216.18.62 | 4 | 1726412493 | 1795025594 | NA | US | Cedar Knolls | 63949 | popeye.relaymagic.org |
