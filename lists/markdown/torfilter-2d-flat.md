@@ -4,7 +4,7 @@ Last seen within 48 hours
 
 Count : 2293
 
-Generated: 2026-11-20T06:00:09.555Z
+Generated: 2026-11-20T07:00:07.154Z
 
 Those IPs are not guaranteed to be tor nodes, but they were seen as tor nodes within the last 48 hours. Use at your own risk, This is NOT a abuse feed, This feed is made for sitemasters to detect traffic from tor nodes, this is the only purpose of this feed
 
@@ -945,7 +945,7 @@ Those IPs are not guaranteed to be tor nodes, but they were seen as tor nodes wi
 | 2605:6400:10:1008:1111:1111:1111:1111 | 6 | 1700249216 | 1795111440 | NA | US | Staten Island | 53667 | tor-exit.cyberjake.xyz |
 | 2605:6400:10:1ab:2605:6400:10:1ab | 6 | 1709270183 | 1795111440 | NA | US | Staten Island | 53667 | tor-exit-http-readme.hackb.2mpd.com |
 | 2604:e580:ffff:ff00::85 | 6 | 1786039398 | 1795111440 | NA | US |  | 2900 |  |
-| 2604:b480:3:6::2 | 6 | 1698438282 | 1795111440 | NA | US | Springfield | 46841 | ghatanothoa.unzane.com |
+| 2604:b480:3:6::2 | 6 | 1698438282 | 1795111440 | NA | US |  | 46841 | ghatanothoa.unzane.com |
 | 2604:2dc0:202:300::ed3 | 6 | 1698438282 | 1795111440 | NA | US |  | 16276 | tor2.teitel.net |
 | 2604:2280:dead:beef::1:27 | 6 | 1792951408 | 1795111440 | NA | US |  |  |  |
 | 2602:ff16:3::1:3c0:0:1 | 6 | 1737547343 | 1795111440 | NA | US |  | 29802 |  |
@@ -2015,7 +2015,7 @@ Those IPs are not guaranteed to be tor nodes, but they were seen as tor nodes wi
 | 168.222.241.36 | 4 | 1789408897 | 1795111362 | EU | SE | Stockholm |  | static.168-222-241-36.isp.st |
 | 167.179.117.50 | 4 | 1772776904 | 1795111362 | AS | JP | Minamishinagawa | 20473 | io6b.com |
 | 167.160.177.122 | 4 | 1794506525 | 1795111361 | NA | US |  | 8100 |  |
-| 166.70.207.2 | 4 | 1698437977 | 1795111361 | NA | US | Salt Lake City | 6315 | this.is.a.tor.node.xmission.com |
+| 166.70.207.2 | 4 | 1698437977 | 1795111361 | NA | US | Orem | 6315 | this.is.a.tor.node.xmission.com |
 | 165.73.242.163 | 4 | 1698437993 | 1795111361 | AF | ZA |  | 40676 |  |
 | 162.251.5.152 | 4 | 1698437945 | 1795111361 | NA | US | Portland | 46841 | ghatanothoa.unzane.com |
 | 162.216.18.62 | 4 | 1726412493 | 1795111361 | NA | US | Cedar Knolls | 63949 | popeye.relaymagic.org |
