@@ -4,7 +4,7 @@ Last seen within 48 hours
 
 Count : 2315
 
-Generated: 2026-11-21T06:00:09.528Z
+Generated: 2026-11-21T07:00:12.359Z
 
 Those IPs are not guaranteed to be tor nodes, but they were seen as tor nodes within the last 48 hours. Use at your own risk, This is NOT a abuse feed, This feed is made for sitemasters to detect traffic from tor nodes, this is the only purpose of this feed
 
@@ -73,7 +73,7 @@ Those IPs are not guaranteed to be tor nodes, but they were seen as tor nodes wi
 | 84.212.206.202 | 4 | 1787076118 | 1795197893 | EU | NO | Oslo | 41164 | cm-84.212.206.202.get.no |
 | 84.19.182.20 | 4 | 1698492505 | 1795197893 | EU | DE |  | 31103 | km21001-02.keymachine.de |
 | 84.16.224.227 | 4 | 1700026403 | 1795197893 | EU | DE |  | 28753 |  |
-| 82.71.108.163 | 4 | 1788026665 | 1795197893 | EU | GB | Fulham | 13037 | tor-exit.cellarnet.co.uk |
+| 82.71.108.163 | 4 | 1788026665 | 1795197893 | EU | GB | Norwich | 13037 | tor-exit.cellarnet.co.uk |
 | 82.39.155.191 | 4 | 1794679922 | 1795197893 | EU | SE | Kista | 5089 | 82.39.155.191.se.akhtar.tech |
 | 82.39.155.146 | 4 | 1793988121 | 1795197892 | EU | SE | Kista | 5089 | 82.39.155.146.se.akhtar.tech |
 | 82.221.139.190 | 4 | 1698438009 | 1795197892 | EU | IS |  | 50613 | tor-and-gnunet-readme.ageinghacker.net |
@@ -268,7 +268,7 @@ Those IPs are not guaranteed to be tor nodes, but they were seen as tor nodes wi
 | 37.114.50.27 | 4 | 1747090892 | 1795197878 | EU | DE |  | 60461 | 27.50.114.37.in-addr.arpa |
 | 37.114.50.18 | 4 | 1747090892 | 1795197878 | EU | DE |  | 60461 | 18.50.114.37.in-addr.arpa |
 | 37.114.50.142 | 4 | 1747090892 | 1795197878 | EU | DE |  | 60461 | 142.50.114.37.in-addr.arpa |
-| 35.0.127.52 | 4 | 1698437947 | 1795197878 | NA | US | Ann Arbor | 36375 | tor-exit.eecs.umich.edu |
+| 35.0.127.52 | 4 | 1698437947 | 1795197878 | NA | US | Novi | 36375 | tor-exit.eecs.umich.edu |
 | 31.76.103.207 | 4 | 1794421859 | 1795197878 | EU | FI | Helsinki | 12576 |  |
 | 31.56.4.49 | 4 | 1794074522 | 1795197878 | EU | DE |  | 31549 |  |
 | 31.40.204.151 | 4 | 1773806620 | 1795197878 | AS | TR | Istanbul |  | phobos |
@@ -1590,9 +1590,9 @@ Those IPs are not guaranteed to be tor nodes, but they were seen as tor nodes wi
 | 2001:67c:89c:702:1ce:1ce:babe:1 | 6 | 1698438262 | 1795197778 | EU | DK |  | 210731 | tor-project-exit1.dotsrc.org |
 | 2001:67c:89c:666::1 | 6 | 1698438262 | 1795197778 | EU | DK |  | 210731 | relay-02.torproject.net |
 | 2001:638:301:f732::150 | 6 | 1700589919 | 1795197778 | EU | DE | Fulda | 680 | tor.rz.hs-fulda.de |
-| 2001:620:20d0::24 | 6 | 1698438258 | 1795197778 | EU | CH | Chavannes | 559 | tor5e3.digitale-gesellschaft.ch |
-| 2001:620:20d0::23 | 6 | 1698438258 | 1795197778 | EU | CH | Chavannes | 559 | tor5e1.digitale-gesellschaft.ch |
-| 2001:5a8:601:17::16:8654 | 6 | 1795025625 | 1795197778 | NA | US | Alameda | 46375 |  |
+| 2001:620:20d0::24 | 6 | 1698438258 | 1795197778 | EU | CH | Lucerne | 559 | tor5e3.digitale-gesellschaft.ch |
+| 2001:620:20d0::23 | 6 | 1698438258 | 1795197778 | EU | CH | Lucerne | 559 | tor5e1.digitale-gesellschaft.ch |
+| 2001:5a8:601:17::16:8654 | 6 | 1795025625 | 1795197778 | NA | US | San Francisco | 46375 |  |
 | 200.122.181.2 | 4 | 1698437975 | 1795197778 | NA | CR | San José | 3790 |  |
 | 2.56.10.36 | 4 | 1725174125 | 1795197778 | EU | NL |  | 213373 |  |
 | 199.19.77.18 | 4 | 1792778563 | 1795197778 | EU | PL | Gdansk | 53340 | tor-exit.gda.pl.3k33.pl |
@@ -1989,7 +1989,7 @@ Those IPs are not guaranteed to be tor nodes, but they were seen as tor nodes wi
 | 167.179.117.50 | 4 | 1772776904 | 1795197748 | AS | JP | Minamishinagawa | 20473 | io6b.com |
 | 167.160.177.122 | 4 | 1794506525 | 1795197748 | NA | US |  | 8100 |  |
 | 166.88.117.52 | 4 | 1795197732 | 1795197748 | EU | DE | Frankfurt am Main | 18779 | 166-88-117-52.ip.evoxt.io |
-| 166.70.207.2 | 4 | 1698437977 | 1795197748 | NA | US | Orem | 6315 | this.is.a.tor.node.xmission.com |
+| 166.70.207.2 | 4 | 1698437977 | 1795197748 | NA | US | Salt Lake City | 6315 | this.is.a.tor.node.xmission.com |
 | 165.73.242.163 | 4 | 1698437993 | 1795197748 | AF | ZA |  | 40676 |  |
 | 162.251.5.152 | 4 | 1698437945 | 1795197748 | NA | US | Portland | 46841 | ghatanothoa.unzane.com |
 | 162.216.18.62 | 4 | 1726412493 | 1795197748 | NA | US | Cedar Knolls | 63949 | popeye.relaymagic.org |
