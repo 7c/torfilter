@@ -4,7 +4,7 @@ Last seen within 744 hours
 
 Count : 2625
 
-Generated: 2026-11-24T06:00:06.271Z
+Generated: 2026-11-24T07:00:08.306Z
 
 Those IPs are not guaranteed to be tor nodes, but they were seen as tor nodes within the last 744 hours. Use at your own risk, This is NOT a abuse feed, This feed is made for sitemasters to detect traffic from tor nodes, this is the only purpose of this feed
 
@@ -55,7 +55,7 @@ Those IPs are not guaranteed to be tor nodes, but they were seen as tor nodes wi
 | 91.206.26.26 | 4 | 1698437992 | 1795457086 | EU | PL |  | 51290 | tor.httpx.pl |
 | 91.203.144.194 | 4 | 1698437931 | 1795457086 | EU | UA | Kryvyi Rih | 45045 |  |
 | 91.132.144.59 | 4 | 1698437951 | 1795457086 | EU | DE | Nuremberg | 197540 | NurembergTor49.quetzalcoatl-relays.org |
-| 90.184.10.74 | 4 | 1783868666 | 1795457086 | EU | DK | Aarhus |  | x5ab80a4a.customers.hiper-net.dk |
+| 90.184.10.74 | 4 | 1783868666 | 1795457086 | EU | DK |  |  | x5ab80a4a.customers.hiper-net.dk |
 | 89.58.7.15 | 4 | 1790532124 | 1795457086 | EU | DE | Nuremberg | 197540 | exit04.tor-exit.org |
 | 89.58.41.156 | 4 | 1698437929 | 1795457086 | EU | DE | Nuremberg | 197540 | NurembergTor79.quetzalcoatl-relays.org |
 | 89.58.26.216 | 4 | 1698437927 | 1795457086 | EU | DE | Nuremberg | 197540 | NurembergTor78.quetzalcoatl-relays.org |
@@ -1393,7 +1393,7 @@ Those IPs are not guaranteed to be tor nodes, but they were seen as tor nodes wi
 | 209.141.46.203 | 4 | 1698437990 | 1795456987 | NA | US | Las Vegas | 53667 |  |
 | 209.141.45.141 | 4 | 1734022934 | 1795456987 | NA | US | Las Vegas | 53667 | pkckr59.cn |
 | 207.246.62.85 | 4 | 1786039309 | 1795456987 | NA | US |  | 2900 | tor-exit.breakpointingbad.net |
-| 206.206.192.178 | 4 | 1765321381 | 1795456987 | NA | US | Tempe | 2900 |  |
+| 206.206.192.178 | 4 | 1765321381 | 1795456987 | NA | US |  | 2900 |  |
 | 205.185.123.93 | 4 | 1698438005 | 1795456987 | NA | US | Las Vegas | 53667 |  |
 | 205.185.121.170 | 4 | 1698438005 | 1795456987 | NA | US | Las Vegas | 53667 |  |
 | 205.185.117.149 | 4 | 1698437984 | 1795456987 | NA | US | Las Vegas | 53667 | tor-exit.greektor.net |
@@ -1607,7 +1607,7 @@ Those IPs are not guaranteed to be tor nodes, but they were seen as tor nodes wi
 | 198.167.206.164 | 4 | 1704110934 | 1795456971 | EU | SE |  | 39287 | c6a7cea4.vpn.njalla.net |
 | 198.144.178.155 | 4 | 1795284130 | 1795456971 | NA | US | Elk Grove Village | 36352 | 198-144-178-155-host.colocrossing.com |
 | 195.88.74.206 | 4 | 1698437962 | 1795456971 | EU | BG |  | 48900 |  |
-| 195.47.238.50 | 4 | 1766206960 | 1795456971 | EU | SE |  | 30893 |  |
+| 195.47.238.50 | 4 | 1766206960 | 1795456971 | EU | SE | Stockholm | 30893 |  |
 | 195.20.205.214 | 4 | 1795456928 | 1795456971 | EU | NL |  | 62370 | tor-exit |
 | 195.176.3.24 | 4 | 1698437941 | 1795456971 | EU | CH | Zurich | 559 | tor5e3.digitale-gesellschaft.ch |
 | 195.176.3.23 | 4 | 1698437933 | 1795456971 | EU | CH | Zurich | 559 | tor5e1.digitale-gesellschaft.ch |
@@ -2560,7 +2560,7 @@ Those IPs are not guaranteed to be tor nodes, but they were seen as tor nodes wi
 | 15.235.9.234 | 4 | 1793211085 | 1793383314 | NA | CA |  | 16276 | proxmoxovh.iia.cl |
 | 79.99.78.99 | 4 | 1792951315 | 1793383312 | NA | US | Salt Lake City | 8851 |  |
 | 118.67.198.54 | 4 | 1792432913 | 1793383308 | OC | NZ | Auckland | 141226 | 118-67-198-54.rdns-d.quic.net.nz |
-| 118.67.196.83 | 4 | 1793124717 | 1793383308 | OC | NZ | Auckland | 141226 | 118-67-196-83.rdns-d.quic.net.nz |
+| 118.67.196.83 | 4 | 1793124717 | 1793383308 | OC | NZ | Wellington | 141226 | 118-67-196-83.rdns-d.quic.net.nz |
 | 172.81.131.139 | 4 | 1698437956 | 1793383291 | NA | US | Chicago | 27176 | bhsfm.bond |
 | 198.167.206.192 | 4 | 1703235979 | 1793383289 | EU | SE |  | 39287 | c6a7cec0.vpn.njalla.net |
 | 185.132.53.121 | 4 | 1768575740 | 1793383282 | EU | DE |  |  | tor-exit.nl.2cb.li |
@@ -2605,7 +2605,7 @@ Those IPs are not guaranteed to be tor nodes, but they were seen as tor nodes wi
 | 149.56.44.47 | 4 | 1698437929 | 1793124659 | NA | CA | Montreal | 16276 | 47.ip-149-56-44.net |
 | 2a12:bec0:164:1027:: | 6 | 1792951452 | 1793037857 | AS | JP | Tokyo |  |  |
 | 2a11:6100::72:4b6a:aa47:bd54:1d82 | 6 | 1792778660 | 1793037857 | EU | PL |  | 43641 |  |
-| 2407:8b00:1180:1500:be24:11ff:fe01:c271 | 6 | 1792432988 | 1793037799 | OC | NZ | Wellington | 64073 |  |
+| 2407:8b00:1180:1500:be24:11ff:fe01:c271 | 6 | 1792432988 | 1793037799 | OC | NZ | Auckland | 64073 |  |
 | 172.86.80.83 | 4 | 1792519316 | 1793037736 | AS | SG | Singapore | 46261 | 83.80.86.172.static.cloudzy.com |
 | 159.69.90.30 | 4 | 1792692122 | 1793037733 | EU | DE | Nuremberg | 24940 | static.30.90.69.159.clients.your-server.de |
 | 158.94.208.82 | 4 | 1792605729 | 1793037733 | EU | DE | Frankfurt am Main | 786 |  |

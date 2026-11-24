@@ -4,7 +4,7 @@ Last seen within 168 hours
 
 Count : 2362
 
-Generated: 2026-11-24T06:00:06.271Z
+Generated: 2026-11-24T07:00:08.306Z
 
 Those IPs are not guaranteed to be tor nodes, but they were seen as tor nodes within the last 168 hours. Use at your own risk, This is NOT a abuse feed, This feed is made for sitemasters to detect traffic from tor nodes, this is the only purpose of this feed
 
@@ -55,7 +55,7 @@ Those IPs are not guaranteed to be tor nodes, but they were seen as tor nodes wi
 | 91.206.26.26 | 4 | 1698437992 | 1795457086 | EU | PL |  | 51290 | tor.httpx.pl |
 | 91.203.144.194 | 4 | 1698437931 | 1795457086 | EU | UA | Kryvyi Rih | 45045 |  |
 | 91.132.144.59 | 4 | 1698437951 | 1795457086 | EU | DE | Nuremberg | 197540 | NurembergTor49.quetzalcoatl-relays.org |
-| 90.184.10.74 | 4 | 1783868666 | 1795457086 | EU | DK | Aarhus |  | x5ab80a4a.customers.hiper-net.dk |
+| 90.184.10.74 | 4 | 1783868666 | 1795457086 | EU | DK |  |  | x5ab80a4a.customers.hiper-net.dk |
 | 89.58.7.15 | 4 | 1790532124 | 1795457086 | EU | DE | Nuremberg | 197540 | exit04.tor-exit.org |
 | 89.58.41.156 | 4 | 1698437929 | 1795457086 | EU | DE | Nuremberg | 197540 | NurembergTor79.quetzalcoatl-relays.org |
 | 89.58.26.216 | 4 | 1698437927 | 1795457086 | EU | DE | Nuremberg | 197540 | NurembergTor78.quetzalcoatl-relays.org |
@@ -1393,7 +1393,7 @@ Those IPs are not guaranteed to be tor nodes, but they were seen as tor nodes wi
 | 209.141.46.203 | 4 | 1698437990 | 1795456987 | NA | US | Las Vegas | 53667 |  |
 | 209.141.45.141 | 4 | 1734022934 | 1795456987 | NA | US | Las Vegas | 53667 | pkckr59.cn |
 | 207.246.62.85 | 4 | 1786039309 | 1795456987 | NA | US |  | 2900 | tor-exit.breakpointingbad.net |
-| 206.206.192.178 | 4 | 1765321381 | 1795456987 | NA | US | Tempe | 2900 |  |
+| 206.206.192.178 | 4 | 1765321381 | 1795456987 | NA | US |  | 2900 |  |
 | 205.185.123.93 | 4 | 1698438005 | 1795456987 | NA | US | Las Vegas | 53667 |  |
 | 205.185.121.170 | 4 | 1698438005 | 1795456987 | NA | US | Las Vegas | 53667 |  |
 | 205.185.117.149 | 4 | 1698437984 | 1795456987 | NA | US | Las Vegas | 53667 | tor-exit.greektor.net |
@@ -1607,7 +1607,7 @@ Those IPs are not guaranteed to be tor nodes, but they were seen as tor nodes wi
 | 198.167.206.164 | 4 | 1704110934 | 1795456971 | EU | SE |  | 39287 | c6a7cea4.vpn.njalla.net |
 | 198.144.178.155 | 4 | 1795284130 | 1795456971 | NA | US | Elk Grove Village | 36352 | 198-144-178-155-host.colocrossing.com |
 | 195.88.74.206 | 4 | 1698437962 | 1795456971 | EU | BG |  | 48900 |  |
-| 195.47.238.50 | 4 | 1766206960 | 1795456971 | EU | SE |  | 30893 |  |
+| 195.47.238.50 | 4 | 1766206960 | 1795456971 | EU | SE | Stockholm | 30893 |  |
 | 195.20.205.214 | 4 | 1795456928 | 1795456971 | EU | NL |  | 62370 | tor-exit |
 | 195.176.3.24 | 4 | 1698437941 | 1795456971 | EU | CH | Zurich | 559 | tor5e3.digitale-gesellschaft.ch |
 | 195.176.3.23 | 4 | 1698437933 | 1795456971 | EU | CH | Zurich | 559 | tor5e1.digitale-gesellschaft.ch |
