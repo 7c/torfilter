@@ -4,7 +4,7 @@ Last seen within 24 hours
 
 Count : 2235
 
-Generated: 2026-11-25T06:00:07.684Z
+Generated: 2026-11-25T07:00:08.333Z
 
 Those IPs are not guaranteed to be tor nodes, but they were seen as tor nodes within the last 24 hours. Use at your own risk, This is NOT a abuse feed, This feed is made for sitemasters to detect traffic from tor nodes, this is the only purpose of this feed
 
@@ -1397,7 +1397,7 @@ Those IPs are not guaranteed to be tor nodes, but they were seen as tor nodes wi
 | 209.141.46.203 | 4 | 1698437990 | 1795543381 | NA | US | Las Vegas | 53667 |  |
 | 209.141.45.141 | 4 | 1734022934 | 1795543381 | NA | US | Las Vegas | 53667 | pkckr59.cn |
 | 207.246.62.85 | 4 | 1786039309 | 1795543381 | NA | US |  | 2900 | tor-exit.breakpointingbad.net |
-| 206.206.192.178 | 4 | 1765321381 | 1795543381 | NA | US |  | 2900 |  |
+| 206.206.192.178 | 4 | 1765321381 | 1795543381 | NA | US | Tempe | 2900 |  |
 | 205.185.123.93 | 4 | 1698438005 | 1795543381 | NA | US | Las Vegas | 53667 |  |
 | 205.185.121.170 | 4 | 1698438005 | 1795543381 | NA | US | Las Vegas | 53667 |  |
 | 205.185.117.149 | 4 | 1698437984 | 1795543381 | NA | US | Las Vegas | 53667 | tor-exit.greektor.net |
@@ -1680,7 +1680,7 @@ Those IPs are not guaranteed to be tor nodes, but they were seen as tor nodes wi
 | 185.67.82.114 | 4 | 1698437943 | 1795543360 | EU | FI | Espoo | 20904 | tor-ou.effi.org |
 | 185.56.171.94 | 4 | 1698437988 | 1795543360 | EU | IT |  | 3242 | pengy.lsd.cat |
 | 185.42.170.203 | 4 | 1698437982 | 1795543360 | EU | NO | Oslo | 62248 | exit01.tor.anduin.net |
-| 185.35.202.222 | 4 | 1698437935 | 1795543360 | EU | NO | Oslo | 50304 | tor-proxy-readme.hackeriet.no |
+| 185.35.202.222 | 4 | 1698437935 | 1795543360 | EU | NO |  | 50304 | tor-proxy-readme.hackeriet.no |
 | 185.34.33.2 | 4 | 1698437981 | 1795543360 | EU | FR |  | 28855 | tor.laquadrature.net |
 | 185.254.196.141 | 4 | 1698437942 | 1795543360 | EU | UA | Kyiv | 30860 | dedicated.vsys.host |
 | 185.252.232.218 | 4 | 1698437972 | 1795543360 | EU | FR | Lauterbourg | 51167 | vmi1347637.contaboserver.net |
@@ -1957,8 +1957,8 @@ Those IPs are not guaranteed to be tor nodes, but they were seen as tor nodes wi
 | 176.65.134.8 | 4 | 1763982213 | 1795543339 | EU | DE |  |  |  |
 | 176.65.134.79 | 4 | 1793728957 | 1795543339 | EU | DE |  |  | exit.dns.lgbt |
 | 176.58.121.177 | 4 | 1698437930 | 1795543339 | EU | GB | London | 63949 | golosa.info |
-| 176.118.193.33 | 4 | 1698437991 | 1795543339 | EU | AT |  | 44486 |  |
-| 176.118.193.106 | 4 | 1698438218 | 1795543339 | EU | AT |  | 44486 |  |
+| 176.118.193.33 | 4 | 1698437991 | 1795543339 | EU | DE | Frankfurt am Main | 44486 |  |
+| 176.118.193.106 | 4 | 1698438218 | 1795543339 | EU | DE | Frankfurt am Main | 44486 |  |
 | 173.255.198.243 | 4 | 1726376497 | 1795543339 | NA | US | Richardson | 63949 | brutus.relaymagic.org |
 | 172.93.49.243 | 4 | 1737547293 | 1795543339 | NA | US | New York | 29802 |  |
 | 172.93.1.27 | 4 | 1762934520 | 1795543339 | NA | US | Las Vegas | 53340 |  |
@@ -1996,7 +1996,7 @@ Those IPs are not guaranteed to be tor nodes, but they were seen as tor nodes wi
 | 168.222.241.36 | 4 | 1789408897 | 1795543337 | EU | SE | Stockholm |  | static.168-222-241-36.isp.st |
 | 167.160.177.122 | 4 | 1794506525 | 1795543337 | NA | US |  | 8100 |  |
 | 166.88.117.52 | 4 | 1795197732 | 1795543336 | EU | DE | Frankfurt am Main | 18779 | 166-88-117-52.ip.evoxt.io |
-| 166.70.207.2 | 4 | 1698437977 | 1795543336 | NA | US | Salt Lake City | 6315 | this.is.a.tor.node.xmission.com |
+| 166.70.207.2 | 4 | 1698437977 | 1795543336 | NA | US | Orem | 6315 | this.is.a.tor.node.xmission.com |
 | 165.73.242.163 | 4 | 1698437993 | 1795543336 | AF | ZA |  | 40676 |  |
 | 162.251.5.152 | 4 | 1698437945 | 1795543336 | NA | US | Portland | 46841 | ghatanothoa.unzane.com |
 | 162.216.18.62 | 4 | 1726412493 | 1795543336 | NA | US | Cedar Knolls | 63949 | popeye.relaymagic.org |
