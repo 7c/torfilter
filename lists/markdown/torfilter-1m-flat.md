@@ -4,7 +4,7 @@ Last seen within 744 hours
 
 Count : 2618
 
-Generated: 2026-11-27T06:00:05.809Z
+Generated: 2026-11-27T07:00:08.393Z
 
 Those IPs are not guaranteed to be tor nodes, but they were seen as tor nodes within the last 744 hours. Use at your own risk, This is NOT a abuse feed, This feed is made for sitemasters to detect traffic from tor nodes, this is the only purpose of this feed
 
@@ -1590,7 +1590,7 @@ Those IPs are not guaranteed to be tor nodes, but they were seen as tor nodes wi
 | 2001:638:301:f732::150 | 6 | 1700589919 | 1795716170 | EU | DE | Fulda | 680 | tor.rz.hs-fulda.de |
 | 2001:620:20d0::24 | 6 | 1698438258 | 1795716170 | EU | CH | Lucerne | 559 | tor5e3.digitale-gesellschaft.ch |
 | 2001:620:20d0::23 | 6 | 1698438258 | 1795716170 | EU | CH | Lucerne | 559 | tor5e1.digitale-gesellschaft.ch |
-| 2001:5a8:601:17::16:8654 | 6 | 1795025625 | 1795716170 | NA | US | San Francisco | 46375 |  |
+| 2001:5a8:601:17::16:8654 | 6 | 1795025625 | 1795716170 | NA | US | Richmond | 46375 |  |
 | 200.122.181.2 | 4 | 1698437975 | 1795716170 | NA | CR | San José | 3790 |  |
 | 2.56.119.122 | 4 | 1795456928 | 1795716170 | NA | US | Los Angeles | 35913 |  |
 | 2.56.10.36 | 4 | 1725174125 | 1795716170 | EU | NL |  | 213373 |  |
@@ -2075,7 +2075,7 @@ Those IPs are not guaranteed to be tor nodes, but they were seen as tor nodes wi
 | 139.162.208.30 | 4 | 1782003842 | 1795716135 | EU | GB | London | 63949 | 139-162-208-30.ip.linodeusercontent.com |
 | 138.59.18.110 | 4 | 1698437958 | 1795716135 | NA | CR |  | 52423 |  |
 | 138.197.124.121 | 4 | 1782792103 | 1795716134 | NA | US | Clifton | 14061 |  |
-| 137.220.120.168 | 4 | 1794939114 | 1795716134 | EU | GB | Leeds | 56478 | 137.220.120.168.bcube.co.uk |
+| 137.220.120.168 | 4 | 1794939114 | 1795716134 | EU | GB | Salford | 56478 | 137.220.120.168.bcube.co.uk |
 | 136.244.111.163 | 4 | 1698437978 | 1795716134 | EU | NL | Amsterdam | 20473 | 136.244.111.163.vultrusercontent.com |
 | 135.125.233.127 | 4 | 1704679314 | 1795716134 | EU | DE | Limburg an der Lahn | 16276 | vps-69130620.vps.ovh.net |
 | 130.12.182.73 | 4 | 1795716125 | 1795716134 | EU | SI |  |  |  |
@@ -2105,7 +2105,7 @@ Those IPs are not guaranteed to be tor nodes, but they were seen as tor nodes wi
 | 109.70.100.10 | 4 | 1698507085 | 1795716132 | EU | AT |  | 208323 | tor-exit-anonymizer.appliedprivacy.net |
 | 109.70.100.1 | 4 | 1698437930 | 1795716132 | EU | AT |  | 208323 | tor-exit-anonymizer.appliedprivacy.net |
 | 109.237.27.11 | 4 | 1753718493 | 1795716132 | EU | GB | London | 63949 | 109-237-27-11.ip.linodeusercontent.com |
-| 109.228.160.190 | 4 | 1741111295 | 1795716132 | EU | SE | Lilla Edet | 8473 | h-109-228-160-190.A444.priv.bahnhof.se |
+| 109.228.160.190 | 4 | 1741111295 | 1795716132 | EU | SE | Gothenburg | 8473 | h-109-228-160-190.A444.priv.bahnhof.se |
 | 109.169.33.163 | 4 | 1698437997 | 1795716132 | EU | GB |  | 20860 | tor-exit-readme.hands.com |
 | 108.61.189.136 | 4 | 1698437968 | 1795716132 | EU | NL | Amsterdam | 20473 | 108.61.189.136.vultrusercontent.com |
 | 107.189.8.181 | 4 | 1698437934 | 1795716132 | EU | LU | Luxembourg | 53667 | tor-exit-2.aa78i2efsewr0neeknk.xyz |
@@ -2294,7 +2294,7 @@ Those IPs are not guaranteed to be tor nodes, but they were seen as tor nodes wi
 | 178.162.175.5 | 4 | 1736063655 | 1795370518 | EU | NL |  | 60781 | hosted-by.leaseweb.com |
 | 45.66.35.122 | 4 | 1793988121 | 1795370514 | EU | NL | Amsterdam | 47482 | deb.bsdshell.sh |
 | 23.137.255.85 | 4 | 1759403087 | 1795370512 | NA | US | Liberty Lake | 210630 |  |
-| 144.6.236.131 | 4 | 1782097305 | 1795370509 | OC | AU | Sydney | 4764 |  |
+| 144.6.236.131 | 4 | 1782097305 | 1795370509 | OC | AU | Wollongong | 4764 |  |
 | 149.202.79.101 | 4 | 1698437962 | 1795370491 | EU | FR |  | 16276 | ns3016085.ip-149-202-79.eu |
 | 198.167.206.224 | 4 | 1705925363 | 1795370490 | EU | SE |  | 39287 | c6a7cee0.vpn.njalla.net |
 | 2a11:6100:0:1af3:: | 6 | 1794939260 | 1795284268 | EU | PL |  | 43641 |  |
