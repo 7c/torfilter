@@ -4,7 +4,7 @@ Last seen within 744 hours
 
 Count : 2613
 
-Generated: 2026-11-28T06:00:07.438Z
+Generated: 2026-11-28T07:00:08.419Z
 
 Those IPs are not guaranteed to be tor nodes, but they were seen as tor nodes within the last 744 hours. Use at your own risk, This is NOT a abuse feed, This feed is made for sitemasters to detect traffic from tor nodes, this is the only purpose of this feed
 
@@ -2619,7 +2619,7 @@ Those IPs are not guaranteed to be tor nodes, but they were seen as tor nodes wi
 | 2a02:898:169::2 | 6 | 1769101431 | 1793211194 | EU | NL | Amsterdam | 8283 | tor-exit.vrij-heid.nl |
 | 2a02:898:169::1 | 6 | 1769015035 | 1793211194 | EU | NL | Amsterdam | 8283 | tor-exit.vrij-heid.nl |
 | 2607:5300:203:97ea::3 | 6 | 1793211177 | 1793211177 | NA | CA |  | 16276 |  |
-| 2407:8b00:116d:e800::20 | 6 | 1793211162 | 1793211162 | OC | NZ | Wellington | 64073 |  |
+| 2407:8b00:116d:e800::20 | 6 | 1793211162 | 1793211162 | OC | NZ | Auckland | 64073 |  |
 | 167.88.175.160 | 4 | 1792778519 | 1793211081 | NA | US |  | 46261 | 160.175.88.167.static.cloudzy.com |
 | 138.226.243.224 | 4 | 1792778519 | 1793211081 | EU | NL | Haarlem |  | dedicated.sollutium.com |
 | 13.143.167.5 | 4 | 1791655329 | 1793211075 | NA | US |  |  |  |
